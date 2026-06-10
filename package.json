@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "download": "tsx scripts/01-download.ts",
+    "parse": "tsx scripts/02-parse.ts",
+    "export": "tsx scripts/03-export.ts"
   },
   "dependencies": {
     "next": "16.2.9",
@@ -20,7 +23,10 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.2.9",
+    "pdf-parse": "^2.4.5",
+    "playwright": "^1.60.0",
     "tailwindcss": "^4",
+    "tsx": "^4.22.4",
     "typescript": "^5"
   }
 }

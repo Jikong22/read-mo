@@ -7,14 +7,6 @@ export default function Nav() {
         <Link href="/" className="text-lg font-semibold tracking-tight text-zinc-900">
           Read:Mo
         </Link>
-        <div className="flex items-center gap-4">
-          <button className="rounded-full border border-zinc-300 px-4 py-1.5 text-sm text-zinc-700 transition-colors hover:border-zinc-400 hover:text-zinc-900">
-            로그인
-          </button>
-          <button className="text-sm text-zinc-500 transition-colors hover:text-zinc-800">
-            내 스크랩
-          </button>
-        </div>
       </div>
     </nav>
   );

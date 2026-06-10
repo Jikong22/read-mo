@@ -1,7 +1,10 @@
-import Link from "next/link";
 import { notFound } from "next/navigation";
 import { posts } from "@/data/posts";
+import { generatedPosts } from "@/data/generated-posts";
 import TranslationToggle from "@/components/translation-toggle";
+import BackButton from "@/components/back-button";
+
+const allPosts = [...posts, ...generatedPosts];
 
 interface Props {
   params: Promise<{ id: string }>;
@@ -9,22 +12,22 @@ interface Props {
 
 export default async function PostPage({ params }: Props) {
   const { id } = await params;
-  const post = posts.find((p) => p.id === id);
+  const post = allPosts.find((p) => p.id === id);
 
   if (!post) notFound();
 
   return (
     <main className="mx-auto w-full max-w-[42rem] px-6 py-16">
-        <Link
-          href="/"
-          className="mb-8 inline-flex items-center gap-1 text-sm text-zinc-400 transition-colors hover:text-zinc-700"
-        >
-          ← 뒤로가기
-        </Link>
+        <BackButton />
 
         <article>
           <header className="mb-10">
-            <div className="flex flex-wrap gap-2 mb-4">
+            <div className="flex flex-wrap items-center gap-2 mb-4">
+              {post.examInfo && (
+                <span className="rounded-md bg-zinc-200 px-2 py-0.5 text-xs font-medium text-zinc-600">
+                  {post.examInfo}
+                </span>
+              )}
               {post.tags.map((tag) => (
                 <span
                   key={tag}

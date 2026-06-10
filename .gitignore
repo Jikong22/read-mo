@@ -34,6 +34,12 @@ yarn-error.log*
 .env*
 !.env.example
 
+# downloaded PDFs
+/downloads/
+
+# misc screenshots
+search-result.png
+
 # vercel
 .vercel
 

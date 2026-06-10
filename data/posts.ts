@@ -6,6 +6,8 @@ export interface Post {
   translation: string[];
   tags: string[];
   readTime: string;
+  grade?: string;
+  examInfo?: string;
 }
 
 export const posts: Post[] = [
