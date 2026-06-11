@@ -9,16 +9,17 @@ export default function ScrapButton({ postId }: { postId: string }) {
   return (
     <button
       onClick={() => toggleScrap(postId)}
-      className={`inline-flex items-center gap-1.5 rounded-full px-4 py-2 text-sm font-semibold transition-all ${
+      className={`inline-flex items-center gap-1.5 rounded-full px-3 py-1.5 text-xs font-semibold transition-all md:px-4 md:py-2 md:text-sm ${
         scrapped
           ? "bg-[#3182f6] text-white shadow-sm shadow-[#3182f6]/20 hover:bg-[#1a6fd6]"
           : "bg-[#f8f9fa] text-[#4e5968] hover:bg-[#e8f3ff] hover:text-[#3182f6]"
       }`}
     >
       <svg
-        width="16"
-        height="16"
+        width="14"
+        height="14"
         viewBox="0 0 24 24"
+        className="md:w-4 md:h-4"
         fill={scrapped ? "currentColor" : "none"}
         stroke="currentColor"
         strokeWidth="2"
