@@ -1,5 +1,8 @@
 import Link from "next/link";
+import { posts } from "@/data/posts";
 import { generatedPosts } from "@/data/generated-posts";
+
+const allPosts = [...generatedPosts, ...posts];
 
 export default function Home() {
   return (
@@ -14,7 +17,7 @@ export default function Home() {
         </header>
 
         <div className="space-y-8">
-          {generatedPosts.map((post) => (
+          {allPosts.map((post) => (
             <Link
               key={post.id}
               href={`/post/${post.id}`}

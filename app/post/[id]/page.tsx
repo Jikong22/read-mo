@@ -3,6 +3,7 @@ import { posts } from "@/data/posts";
 import { generatedPosts } from "@/data/generated-posts";
 import TranslationToggle from "@/components/translation-toggle";
 import BackButton from "@/components/back-button";
+import ScrapButton from "@/components/scrap-button";
 
 const allPosts = [...posts, ...generatedPosts];
 
@@ -41,9 +42,10 @@ export default async function PostPage({ params }: Props) {
               {post.title}
             </h1>
             <p className="mt-3 text-zinc-500">{post.description}</p>
-            <span className="mt-4 inline-block text-sm text-zinc-400">
-              {post.readTime}
-            </span>
+            <div className="mt-4 flex items-center justify-between">
+              <span className="text-sm text-zinc-400">{post.readTime}</span>
+              <ScrapButton postId={post.id} />
+            </div>
           </header>
 
           <div className="font-serif text-[1.0625rem] leading-[1.8]">

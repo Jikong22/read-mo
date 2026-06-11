@@ -7,6 +7,12 @@ export default function Nav() {
         <Link href="/" className="text-lg font-semibold tracking-tight text-zinc-900">
           Read:Mo
         </Link>
+        <Link
+          href="/scrap"
+          className="text-sm font-medium text-zinc-500 transition-colors hover:text-zinc-900"
+        >
+          내 서재
+        </Link>
       </div>
     </nav>
   );

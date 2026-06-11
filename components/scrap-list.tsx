@@ -1,0 +1,83 @@
+"use client";
+
+import { useScrap } from "@/hooks/use-scrap";
+import { posts } from "@/data/posts";
+import { generatedPosts } from "@/data/generated-posts";
+import Link from "next/link";
+
+const allPosts = [...posts, ...generatedPosts];
+
+export default function ScrapList() {
+  const { scrapIds, toggleScrap, isScrapped } = useScrap();
+  const scrappedPosts = allPosts.filter((p) => scrapIds.includes(p.id));
+
+  if (scrapIds.length === 0) {
+    return (
+      <div className="py-20 text-center">
+        <p className="text-lg text-zinc-400">아직 스크랩한 지문이 없어요</p>
+        <Link
+          href="/"
+          className="mt-4 inline-block text-sm text-zinc-500 underline underline-offset-4 hover:text-zinc-900"
+        >
+          지문 둘러보기 →
+        </Link>
+      </div>
+    );
+  }
+
+  return (
+    <div className="space-y-6">
+      {scrappedPosts.map((post) => (
+        <div
+          key={post.id}
+          className="group flex items-start gap-6 rounded-2xl bg-white p-6 shadow-sm ring-1 ring-zinc-100"
+        >
+          <div className="flex-1 min-w-0">
+            <Link
+              href={`/post/${post.id}`}
+              className="block"
+            >
+              <div className="flex flex-wrap items-center gap-2 mb-2">
+                {post.examInfo && (
+                  <span className="rounded-md bg-zinc-100 px-2 py-0.5 text-xs font-medium text-zinc-500">
+                    {post.examInfo}
+                  </span>
+                )}
+                {post.tags.slice(0, 2).map((tag) => (
+                  <span
+                    key={tag}
+                    className="text-xs font-medium text-zinc-400"
+                  >
+                    {tag}
+                  </span>
+                ))}
+              </div>
+              <h3 className="font-semibold text-zinc-900 transition-colors group-hover:text-zinc-600">
+                {post.title}
+              </h3>
+              <p className="mt-1 text-sm leading-relaxed text-zinc-500 line-clamp-2">
+                {post.description}
+              </p>
+            </Link>
+          </div>
+          <button
+            onClick={() => toggleScrap(post.id)}
+            className="shrink-0 rounded-full p-1.5 text-zinc-300 transition-colors hover:text-red-400 cursor-pointer"
+            title="스크랩 취소"
+          >
+            <svg
+              width="18"
+              height="18"
+              viewBox="0 0 24 24"
+              fill={isScrapped(post.id) ? "currentColor" : "none"}
+              stroke="currentColor"
+              strokeWidth="2"
+            >
+              <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" />
+            </svg>
+          </button>
+        </div>
+      ))}
+    </div>
+  );
+}
