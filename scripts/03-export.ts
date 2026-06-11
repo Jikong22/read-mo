@@ -64,19 +64,15 @@ function cleanTranslation(raw: string): string {
 
 const JOSA_PREFIX = /^[을를은는이가의에에서로으로과와도만까지부터](?:\s|$)/;
 
-function koreanTitle(korean: string): string {
-  const cleaned = cleanTranslation(korean);
-  if (!/[가-힣]/.test(cleaned)) return "영어 지문";
-  // 문장 단위로 분할
-  const sentences = cleaned.split(/(?<=[.!?])\s+/);
+function englishTitle(english: string): string {
+  const sentences = english.split(/[.!?]\s+/);
   for (const s of sentences) {
     const t = s.trim().replace(/\s+/g, " ").trim();
-    if (JOSA_PREFIX.test(t)) continue; // 조사로 시작하는 잘린 문장 건너뛰기
-    if (t.length > 15 && /[가-힣]/.test(t)) {
-      return t.length > 40 ? t.substring(0, 38) + "…" : t;
+    if (t.length > 20) {
+      return t.replace(/[""''""]/g, "").substring(0, 60);
     }
   }
-  return cleaned.length > 40 ? cleaned.substring(0, 38) + "…" : cleaned;
+  return english.split(/\s+/).slice(0, 8).join(" ") + "…";
 }
 
 function koreanDescription(korean: string): string {
@@ -206,12 +202,12 @@ function main() {
     const cleanedKorean = cleanTranslation(p.korean);
     const translation = cleanedKorean ? [cleanedKorean] : [""];
 
-    const id = p.exam.replace(/[/\\]/g, "_") + `_q${p.questionNo}`;
+    const baseId = p.exam.replace(/[/\\]/g, "_") + "_q" + p.questionNo;
     const { grade, examInfo } = parseExamInfo(p.exam);
 
     return {
-      id,
-      title: koreanTitle(p.korean),
+      id: baseId,
+      title: englishTitle(p.english),
       description: koreanDescription(p.korean),
       content,
       translation,
@@ -221,6 +217,20 @@ function main() {
       examInfo,
     };
   });
+
+  // 중복 ID 처리: 같은 ID가 2개면 첫 번째는 그대로, 두 번째부터 _2, _3 접미사
+  const idCount = new Map<string, number>();
+  for (const p of posts) {
+    idCount.set(p.id, (idCount.get(p.id) || 0) + 1);
+  }
+  const seen = new Map<string, number>();
+  for (const p of posts) {
+    const count = seen.get(p.id) || 0;
+    seen.set(p.id, count + 1);
+    if ((idCount.get(p.id) || 1) > 1 && count > 0) {
+      p.id = p.id + "_" + (count + 1);
+    }
+  }
 
   const tsContent = `import type { Post } from "@/data/posts";
 

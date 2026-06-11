@@ -3,7 +3,7 @@ import type { Post } from "@/data/posts";
 export const generatedPosts: Post[] = [
   {
     "id": "high1_2021_09_q20",
-    "title": "그것(논점) 전체에 물음표를 달기 위해 노력해라.",
+    "title": "As you set about to write, it is worth reminding yourself th",
     "description": "그것(논점) 전체에 물음표를 달기 위해 노력해라. 이런 방식으로 당신은 독자들이 당신의 요점과 당신이 하는 주장들에 대해 스스로 생각할 수 …",
     "content": [
       "As you set about to write, it is worth reminding yourself\nthat while you ought to have a point of view, you should\navoid telling your readers what to think. Try to hang a\nquestion mark over it all. This way you allow your readers to\nthink for themselves about the points and arguments you’re\nmaking. As a result, they will feel more involved, finding\nthemselves just as committed to the arguments you’ve made\nand the insights you’ve exposed as you are. You will have\nwritten an essay that not only avoids passivity in the reader,\nbut is interesting and gets people to think."
@@ -20,7 +20,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2021_09_q21",
-    "title": "인류학자 Mary Douglas는 더러운 것은 “제자리에 놓여있지 않…",
+    "title": "Nothing is trash by nature",
     "description": "인류학자 Mary Douglas는 더러운 것은 “제자리에 놓여있지 않은 물체”라는 흔히 하는 말을 소환하 여 해석했다.",
     "content": [
       "Nothing is trash by nature. Anthropologist Mary Douglas\nbrings back and analyzes the common saying that dirt is\n“matter out of place.” Dirt is relative, she emphasizes.\n“Shoes are not dirty in themselves, but it is dirty to place\nthem on the diningtable; food is not dirty in itself, but it\nis dirty to leave pots and pans in the bedroom, or food all\nover clothing; similarly, bathroom items in the living room;\nclothing lying on chairs; outdoor things placed indoors;\nupstairs things downstairs, and so on.” Sorting the dirty\nfrom the clean ― removing the shoes from the table,\nputting the dirty clothing in the washing machine ― involves\nsystematic ordering and classifying. Eliminating dirt is thus\na positive process."
@@ -37,7 +37,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2021_09_q22",
-    "title": "해 싸우는 것도 중요하지만, 자신의 생각을 위해 싸우는 것을 중단하고…",
+    "title": "It’s important that you think independently and fight for wh",
     "description": "해 싸우는 것도 중요하지만, 자신의 생각을 위해 싸우는 것을 중단하고 신뢰할 수 있는 집단이 가 장 좋다고 생각하는 것을 받아들이는 쪽으로 …",
     "content": [
       "It’s important that you think independently and fight for\nwhat you believe in, but there comes a time when it’s\nwiser to stop fighting for your view and move on to\naccepting what a trustworthy group of people think is best.\nThis can be extremely difficult. But it’s smarter, and\nultimately better for you to be openminded and have faith\nthat the conclusions of a trustworthy group of people are\nbetter than whatever you think. If you can’t understand\ntheir view, you’re probably just blind to their way of\nthinking. If you continue doing what you think is best when\nall the evidence and trustworthy people are against you,\nyou’re being dangerously confident. The truth is that while\nmost people can become incredibly openminded, some\ncan’t, even after they have repeatedly encountered lots of\npain from betting that they were right when they were not."
@@ -55,7 +55,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2021_09_q23",
-    "title": "금류, 생선에 반대함에 따라 주류가 되어가고 있 다.",
+    "title": "Vegetarian eating is moving into the mainstream as more and ",
     "description": "금류, 생선에 반대함에 따라 주류가 되어가고 있 다. American Dietetic Association에 따르면, 대 략적으로 계획된 채…",
     "content": [
       "Vegetarian eating is moving into the mainstream as more and\nmore young adults say no to meat, poultry, and fish. According\nto the American Dietetic Association, “approximately planned\nvegetarian diets are healthful, are nutritionally adequate, and\nprovide health benefits in the prevention and treatment of\ncertain diseases.” But health concerns are not the only reason\nthat young adults give for changing their diets. Some make the\nchoice out of concern for animal rights. When faced with the\nstatistics that show the majority of animals raised as food live\nin confinement, many teens give up meat to protest those\nconditions. Others turn to vegetarianism to support the\nenvironment. Meat production uses vast amounts of water, land,\ngrain, and energy and creates problems with animal waste and\nresulting pollution."
@@ -73,7 +73,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2021_09_q24",
-    "title": "대부분의 사람들은 갈 등은 나쁜 것이고 “편안한 구역”에 머무는 것이…",
+    "title": "Diversity, challenge, and conflict help us maintain our imag",
     "description": "상력을 유지하게 도와준다. 대부분의 사람들은 갈 등은 나쁜 것이고 “편안한 구역”에 머무는 것이 좋은 것이라고 단정한다.",
     "content": [
       "Diversity, challenge, and conflict help us maintain our\nimagination. Most people assume that conflict is bad and\nthat being in one’s “comfort zone” is good. That is not\nexactly true. Of course, we don’t want to find ourselves\nwithout a job or medical insurance or in a fight with our\npartner, family, boss, or coworkers. One bad experience can\nbe sufficient to last us a lifetime. But small disagreements\nwith family and friends, trouble with technology or finances,\nor challenges at work and at home can help us think\nthrough our own capabilities. Problems that need solutions\nforce us to use our brains in order to develop creative\nanswers. Navigating landscapes that are varied, that offer\ntrials and occasional conflicts, is more helpful to creativity\nthan hanging out in landscapes that pose no challenge to our\nsenses and our minds. Our two millionyear history is\npacked with challenges and conflicts.\nTechnology: A Lens to the Future\nDiversity: A Key to Social Unification\nSimple Ways to Avoid Conflicts with Others\nCreativity Doesn’t Come from Playing It Safe\nThere Are No Challenges That Can’t Be Overcome\n-- 3 of 8 --"
@@ -94,7 +94,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2021_09_q29",
-    "title": "물품이 팔리기 마련이라고 주장한다.",
+    "title": "An economic theory of Say’s Law holds that everything that’s",
     "description": "물품이 팔리기 마련이라고 주장한다. 모든 생산된 물품으로부터 나오는 돈은 다른 물품을 사는 데 사용된다. 한 회사가 물품을 팔 수 없게 되어…",
     "content": [
       "An economic theory of Say’s Law holds that everything\nthat’s made will get sold. The money from anything that’s\nproduced is used to buy something else. There can\nnever be a situation which a firm finds that it can’t\nsell its goods and so has to dismiss workers and close\nits factories. Therefore, recessions and unemployment are\nimpossible. Picture the level of spending like the level of\nwater in a bath. Say’s Law applies because people use\nall their earnings to buy things. But what happens if\npeople don’t spend all their money, saving some of it\ninstead? Savings are a ‘leakage’ of spending from the\neconomy. You’re probably imagining the water level now\nfalling, so there’s less spending in the economy. That\nwould mean firms producing less and dismissing some\nof their workers."
@@ -112,7 +112,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2021_09_q30",
-    "title": "회적 교류를 발전시켰는지를 설명할 수 있다.",
+    "title": "Hunting can explain how humans developed reciprocal altruism",
     "description": "회적 교류를 발전시켰는지를 설명할 수 있다. 인 간은 영장류 중에서 몇 년, 수십 년, 혹은 평생 지속될 수 있는 광범위한 상호 관계를 보여…",
     "content": [
       "Hunting can explain how humans developed\nreciprocal\naltruism and\nsocial exchange. Humans seem to be unique\namong primates in showing extensive reciprocal relationships\nthat can last years, decades, or a lifetime. Meat from a\nlarge game animal comes in quantities that exceed what a\nsingle hunter and his immediate family could possibly\nconsume. Furthermore, hunting success is highly variable;\na hunter who is successful one week might fail the next.\nThese conditions encourage food sharing from hunting.\nThe costs to a hunter of giving away meat he cannot eat\nimmediately are high because he cannot consume all the\nmeat himself and leftovers will soon spoil. The benefits can\nbe large, however, when those who are given his food\nreturn the generous favor later on when he has failed to get\nfood for himself. In essence, hunters can store extra\nmeat in the bodies of their friends and neighbors."
@@ -130,7 +130,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2021_09_q31",
-    "title": "최근까지, 자전거는 최고급이라 고 여겨지기 위해서는 보통 15개 혹은…",
+    "title": "Sometimes it is the that gives a business a competitive adva",
     "description": "단순한 제품이다. 최근까지, 자전거는 최고급이라 고 여겨지기 위해서는 보통 15개 혹은 20개의 많 은 기어를 가져야 했다.",
     "content": [
       "Sometimes it is the that gives\na business a competitive advantage. Until recently, bicycles\nhad to have many gears, often 15 or 20, for them to be\nconsidered highend. But fixedgear bikes with minimal\nfeatures have become more popular, as those who buy them\nare happy to pay more for much less. The overall\nprofitability of these bikes is much higher than the more\ncomplex ones because they do a single thing really well\nwithout the cost of added complexity. Companies should be\ncareful of getting into a war over adding more features with\ntheir competitors, as this will increase cost and almost\ncertainly reduce profitability because of competitive pressure\non price."
@@ -148,7 +148,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2021_09_q32",
-    "title": "이유로 언어를 발달시켰다고 주장한다.",
+    "title": "Many evolutionary biologists argue that humans",
     "description": "이유로 언어를 발달시켰다고 주장한다. 우리는 거 래해야했고, 거래하기 위해서는 신뢰를 확립해야 했다. 언어는 당신이 누군가와 거래할 때 매우…",
     "content": [
       "Many evolutionary biologists argue that humans\n. We needed to\ntrade, and we needed to establish trust in order to trade.\nLanguage is very handy when you are trying to conduct\nbusiness with someone. Two early humans could not only\nagree to trade three wooden bowls for six bunches of\nbananas but establish rules as well. What wood was used\nfor the bowls? Where did you get the bananas? That\nbusiness deal would have been nearly impossible using\nonly gestures and confusing noises, and carrying it out\naccording to terms agreed upon creates a bond of trust.\nLanguage allows us to be specific, and this is where\nconversation plays a key role.\nused body language to communicate\ninstinctively knew who to depend on\noften changed rules for their own needs\nlived independently for their own survival\ndeveloped language for economic reasons\n-- 5 of 8 --"
@@ -166,7 +166,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2021_09_q33",
-    "title": "점은 마술사들이 그들의 실수를 관중에게 숨기는 반면, 과학에서는 공공…",
+    "title": "One big difference between science and stage magic is that w",
     "description": "점은 마술사들이 그들의 실수를 관중에게 숨기는 반면, 과학에서는 공공연히 실수를 한다는 것이다. 당신은 모두가 실수로부터 배울 수 있도록 실…",
     "content": [
       "One big difference between science and stage magic is\nthat while magicians hide their mistakes from the audience,\nin science you make your mistakes in public. You show them\noff so that everybody can learn from them. This way, you\nget the advantage of everybody else’s experience, and not\njust your own idiosyncratic path through the space of\nmistakes. This, by the way, is another reason why we\nhumans are so much smarter than every other species. It is\nnot that our brains are bigger or more powerful, or even that\nwe have the ability to reflect on our own past errors, but\nthat we that our individual brains\nhave earned from their individual histories of trial and error."
@@ -185,7 +185,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2021_09_q34",
-    "title": "만약 우리가 무언가에 관해서 듣는 것보다 스스로 발견한다면 우리는 그…",
+    "title": "The last two decades of research on the science of learning ",
     "description": "만약 우리가 무언가에 관해서 듣는 것보다 스스로 발견한다면 우리는 그것들을 더 잘 기억하고, 더 오래 기억한다는 것을 결론적으로 보여주었다.",
     "content": [
       "The last two decades of research on the science of learning\nhave shown conclusively that we remember things better, and\nlonger, if .\nThis is the teaching method practiced by physics professor\nEric Mazur. He doesn’t lecture in his classes at Harvard.\nInstead, he asks students difficult questions, based on their\nhomework reading, that require them to pull together\nsources of information to solve a problem. Mazur doesn’t\ngive them the answer; instead, he asks the students to\nbreak off into small groups and discuss the problem among\nthemselves. Eventually, nearly everyone in the class gets\nthe answer right, and the concepts stick with them because\nthey had to find their own way to the answer. [3점]\nthey are taught repeatedly in class\nwe fully focus on them without any distractions\nequal opportunities are given to complete tasks\nthere’s no right or wrong way to learn about a topic\nwe discover them ourselves rather than being told them"
@@ -203,7 +203,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2021_09_q35",
-    "title": "끝날 때까지 끝나지 않은 과업을 상기시켜주는 잠 재적인 마음의 경향을…",
+    "title": "The Zeigarnik effect is commonly referred to as the tendency",
     "description": "끝날 때까지 끝나지 않은 과업을 상기시켜주는 잠 재적인 마음의 경향을 의미한다. Bluma Zeigarnik 는 1920년대에 과업을 완성하…",
     "content": [
       "The Zeigarnik effect is commonly referred to as the\ntendency of the subconscious mind to remind you of a task\nthat is incomplete until that task is complete. Bluma Zeigarnik\nwas a Lithuanian psychologist who wrote in the 1920s about\nthe effects of leaving tasks incomplete. She noticed the\neffect while watching waiters serve in a restaurant. The\nwaiters would remember an order, however complicated, until\nthe order was complete, but they would later find it difficult\nto remember the order. Zeigarnik did further studies giving\nboth adults and children puzzles to complete then interrupting\nthem during some of the tasks. They developed cooperation\nskills after finishing tasks by putting the puzzles together. The\nresults showed that both adults and children remembered the\ntasks that hadn’t been completed because of the interruptions\nbetter than the ones that had been completed."
@@ -221,7 +221,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2021_09_q36",
-    "title": "“나는 당신을 내 가 대접받고 싶은 방식대로 대접합니다.” 이 법칙은…",
+    "title": "Understanding how to develop respect for and a knowledge of ",
     "description": "“나는 당신을 내 가 대접받고 싶은 방식대로 대접합니다.” 이 법칙은 어느 수준에서는 말이 된다. 만약 우리가 다른 사람들을 대접받고 싶은 …",
     "content": [
       "Understanding how to develop respect for and a\nknowledge of other cultures begins with reexamining the\ngolden rule: “I treat others in the way I want to be treated.”\n(A) It can also create a frustrating situation where we\nbelieve we are doing what is right, but what we are\ndoing is not being interpreted in the way in which it was\nmeant. This miscommunication can lead to problems.\n(B) In a multicultural setting, however, where words, gestures,\nbeliefs, and views may have different meanings, this rule\nhas an unintended result; it can send a message that my\nculture is better than yours.\n(C) This rule makes sense on some level; if we treat\nothers as well as we want to be treated, we will be\ntreated well in return. This rule works well in a\nmonocultural setting, where everyone is working within\nthe same cultural framework. [3점]\n(A) - (C) - (B) (B) - (A) - (C)\n(B) - (C) - (A) (C) - (A) - (B)\n(C) - (B) - (A)\n-- 6 of 8 --"
@@ -238,7 +238,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2021_09_q37",
-    "title": "그것이 어떻게 보일지에 대한 그들의 이해를 돕기 위해, 그 자원봉사자…",
+    "title": "In a study, a researcher pretending to be a volunteer survey",
     "description": "그것이 어떻게 보일지에 대한 그들의 이해를 돕기 위해, 그 자원봉사자는 참여자들에게 아름다운 집의 전 망을 막는 큰 표지판 사진을 보여주었다.",
     "content": [
       "In a study, a researcher pretending to be a volunteer\nsurveyed a California neighborhood, asking residents if\nthey would allow a large sign reading ‘‘Drive Carefully’’ to\nbe displayed on their front lawns.\n(A) The reason that they agreed was this: two weeks\nearlier, these residents had been asked by another\nvolunteer to make a small commitment to display a tiny\nsign that read ‘‘Be a Safe Driver’’ in their windows.\n(B) Since it was such a small and simple request, nearly all of\nthem agreed. The astonishing result was that the initial\nsmall commitment deeply influenced their willingness to\naccept the much larger request two weeks later.\n(C) To help them understand what it would look like, the\nvolunteer showed his participants a picture of the large\nsign blocking the view of a beautiful house. Naturally,\nmost people refused, but in one particular group, an\nincredible 76 percent actually approved. [3점]\n(A) - (C) - (B) (B) - (A) - (C)\n(B) - (C) - (A) (C) - (A) - (B)\n(C) - (B) - (A)"
@@ -256,7 +256,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2021_09_q38",
-    "title": "통제와 함께 사용할 때 효과적이라는 것을 일관적 으로 보여주었다.",
+    "title": "However, using caffeine to improve alertness and mental perf",
     "description": "통제와 함께 사용할 때 효과적이라는 것을 일관적 으로 보여주었다. 또한 카페인 섭취와 하루 종일 각성된 상태로 있는 것 사이에는 양의 상관관…",
     "content": [
       "However, using caffeine to improve alertness and mental\nperformance doesn’t replace getting a good night’s sleep.\nStudies have consistently shown caffeine to be effective\nwhen used together with a pain reliever to treat headaches.\n( ) The positive correlation between caffeine intake and\nstaying alert throughout the day has also been well\nestablished. ( ) As little as 60 mg (the amount typically in\none cup of tea) can lead to a faster reaction time. ( ) One\nstudy from 2018 showed that coffee improved reaction times\nin those with or without poor sleep, but caffeine seemed to\nincrease errors in the group with little sleep. ( )\nAdditionally, this study showed that even with caffeine, the\ngroup with little sleep did not score as well as those with\nadequate sleep. ( ) It suggests that caffeine does not fully\nmake up for inadequate sleep."
@@ -273,7 +273,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2021_09_q39",
-    "title": "방식으로 되어야 하는 것은 아니다.",
+    "title": "The sales director kept an air horn outside his office and w",
     "description": "방식으로 되어야 하는 것은 아니다. 내가 예전에 근무한 한 소프트웨어 회사는 판매 성공을 인정해 주는 멋진 방법을 가지고 있었다.",
     "content": [
       "The sales director kept an air horn outside his office and\nwould come out and blow the horn every time a\nsalesperson settled a deal.\nRewarding business success doesn’t always have to be done\nin a material way. ( ) A software company I once worked\nfor had a great way of recognizing sales success. ( ) The\nnoise, of course, interrupted anything and everything happening\nin the office because it was unbelievably loud. ( ) However,\nit had an amazingly positive impact on everyone. ( )\nSometimes rewarding success can be as easy as that, especially\nwhen peer recognition is important. ( ) You should have\nseen the way the rest of the sales team wanted the air horn\nblown for them."
@@ -290,7 +290,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2021_09_q40",
-    "title": "그 집에 사는 사람이 자기밖에 없다는 것을 알았기 때문에, 그는 자신…",
+    "title": "Nancy Lowry and David Johnson conducted an experiment to stu",
     "description": "다. 그 집에 사는 사람이 자기밖에 없다는 것을 알았기 때문에, 그는 자신의 집에 도둑이 드는 상 황에 항상 대비하고 있었다.",
     "content": [
       "Nancy Lowry and David Johnson conducted an\nexperiment to study a teaching environment where fifth\nand sixth graders were assigned to interact on a topic.\nWith one group, the discussion was led in a way that\nbuilt an agreement. With the second group, the discussion\nwas designed to produce disagreements about the right\nanswer. Students who easily reached an agreement were\nless interested in the topic, studied less, and were less\nlikely to visit the library to get additional information.\nThe most noticeable difference, though, was revealed\nwhen teachers showed a special film about the discussion\ntopic — during lunch time! Only 18 percent of the\nagreement group missed lunch time to see the film, but\n45 percent of the students from the disagreement group\nstayed for the film. The thirst to fill a knowledge gap —\nto find out who was right within the group — can be more\npowerful than the thirst for slides and jungle gyms.\n\nAccording to the experiment above, students’ interest in a\ntopic (A) when they are encouraged to (B) .\nincreases …… differ\nincreases …… approve\nincreases …… cooperate\ndecreases …… participate\ndecreases …… argue\n-- 7 of 8 --"
@@ -309,7 +309,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2022_11_q20",
-    "title": "제품을 팔 수 있도록 여러분의 블로그를 시작하려는 참이다.",
+    "title": "You already have a business and you’re about to launch your ",
     "description": "제품을 팔 수 있도록 여러분의 블로그를 시작하려는 참이다. 유감스럽게도, 여기가 ‘비즈니스 정신’이 나쁜 것이 될 수 있는 지점이다.",
     "content": [
       "You already have a business and you’re about to launch your\nblog so that you can sell your product. Unfortunately, here is\nwhere a ‘business mind’ can be a bad thing. Most people believe\nthat to have a successful business blog promoting a product,\nthey have to stay strictly ‘on the topic.’ If all you’re doing is\nshamelessly promoting your product, then who is going to want\nto read the latest thing you’re writing about? Instead, you need\nto give some useful or entertaining information away for free so\nthat people have a reason to keep coming back. Only by doing\nthis can you create an interested audience that you will then be\nable to sell to. So, the best way to be successful with a\nbusiness blog is to write about things that your audience will be\ninterested in."
@@ -326,7 +326,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2022_11_q21",
-    "title": "이것을 잘 드러내는 다음과 같은 문구들을 생각해 보라.",
+    "title": "Our language helps to reveal our deeper assumptions",
     "description": "내는 것을 돕는다. 이것을 잘 드러내는 다음과 같은 문구들을 생각해 보라. 우리가 중요한 무언가를 성취 할 때, 우리는 그것이 ‘피, 땀, …",
     "content": [
       "Our language helps to reveal our deeper assumptions. Think\nof these revealing phrases: When we accomplish something\nimportant, we say it took “blood, sweat, and tears.” We say\nimportant achievements are “hard-earned.” We recommend a\n“hard day’s work” when “day’s work” would be enough. When we\ntalk of “easy money,” we are implying it was obtained through\nillegal or questionable means. We use the phrase “That’s easy\nfor you to say” as a criticism, usually when we are seeking to\ninvalidate someone’s opinion. It’s like we all automatically\naccept that the “right” way is, inevitably, the harder one. In my\nexperience this is hardly ever questioned. What would happen if\nyou do challenge this sacred cow? We don’t even pause to\nconsider that something important and valuable could be made\neasy. What if the biggest thing keeping us from doing what\nmatters is the false assumption that it has to take huge effort?"
@@ -343,7 +343,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2022_11_q22",
-    "title": "고 하지만, 무섭고 위협적인 뉴스에 관한 한, 연구는 정반대를 시사한다.",
+    "title": "The old saying is that “knowledge is power,” but when it com",
     "description": "고 하지만, 무섭고 위협적인 뉴스에 관한 한, 연구는 정반대를 시사한다. 두려움을 주는 뉴스는 실제로 사 람들로부터 내면의 통제력을 빼앗을 …",
     "content": [
       "The old saying is that “knowledge is power,” but when it\ncomes to scary, threatening news, research suggests the exact\nopposite. Frightening news can actually rob people of their inner\nsense of control, making them less likely to take care of\nthemselves and other people. Public health research shows that\nwhen the news presents health-related information in a\npessimistic way, people are actually less likely to take steps to\nprotect themselves from illness as a result. A news article\nthat’s intended to warn people about increasing cancer rates, for\nexample, can result in fewer people choosing to get screened\nfor the disease because they’re so terrified of what they might\nfind. This is also true for issues such as climate change. When a\nnews story is all doom and gloom, people feel depressed and\nbecome less interested in taking small, personal steps to fight\necological collapse."
@@ -363,7 +363,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2022_11_q23",
-    "title": "믿을 수 없는 결과는 그것들이 합쳐서 일종의 타임 머신이라는 것이고,…",
+    "title": "The most remarkable and unbelievable consequence of melting ",
     "description": "믿을 수 없는 결과는 그것들이 합쳐서 일종의 타임 머신이라는 것이고, 이것은 너무나 현실적이어서 그 것들이 우리 하루의 기간을 바꾸고 있다.",
     "content": [
       "The most remarkable and unbelievable consequence of\nmelting ice and rising seas is that together they are a kind of\ntime machine, so real that they are altering the duration of our\nday. It works like this: As the glaciers melt and the seas rise,\ngravity forces more water toward the equator. This changes the\nshape of the Earth ever so slightly, making it fatter around the\nmiddle, which in turns slows the rotation of the planet similarly\nto the way a ballet dancer slows her spin by spreading out her\narms. The slowdown isn’t much, just a few thousandths of a\nsecond each year, but like the barely noticeable jump of rising\nseas every year, it adds up. When dinosaurs lived on the Earth,\na day lasted only about twenty-three hours.\ncause of rising temperatures on the Earth\nprinciples of planets maintaining their shapes\nimplications of melting ice on marine biodiversity\nway to keep track of time without using any device\nimpact of melting ice and rising seas on the length of a day"
@@ -381,7 +381,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2022_11_q24",
-    "title": "여러분은 아마도 “그 사람은 기회조 차 주지 않았어.",
+    "title": "Have you ever brought up an idea or suggestion to someone an",
     "description": "여러분은 아마도 “그 사람은 기회조 차 주지 않았어. 어떻게 그들은 그것이 안 될 것이라 는 것을 알지?”라고 생각했을 것이다.",
     "content": [
       "Have you ever brought up an idea or suggestion to someone\nand heard them immediately say “No, that won’t work.”? You\nmay have thought, “He/she didn’t even give it a chance. How do\nthey know it won’t work?” When you are right about something,\nyou close off the possibility of another viewpoint or\nopportunity. Being right about something means that “it is the\nway it is, period.” You may be correct. Your particular way of\nseeing it may be true with the facts. However, considering the\nother option or the other person’s point of view can be\nbeneficial. If you see their side, you will see something new or,\nat worse, learn something about how the other person looks at\nlife. Why would you think everyone sees and experiences life\nthe way you do? Besides how boring that would be, it would\neliminate all new opportunities, ideas, invention, and creativity.\nThe Value of Being Honest\nFilter Out Negative Points of View\nKeeping Your Word: A Road to Success\nBeing Right Can Block New Possibilities\nLook Back When Everyone Looks Forward\n-- 3 of 8 --"
@@ -399,7 +399,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2022_11_q29",
-    "title": "수 있는 몇 가지 일에 대한 헤드라인들을 뉴스에서 본 적이 있을 것이다.",
+    "title": "You may have seen headlines in the news about some of the th",
     "description": "수 있는 몇 가지 일에 대한 헤드라인들을 뉴스에서 본 적이 있을 것이다. 하지만, AI로 구동되는 기계가 실제로 수행할 수 있는 모든 작업을…",
     "content": [
       "You may have seen headlines in the news about some of the\nthings machines powered by artificial intelligence can do.\nHowever, if you were to consider all the tasks that AI-powered\nmachines could actually perform, it would be quite mind-blowing!\nOne of the key features of artificial intelligence is that it\nenables machines to learn new things, rather than requiring\nprogramming specific to new tasks. Therefore, the core\ndifference between computers of the future and those of the\npast is that future computers will be able to learn and self-improve.\nIn the near future, smart virtual assistants will know more about\nyou than your closest friends and family members are. Can you\nimagine how that might change our lives? These kinds of changes\nare exactly why it is so important to recognize the implications\nthat new technologies will have for our world."
@@ -416,7 +416,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2022_11_q30",
-    "title": "발견되는 옥신이라고 불리는 호르몬 그룹에 의해 조 절된다.",
+    "title": "Plant growth is controlled by a group of hormones called aux",
     "description": "발견되는 옥신이라고 불리는 호르몬 그룹에 의해 조 절된다. 줄기의 끝에서 생산된 옥신은 그늘진 곳에 있는 줄기의 옆면에 축적되는 경향이 있다.",
     "content": [
       "Plant growth is controlled by a group of hormones called auxins\nfound at the tips of stems and roots of plants. Auxins produced at\nthe tips of stems tend to accumulate on the side of the stem that\nis in the shade. Accordingly, the auxins stimulate growth on\nthe shaded side of the plant. Therefore, the shaded side grows\nfaster than the side facing the sunlight. This phenomenon causes\nthe stem to bend and appear to be growing towards the light.\nAuxins have the opposite effect on the roots of plants. Auxins\nin the tips of roots tend to limit growth. If a root is horizontal in\nthe soil, the auxins will accumulate on the lower side and\ninterfere with its development. Therefore, the lower side of the\nroot will grow faster than the upper side. This will, in turn,\ncause the root to bend downwards, with the tip of the root\ngrowing in that direction."
@@ -433,7 +433,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2022_11_q31",
-    "title": "설명하기 위해, 심리학 및 행동경제학 교수인 Dan Ariely는 M…",
+    "title": "To demonstrate how best to defeat the habit of delaying, Dan",
     "description": "설명하기 위해, 심리학 및 행동경제학 교수인 Dan Ariely는 MIT의 자신의 수업 중 세 개에서 학생들을 대상으로 실험을 수행했다.",
     "content": [
       "To demonstrate how best to defeat the habit of delaying,\nDan Ariely, a professor of psychology and behavioral\neconomics, performed an experiment on students in three of\nhis classes at MIT. He assigned all classes three reports over\nthe course of the semester. The first class had to choose\nthree due dates for themselves, up to and including the last\nday of class. The second had no deadlines — all three papers\njust had to be submitted by the last day of class. In his third\nclass, he gave students three set deadlines over the course of\nthe semester. At the end of the semester, he found that\nstudents with set deadlines received the best grades, the\nstudents with no deadlines had the worst, and those who could\nchoose their own deadlines fell somewhere in the middle.\nAriely concludes that — whether\nby the professor or by students who recognize their own\ntendencies to delay things — improves self-control and\nperformance."
@@ -451,7 +451,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2022_11_q32",
-    "title": "람들이 서로를 위해 일할 수 있도록 함으로써이다.",
+    "title": "The best way in which innovation changes our lives is by",
     "description": "람들이 서로를 위해 일할 수 있도록 함으로써이다. 인류 역사의 주요한 주제는 우리가 생산하는 데 꾸 준히 더 전문화되고 소비하는 데 꾸준히 …",
     "content": [
       "The best way in which innovation changes our lives is by\n. The main theme\nof human history is that we become steadily more specialized\nin what we produce, and steadily more diversified in what we\nconsume: we move away from unstable self-sufficiency to\nsafer mutual interdependence. By concentrating on serving\nother people’s needs for forty hours a week — which we call a\njob — you can spend the other seventy-two hours (not\ncounting fifty-six hours in bed) relying on the services\nprovided to you by other people. Innovation has made it\npossible to work for a fraction of a second in order to be able\nto afford to turn on an electric lamp for an hour, providing the\nquantity of light that would have required a whole day’s work\nif you had to make it yourself by collecting and refining\nsesame oil or lamb fat to burn in a simple lamp, as much of\nhumanity did in the not so distant past. [3점]"
@@ -468,7 +468,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2022_11_q33",
-    "title": "적이 있다면, 여러분은 그 습관을 깨는 방법을 배우 는 데 관심이 있…",
+    "title": "If you’ve ever made a poor choice, you might be interested i",
     "description": "적이 있다면, 여러분은 그 습관을 깨는 방법을 배우 는 데 관심이 있을지도 모른다. 그렇게 하도록 여러 분의 뇌를 속이는 한 가지 좋은 방법…",
     "content": [
       "If you’ve ever made a poor choice, you might be\ninterested in learning how to break that habit. One great way\nto trick your brain into doing so is to sign a “Ulysses\nContract.” The name of this life tip comes from the Greek\nmyth about Ulysses, a captain whose ship sailed past the\nisland of the Sirens, a tribe of dangerous women who lured\nvictims to their death with their irresistible songs. Knowing\nthat he would otherwise be unable to resist, Ulysses\ninstructed his crew to stuff their ears with cotton and tie him\nto the ship’s mast to prevent him from turning their ship\ntowards the Sirens. It worked for him and you can do the\nsame thing by .\nFor example, if you want to stay off your cellphone and\nconcentrate on your work, delete the apps that distract you or\nask a friend to change your password!"
@@ -485,7 +485,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2022_11_q34",
-    "title": "곳이며, 실내 환경에 적응된 종들을 수용하고 새로운 방향으로 진화를 …",
+    "title": "Our homes aren’t just ecosystems, they’re unique ones, hosti",
     "description": "곳이며, 실내 환경에 적응된 종들을 수용하고 새로운 방향으로 진화를 밀어붙인다. 실내 미생물, 곤충, 그 리고 쥐들은 모두 항균제, 살충제,…",
     "content": [
       "Our homes aren’t just ecosystems, they’re unique ones,\nhosting species that are adapted to indoor environments and\npushing evolution in new directions. Indoor microbes, insects,\nand rats have all evolved the ability to survive our chemical\nattacks, developing resistance to antibacterials, insecticides,\nand poisons. German cockroaches are known to have\ndeveloped a distaste for glucose, which is commonly used as\nbait in roach traps. Some indoor insects, which have fewer\nopportunities to feed than their outdoor counterparts, seem to\nhave developed the ability to survive when food is limited.\nDunn and other ecologists have suggested that as the planet\nbecomes more developed and more urban, more species will\n. Over a\nlong enough time period, indoor living could drive our\nevolution, too. Perhaps my indoorsy self represents the future\nof humanity. [3점]"
@@ -503,7 +503,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2022_11_q35",
-    "title": "적인 능력과 전문적인 능력 모두에서 한 개인으로서 의 여러분에게 많은…",
+    "title": "Developing a personal engagement with poetry brings a number",
     "description": "적인 능력과 전문적인 능력 모두에서 한 개인으로서 의 여러분에게 많은 이점을 가져다 준다. 표현적 글 쓰기가 면역 체계와 폐 기능을 향상시키…",
     "content": [
       "Developing a personal engagement with poetry brings a\nnumber of benefits to you as an individual, in both a personal\nand a professional capacity. Writing poetry has been shown\nto have physical and mental benefits, with expressive writing\nfound to improve immune system and lung function, diminish\npsychological distress, and enhance relationships. Poetry has\nlong been used to aid different mental health needs, develop\nempathy, and reconsider our relationship with both natural and\nbuilt environments. Poetry is also an incredibly effective way\nof actively targeting the cognitive development period,\nimproving your productivity and scientific creativity in the\nprocess. Poetry is considered to be an easy and useful means\nof expressing emotions, but you fall into frustration when you\nrealize its complexity. In short, poetry has a lot to offer, if\nyou give it the opportunity to do so."
@@ -521,7 +521,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2022_11_q36",
-    "title": "42퍼센트가 위기에 처해 있고, 미국의 일자리 중 62 퍼센트가 자동…",
+    "title": "It has been reported that 42 percent of jobs in Canada are a",
     "description": "42퍼센트가 위기에 처해 있고, 미국의 일자리 중 62 퍼센트가 자동화의 발전으로 인해 위기에 처할 것이 라고 보도되어 왔다.",
     "content": [
       "Things are changing. It has been reported that 42 percent\nof jobs in Canada are at risk, and 62 percent of jobs in\nAmerica will be in danger due to advances in automation.\n(A) However, what’s difficult to automate is the ability to\ncreatively solve problems. Whereas workers in “doing”\nroles can be replaced by robots, the role of creatively\nsolving problems is more dependent on an irreplaceable\nindividual.\n(B) You might say that the numbers seem a bit unrealistic, but\nthe threat is real. One fast food franchise has a robot that\ncan flip a burger in ten seconds. It is just a simple task but\nthe robot could replace an entire crew.\n(C) Highly skilled jobs are also at risk. A supercomputer, for\ninstance, can suggest available treatments for specific\nillnesses in an automated way, drawing on the body of\nmedical research and data on diseases.\n(A) - (C) - (B) (B) - (A) - (C)\n(B) - (C) - (A) (C) - (A) - (B)\n(C) - (B) - (A)\n-- 6 of 8 --"
@@ -538,7 +538,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2022_11_q37",
-    "title": "고 토양의 조건들은 단 몇 야드 안에서도 크게 달라 질 수 있다.",
+    "title": "Each beech tree grows in a particular location and soil cond",
     "description": "고 토양의 조건들은 단 몇 야드 안에서도 크게 달라 질 수 있다. 토양은 다량의 물을 가지거나 거의 물이 없을 수도 있다.",
     "content": [
       "Each beech tree grows in a particular location and soil\nconditions can vary greatly in just a few yards. The soil can\nhave a great deal of water or almost no water. It can be full\nof nutrients or not.\n(A) This is taking place underground through the roots.\nWhoever has an abundance of sugar hands some over;\nwhoever is running short gets help. Their network acts as\na system to make sure that no trees fall too far behind.\n(B) However, the rate is the same. Whether they are thick or\nthin, all the trees of the same species are using light to\nproduce the same amount of sugar per leaf. Some trees\nhave plenty of sugar and some have less, but the trees\nequalize this difference between them by transferring sugar.\n(C) Accordingly, each tree grows more quickly or more slowly\nand produces more or less sugar, and thus you would\nexpect every tree to be photosynthesizing at a different\nrate. [3점]"
@@ -555,7 +555,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2022_11_q38",
-    "title": "야 하는가 아니면 언어를 이해하기 위해 사고를 사 용해야 하는가?",
+    "title": "Nevertheless, language is enormously important in human life",
     "description": "야 하는가 아니면 언어를 이해하기 위해 사고를 사 용해야 하는가? 분석 철학은 언어가 기본이고 적절 한 언어 사용이 제대로 인식된다면 그 사…",
     "content": [
       "Nevertheless, language is enormously important in human\nlife and contributes largely to our ability to cooperate with\neach other in dealing with the world.\nShould we use language to understand mind or mind to understand\nlanguage? ( ) Analytic philosophy historically assumes that\nlanguage is basic and that mind would make sense if proper use of\nlanguage was appreciated. ( ) Modern cognitive science,\nhowever, rightly judges that language is just one aspect of mind of\ngreat importance in human beings but not fundamental to all kinds\nof thinking. ( ) Countless species of animals manage to\nnavigate the world, solve problems, and learn without using\nlanguage, through brain mechanisms that are largely preserved in\nthe minds of humans. ( ) There is no reason to assume that\nlanguage is fundamental to mental operations. ( ) Our species\nhomo sapiens has been astonishingly successful, which depended\nin part on language, first as an effective contributor to\ncollaborative problem solving and much later, as collective\nmemory through written records. [3점]"
@@ -577,7 +577,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2022_11_q39",
-    "title": "오렌지주스를 넣고 다른 잔에는 약간의 레몬주스를 넣어라.",
+    "title": "If we could magically remove the glasses, we would find the ",
     "description": "오렌지주스를 넣고 다른 잔에는 약간의 레몬주스를 넣어라. 여러분이 가지고 있는 것은 본질적으로 물 두 잔이지만 완전히 다른 화학적 성질을 지…",
     "content": [
       "If we could magically remove the glasses, we would find the\ntwo water bodies would not mix well.\nTake two glasses of water. Put a little bit of orange juice into\none and a little bit of lemon juice into the other. ( ) What\nyou have are essentially two glasses of water but with a\ncompletely different chemical makeup. ( ) If we take the\nglass containing orange juice and heat it, we will still have two\ndifferent glasses of water with different chemical makeups, but\nnow they will also have different temperatures. ( ) Perhaps\nthey would mix a little where they met; however, they would\nremain separate because of their different chemical makeups\nand temperatures. ( ) The warmer water would float on the\nsurface of the cold water because of its lighter weight. ( ) In\nthe ocean we have bodies of water that differ in temperature\nand salt content; for this reason, they do not mix."
@@ -594,7 +594,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2022_11_q40",
-    "title": "그는 자신의 인생의 대부분을 보이지 않는 것에 적응하는 데, 그리고 …",
+    "title": "One of the most powerful tools to find meaning in our lives ",
     "description": "다. 그는 자신의 인생의 대부분을 보이지 않는 것에 적응하는 데, 그리고 심지어 이 상태에서 스키 경력 을 쌓는 데도 보냈기 때문에, 자신의…",
     "content": [
       "One of the most powerful tools to find meaning in our lives\nis reflective journaling — thinking back on and writing about\nwhat has happened to us. In the 1990s, Stanford University\nresearchers asked undergraduate students on spring break to\njournal about their most important personal values and their\ndaily activities; others were asked to write about only the\ngood things that happened to them in the day. Three weeks\nlater, the students who had written about their values were\nhappier, healthier, and more confident about their ability to\nhandle stress than the ones who had only focused on the good\nstuff. By reflecting on how their daily activities supported\ntheir values, students had gained a new perspective on those\nactivities and choices. Little stresses and hassles were now\ndemonstrations of their values in action. Suddenly, their lives\nwere full of meaningful activities. And all they had to do was\nreflect and write about it ― positively reframing their\nexperiences with their personal values."
@@ -611,7 +611,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2022_11_q42",
-    "title": "나의 딸 Marie의 8번째 생일에, 그녀는 학교에서 친구들로부터 많…",
+    "title": "On my daughter Marie’s 8th birthday, she received a bunch of",
     "description": "나의 딸 Marie의 8번째 생일에, 그녀는 학교에서 친구들로부터 많은 선물을 받았다. 그날 저녁, 그녀 가 가장 좋아하는 선물인 테디 베어…",
     "content": [
       "On my daughter Marie’s 8th birthday, she received a bunch\nof presents from her friends at school. That evening, with\nher favorite present, a teddy bear, in her arms, we went to a\nrestaurant to celebrate her birthday. Our server, a friendly\nwoman, noticed my daughter holding the teddy bear and said,\n“My daughter loves teddy bears, too.” Then, we started\nchatting about (a) her family.\nWhen Marie came back out, I asked her what she had been\ndoing. She said that she gave her teddy bear to our server so\nthat she could give it to (b) her daughter. I was surprised at\nher sudden action because I could see how much she loved\nthat bear already. (c) She must have seen the look on my\nface, because she said, “I can’t imagine being stuck in a\nhospital bed. I just want her to get better soon.”\nI felt moved by Marie’s words as we walked toward the\ncar. Then, our server ran out to our car and thanked Marie\nfor her generosity. The server said that (d) she had never\nhad anyone doing anything like that for her family before.\nLater, Marie said it was her best birthday ever. I was so\nproud of her empathy and warmth, and this was an\nunforgettable experience for our family.\nThe server mentioned during the conversation that her\ndaughter was in the hospital with a broken leg. (e) She also\nsaid that Marie looked about the same age as her daughter.\nShe was so kind and attentive all evening, and even gave\nMarie cookies for free. After we finished our meal, we paid\nthe bill and began to walk to our car when unexpectedly\nMarie asked me to wait and ran back into the restaurant."
@@ -629,7 +629,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2023_09_q20",
-    "title": "그들은 보는 것으로부터 배운다.",
+    "title": "We are always teaching our children something by our words a",
     "description": "무언가를 가르치고 있다. 그들은 보는 것으로부터 배운다. 그들은 듣거나 ‘우연히 듣는 것’으로부터 배운다. 아이들은 인생에서 가장 중요한 것…",
     "content": [
       "We are always teaching our children something by our words\nand our actions. They learn from seeing. They learn from\nhearing and from\noverhearing. Children share the values of\ntheir parents about the most important things in life. Our\npriorities and principles and our examples of good behavior can\nteach our children to take the high road when other roads look\ntempting. Remember that children do not learn the values that\nmake up strong character simply by being\ntold about them.\nThey learn by seeing the people around them\nact on and\nuphold those values in their daily lives. Therefore show your\nchild good examples of life by your action. In our daily lives,\nwe can show our children that we respect others. We can\nshow them our compassion and concern when others are\nsuffering, and our own selfdiscipline, courage and honesty as\nwe make difficult decisions."
@@ -646,7 +646,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2023_09_q21",
-    "title": "만약 숲에서 나무가 쓰러지고 그 것이 쓰러지는 것을 들을 사람이 거기…",
+    "title": "Most people have no doubt heard this question: If a tree fal",
     "description": "어 봤을 것이다. 만약 숲에서 나무가 쓰러지고 그 것이 쓰러지는 것을 들을 사람이 거기에 없다면, 소리가 나는 것일까?",
     "content": [
       "Most people have no doubt heard this question: If a tree falls in\nthe forest and there is no one there to hear it fall, does it make a\nsound? The correct answer is no. Sound is more than pressure\nwaves, and indeed there can be no sound without a hearer. And\nsimilarly, scientific communication is a two way process. Just as a\nsignal of any kind is useless unless it is perceived, a published\nscientific paper (signal) is useless unless it is both received\nand\nunderstood by its intended audience. Thus we can restate the\naxiom of science as follows: A scientific experiment is not\ncomplete until the results have been published\nand understood.\nPublication is no more than pressure waves unless the published\npaper is understood. Too many scientific papers fall silently in the\nwoods."
@@ -663,7 +663,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2023_09_q22",
-    "title": "하지만 이제까지 ‘어떻게’ 협상하는지를 배운 사람은 거의 없다.",
+    "title": "We all negotiate every day, whether we realise it or not",
     "description": "모두는 매일 협상한다. 하지만 이제까지 ‘어떻게’ 협상하는지를 배운 사람은 거의 없다. (협상 방식 을) 배우는 사람들은 대개 양측에 유리한…",
     "content": [
       "We all negotiate every day, whether we realise it or not. Yet few\npeople ever learn\nhow to negotiate. Those who do usually learn the\ntraditional, winlose negotiating style rather than an approach that\nis likely to result in a winwin agreement. This old school,\nadversarial approach may be useful in a one off negotiation where\nyou will probably not deal with that person again. However, such\ntransactions are becoming increasingly rare, because most of us\ndeal with the same people repeatedly — our spouses and children,\nour friends and colleagues, our customers and clients. In view of\nthis, it’s essential to achieve successful results for ourselves and\nmaintain a healthy relationship with our negotiating partners at the\nsame time. In today’s interdependent world of business partnerships\nand long term relationships, a winwin outcome is fast becoming\nthe\nonly acceptable result."
@@ -681,7 +681,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2023_09_q23",
-    "title": "현지 주민의 상호 작용은 지식 파급과 같은 긍정 적인 외부 효과로 인…",
+    "title": "The interaction of workers from different cultural backgroun",
     "description": "현지 주민의 상호 작용은 지식 파급과 같은 긍정 적인 외부 효과로 인해 생산성을 증가시킬 수 있 다. 이것은 어느 정도까지만 장점이다.",
     "content": [
       "The interaction of workers from different cultural backgrounds\nwith the host population might increase productivity due to positive\nexternalities like knowledge spillovers. This is only an advantage\nup to a certain degree. When the variety of backgrounds is too\nlarge, fractionalization may cause excessive transaction costs for\ncommunication, which may lower productivity. Diversity not only\nimpacts the labour market, but may also affect the quality of life in\na location. A tolerant native population may value a multicultural\ncity or region because of an increase in the range of available goods\nand services. On the other hand, diversity could be perceived as an\nunattractive feature if natives perceive it as a distortion of what\nthey consider to be their national identity. They might even\ndiscriminate against other ethnic groups and they might fear that\nsocial conflicts between different foreign nationalities are imported\ninto their own neighbourhood."
@@ -700,7 +700,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2023_09_q24",
-    "title": "그러나 실제로 우리의 건물과 개발도 또 한 우리를 형성하고 있다.",
+    "title": "We think we are shaping our buildings",
     "description": "각한다. 그러나 실제로 우리의 건물과 개발도 또 한 우리를 형성하고 있다. 이것의 가장 좋은 예 중 하나는 가장 오래된 것으로 알려진 건축물…",
     "content": [
       "We think we are shaping our buildings. But really, our buildings\nand development are also shaping us. One of the best examples of\nthis is the oldest known construction: the ornately carved rings of\nstanding stones at Göbekli Tepe in Turkey. Before these ancestors\ngot the idea to erect standing stones some 12,000 years ago, they\nwere hunter gatherers. It appears that the erection of the multiple\nrings of megalithic stones took so long, and so many successive\ngenerations, that these innovators were forced to settle down to\ncomplete the construction works. In the process, they became the\nfirst farming society on Earth. This is an early example of a society\nconstructing something that ends up radically remaking the society\nitself. Things are not so different in our own time."
@@ -720,7 +720,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2023_09_q29",
-    "title": "주말 경기에 대해 토 론하는 팬들의 소셜 미디어의 댓글만 읽어봐도 여…",
+    "title": "There is a reason the title “Monday Morning Quarterback” exi",
     "description": "름이 존재하는 이유가 있다. 주말 경기에 대해 토 론하는 팬들의 소셜 미디어의 댓글만 읽어봐도 여 러분은 자신이 경기장에 있는 사람들보다 더…",
     "content": [
       "There is a reason the title “Monday Morning Quarterback”\nexists. Just read the comments on social media from fans\ndiscussing the weekend’s games, and you quickly see how\nmany people believe they could play, coach, and manage sport\nteams more successfully than those on the field. This goes\nfor the boardroom as well. Students and professionals with\nyears of training and specialized degrees in sport business\nmay also find themselves being given advice on how to do\ntheir jobs from friends, family, or even total strangers without\nany expertise. Executives in sport management have\ndecades of knowledge and experience in their respective\nfields. However, many of them face criticism from fans and\ncommunity members telling themselves how to run their\nbusiness. Very few people tell their doctor how to perform\nsurgery or their accountant how to prepare their taxes, but\nmany people provide feedback on how sport organizations\nshould be managed."
@@ -738,7 +738,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2023_09_q30",
-    "title": "그들은 안심감을 잃 고 그들의 일상이 무너지고 익숙한 모든 것이 사 …",
+    "title": "While moving is difficult for everyone, it is particularly s",
     "description": "히 스트레스가 많은 일이다. 그들은 안심감을 잃 고 그들의 일상이 무너지고 익숙한 모든 것이 사 라질 때 혼란스러움을 느낄 수도 있다.",
     "content": [
       "While moving is difficult for everyone, it is particularly\nstressful for children. They lose their sense of security and\nmay feel disoriented when their routine is disrupted and all\nthat is familiar is taken away. Young children, ages 3-6, are\nparticularly affected by a move. Their understanding at this\nstage is quite literal, and it is easy for them to imagine\nbeforehand a new home and their new room. Young children\nmay have worries such as “Will I still be me in the new place?”\nand “Will my toys and bed come with us?” It is important to\nestablish a balance between validating children’s past\nexperiences and focusing on helping them adjust to the new\nplace. Children need to have opportunities to share their\nbackgrounds in a way that respects their past as an\nimportant part of who they are. This contributes to building a\nsense of community, which is essential for all children,\nespecially those in transition."
@@ -757,7 +757,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2023_09_q31",
-    "title": "종종, 이 두려움은 통제력의 부족에서 비롯 된다.",
+    "title": "Many people are terrified to fly in airplanes",
     "description": "한다. 종종, 이 두려움은 통제력의 부족에서 비롯 된다. 조종사는 통제를 하지만 승객은 그렇지 않으 며, 이러한 통제력의 부족은 두려움을 스…",
     "content": [
       "Many people are terrified to fly in airplanes. Often, this fear\nstems from a lack of control. The pilot is in control, not the\npassengers, and this lack of control instills fear. Many potential\npassengers are so afraid they choose to drive great distances\nto get to a destination instead of flying. But their decision to\ndrive is based solely on emotion, not logic. Logic says that\nstatistically, the odds of dying in a car crash are around 1 in\n5,000, while the odds of dying in a plane crash are closer to 1\nin 11 million. If you’re going to take a risk, especially one that\ncould possibly involve your wellbeing, wouldn’t you want the\nodds in your favor? However, most people choose the option\nthat will cause them the least amount of . Pay\nattention to the thoughts you have about taking the risk and\nmake sure you’re basing your decision on facts, not just\nfeelings."
@@ -775,7 +775,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2023_09_q32",
-    "title": "de Waal은 인간은 상상 속 사다리의 꼭대기에서 우리의 위치를 유…",
+    "title": "The famous primatologist Frans de Waal, of Emory University,",
     "description": "de Waal은 인간은 상상 속 사다리의 꼭대기에서 우리의 위치를 유지하는 방법으로 우리와 다른 동 물들 사이의 유사성을 경시한다고 말한다.",
     "content": [
       "The famous primatologist Frans de Waal, of Emory\nUniversity, says humans downplay similarities between us and\nother animals as a way of maintaining our spot at the top of\nour imaginary ladder. Scientists, de Waal points out, can be\nsome of the worst offenders — employing technical language to\n. They call “kissing”\nin chimps “mouthtomouth contact”; they call “friends”\nbetween primates “favorite affiliation partners”; they interpret\nevidence showing that crows and chimps can make tools as\nbeing somehow qualitatively different from the kind of\ntoolmaking said to define humanity. If an animal can beat us at\na cognitive task — like how certain bird species can remember\nthe precise locations of thousands of seeds — they write it off\nas instinct, not intelligence. This and so many more tricks of\nlanguage are what de Waal has termed “linguistic castration.”\nThe way we use our tongues to disempower animals, the way\nwe invent words to maintain our spot at the top. [3점]"
@@ -793,7 +793,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2023_09_q33",
-    "title": "관심 있어 할 적절한 글을 제공하는 것이다.",
+    "title": "A key to engagement and achievement is providing students wi",
     "description": "관심 있어 할 적절한 글을 제공하는 것이다. 나의 학문적인 연구와 나의 수업은 Rosalie Fink의 연 구에 깊이 영향을 받아왔다.",
     "content": [
       "A key to engagement and achievement is providing students\nwith . My scholarly\nwork and my teaching have been deeply influenced by the\nwork of Rosalie Fink. She interviewed twelve adults who were\nhighly successful in their work, including a physicist, a\nbiochemist, and a company CEO. All of them had dyslexia and\nhad had significant problems with reading throughout their\nschool years. While she expected to find that they had avoided\nreading and discovered ways to bypass it or compensate with\nother strategies for learning, she found the opposite. “To my\nsurprise, I found that these dyslexics were enthusiastic\nreaders...they rarely avoided reading. On the contrary, they\nsought out books.” The pattern Fink discovered was that all of\nher subjects had been passionate in some personal interest.\nThe areas of interest included religion, math, business,\nscience, history, and biography. What mattered was that they\nread voraciously to find out more."
@@ -811,7 +811,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2023_09_q34",
-    "title": "미하기 때문에 그들은 자신이 하는 모든 것이 자 신이 얼마나 똑똑한지…",
+    "title": "For many people, ability refers to intellectual competence, ",
     "description": "미하기 때문에 그들은 자신이 하는 모든 것이 자 신이 얼마나 똑똑한지를 보여주기를 원한다. 예컨 대, 훌륭한 법률 보고서를 작성하는 것, 시…",
     "content": [
       "For many people,\nability refers to intellectual competence,\nso they want everything they do to reflect how smart they\nare — writing a brilliant legal brief, getting the highest grade\non a test, writing elegant computer code, saying something\nexceptionally wise or witty in a conversation. You could also\ndefine ability in terms of a particular skill or talent, such as\nhow well one plays the piano, learns a language, or serves a\ntennis ball. Some people focus on their ability to be\nattractive, entertaining, up on the latest trends, or to have the\nnewest gadgets. However ability may be defined, a problem\noccurs when .\nThe performance becomes the\nonly measure of the person;\nnothing else is taken into account. An outstanding performance\nmeans an outstanding person; an average performance means\nan average person. Period. [3점]\nit is the sole determinant of one’s selfworth\nyou are distracted by others’ achievements\nthere is too much competition in one field\nyou ignore feedback about a performance\nit is not accompanied by effort"
@@ -829,7 +829,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2023_09_q35",
-    "title": "예를 들어, 만약 여 러분이 핀과 같이 날카로운 물체를 밟는다면, 피…",
+    "title": "Sensory nerves have specialized endings in the tissues that ",
     "description": "말단을 조직에 가지고 있다. 예를 들어, 만약 여 러분이 핀과 같이 날카로운 물체를 밟는다면, 피 부의 신경 말단이 통증 감각을 여러분의 다…",
     "content": [
       "Sensory nerves have specialized endings in the tissues that\npick up a particular sensation. If, for example, you step on a\nsharp object such as a pin, nerve endings in the skin will\ntransmit the pain sensation up your leg, up and along the spinal\ncord to the brain. While the pain itself is unpleasant, it is in\nfact acting as a protective mechanism for the foot. That is,\nyou get used to the pain so the capacity with which you can\navoid pain decreases. Within the brain, nerves will connect\nto the area that controls speech, so that you may well shout\n‘ouch’ or something rather less polite. They will also\nconnect to motor nerves that travel back down the spinal cord,\nand to the muscles in your leg that now contract quickly to lift\nyour foot away from the painful object. Sensory and motor\nnerves control almost all functions in the body — from the\nbeating of the heart to the movement of the gut, sweating and\njust about everything else."
@@ -847,7 +847,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2023_09_q36",
-    "title": "“코끼리를 어떻게 먹는가?” 정답은 ‘한 번에 한 입’이다.",
+    "title": "Maybe you’ve heard this joke: “How do you eat an elephant?” ",
     "description": "“코끼리를 어떻게 먹는가?” 정답은 ‘한 번에 한 입’이다. 그렇다면, 여러분은 어떻게 지구를 ‘건설’하는가?",
     "content": [
       "Maybe you’ve heard this joke: “How do you eat an\nelephant?” The answer is “one bite at a time.”\n(A) Common crystal habits include squares, triangles, and\nsixsided hexagons. Usually crystals form when liquids\ncool, such as when you create ice cubes. Many times,\ncrystals form in ways that do not allow for perfect shapes.\nIf conditions are too cold, too hot, or there isn’t enough\nsource material, they can form strange, twisted shapes.\n(B) So, how do you “build” the Earth? That’s simple, too: one\natom at a time. Atoms are the basic building blocks of\ncrystals, and since all rocks are made up of crystals, the\nmore you know about atoms, the better. Crystals come in\na variety of shapes that scientists call\nhabits.\n(C) But when conditions are right, we see beautiful displays.\nUsually, this involves a slow, steady environment where\nthe individual atoms have plenty of time to join and fit\nperfectly into what’s known as the\ncrystal lattice. This is\nthe basic structure of atoms that is seen time after time.\n[3점]\n(A) - (C) - (B) (B) - (A) - (C)\n(B) - (C) - (A) (C) - (A) - (B)\n(C) - (B) - (A)\n-- 6 of 8 --"
@@ -865,7 +865,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2023_09_q37",
-    "title": "당연히, 이 움직 임은 너무 빨라서 여러분이 그것을 볼 수 없다.",
+    "title": "When you pluck a guitar string it moves back and forth hundr",
     "description": "수백 번 이리저리 움직인다. 당연히, 이 움직 임은 너무 빨라서 여러분이 그것을 볼 수 없다. 여러분은 그저 움직이는 줄의 흐릿한 윤곽만 본…",
     "content": [
       "When you pluck a guitar string it moves back and forth\nhundreds of times every second.\n(A) The vibration of the wood creates more powerful waves\nin the air pressure, which travel away from the guitar.\nWhen the waves reach your eardrums they flex in and out\nthe same number of times a second as the original string.\n(B) Naturally, this movement is so fast that you cannot see\nit — you just see the blurred outline of the moving string.\nStrings vibrating in this way on their own make hardly\nany noise because strings are very thin and don’t push\nmuch air about.\n(C) But if you attach a string to a big hollow box (like a guitar\nbody), then the vibration is amplified and the note is\nheard loud and clear. The vibration of the string is passed\non to the wooden panels of the guitar body, which vibrate\nback and forth at the same rate as the string."
@@ -882,7 +882,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2023_09_q38",
-    "title": "업하는 것을 점차 가능하게 함에 따라 직장과 가 정의 경계가 흐릿해지…",
+    "title": "Other individuals prefer integrating work and family roles a",
     "description": "업하는 것을 점차 가능하게 함에 따라 직장과 가 정의 경계가 흐릿해지고 있다. 사람들은 직장과 외부의 책임을 수행하기 위해 자신의 시간을 관…",
     "content": [
       "Other individuals prefer integrating work and family roles all\nday long.\nBoundaries between work and home are blurring as portable\ndigital technology makes it increasingly possible to work\nanywhere, anytime. Individuals differ in how they like to\nmanage their time to meet work and outside responsibilities.\n( ) Some people prefer to separate or segment roles so\nthat boundary crossings are minimized. ( ) For example,\nthese people might keep separate email accounts for work\nand family and try to conduct work at the workplace and take\ncare of family matters only during breaks and nonwork time.\n( ) We’ve even noticed more of these “segmenters”\ncarrying two phones ― one for work and one for personal use.\n( ) Flexible schedules work well for these individuals because\nthey enable greater distinction between time at work and time in\nother roles. ( ) This might entail constantly trading text\nmessages with children from the office, or monitoring emails at\nhome and on vacation, rather than returning to work to find\nhundreds of messages in their inbox. [3점]"
@@ -899,7 +899,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2023_09_q39",
-    "title": "예를 들어, 팝콘은 영화에 대한 보 완재인 한편, 여행 베개는 긴 비…",
+    "title": "However, do not assume that a product is perfectly complemen",
     "description": "예를 들어, 팝콘은 영화에 대한 보 완재인 한편, 여행 베개는 긴 비행기 여행에 대한 보완재이다. 한 제품의 인기가 높아지면 그것의 보완재 …",
     "content": [
       "However, do not assume that a product is perfectly\ncomplementary, as customers may not be completely locked\nin to the product.\nA “complementary good” is a product that is often consumed\nalongside another product. ( ) For example, popcorn is a\ncomplementary good to a movie, while a travel pillow is a\ncomplementary good for a long plane journey. ( ) When the\npopularity of one product increases, the sales of its\ncomplementary good also increase. ( ) By producing goods\nthat complement other products that are already (or about to\nbe) popular, you can ensure a steady stream of demand for\nyour product. ( ) Some products enjoy perfect complementary\nstatus — they\nhave to be consumed together, such as a lamp\nand a lightbulb. ( ) For example, although motorists may\nseem required to purchase gasoline to run their cars, they can\nswitch to electric cars."
@@ -916,7 +916,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2023_09_q40",
-    "title": "사람들이 사원에서 예배를 드리기 위해 멀리서 왔다.",
+    "title": "It’s not news to anyone that we judge others based on their ",
     "description": "원을 지었다. 사람들이 사원에서 예배를 드리기 위해 멀리서 왔다. 그래서 노인은 사원 안에 음식 과 숙소를 준비했다.",
     "content": [
       "It’s not news to anyone that we judge others based on\ntheir clothes. In general, studies that investigate these\njudgments find that people prefer clothing that matches\nexpectations — surgeons in scrubs, little boys in blue — with\none notable exception. A series of studies published in an\narticle in June 2014 in the\nJournal of Consumer Research\nexplored observers’ reactions to people who broke\nestablished norms only slightly. In one scenario, a man at a\nblacktie affair was viewed as having higher status and\ncompetence when wearing a red bow tie. The researchers\nalso found that valuing uniqueness increased audience\nmembers’ ratings of the status and competence of a\nprofessor who wore red sneakers while giving a lecture.\nThe results suggest that people judge these slight\ndeviations from the norm as positive because they suggest\nthat the individual is powerful enough to risk the social\ncosts of such behaviors.\n\nA series of studies show that people view an individual\n(A) when the individual only slightly (B) the\nnorm for what people should wear.\npositively …… challenges\nnegatively …… challenges\nindifferently …… neglects\nnegatively …… meets\npositively …… meets\n-- 7 of 8 --"
@@ -937,7 +937,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2024_09_q20",
-    "title": "물론, 당신은 자랑 스러워하는 부모이고, 그리고 그래야 한다.",
+    "title": "As the parent of a gifted child, you need to be aware of a c",
     "description": "물론, 당신은 자랑 스러워하는 부모이고, 그리고 그래야 한다. 당신 의 작은 천재와 그 또는 그녀의 놀라운 행동에 대 해서 쉬지 않고 말하는…",
     "content": [
       "As the parent of a gifted child, you need to be aware of a certain\ncommon parent trap. Of course you are a proud parent, and you\nshould be. While it is very easy to talk nonstop about your little\ngenius and his or her remarkable behavior, this can be very\nstressful on your child. It is extremely important to limit your\nbragging behavior to your very close friends, or your parents.\nGifted children feel pressured when their parents show them off too\nmuch. This behavior creates expectations that they may not be able\nto live up to, and also creates a false sense of self for your child.\nYou want your child to be who they are, not who they seem to be\nas defined by their incredible achievements. If not, you could end\nup with a driven perfectionist child or perhaps a dropout, or worse."
@@ -954,7 +954,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2024_09_q21",
-    "title": "이것은 자조 집단의 큰 힘 중 하 나이다.",
+    "title": "One valuable technique for getting out of helplessness, depr",
     "description": "이것은 자조 집단의 큰 힘 중 하 나이다. 우리가 부정적인 상태에 있을 때, 우리는 부정적인 사고 형태에 많은 에너지를 투입해 왔고 긍정적인…",
     "content": [
       "One valuable technique for getting out of helplessness,\ndepression, and situations which are predominantly being run by the\nthought, “I can’t,” is to choose to be with other persons who have\nresolved the problem with which we struggle. This is one of the\ngreat powers of self help groups. When we are in a negative state,\nwe have given a lot of energy to negative thought forms, and the\npositive thought forms are weak. Those who are in a higher\nvibration are free of the energy from their negative thoughts and\nhave energized positive thought forms. Merely to be in their\npresence is beneficial. In some self help groups, this is called\n“hanging out with the winners.” The benefit here is on the psychic\nlevel of consciousness, and there is a transfer of positive energy\nand relighting of one’s own latent positive thought forms."
@@ -972,7 +972,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2024_09_q22",
-    "title": "생존에 기여해 왔기 때문에 존재한다고 여겨진다.",
+    "title": "Our emotions are thought to exist because they have contribu",
     "description": "생존에 기여해 왔기 때문에 존재한다고 여겨진다. 두려움은 우리가 위험을 피하는 데 도움을 주어 왔 고, 분노를 표현하는 것은 우리가 위협을 …",
     "content": [
       "Our emotions are thought to exist because they have contributed\nto our survival as a species. Fear has helped us avoid dangers,\nexpressing anger helps us scare off threats, and expressing positive\nemotions helps us bond with others. From an evolutionary\nperspective, an emotion is a kind of “program” that, when triggered,\ndirects many of our activities (including attention, perception,\nmemory, movement, expressions, etc.). For example, fear makes us\nvery attentive, narrows our perceptual focus to threatening stimuli,\nwill cause us either to face a situation (fight) or avoid it (flight),\nand may cause us to remember an experience more acutely (so that\nwe avoid the threat in the future). Regardless of the specific ways\nin which they activate our systems, the specific emotions we\npossess are thought to exist because they have helped us (as a\nspecies) survive challenges within our environment long ago. If\nthey had not helped us adapt and survive, they would not have\nevolved with us."
@@ -990,7 +990,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2024_09_q23",
-    "title": "있는 노동자를 위한 일터로의 접근성을 향상시킴 으로써, AI는 일터에…",
+    "title": "By improving accessibility of the workplace for workers that",
     "description": "있는 노동자를 위한 일터로의 접근성을 향상시킴 으로써, AI는 일터에서 포괄성을 향상시킬 수 있 다. 시각, 발화 또는 청각 장애가 있는 노…",
     "content": [
       "By improving accessibility of the workplace for workers that are\ntypically at a disadvantage in the labour market, AI can improve\ninclusiveness in the workplace. AI powered assistive devices to aid\nworkers with visual, speech or hearing difficulties are becoming\nmore widespread, improving the access to, and the quality of work\nfor people with disabilities. For example, speech recognition\nsolutions for people with dysarthric voices, or live captioning\nsystems for deaf and hard of hearing people can facilitate\ncommunication with colleagues and access to jobs where\ninterpersonal communication is necessary. AI can also enhance the\ncapabilities of lowskilled workers, with potentially positive effects\non their wages and career prospects. For example, AI’s capacity to\ntranslate written and spoken word in realtime can improve the\nperformance of nonnative speakers in the workplace. Moreover,\nrecent developments in AIpowered text generators can instantly\nimprove the performance of lowerskilled individuals in domains\nsuch as writing, coding or customer service."
@@ -1010,7 +1010,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2024_09_q24",
-    "title": "들이 죽을 때, 각각의 고래는 평균 30톤의 이산화 탄소를 격리하며,…",
+    "title": "Whales are highly efficient at carbon storage",
     "description": "들이 죽을 때, 각각의 고래는 평균 30톤의 이산화 탄소를 격리하며, 수 세기 동안 대기로부터 그 탄고 1 정답 및 해설 2024학년도 9월…",
     "content": [
       "Whales are highly efficient at carbon storage. When they die,\neach whale sequesters an average of 30 tons of carbon dioxide,\ntaking that carbon out of the atmosphere for centuries. For\ncomparison, the average tree absorbs only 48 pounds of CO2 a year.\nFrom a climate perspective, each whale is the marine equivalent of\nthousands of trees. Whales also help sequester carbon by fertilizing\nthe ocean as they release nutrient rich waste, in turn increasing\nphytoplankton populations, which also sequester carbon ― leading\nsome scientists to call them the “engineers of marine ecosystems.”\nIn 2019, economists from the International Monetary Fund (IMF)\nestimated the value of the ecosystem services provided by each\nwhale at over $2 million USD. They called for a new global program\nof economic incentives to return whale populations to preindustrial\nwhaling levels as one example of a “nature based solution” to\nclimate change. Calls are now being made for a global whale\nrestoration program, to slow down climate change."
@@ -1029,7 +1029,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2024_09_q29",
-    "title": "조직 내 다 양한 부서와 과는 필연적으로 어떤 주어진 상황이 라도 그…",
+    "title": "From an organizational viewpoint, one of the most fascinatin",
     "description": "조직 내 다 양한 부서와 과는 필연적으로 어떤 주어진 상황이 라도 그들 자신만의 편향적이고 편파적인 관점에 서 볼 것이다.",
     "content": [
       "From an organizational viewpoint, one of the most\nfascinating examples of how any organization may contain\nmany different types of culture is to recognize the\nfunctional operations of different departments within the\norganization. The varying departments and divisions within an\norganization will inevitably view any given situation from their\nown biased and prejudiced perspective. A department and its\nmembers will acquire “tunnel vision” which disallows them to\nsee things as others see them. The very structure of\norganizations can create conflict. The choice of whether the\nstructure is “mechanistic” or “organic” can have a profound\ninfluence on conflict management. A mechanistic structure has\na vertical hierarchy with many rules, many procedures, and\nmany levels of management involved in decision making.\nOrganic structures are more horizontal in nature, which\ndecision making is less centralized and spread across the plane\nof the organization."
@@ -1048,7 +1048,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2024_09_q30",
-    "title": "몇몇 도시는 자전거, 보행자, 그 리고 수시 서비스 차량을 위한 광범…",
+    "title": "An excellent alternative to calming traffic is removing it",
     "description": "제거하는 것이다. 몇몇 도시는 자전거, 보행자, 그 리고 수시 서비스 차량을 위한 광범위한 망의 도 로와 거리를 마련해 둔다.",
     "content": [
       "An excellent alternative to calming traffic is removing it.\nSome cities reserve an extensive network of lanes and\nstreets for bikes, pedestrians, and the occasional service\nvehicle. This motivates people to travel by bike rather than\nby car, making streets safer for everyone. As bicycles\nbecome more popular in a city, planners can convert more\nautomobile lanes and entire streets to accommodate more\nof them. Nevertheless, even the most bikeable cities still\nrequire motor vehicle lanes for taxis, emergency vehicles,\nand delivery trucks. Delivery vehicles are frequently a target\nof animus, but they are actually an essential component to\nmaking cities greener. A tightly packed delivery truck is a far\nmore inefficient transporter of goods than several hybrids\ncarrying a few shopping bags each. Distributing food and other\ngoods to neighborhood vendors allows them to operate\nsmaller stores close to homes so that residents can walk,\nrather than drive, to get their groceries."
@@ -1065,7 +1065,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2024_09_q31",
-    "title": "들의 시대에 진가를 인정받지 못했다고 몇 번이고 듣는다.",
+    "title": "You hear again and again that some of the greatest composers",
     "description": "들의 시대에 진가를 인정받지 못했다고 몇 번이고 듣는다. 그들의 시대에 베토벤, 브람스, 스트라빈스 키의 곡들을 모든 사람이 이해할 수 있었…",
     "content": [
       "You hear again and again that some of the greatest\ncomposers were misunderstood in their own day. Not everyone\ncould understand the compositions of Beethoven, Brahms, or\nStravinsky in their day. The reason for this initial lack of\nacceptance is unfamiliarity. The musical forms, or ideas\nexpressed within them, were completely new. And yet, this is\nexactly one of the things that makes them so great. Effective\ncomposers have their own ideas. Have you ever seen the\nclassic movie\nAmadeus? The composer Antonio Salieri is the\n“host” of this movie; he’s depicted as one of the most famous\nnongreat composers ― he lived at the time of Mozart and was\ncompletely overshadowed by him. Now, Salieri wasn’t a bad\ncomposer; in fact, he was a very good one. But he wasn’t\none of the world’s great composers because his work wasn’t\n. What he wrote sounded just like what\neveryone else was composing at the time.\nsimple original\nfamiliar conventional\nunderstandable"
@@ -1083,7 +1083,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2024_09_q32",
-    "title": "든 SNS의 발명이든, 새로운 매체가 나타나 여러 분이 그것을 쓰기 …",
+    "title": "Every time a new medium comes along — whether it’s the inven",
     "description": "든 SNS의 발명이든, 새로운 매체가 나타나 여러 분이 그것을 쓰기 시작할 때마다 여러분은 고유의 색깔과 렌즈를 가진 새 고글을 쓰는 것과 …",
     "content": [
       "Every time a new medium comes along — whether it’s the\ninvention of the printed book, or TV, or SNS — and you start to\nuse it, it’s like you are putting on a new kind of goggles, with\ntheir own special colors and lenses. Each set of goggles you\nput on makes you see things differently. So when you start to\nwatch television, before you absorb the message of any\nparticular TV show — whether it’s\nWheel of Fortune or\nThe\nWire — you start to see the world as being shaped like\ntelevision itself. That’s why Marshall McLuhan said that every\ntime a new medium comes along — a new way for humans to\ncommunicate — it has buried in it a message. It is gently\nguiding us to .\nThe way information gets to you, McLuhan argued, is more\nimportant than the information itself. TV teaches you that the\nworld is fast; that it’s about surfaces and appearances. [3점]\nsee the world according to a new set of codes\nignore unfamiliar messages from new media\nmaintain steady focus and clear understanding\ninterpret information through a traditional lens\nenjoy various media contents with one platform\n-- 5 of 8 --"
@@ -1101,7 +1101,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2024_09_q33",
-    "title": "그것들은 존재하지 않는 것들을 보도록 우리를 부추긴다.",
+    "title": "Concepts are vital to human survival, but we must also be ca",
     "description": "그것들은 존재하지 않는 것들을 보도록 우리를 부추긴다. Stuart Firestein은 “어두운 방에서 검은 고양이를 찾는 것은 특히 고양이…",
     "content": [
       "Concepts are vital to human survival, but we must also be\ncareful with them because concepts open the door to\nessentialism. They .\nStuart Firestein opens his book,\nIgnorance, with an old\nproverb, “It is very difficult to find a black cat in a dark room,\nespecially when there is no cat.” This statement beautifully\nsums up the search for essences. History has many examples\nof scientists who searched fruitlessly for an essence because\nthey used the wrong concept to guide their hypotheses.\nFirestein gives the example of luminiferous ether, a\nmysterious substance that was thought to fill the universe so\nthat light would have a medium to move through. The ether\nwas a black cat, writes Firestein, and physicists had been\ntheorizing in a dark room, and then experimenting in it, looking\nfor evidence of a cat that did not exist. [3점]\nencourage us to see things that aren’t present\nforce scientists to simplify scientific theories\nlet us think science is essential and practical\ndrive physicists to explore philosophy\nlead us to ignore the unknown"
@@ -1121,7 +1121,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2024_09_q34",
-    "title": "성과 같은 목적을 달성하기 위한 도구인 반면, 일 부 콘텐츠 제작자들…",
+    "title": "While social media attention is potentially an instrument to",
     "description": "성과 같은 목적을 달성하기 위한 도구인 반면, 일 부 콘텐츠 제작자들은 사회적 목적 그 자체로서 평범한 명성을 원한다.",
     "content": [
       "While social media attention is potentially an instrument to\nachieve ends like elite celebrity, some content creators desire\nordinary fame as a social end in itself. Not unlike reality\ntelevision stars, social media celebrities are often criticized for\nnot having skills and talents associated with traditional, elite\ncelebrity, such as acting or singing ability. This criticism\nhighlights the fact that digital content creators face real\nbarriers to crossing over to the sphere of elite celebrity. However,\nthe criticism also misses the point that the phenomenon of\nordinary celebrity . The\nelite celebrity is symbolized by the metaphor of the star,\ncharacterized by mystery and hierarchical distance and\nassociated with naturalized qualities of talent and class. The\nordinary celebrity attracts attention through regular and\nfrequent interactions with other ordinary people. Achieving\nordinary fame as a social media celebrity is like doing well at a\ngame, because in this sphere, fame is nothing more nor less\nthan relatively high scores on attention scales, the metrics of\nsubscribers, followers, Likes, or clicks built into social media\napplications. [3점]"
@@ -1139,7 +1139,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2024_09_q35",
-    "title": "것이 최고의 학습 전략이라는 착각을 하는 것일 까?",
+    "title": "Why do we have the illusion that cramming for an exam is the",
     "description": "것이 최고의 학습 전략이라는 착각을 하는 것일 까? 우리가 우리의 기억의 다양한 구획을 구별할 수 없기 때문이다.",
     "content": [
       "Why do we have the illusion that cramming for an exam is\nthe best learning strategy? Because we are unable to\ndifferentiate between the various sections of our memory.\nImmediately after reading our textbook or our class notes,\ninformation is fully present in our mind. It sits in our\nconscious working memory, in an active form. We feel as if\nwe know it, because it is present in our shortterm storage\nspace ... but this shortterm section has nothing to do with the\nlongterm memory that we will need in order to recall the\nsame information a few days later. After a few seconds or\nminutes, working memory already starts disappearing, and\nafter a few days, the effect becomes enormous: unless you\nretest your knowledge, memory vanishes. Focusing on\nexploring new topics rather than reviewing the same material\nover and over again can improve your academic performance.\nTo get information into longterm memory, it is essential to\nstudy the material, then test yourself, rather than spend all\nyour time studying."
@@ -1157,7 +1157,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2024_09_q36",
-    "title": "어린이일 때 우 리는 우리의 부모와 친구들이 하는 것을 관찰하면 서 …",
+    "title": "The discovery of mirror neurons has profoundly changed the w",
     "description": "어린이일 때 우 리는 우리의 부모와 친구들이 하는 것을 관찰하면 서 많이 배운다. 갓난아기들은 생의 첫 주에 그들 의 부모가 그들의 것(혀)…",
     "content": [
       "The discovery of mirror neurons has profoundly changed\nthe way we think of a fundamental human capacity, learning\nby observation.\n(A) You may not see the tongue stick out each time you stick\nyours out at your newborn, but if you do it many times,\nthe tongue will come out more often than if you do\nsomething different. Babies babble and later start to\nimitate the sounds their parents produce.\n(B) As children we learn a lot by observing what our parents\nand friends do. Newborns, in the first week of life, have an\ninborn tendency to stick out their tongue if their parents\nstick out theirs. Such imitation is not perfect.\n(C) Later still, they play with vacuum cleaners and hammers in\nimitation of their parents. Our modern cultures, in which\nwe write, speak, read, build spaceships and go to school,\ncan work only because we are not restricted to the\nbehavior we are born with or learn by trial and error. We\ncan learn a lot by simply watching others."
@@ -1176,7 +1176,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2024_09_q37",
-    "title": "당신은 ‘내 목소리가 정말 이렇게 들리는가?’라고 생각했을지도 모른다.",
+    "title": "Have you ever been surprised to hear a recording of your own",
     "description": "적이 있는가? 당신은 ‘내 목소리가 정말 이렇게 들리는가?’라고 생각했을지도 모른다. 어쩌면 녹음에서는 당신이 인식한 것보다 당신의 억양이 …",
     "content": [
       "Have you ever been surprised to hear a recording of your\nown voice? You might have thought, “Is that really what my\nvoice sounds like?”\n(A) There are two pathways through which we perceive our\nown voice when we speak. One is the route through\nwhich we perceive most external sounds, like waves that\ntravel from the air through the outer, middle and inner ear.\n(B) But because our vocal cords vibrate when we speak,\nthere is a second internal path. Vibrations are conducted\nthrough our bones and stimulate our inner ears directly.\nLower frequencies are emphasized along this pathway.\nThat makes your voice sound deeper and richer to\nyourself than it may sound to other people.\n(C) Maybe your accent is more pronounced in the recording\nthan you realized, or your voice is higher than it seems to\nyour own ears. This is of course quite a common\nexperience. The explanation is actually fairly simple. [3점]"
@@ -1193,7 +1193,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2024_09_q38",
-    "title": "‘상사’ 형질은 공통된 기능을 가지는 것들이지 만, 진화 계보의 다른…",
+    "title": "“Homologous” traits, in contrast, may or may not have a comm",
     "description": "다. ‘상사’ 형질은 공통된 기능을 가지는 것들이지 만, 진화 계보의 다른 가지에서 생겨났고 중요한 면에서 ‘동일한’ 기관이 아닌 형질이다.",
     "content": [
       "“Homologous” traits, in contrast, may or may not have a\ncommon function, but they descended from a common\nancestor and hence have some common structure that\nindicates their being “the same” organ.\nBiologists distinguish two kinds of similarity. ( )\n“Analogous” traits are ones that have a common function but\narose on different branches of the evolutionary tree and are\nin an important sense not “the same” organ. ( ) The wings\nof birds and the wings of bees are both used for flight and are\nsimilar in some ways because anything used for flight has to\nbe built in those ways, but they arose independently in\nevolution and have nothing in common beyond their use in\nflight. ( ) The wing of a bat and the front leg of a horse\nhave very different functions, but they are all modifications of\nthe forelimb of the ancestor of all mammals. ( ) As a\nresult, they share nonfunctional traits like the number of\nbones and the ways they are connected. ( ) To distinguish\nanalogy from homology, biologists usually look at the overall\narchitecture of the organs and focus on their most useless\nproperties."
@@ -1211,7 +1211,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2024_09_q39",
-    "title": "호흡하는 다량의 용존 산소를 포함한다.",
+    "title": "Thus, as global warming raises the temperature of marine wat",
     "description": "호흡하는 다량의 용존 산소를 포함한다. 따뜻한 물이 보유하고 있는 것보다 차가운 물이 더 많은 용존 산소를 보유하고 있다는 사실은 물리학에서…",
     "content": [
       "Thus, as global warming raises the temperature of marine\nwaters, it is selfevident that the amount of dissolved\noxygen will decrease.\nSeawater contains an abundance of dissolved oxygen that all\nmarine animals breathe to stay alive. ( ) It has long been\nestablished in physics that cold water holds more dissolved\noxygen than warm water does ― this is one reason that cold\npolar seas are full of life while tropical oceans are blue, clear,\nand relatively poorly populated with living creatures. ( )\nThis is a worrisome and potentially disastrous consequence if\nallowed to continue to an ecosystem threatening level. ( )\nNow scientists have analyzed data indicating that the amount\nof dissolved oxygen in the oceans has been declining for more\nthan a half century. ( ) The data show that the ocean\noxygen level has been falling more rapidly than the\ncorresponding rise in water temperature. ( ) Falling oxygen\nlevels in water have the potential to impact the habitat of\nmarine organisms worldwide and in recent years this has led to\nmore frequent anoxic events that killed or displaced\npopulations of fish, crabs, and many other organisms. [3점]"
@@ -1229,7 +1229,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2024_09_q40",
-    "title": "명한 시인 Sheikh Saadi가 살았다.",
+    "title": "Capuchins ― New World Monkeys that live in large social grou",
     "description": "명한 시인 Sheikh Saadi가 살았다. 대부분의 다른 시인들과 철학자들처럼 그는 매우 검소한 생활을 했다.",
     "content": [
       "Capuchins ― New World Monkeys that live in large social\ngroups ― will, in captivity, trade with people all day long,\nespecially if food is involved.\nI give you this rock and you\ngive me a treat to eat. If you put two monkeys in cages\nnext to each other, and offer them both slices of cucumber\nfor the rocks they already have, they will happily eat the\ncucumbers. If, however, you give one monkey grapes\ninstead ― grapes being universally preferred to cucumbers\n― the monkey that is still receiving cucumbers will begin to\nthrow them back at the experimenter. Even though she is\nstill getting “paid” the same amount for her effort of\nsourcing rocks, and so her particular situation has not\nchanged, the comparison to another makes the situation\nunfair. Furthermore, she is now willing to abandon all gains\n― the cucumbers themselves ― to communicate her\ndispleasure to the experimenter.\n\nAccording to the passage, if the Capuchin monkey realizes the\n(A) in rewards compared to another monkey, she\nwill (B) her rewards to express her feelings about the\ntreatment, despite getting exactly the same rewards as before.\nbenefit …… protect\ninequality …… share\nabundance …… yield\ninequality …… reject\nbenefit …… display\n-- 7 of 8 --"
@@ -1248,7 +1248,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2025_09_q20",
-    "title": "종종, 학생들이 충분히 조용하고 그 순간 교사의 시간에 대한 긴급한 …",
+    "title": "Inefficient teachers overlook the potential power of the ope",
     "description": "잠재적인 힘을 간과한다. 종종, 학생들이 충분히 조용하고 그 순간 교사의 시간에 대한 긴급한 요 구가 많으면, 수업이 시작되기 전에 10분 …",
     "content": [
       "Inefficient teachers overlook the potential power of the opening\nminutes of class. Often, if students are quiet enough and if there\nare many pressing demands on a teacher’s time at that moment,\nmore than ten minutes can disappear before class starts. It’s no\nwonder that students are late for class; they have little reason to be\non time. You can use the first ten minutes to get your class off to a\ngreat start, or you can choose to waste this time. The first minutes\nset the tone for the rest of the class. If you are prepared for class\nand have taught your students an opening routine, they can use this\nbrief time to make mental and emotional transitions from the last\nclass or subject and prepare to focus on learning new material. In\nsummary, you should establish an opening routine to develop your\nclass with an effective start."
@@ -1266,7 +1266,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2025_09_q21",
-    "title": "당신이 숨을 쉴 때, 예 를 들어, 당신이 들이마신 원자 중 일부만이…",
+    "title": "Many atoms in your body are nearly as old as the universe it",
     "description": "자체만큼이나 오래되었다. 당신이 숨을 쉴 때, 예 를 들어, 당신이 들이마신 원자 중 일부만이 당신 의 다음 숨에서 내뱉어진다.",
     "content": [
       "Many atoms in your body are nearly as old as the universe itself.\nWhen you breathe, for example, only some of the atoms that you\ninhale are exhaled in your next breath. The remaining atoms are\ntaken into your body to become part of you, and they later leave\nyour body by various means. You don’t “own” the atoms that make\nup your body; you borrow them. We all share from the same atom\npool because atoms forever travel around, within, and among us.\nAtoms cycle from person to person as we breathe and as our sweat\nis evaporated. We recycle atoms on a grand scale. The origin of the\nlightest atoms goes back to the origin of the universe, and most\nheavier atoms are older than the Sun and Earth. There are atoms in\nyour body that have existed since the first moments of time,\nrecycling throughout the universe among limitless forms, both\nnonliving and living. You’re the present caretaker of the atoms in\nyour body. There will be many who will follow you."
@@ -1284,7 +1284,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2025_09_q22",
-    "title": "그것은 파기와 심기에서 물 주기와 수확하기까지 이르는 다양한 움직임을…",
+    "title": "The act of gardening itself is a fantastic form of physical ",
     "description": "인 형태이다. 그것은 파기와 심기에서 물 주기와 수확하기까지 이르는 다양한 움직임을 포함한다. 이런 활동들은 강인함, 유연성과 내구력을 향상…",
     "content": [
       "The act of gardening itself is a fantastic form of physical activity.\nIt involves a range of motions, from digging and planting to\nwatering and harvesting. These activities help improve strength,\nflexibility, and endurance. You might not realize it, but small tasks\nlike weeding or turning compost can burn many calories. Gardening\nis particularly beneficial for those who find traditional exercise\nchallenging. It’s a low impact way to stay active and fit, making it\naccessible for people of all ages and physical abilities. Besides\nphysical health, gardening has profound mental health benefits.\nTending to plants can be incredibly calming and meditative. It\nallows you to focus on the present moment, reducing stress and\nanxiety. The repetitive tasks involved in gardening can induce a\nstate of mindfulness, similar to meditation. Studies have shown that\nspending time in nature, even in a small garden, can elevate mood,\nimprove cognition, and reduce depression symptoms. The sense of\naccomplishment from watching your plants grow and thrive can also\nboost self esteem and overall well being."
@@ -1303,7 +1303,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2025_09_q23",
-    "title": "지각할 수 없는 자연 현상을 바꾸고 우리의 지각 으로 가져오는 도구들…",
+    "title": "For many centuries, humans have taken advantage of tools tha",
     "description": "지각할 수 없는 자연 현상을 바꾸고 우리의 지각 으로 가져오는 도구들을 이용해 왔다. 어떤 경우 에는, 이것은 우리의 일반적인 감각 입력으로…",
     "content": [
       "For many centuries, humans have taken advantage of tools that\ntranslate and bring into our perception natural phenomena that we\ncan’t perceive with our senses. In some cases, this consists of\nsimply amplifying signals that feed into our normal sensory inputs\n(e.g., telescopes can bring into clear view that which is too far\naway for our eyes to perceive on their own). Other instruments\nturn signals that we cannot perceive into ones that we can observe.\nSome of these take the form of expanding the reach of our current\nsenses, such as creating visible images based on the ultraviolet\nspectrum of light or changing sounds that are normally outside the\nrange of what human ears can hear into audible signals.\nAlternatively, some instruments measure properties for which we\nhave no sensory capacity at all and change them into that which we\ncan observe."
@@ -1320,7 +1320,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2025_09_q24",
-    "title": "사망률 감소의 유일한 원인이 아닐 뿐만 아니라, 인간 건강에 기여했던…",
+    "title": "Many opponents of animal experimentation argue that not only",
     "description": "사망률 감소의 유일한 원인이 아닐 뿐만 아니라, 인간 건강에 기여했던 많은 의학적 발전이 동물 실험의 결과가 아니었다고 주장한다.",
     "content": [
       "Many opponents of animal experimentation argue that not only is\nmodern medicine not the only cause for the decline in mortality,\nmany medical advances that did contribute to human health were\nnot the result of animal experimentation. Defenders of research\nhave claimed that since there is a strong correlation between the\npractice of animal experimentation and medical advancement, the\nformer caused the latter. Opponents of research reject this\ninference. After all, we have independent reasons to expect these\nphenomena to be correlated. Since the law prescribes that all new\ndrugs, prosthetic devices, and surgical techniques be tried on\nanimals before they are used in humans, we will subsequently find\nthat all medical advances are correlated with prior experimentation\non animals. Consequently, the correlation between animal\nexperimentation and medical discovery is the result of legal\nnecessity, not evidence that animal experimentation led to medical\nadvances. Moreover, several influential physicians have offered\nhistorical evidence that animal experimentation has not been as\nresponsible for biomedical discovery as defenders suggest. They\nclaim that clinical discoveries played a more substantial role than\nanimal researchers have led us to believe."
@@ -1338,7 +1338,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2025_09_q29",
-    "title": "으로부터의 위험에 대해 다른 방식으로 반응한다.",
+    "title": "Big mammalian herbivore species react to danger from predato",
     "description": "으로부터의 위험에 대해 다른 방식으로 반응한다. 어떤 종들은 그들이 위협을 감지할 때 긴장하고, 빠르고, 즉각적인 비행을 하도록 프로그램화되…",
     "content": [
       "Big mammalian herbivore species react to danger from\npredators or humans in different ways. Some species are nervous,\nfast, and programmed for instant flight when they perceive a\nthreat. Other species are slower, less nervous, seek protection in\nherds, stand their ground when threatened, and don’t run until\nnecessary. Naturally, the nervous species are difficult to keep in\ncaptivity. If putting into an enclosure, they are likely to panic,\nand either die of shock or hit themselves repeatedly to death\nagainst the fence in their attempts to escape. That’s true, for\nexample, of gazelles, which for thousands of years were the\nmost frequently hunted game species in some parts of the Fertile\nCrescent. There is no mammal species that the first settled\npeoples of that area had more opportunity to domesticate than\ngazelles. But no gazelle species has ever been domesticated.\nJust imagine trying to herd an animal that runs away, blindly\nhits itself against walls, can leap up to nearly 30 feet, and can\nrun at a speed of 50 miles per hour!"
@@ -1355,7 +1355,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2025_09_q30",
-    "title": "어난 종에게 있어, 자원이 풍부하고 외부의 위험 이 거의 없을 때 나…",
+    "title": "For a species born in a time when resources were limited and",
     "description": "어난 종에게 있어, 자원이 풍부하고 외부의 위험 이 거의 없을 때 나누고 협력하려는 우리의 타고 난 성향은 복잡하다.",
     "content": [
       "For a species born in a time when resources were limited and\ndangers were great, our natural tendency to share and cooperate\nis complicated when resources are plenty and outside dangers\nare few. When we have less, we tend to be more open to\nsharing what we have. Certain nomadic tribes don’t have much,\nyet they are happy to share because it is in their interest to\ndo so. If you happen upon them in your travels, they will open\nup their homes and give you their food and hospitality. It’s not\njust because they are nice people; it’s because their survival\ndepends on sharing, for they know that they may be the\ntravelers in need of food and shelter another day. Ironically, the\nmore we have, the bigger our fences, the more sophisticated\nour security to keep people away and the less we want to share.\nOur desire for more, combined with our increased physical\ninteraction with the “common folk,” starts to create a\ndisconnection or blindness to reality."
@@ -1373,7 +1373,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2025_09_q31",
-    "title": "나 불만족스러운 것은 좋은 일이 일어나면 행복하 고, 나쁜 일이 일어…",
+    "title": "Whether we feel happy or sad, content or discontent, is not ",
     "description": "나 불만족스러운 것은 좋은 일이 일어나면 행복하 고, 나쁜 일이 일어나면 슬픈 것처럼 단지 삶의 경험의 각각의 개별적인 연속적인 순간에 의해…",
     "content": [
       "Whether we feel happy or sad, content or discontent, is not\ndetermined merely by each individual successive moment of\nlife experience ― a good thing happens and I’m happy, a bad\nthing happens and I’m sad. While our experiences affect our\nmood, we are not blown in a completely new direction by each\ngust of wind. As humans, we adjust ― to new information and\nevents both good and bad ― and return to our personal default\nlevel of wellbeing. There will be highs and lows, but over\ntime, like water seeking its own level, we are pulled toward\nour baseline ― back\nup after bad news and back\ndown after\ngood. The euphoria of first love fades, and so does the despair\nof a breakup. This tendency is best seen with little kids and\ntheir toy joy: When they get what they’ve longed for, they\nbelieve they will be happy for the rest of their lives. And for\nthe first few minutes of the rest of their lives, they are. But\nthen the kids ― like adults ― ."
@@ -1390,7 +1390,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2025_09_q32",
-    "title": "넣기 위해 잠자는 것을 미룰 수 있지만, 결국 당 신의 수면에 대한 …",
+    "title": "Although you may put off going to sleep in order to squeeze ",
     "description": "넣기 위해 잠자는 것을 미룰 수 있지만, 결국 당 신의 수면에 대한 필요는 압도적이게 되고 잠을 잘 수 밖에 없게 된다.",
     "content": [
       "Although you may put off going to sleep in order to squeeze\nmore activities into your day, eventually your need for sleep\nbecomes overwhelming and you are forced to get some sleep.\nThis daily drive for sleep appears to be due, in part, to a\ncompound known as adenosine. This natural chemical builds up\nin your blood as time awake increases. While you sleep, your\nbody breaks down the adenosine. Thus, this molecule may be\nwhat your body uses to keep track of lost sleep and to trigger\nsleep when needed. An accumulation of adenosine and other\nfactors might explain why, after several nights of less than\noptimal amounts of sleep, you build up a sleep debt that you\nmust make up by sleeping longer than normal. Because of such\nbuiltin molecular feedback, you can’t become accustomed to\ngetting less sleep than your body needs. Eventually, a lack of\nsleep . [3점]"
@@ -1408,7 +1408,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2025_09_q33",
-    "title": "지구와 태양 사이의 거리, 즉 연중 한 지점에서 측정된 1.49597…",
+    "title": "One of the things that makes uncertainty difficult for membe",
     "description": "지구와 태양 사이의 거리, 즉 연중 한 지점에서 측정된 1.49597 × 10⁸km의 예를 들어보자. 이것은 상대적으로 정확해 보이지만, 결…",
     "content": [
       "One of the things that makes uncertainty difficult for members\nof the public to appreciate is that .\nTake, for example, the distance between Earth and the sun:"
@@ -1425,7 +1425,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2025_09_q34",
-    "title": "지구 온난화를 막기 위해 재생 가능 에너지 기반 시설을 구축할 때, …",
+    "title": "Richard Heinberg, an American journalist, argues that in bui",
     "description": "지구 온난화를 막기 위해 재생 가능 에너지 기반 시설을 구축할 때, 우리는 실제로 인류 역사상 가 장 큰 변화 프로젝트 중 하나에 관여하는 …",
     "content": [
       "Richard Heinberg, an American journalist, argues that in\nbuilding the renewable energy infrastructure to stop global\nwarming, we are actually involved in one of the greatest change\nprojects in human history. In addition to solar panels and wind\nturbines, we have to build an alternative transport infrastructure,\nfarming procedures and industrial processes. This transformation\ncannot happen without fossil fuels. For instance, production of\nconcrete structures and steel elements require amounts of\nenergy that is only possible to produce with fossil energy.\nProduction of solar panels requires scarce and expensive\nminerals which must be excavated, again requiring the use of\nfossil fuels. Thus, the harder we push towards a renewable\nenergy system, the faster .\nThis is not only expensive, but also an undermining factor for\nour efforts to cut global emissions. Heinberg remarks that the\ncost of building this new energy infrastructure is seldom\ncounted in transition proposals, which tend to focus just on\nenergy supply requirements. [3점]"
@@ -1443,7 +1443,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2025_09_q35",
-    "title": "고 인간과 같은 결정을 내릴 수 있는 기계를 꿈꿔 왔다.",
+    "title": "Humans for centuries have dreamed of machines that could bec",
     "description": "고 인간과 같은 결정을 내릴 수 있는 기계를 꿈꿔 왔다. 고대 그리스 이래로 로봇, 자동 장치, 인공 생명체에 대한 신화가 존재해 왔다.",
     "content": [
       "Humans for centuries have dreamed of machines that could\nbecome intelligent and make humanlike decisions. There have\nbeen myths about robots, automatons, and artificial beings\nsince ancient Greece (e.g., the myth of Pandora, who released\nills upon the world). Likewise, literature throughout history\nhas dreamed of creating humanlike creatures and thinking\nmachines (e.g., Mary Shelley’s\nFrankenstein). In 1950,\nBritish mathematician Alan Turing asked whether machines\ncould think and reason like humans and then developed the\nTuring test to measure a machine’s intelligence and whether\nthe machines can think autonomously. A few years later,\nMIT professor John McCarthy coined “artificial intelligence,”\nreplacing the previously used expression “automata studies.”\nBut artificial intelligence didn’t stop there; its first major\nappearance was in a movie where feeling artificial intelligence\nreplaced human characters with robots. Since then, artificial\nintelligence has become the study and practice of “making\nintelligent machines” that are programmed to think like humans\n― endowed by their creators with reasoning and learning."
@@ -1462,7 +1462,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2025_09_q36",
-    "title": "극복하기 위해 간단한 해결책을 가지고 있는데 그 것은 더위를 피하는 …",
+    "title": "The desert tortoise has a simple solution for coping with De",
     "description": "극복하기 위해 간단한 해결책을 가지고 있는데 그 것은 더위를 피하는 것이다. 그 느리게 움직이 는 생명체는 겨울에는 동면하고 대부분의 여름에…",
     "content": [
       "The desert tortoise has a simple solution for coping with\nDeath Valley’s extreme heat: It avoids it.\n(A) But to stay supplied with water through its extended\nhibernation, the reptile relies on something else ― its highly\nsophisticated bladder. Unlike most animals, the tortoise’s\nbladder acts as a holding tank, allowing it to reabsorb water\nback into its body. Incredibly, a desert tortoise can go a full\nyear without taking in any freshwater at all.\n(B) The slow moving creature hibernates during the winter\nand stays in its tunnel for much of the summer, meaning\nthat it spends more than 90 percent of its life immobile. In\nfact, the tortoise usually only surfaces after a good rain.\nThen, it gets to work. The tortoise stocks up on water by\neating plants and digging holes to collect rain.\n(C) And because its bladder is so important to a tortoise’s\nsurvival, park rangers often remind visitors not to stop and\nhelp the slow movers across the road. Tortoises become\nso terrified when people pick them up that they empty\ntheir bladders, losing their precious water reserves. [3점]"
@@ -1479,7 +1479,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2025_09_q37",
-    "title": "당신은 페달을 밟는 것을 멈추 고 당신을 앞으로 나아가게 하는 어떠한…",
+    "title": "Imagine you are pedalling your bicycle on a level road",
     "description": "고 상상해 보아라. 당신은 페달을 밟는 것을 멈추 고 당신을 앞으로 나아가게 하는 어떠한 힘도 이 제 작용하지 않는다.",
     "content": [
       "Imagine you are pedalling your bicycle on a level road.\nYou stop pedalling: no force is now acting to move you\nforward. What happens?\n(A) One of these is friction in the wheels rubbing on the\naxles. Another is air resistance, which you can feel,\npushing you backwards as you and the bicycle move\nforwards. When you apply these ideas to something\naround you, like a cart, you can see what could be\ngenerating friction: mainly the axles rubbing on the body\nas they rotate.\n(B) You gradually slow down. How could you slow down\nmore suddenly, in a shorter distance? By putting the\nbrakes on. Because the brakes change your movement,\nmaking you slow down more suddenly, they must be\nexerting a force on the bicycle and you, as they grip and\nrub on the wheelrims.\n(C) This is the force called friction, which tends to slow\ndown moving things by acting in the direction opposite to\nmovement, that is backwards. Even without the brakes\non, there are other friction forces acting on you and your\nbicycle, which also slow you down."
@@ -1498,7 +1498,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2025_09_q38",
-    "title": "면이나 장면을 찾기 위해 빨리 감기나 빨리 되감기 를 할 필요 없이 …",
+    "title": "Nonlinear editing, on the other hand, is like using a word p",
     "description": "면이나 장면을 찾기 위해 빨리 감기나 빨리 되감기 를 할 필요 없이 어떤 비디오 숏이나 장면으로의 임의적 접근을 가능하게 하는 비선형 컴퓨터…",
     "content": [
       "Nonlinear editing, on the other hand, is like using a word\nprocessing program.\nAll editing systems are now nonlinear computerbased\nsystems that allow random access to any video shot or scene\nwithout having to fast forward or fast reverse to find it.\nNonlinear systems can create a range of special effects, such\nas slow motion, wipes and dissolves. ( ) Another highlight\nof a digital nonlinear system is its random access process\nthat makes it easy for an editor to find desired shots or\nscenes without having to spend time fast forwarding or\nrewinding videotape. ( ) With nonlinear editing, shots or\nscenes can be easily added or removed anywhere in the\nprogram, and the computer adjusts the program length\nautomatically. ( ) Linear editing was like composing a\npaper on a typewriter. ( ) If a mistake was made or new\ninformation needed to be added the whole piece had to be\nretyped. ( ) If a mistake is made, it is easily deleted and\nfixed with a few keystrokes, and new information can be\nadded easily."
@@ -1515,7 +1515,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2025_09_q39",
-    "title": "보다 도덕적으로 나쁜 행동을 훨씬 덜 자주 하고, 도덕적으로 선한 행…",
+    "title": "A person who always tries to prevent harm but never does, is",
     "description": "보다 도덕적으로 나쁜 행동을 훨씬 덜 자주 하고, 도덕적으로 선한 행동을 훨씬 더 자주 하는 사람이 다. 사람을 판단할 때는 그녀의 행동뿐 …",
     "content": [
       "A person who always tries to prevent harm but never does,\nis not generally thought of as morally good.\nA morally good person is one who does morally bad\nactions significantly less often than most and does morally\ngood ones significantly more often than most. In judging a\nperson not only her actions but also her intentions and\nmotives are relevant. ( ) A morally good person must\nintend to do morally good actions and intend to avoid morally\nbad ones. ( ) A person who unintentionally prevents harm\nto others and does not harm them simply because things do\nnot turn out as she intends is not morally good. ( )\nAlthough this kind of situation generally occurs only in\nslapstick movies, it is worth mentioning to avoid the false\nimpression that it is the actual consequences of a person’s\nactions that count toward her being judged morally good or\nbad. ( ) But actual consequences are important. ( ) Of\nsuch a person, it may be said that she means well; but,\ncontrary to Kant, some results are necessary before she is\nregarded as morally good. [3점]"
@@ -1534,7 +1534,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high1_2025_09_q40",
-    "title": "차 있었던 동안, Dave는 목이 말랐다.",
+    "title": "Vision is influenced by our preconceptions about reality",
     "description": "차 있었던 동안, Dave는 목이 말랐다. 우리는 가 까이 앉아 있었지만 그와는 먼 곳에 앉아 있었고, 머리를 매만지며 다음 교시에 있을 공…",
     "content": [
       "Vision is influenced by our preconceptions about reality.\nIn viewing a scene, we establish unconscious hierarchies\nthat reflect our functional relationship to objects and our\nmomentary priorities. For example, when visualizing a\nhammer in our mind’s eye, we tend to “see” it in profile or\nat some other “ready for use” angle. One would probably not\nvisualize a hammer as seen from the top so that the handle\nis hidden by the hammer’s head. The functional relationship\nwe have with objects creates visual expectations that\ninterfere with our ability to see “like a camera.” The\ncamera, like the human eye, sees only shapes and colors. It\ndocuments the world impartially through a lens that is\nsimilar to the eye. When we look at them carefully,\nphotographs are often surprising because they don’t\ninterpret confusing details but simply serve them up to us\nwith a mechanical indifference. And because of their\nflatness, photographs often contain areas that appear as\nunrecognizable colors and shapes.\n\nOur visual perception is shaped by an established hierarchy\nbased on functional relationships, which (A) our\nability to see objects as they truly are, unlike the (B)\nperspective of a camera.\nenhances …… accurate\nsimplifies …… fixed\ninterrupts …… objective\nenhances …… neutral\ninterrupts …… inconsistent\n-- 7 of 8 --"
@@ -1553,7 +1553,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2021_09_q20",
-    "title": "치를 인정하는 개인적 발달의 여정에 나서지 않을 것이다.",
+    "title": "Without guidance from their teacher, students will not embar",
     "description": "치를 인정하는 개인적 발달의 여정에 나서지 않을 것이다. 하고 싶은 대로 내버려 두면, 그들은 본능 적으로 서로 점점 더 경쟁적이 될 것이다.",
     "content": [
       "Without guidance from their teacher, students will not embark\non a journey of personal development that recognizes the value of\ncooperation. Left to their own devices, they will instinctively\nbecome increasingly competitive with each other. They will\ncompare scores, reports, and feedback within the classroom\nenvironment ― just as they do in the sporting arena. We don’t\nneed to teach our students about winners and losers. The\nplayground and the media do that for them. However, we do need\nto teach them that there is more to life than winning and about\nthe skills they need for successful cooperation. A group working\ntogether successfully requires individuals with a multitude of\nsocial skills, as well as a high level of interpersonal awareness.\nWhile some students inherently bring a natural understanding of\nthese skills with them, they are always in the minority. To bring\ncooperation between peers into your classroom, you need to\nteach these skills consciously and carefully, and nurture them\ncontinuously throughout the school years."
@@ -1571,7 +1571,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2021_09_q21",
-    "title": "것은 우리가 상호 배타적이거나 모순된다고 가정하 는 생각과 행동의 경…",
+    "title": "The creative team exhibits paradoxical characteristics",
     "description": "것은 우리가 상호 배타적이거나 모순된다고 가정하 는 생각과 행동의 경향을 보여준다. 예를 들어, 최 고의 작업을 수행하기 위해서는 팀이 해결…",
     "content": [
       "The creative team exhibits paradoxical characteristics. It\nshows tendencies of thought and action that we’d assume to\nbe mutually exclusive or contradictory. For example, to do\nits best work, a team needs deep knowledge of subjects\nrelevant to the problem it’s trying to solve, and a mastery of\nthe processes involved. But at the same time, the team\nneeds fresh perspectives that are unencumbered by the\nprevailing wisdom or established ways of doing things. Often\ncalled a “beginner’s mind,” this is the newcomers’\nperspective: people who are curious, even playful, and willing\nto ask anything — no matter how naive the question may\nseem — because they don’t know what they don’t know. Thus,\nbringing together contradictory characteristics can accelerate\nthe process of new ideas."
@@ -1588,7 +1588,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2021_09_q22",
-    "title": "새로운 경기장 또는 경전철 시스템, 컨벤션 센터, 주택 프로젝트와 같…",
+    "title": "Too many officials in troubled cities wrongly imagine that t",
     "description": "새로운 경기장 또는 경전철 시스템, 컨벤션 센터, 주택 프로젝트와 같은 대규모 건설 프로젝트를 통 해 그들의 도시를 이전의 영광으로 되돌릴 …",
     "content": [
       "Too many officials in troubled cities wrongly imagine that\nthey can lead their city back to its former glories with\nsome massive construction project ― a new stadium or light\nrail system, a convention center, or a housing project. With\nvery few exceptions, no public policy can slow the tidal\nforces of urban change. We mustn’t ignore the needs of the\npoor people who live in the Rust Belt, but public policy\nshould help poor\npeople, not poor places. Shiny new real\nestate may dress up a declining city, but it doesn’t solve\nits underlying problems. The hallmark of declining cities is\nthat they have\ntoo much housing and infrastructure relative\nto the strength of their economies. With all that supply of\nstructure and so little demand, it makes no sense to use\npublic money to build more supply. The folly of\nbuilding centric urban renewal reminds us that cities aren’t\nstructures; cities are people."
@@ -1606,7 +1606,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2021_09_q23",
-    "title": "해양 종들은 그들이 미칠 수 있는 영향에 대한 정 보가 거의 없는 상…",
+    "title": "Many marine species including oysters, marsh grasses, and fi",
     "description": "해양 종들은 그들이 미칠 수 있는 영향에 대한 정 보가 거의 없는 상태에서 의도적으로 식량이나 침 식 방제를 위해 도입되었다.",
     "content": [
       "Many marine species including oysters, marsh grasses,\nand fish were deliberately introduced for food or for erosion\ncontrol, with little knowledge of the impacts they could\nhave. Fish and shellfish have been intentionally introduced\nall over the world for aquaculture, providing food and jobs,\nbut they can escape and become a threat to native species,\necosystem function, or livelihoods. Atlantic salmon are\nreared in ocean netpens in Washington State and British\nColumbia. Many escape each year, and they have been\nrecovered in both saltwater and freshwater in Washington\nState, British Columbia, and Alaska. Recreational fishing can\nalso spread invasive species. Bait worms from Maine are\npopular throughout the country. They are commonly packed\nin seaweed which contains many other organisms. If the\nseaweed is discarded, it or the organisms on it can colonize\nnew areas. Fishing boots, recreational boats, and trailers\ncan pick up organisms at one location and move them\nelsewhere."
@@ -1624,7 +1624,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2021_09_q24",
-    "title": "기념품 행상인들이 Battery Park City로 나아가기 전에, …",
+    "title": "Before the fancy high rises, financial headquarters, tourist",
     "description": "기념품 행상인들이 Battery Park City로 나아가기 전에, 세계 무역 센터 뒤편의 지역은 거대하고 혐 오스러운 쓰레기 매립지였다.",
     "content": [
       "Before the fancy high rises, financial headquarters, tourist\ncenters, and souvenir peddlers made their way to Battery\nPark City, the area behind the World Trade Center was a\ngiant, gross landfill. In 1982, artist Agnes Denes decided to\nreturn that landfill back to its roots, although temporarily.\nDenes was commissioned by the Public Art Fund to create\none of the most significant and fantastical pieces of public\nwork Manhattan has ever seen. Her concept was not a\ntraditional sculpture, but a living installation that changed\nthe way the public looked at art. In the name of art, Denes\nput a beautiful golden wheat field right in the shadow of\nthe gleaming Twin Towers. For\nWheatfield — A\nConfrontation, Denes and volunteers removed trash from\nfour acres of land, then planted amber waves of grain atop\nthe area. After months of farming and irrigation, the wheat\nfield was thriving and ready. The artist and her volunteers\nharvested thousands of pounds of wheat to give to food\nbanks in the city, nourishing both the minds and bodies of\nNew Yorkers.\nLiving Public Art Grows from a Landfill\nWhy Does Art Fade Away in Urban Areas?\nNew York: Skyscraper Capital of the World\nArt Narrows the Gap Between the Old and Young\nHow City Expansion Could Affect Food Production\n-- 3 of 8 --"
@@ -1644,7 +1644,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2021_09_q29",
-    "title": "여 고압에 적응해 왔고, 일부는 거의 물만으로 구 성되어 있다.",
+    "title": "Organisms living in the deep sea have adapted to the high pr",
     "description": "여 고압에 적응해 왔고, 일부는 거의 물만으로 구 성되어 있다. 대부분의 심해 유기체들은 부레가 없다. 그들은 냉혈 유기체들로 주변 환경에 …",
     "content": [
       "Organisms living in the deep sea have adapted to the high\npressure by storing water in their bodies, some consisting\nalmost entirely of water. Most deepsea organisms lack gas\nbladders. They are coldblooded organisms that adjust their\nbody temperature to their environment, allowing them\nto survive in the cold water while maintaining a low\nmetabolism. Many species lower their metabolism so much\nthat they are able to survive without food for long periods of\ntime, as finding the sparse food that is available expends a\nlot of energy. Many predatory fish of the deep sea are\nequipped with enormous mouths and sharp teeth, enabling\nthem to hold on to prey and overpower it. Some predators\nhunting in the residual light zone of the ocean has\nexcellent visual capabilities, while others are able to create\ntheir own light to attract prey or a mating partner."
@@ -1663,7 +1663,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2021_09_q30",
-    "title": "식 주기를 통해서는 결코 실현할 수 없었을 사과, 튤립, 감자에 있어…",
+    "title": "Human innovation in agriculture has unlocked modifications i",
     "description": "식 주기를 통해서는 결코 실현할 수 없었을 사과, 튤립, 감자에 있어 개량을 가능케 했다. 이러한 경 작 과정은 소비자들이 식료품 가게에서 …",
     "content": [
       "Human innovation in agriculture has unlocked modifications\nin apples, tulips, and potatoes that never would have been\nrealized through a plant’s natural reproductive cycles. This\ncultivation process has created some of the recognizable\nvegetables and fruits consumers look for in their grocery\nstores. However, relying on only a few varieties of\ncultivated crops can leave humankind vulnerable to\nstarvation and agricultural loss if a harvest is destroyed.\nFor example, a million people died over the course of three\nyears during the Irish potato famine because the Irish relied\nprimarily on potatoes and milk to create a nutritionally\nbalanced meal. In order to continue its symbiotic\nrelationship with cultivated plants, humanity must allow for\nbiodiversity and recognize the potential benefits that\nmonocultures of plants can introduce. Planting seeds of all\nkinds, even if they don’t seem immediately useful or\nprofitable, can ensure the longevity of those plants for\ngenerations to come. A balance must be struck between\nnature’s capacity for wildness and humanity’s desire for\ncontrol."
@@ -1682,7 +1682,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2021_09_q31",
-    "title": "다른 영역에 걸쳐 정신을 위한 일반적인 메커니즘 으로 작용한다.",
+    "title": "works as a general mechanism for the mind, in many ways and ",
     "description": "다른 영역에 걸쳐 정신을 위한 일반적인 메커니즘 으로 작용한다. 예를 들어, Mindless Eating의 저 자 Brian Wansink는…",
     "content": [
       "works as a general mechanism for the\nmind, in many ways and across many different areas of life.\nFor example, Brian Wansink, author of\nMindless Eating,\nshowed that it can also affect our waistlines. We decide how\nmuch to eat not simply as a function of how much food we\nactually consume, but by a comparison to its alternatives.\nSay we have to choose between three burgers on a menu, at\n8, 10, and 12 ounces. We are likely to pick the 10 ounce\nburger and be perfectly satisfied at the end of the meal. But\nif our options are instead 10, 12, and 14 ounces, we are\nlikely again to choose the middle one, and again feel equally\nhappy and satisfied with the 12 ounce burger at the end of\nthe meal, even though we ate more, which we did not need\nin order to get our daily nourishment or in order to feel full.\nOriginality Relativity\nVisualization Imitation\nForgetfulness"
@@ -1700,7 +1700,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2021_09_q32",
-    "title": "지식에 대한 철학자의 갈망은 그 답이 결코 발견 되지 않는다 하더라도…",
+    "title": "Philosophical activity is based on the",
     "description": "지식에 대한 철학자의 갈망은 그 답이 결코 발견 되지 않는다 하더라도 질문에 대한 더 나은 답을 찾으려는 시도를 통해 보이게 된다.",
     "content": [
       "Philosophical activity is based on the .\nThe philosopher’s thirst for knowledge is shown through\nattempts to find better answers to questions even if those\nanswers are never found. At the same time, a philosopher\nalso knows that being too sure can hinder the discovery of\nother and better possibilities. In a philosophical dialogue, the\nparticipants are aware that there are things they do not\nknow or understand. The goal of the dialogue is to arrive at\na conception that one did not know or understand beforehand.\nIn traditional schools, where philosophy is not present,\nstudents often work with factual questions, they learn\nspecific content listed in the curriculum, and they are not\nrequired to solve philosophical problems. However, we know\nthat awareness of what one does not know can be a good\nway to acquire knowledge. Knowledge and understanding are\ndeveloped through thinking and talking. Putting things into\nwords makes things clearer. Therefore, students must not be\nafraid of saying something wrong or talking without first\nbeing sure that they are right.\nrecognition of ignorance\nemphasis on selfassurance\nconformity to established values\nachievements of ancient thinkers\ncomprehension of natural phenomena\n-- 5 of 8 --"
@@ -1720,7 +1720,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2021_09_q33",
-    "title": "통을 견딜 수 있게 만드는 일종의 사랑을 가져다 주는 경험이다.",
+    "title": "The most powerful emotional experiences are those that bring",
     "description": "통을 견딜 수 있게 만드는 일종의 사랑을 가져다 주는 경험이다. 이러한 감정적 경험은 우리가 행복 하다고 느끼는 것으로 귀착하는(끝나는) 선…",
     "content": [
       "The most powerful emotional experiences are those that\nbring joy, inspiration, and the kind of love that makes\nsuffering bearable. These emotional experiences are the\nresult of choices and behaviors that result in our feeling\nhappy. When we look at happiness through a spiritual filter,\nwe realize that it does not mean the absence of pain or\nheartache. Sitting with a sick or injured child, every parent\ngets to know the profound joy that bubbles over when a son\nor daughter begins to heal. This is a simple example of how\nwe can be flooded with happiness that becomes more intense\nas we contrast it with previous suffering. Experiences such\nas this go into the chemical archives of the limbic system.\nEach time you experience true happiness, the stored\nemotions are activated as you are flooded with even deeper\njoy than you remembered. Your spiritual genes are, in a\nsense, . [3점]"
@@ -1739,7 +1739,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2021_09_q34",
-    "title": "있고, 어린이와 어른들은 그런 음식에 대한 취향을 발달시킨다.",
+    "title": "Deep fried foods are tastier than bland foods, and children ",
     "description": "있고, 어린이와 어른들은 그런 음식에 대한 취향을 발달시킨다. 지방이 많은 음식은 뇌로 하여금 진정, 항스트레스와 진정 효과를 가진 강력한 …",
     "content": [
       "Deep fried foods are tastier than bland foods, and\nchildren and adults develop a taste for such foods. Fatty\nfoods cause the brain to release oxytocin, a powerful\nhormone with a calming, antistress, and relaxing influence,\nsaid to be the opposite of adrenaline, into the blood stream;\nhence the term “comfort foods.” We may even be\ngenetically programmed to eat too much. For thousands of\nyears, food was very scarce. Food, along with salt, carbs,\nand fat, was hard to get, and the more you got, the better.\nAll of these things are necessary nutrients in the human\ndiet, and when their availability was limited, you could\nnever get too much. People also had to hunt down animals\nor gather plants for their food, and that took a lot of\ncalories. It’s different these days. We have food at every\nturn ― lots of those fast food places and grocery stores\nwith carry out food. But that ingrained “caveman mentality”\nsays that we can’t ever get too much to eat. So craving for\n“unhealthy” food may . [3점]\nactually be our body’s attempt to stay healthy\nultimately lead to harm to the ecosystem\ndramatically reduce our overall appetite\nsimply be the result of a modern lifestyle\npartly strengthen our preference for fresh food"
@@ -1759,7 +1759,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2021_09_q35",
-    "title": "적인 역할을 맡고 있으며 의사소통망의 중심에 위 치되어 있는데, 부분…",
+    "title": "Nurses hold a pivotal position in the mental health care str",
     "description": "적인 역할을 맡고 있으며 의사소통망의 중심에 위 치되어 있는데, 부분적으로는 그들의 환자들과의 높은 접촉 정도 뿐만 아니라 다른 전문직 종사…",
     "content": [
       "Nurses hold a pivotal position in the mental health care\nstructure and are placed at the centre of the communication\nnetwork, partly because of their high degree of contact with\npatients, but also because they have welldeveloped\nrelationships with other professionals. Because of this,\nnurses play a crucial role in interdisciplinary communication.\nThey have a mediating role between the various groups\nof professionals and the patient and carer. Mental\nhealthcare professionals are legally bound to protect the\nprivacy of their patients, so they may be, rather than\nunwilling, unable to talk about care needs. This involves\ntranslating communication between groups into language that\nis acceptable and comprehensible to people who have\ndifferent ways of understanding mental health problems.\nThis is a highly sensitive and skilled task, requiring a\nhigh level of attention to alternative views and a high level\nof understanding of communication."
@@ -1777,7 +1777,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2021_09_q36",
-    "title": "할 때, 문화는 결정적 질량(임계 질량)의 문제에 직면한다.",
+    "title": "When trying to sustain an independent ethos, cultures face a",
     "description": "할 때, 문화는 결정적 질량(임계 질량)의 문제에 직면한다. 자신 혼자서 행동하는 어떤 한 개인도 민족(사회) 정신을 만들어 낼 수 없다.",
     "content": [
       "When trying to sustain an independent ethos, cultures\nface a problem of critical mass. No single individual,\nacting on his or her own, can produce an ethos.\n(A) They manage this feat through a combination of trade,\nto support their way of life, and geographic isolation.\nThe Inuit occupy remote territory, removed from major\npopulation centers of Canada. If cross cultural contact\nwere to become sufficiently close, the Inuit ethos would\ndisappear.\n(B) Rather, an ethos results from the interdependent acts of\nmany individuals. This cluster of produced meaning may\nrequire some degree of insulation from larger and\nwealthier outside forces. The Canadian Inuit maintain\ntheir own ethos, even though they number no more than\ntwenty four thousand.\n(C) Distinct cultural groups of similar size do not, in the\nlong run, persist in downtown Toronto, Canada, where\nthey come in contact with many outside influences and\npursue essentially Western paths for their lives. [3점]"
@@ -1795,7 +1795,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2021_09_q37",
-    "title": "대비하여 더 많은 표면적을 가질수록 당신은 따뜻 함을 유지하기 위해 …",
+    "title": "Heat is lost at the surface, so the more surface area you ha",
     "description": "대비하여 더 많은 표면적을 가질수록 당신은 따뜻 함을 유지하기 위해 더 열심히 움직여야 한다. 그 것은 작은 생물이 큰 생물보다 더 빠르게 …",
     "content": [
       "Heat is lost at the surface, so the more surface area\nyou have relative to volume, the harder you must work\nto stay warm. That means that little creatures have to\nproduce heat more rapidly than large creatures.\n(A) Despite the vast differences in heart rates, nearly all\nmammals have about 800 million heartbeats in them if\nthey live an average life. The exception is humans. We\npass 800 million heartbeats after twentyfive years, and\njust keep on going for another fifty years and 1.6\nbillion heartbeats or so.\n(B) They must therefore lead completely different lifestyles.\nAn elephant’s heart beats just thirty times a minute, a\nhuman’s sixty, a cow’s between fifty and eighty, but a\nmouse’s beats six hundred times a minute — ten times a\nsecond. Every day, just to survive, the mouse must eat\nabout 50 percent of its own body weight.\n(C) We humans, by contrast, need to consume only about 2\npercent of our body weight to supply our energy\nrequirements. One area where animals are curiously\nuniform is with the number of heartbeats they have in a\nlifetime. [3점]\n(A) - (C) - (B) (B) - (A) - (C)\n(B) - (C) - (A) (C) - (A) - (B)\n(C) - (B) - (A)"
@@ -1814,7 +1814,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2021_09_q38",
-    "title": "아동문학의 텍스트(글)가 문화적으로 형성되고, 교 육적, 지적, 사회…",
+    "title": "It is possible to argue, for example, that, today, the influ",
     "description": "아동문학의 텍스트(글)가 문화적으로 형성되고, 교 육적, 지적, 사회적으로 매우 중요하다는 믿음에서 비롯된다.",
     "content": [
       "It is possible to argue, for example, that, today, the\ninfluence of books is vastly overshadowed by that of\ntelevision.\nInterest in ideology in children’s literature arises from a\nbelief that children’s literary texts are culturally formative,\nand of massive importance educationally, intellectually, and\nsocially. ( ) Perhaps more than any other texts, they\nreflect society as it wishes to be, as it wishes to be seen,\nand as it unconsciously reveals itself to be, at least to\nwriters. ( ) Clearly, literature is not the only socialising\nagent in the life of children, even among the media. ( )\nThere is, however, a considerable degree of interaction\nbetween the two media. ( ) Many so called children’s\nliterary classics are televised, and the resultant new book\neditions strongly suggest that viewing can encourage\nsubsequent reading. ( ) Similarly, some television series\nfor children are published in book form."
@@ -1833,7 +1833,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2021_09_q39",
-    "title": "무 종료 후 25년 이내에 위성을 궤도에서 제거해 줄 것을 요청하고 …",
+    "title": "There isn’t really a way for us to pick up smaller pieces of",
     "description": "무 종료 후 25년 이내에 위성을 궤도에서 제거해 줄 것을 요청하고 있다. 하지만 인공위성이 작동하 지 않을 수 있기(그리고 종종 정말로 작…",
     "content": [
       "There isn’t really a way for us to pick up smaller pieces\nof debris such as bits of paint and metal.\nThe United Nations asks that all companies remove their\nsatellites from orbit within 25 years after the end of their\nmission. This is tricky to enforce, though, because satellites\ncan (and often do) fail. ( ) To tackle this problem,\nseveral companies around the world have come up with\nnovel solutions. ( ) These include removing dead\nsatellites from orbit and dragging them back into the\natmosphere, where they will burn up. ( ) Ways we\ncould do this include using a harpoon to grab a satellite,\ncatching it in a huge net, using magnets to grab it, or even\nfiring lasers to heat up the satellite, increasing its\natmospheric drag so that it falls out of orbit. ( )\nHowever, these methods are only useful for large satellites\norbiting Earth. ( ) We just have to wait for them to\nnaturally re enter Earth’s atmosphere. [3점]"
@@ -1851,7 +1851,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2021_09_q40",
-    "title": "옛날에 Melanie라는 소녀가 살았다.",
+    "title": "Music is used to mold customer experience and behavior",
     "description": "옛날에 Melanie라는 소녀가 살았다. 그녀는 발 레 댄서가 되고 싶었다. 어느 날, Melanie의 엄마 는 Melanie가 발레리나의 …",
     "content": [
       "Music is used to mold customer experience and behavior.\nA study was conducted that explored what impact it has\non employees. Results from the study indicate that\nparticipants who listen to rhythmic music were inclined to\ncooperate more irrespective of factors like age, gender,\nand academic background, compared to those who listened\nto less rhythmic music. This positive boost in the\nparticipants’ willingness to cooperate was induced\nregardless of whether they liked the music or not. When\npeople are in a more positive state of mind, they tend to\nbecome more agreeable and creative, while those on the\nopposite spectrum tend to focus on their individual\nproblems rather than giving attention to solving group\nproblems. The rhythm of music has a strong pull on\npeople’s behavior. This is because when people listen to\nmusic with a steady pulse, they tend to match their\nactions to the beat. This translates to better teamwork\nwhen making decisions because everyone is following one\ntempo.\n\nAccording to the study, the music played in workplaces\ncan lead employees to be (A) because the beat\nof the music creates a (B) for working.\nuncomfortable …… competitive mood\ncooperative …… shared rhythm\ndistracted …… shared rhythm\nattentive …… competitive mood\nindifferent …… disturbing pattern\n-- 7 of 8 --"
@@ -1870,7 +1870,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2022_11_q20",
-    "title": "일하게 하고 신뢰와 투명성 같은 핵심적인 리더십 요 소에 활력을 준다.",
+    "title": "Clarity in an organization keeps everyone working in one acc",
     "description": "일하게 하고 신뢰와 투명성 같은 핵심적인 리더십 요 소에 활력을 준다. 여러분의 조직에서 누가 또는 무 엇이 평가되고 있는지 간에 그들이 무…",
     "content": [
       "Clarity in an organization keeps everyone working in one\naccord and energizes key leadership components like trust and\ntransparency. No matter who or what is being assessed in\nyour organization, what they are being assessed on must be\nclear and the people must be aware of it. If individuals in your\norganization are assessed without knowing what they are being\nassessed on, it can cause mistrust and move your organization\naway from clarity. For your organization to be productive,\ncohesive, and successful, trust is essential. Failure to have\ntrust in your organization will have a negative effect on the\nresults of any assessment. It will also significantly hinder the\ngrowth of your organization. To conduct accurate assessments,\ntrust is a must — which comes through clarity. In turn,\nassessments help you see clearer, which then empowers your\norganization to reach optimal success."
@@ -1887,7 +1887,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2022_11_q21",
-    "title": "예를 들어 분석적 인 일은 우리의 에너지가 높고 방해물이 없으며 집 …",
+    "title": "Research in the science of peak performance and motivation p",
     "description": "예를 들어 분석적 인 일은 우리의 에너지가 높고 방해물이 없으며 집 중할 수 있을 때 가장 잘 수행된다. 나는 보통 활기 찬 상태로 일어난다.",
     "content": [
       "Research in the science of peak performance and motivation\npoints to the fact that different tasks should ideally be matched\nto our energy level. For example, analytical tasks are best\naccomplished when our energy is high and we are free from\ndistractions and able to focus. I generally wake up energized.\nOver the years, I have consistently stuck to the habit of “eating\nmy problems for breakfast.” I’m someone who tends to\noverthink different scenarios and conversations that haven’t\nhappened yet. When I procrastinate on talking with an unhappy\nclient or dealing with an unpleasant email, I find I waste too\nmuch emotional energy during the day. It’s as if the task hangs\nover my head, and I’ll spend more time worrying about it,\ntalking about it, and avoiding it, than it would actually take to\njust take care of it. So for me, it’ll always be the first thing I\nget done. If you know you are not a morning person, be\nstrategic about scheduling your difficult work later in the day."
@@ -1906,7 +1906,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2022_11_q22",
-    "title": "그것이 새 로운 운동 습관을 시작하는 것이든 혹은 소셜 미디어 에 시…",
+    "title": "In one study, when researchers suggested that a date was ass",
     "description": "그것이 새 로운 운동 습관을 시작하는 것이든 혹은 소셜 미디어 에 시간을 덜 쓰는 것이든 연구자들이 제시하는 날짜 가 새로운 시작과 관련될 …",
     "content": [
       "In one study, when researchers suggested that a date was\nassociated with a new beginning (such as “the first day of\nspring”), students viewed it as a more attractive time to\nkick-start goal pursuit than when researchers presented it as\nan unremarkable day (such as “the third Thursday in March”).\nWhether it was starting a new gym habit or spending less time\non social media, when the date that researchers suggested was\nassociated with a new beginning, more students wanted to begin\nchanges right then. And more recent research by a different\nteam found that similar benefits were achieved by showing goal\nseekers modified weekly calendars. When calendars depicted\nthe current day (either Monday or Sunday) as the first day of\nthe week, people reported feeling more motivated to make\nimmediate progress on their goals."
@@ -1924,7 +1924,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2022_11_q23",
-    "title": "종종 노래를 불렀고 춤을 췄다.",
+    "title": "Native Americans often sang and danced in preparation for la",
     "description": "종종 노래를 불렀고 춤을 췄다. 이러한 준비의 노래에 서 야기된 감정적이고 신경 화학적인 흥분 상태가 그 들의 공격을 수행하기 위한 힘을 그…",
     "content": [
       "Native Americans often sang and danced in preparation for\nlaunching an attack. The emotional and neurochemical\nexcitement that resulted from this preparatory singing gave\nthem stamina to carry out their attacks. What may have begun\nas an unconscious, uncontrolled act — rushing their victims with\nsinging and beating drums in a frenzy — could have become a\nstrategy as the victors saw firsthand the effect their actions had\non those they were attacking. Although war dances risk warning\nan enemy of an upcoming attack, the arousal and synchronizing\nbenefits for the attackers may compensate for the loss of\nsurprise. Humans who sang, danced, and marched may have\nenjoyed a strong advantage on the battlefield as well as\nintimidated enemies who witnessed such a spectacle.\nNineteenth-and twentieth-century Germans feared no one\nmore than the Scots — the bagpipes and drums were disturbing\nin their sheer loudness and visual spectacle."
@@ -1942,7 +1942,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2022_11_q24",
-    "title": "그것은 또한 자전거의 상징적인 재해석과 동반되어 왔다.",
+    "title": "The recent “cycling as a lifestyle” craze has expressed itse",
     "description": "그것은 또한 자전거의 상징적인 재해석과 동반되어 왔다. 자 전거가 수년 동안 가난과 연관되었던 이후로, 비싼 여가용 자전거 또는 여가용으로부…",
     "content": [
       "The recent “cycling as a lifestyle” craze has expressed itself\nin an increase in the number of active cyclists and in growth of\ncycling club membership in several European, American,\nAustralian and Asian urban areas. It has also been accompanied\nby a symbolic reinterpretation of the bicycle. After the bicycle\nhad been associated with poverty for many years, expensive\nrecreational bicycles or recreationally-inspired commuting\nbicycles have suddenly become aspirational products in urban\nenvironments. In present times, cycling has become an activity\nwhich is also performed for its demonstrative value, its role in\nidentity construction and its effectiveness in impressing others\nand signaling social status. To a certain extent, cycling has\nturned into a symbolic marker of the well-off. Obviously,\nvalue-laden consumption behavior is by no means limited to\ncycling. However, the link with identity construction and\nconspicuous consumption has become particularly manifest in\nthe case of cycling."
@@ -1962,7 +1962,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2022_11_q29",
-    "title": "떤 특정한 활동을 시작하는 것을 방지하기 위해 만들 어진다는 것을 의…",
+    "title": "Pre-emption means that a strategy is designed to prevent a r",
     "description": "떤 특정한 활동을 시작하는 것을 방지하기 위해 만들 어진다는 것을 의미한다. 어떤 경우에는 선제적 조치 는 단순히 경쟁자들이 같은 행동을 하…",
     "content": [
       "Pre-emption means that a strategy is designed to prevent a\nrival from starting some particular activity. In some case a\npre-emptive move may simply be an announcement of some\nintent that might discourage rivals from doing the same. The\nidea of pre-emption implies that timing is sometimes very\nimportant — a decision or an action at one point in time might\nbe much more rewarding than doing it at a different time\npoint. Pre-emption may involve up-weighting advertising for a\nperiod before and during when a new entrant launches into a\nmarket. The intent is to make it more difficult for the new\nentrant’s advertising to make an impression on potential\nbuyers. Product proliferation is another potential pre-emption\nstrategy. The general idea is to launch a large variety of\nproduct variants so that there is very little in the way of\nmarket demand that are not accommodated. Arguably, if a\nmarket is already filled with product variants it is more difficult\nfor competitors to find untapped pockets of market demand."
@@ -1982,7 +1982,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2022_11_q30",
-    "title": "위장을 제공하는 시각적으로 평평하게 하는 과정이 다.",
+    "title": "Countershading is the process of optical flattening that pro",
     "description": "위장을 제공하는 시각적으로 평평하게 하는 과정이 다. 햇빛이 물체를 위에서 비출 때, 그 물체는 맨 위 에서 가장 밝을 것이다.",
     "content": [
       "Countershading is the process of optical flattening that\nprovides camouflage to animals. When sunlight illuminates an\nobject from above, the object will be brightest on top. The color\nof the object will gradually shade darker toward the bottom.\nThis shading gives the object depth and allows the viewer\nto distinguish its shape. Thus even if an animal is exactly,\nbut uniformly, the same color as the substrate, it will be\neasily visible when illuminated. Most animals, however, are\ndarker above than they are below. When they are illuminated\nfrom above, the darker back is lightened and the lighter\nbelly is shaded. The animal thus appears to be a single\ncolor and easily blends in with the substrate. This pattern\nof coloration, or countershading, reinforces the visual\nimpression of shape in the organism. It allows the animal to\nblend in with its background."
@@ -1999,7 +1999,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2022_11_q31",
-    "title": "유기체는 사건이 그들의 기대에 어긋날 때에만 학습한다.",
+    "title": "No learning is possible without an error signal",
     "description": "다. 유기체는 사건이 그들의 기대에 어긋날 때에만 학습한다. 다시 말해 놀람은 학습의 근본적인 동력 중 하나이다.",
     "content": [
       "No learning is possible without an error signal. Organisms\nonly learn when events violate their expectations. In other\nwords, surprise is one of the fundamental drivers of learning.\nImagine hearing a series of identical notes, AAAAA. Each note\ndraws out a response in the auditory areas of your brain — but\nas the notes repeat, those responses progressively decrease.\nThis is called “adaptation,” a deceptively simple phenomenon\nthat shows that your brain is learning to anticipate the next\nevent. Suddenly, the note changes: AAAAA#. Your primary\nauditory cortex immediately shows a strong surprise reaction:\nnot only does the adaptation fade away, but additional neurons\nbegin to vigorously fire in response to the unexpected sound.\nAnd it is not just repetition that leads to adaptation: what\nmatters is whether the notes are . For instance, if\nyou hear an alternating set of notes, such as ABABA, your\nbrain gets used to this alternation, and the activity in your\nauditory areas again decreases. This time, however, it is an\nunexpected repetition, such as ABABB, that triggers a surprise\nresponse.\naudible predictable\nobjective countable\nrecorded"
@@ -2016,7 +2016,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2022_11_q32",
-    "title": "금융상의 실패는 독감처럼 퍼지면서 채무자에서부터 은행, 보증인까지 나…",
+    "title": "The connectedness of the global economic market makes it vul",
     "description": "‘감염’에 취약하게 만든다. 금융상의 실패는 독감처럼 퍼지면서 채무자에서부터 은행, 보증인까지 나아갈 수 있다.",
     "content": [
       "The connectedness of the global economic market makes\nit vulnerable to potential “infection.” A financial failure can\nmake its way from borrowers to banks to insurers, spreading\nlike a flu. However, there are unexpected characteristics\nwhen it comes to such infection in the market. Infection can\noccur even without any contact. A bank might become\ninsolvent even without having any of its investments fail.\nto financial markets, just\nas cascading failures due to bad investments. If we all woke\nup tomorrow and believed that Bank X would be insolvent,\nthen it would become insolvent. In fact, it would be enough\nfor us to fear that others believed that Bank X was going to\nfail, or just to fear our collective fear! We might all even\nknow that Bank X was well-managed with healthy\ninvestments, but if we expected others to pull their money\nout, then we would fear being the last to pull our money out.\nFinancial distress can be self-fulfilling and is a particularly\ntroublesome aspect of financial markets."
@@ -2035,7 +2035,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2022_11_q33",
-    "title": "림없이 그것들을 먹을 수 없다는 점에서 음수는 양수보 다 훨씬 더 추…",
+    "title": "Negative numbers are a lot more abstract than positive numbe",
     "description": "림없이 그것들을 먹을 수 없다는 점에서 음수는 양수보 다 훨씬 더 추상적이지만 여러분은 그것들을 생각할 수 있으며, 채무에서부터 몹시 차가운…",
     "content": [
       "Negative numbers are a lot more abstract than positive\nnumbers — you can’t see negative 4 cookies and you certainly\ncan’t eat them — but you can think about them, and you\nhave to,\nin all aspects of daily life, from debts to contending with\nfreezing temperatures and parking garages. Still, many of us\nhaven’t quite made peace with negative numbers. People have\ninvented all sorts of funny little mental strategies to\n. On mutual\nfund statements, losses (negative numbers) are printed in red or\nstuck in parentheses with no negative sign to be found. The\nhistory books tell us that Julius Caesar was born in 100 B.C., not\n-100. The underground levels in a parking garage often have\ndesignations like B1 and B2. Temperatures are one of the few\nexceptions: folks do say, especially here in Ithaca, New York,\nthat it’s -5 degrees outside, though even then, many prefer to\nsay 5 below zero. There’s something about that negative sign\nthat just looks so unpleasant."
@@ -2053,7 +2053,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2022_11_q34",
-    "title": "인간은 다양한 생활 방식으로 그리고 다양한 환경에서 살고 있다.",
+    "title": "Observational studies of humans cannot be properly controlle",
     "description": "없다. 인간은 다양한 생활 방식으로 그리고 다양한 환경에서 살고 있다. 따라서 그들은 적절한 실험 대 상이 되기에 충분히 동질적이지 않다.",
     "content": [
       "Observational studies of humans cannot be properly\ncontrolled. Humans live different lifestyles and in different\nenvironments. Thus, they are insufficiently homogeneous to be\nsuitable experimental subjects. These\nconfounding factors\nundermine our ability to draw sound causal conclusions from\nhuman epidemiological surveys. Confounding factors are variables\n(known or unknown) that make it difficult for epidemiologists to\n. For example,\nTaubes argued that since many people who drink also smoke,\nresearchers have difficulty determining the link between\nalcohol consumption and cancer. Similarly, researchers in the\nfamous Framingham study identified a significant correlation\nbetween coffee drinking and coronary heart disease. However,\nmost of this correlation disappeared once researchers corrected\nfor the fact that many coffee drinkers also smoke. If the\nconfounding factors are known, it is often possible to correct\nfor them. However, if they are unknown, they will undermine\nthe reliability of the causal conclusions we draw from\nepidemiological surveys. [3점]"
@@ -2073,7 +2073,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2022_11_q35",
-    "title": "롭거나 더 이해하기 어려운 것은 없다.",
+    "title": "Of all the human emotions, none is trickier or more elusive ",
     "description": "롭거나 더 이해하기 어려운 것은 없다. 사람들의 행 동을 자극하는 질투를 실제로 알아차리는 것은 매우 어렵다.",
     "content": [
       "Of all the human emotions, none is trickier or more elusive\nthan envy. It is very difficult to actually discern the envy that\nmotivates people’s actions. The reason for this elusiveness is\nsimple: we almost never directly express the envy we are\nfeeling. Envy entails the admission to ourselves that we are\ninferior to another person in something we value. Not only is\nit painful to admit this inferiority, but it is even worse for\nothers to see that we are feeling this. Envy can cause illness\nbecause people with envy can cast the “evil eye” on someone\nthey envy, even unwittingly, or the envious person can become\nill from the emotion. And so almost as soon as we experience\nthe initial feelings of envy, we are motivated to disguise it to\nourselves — it is not envy we feel but unfairness at the\ndistribution of goods or attention, resentment at this unfairness,\neven anger."
@@ -2090,7 +2090,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2022_11_q36",
-    "title": "사생활 권리는 무엇보다도 전통적 으로 보호되거나 공개되지 않아야 할 …",
+    "title": "The right to be forgotten is a right distinct from but relat",
     "description": "사생활 권리는 무엇보다도 전통적 으로 보호되거나 공개되지 않아야 할 개인적인 것으로 여겨지는 정보에 대한 권리이다.",
     "content": [
       "The right to be forgotten is a right distinct from but\nrelated to a right to privacy. The right to privacy is, among\nother things, the right for information traditionally regarded\nas protected or personal not to be revealed.\n(A) One motivation for such a right is to allow individuals to\nmove on with their lives and not be defined by a specific\nevent or period in their lives. For example, it has long been\nrecognized in some countries, such as the UK and France,\nthat even past criminal convictions should eventually be\n“spent” and not continue to affect a person’s life.\n(B) The right to be forgotten, in contrast, can be applied to\ninformation that has been in the public domain. The right\nto be forgotten broadly includes the right of an individual\nnot to be forever defined by information from a specific\npoint in time.\n(C) Despite the reason for supporting the right to be forgotten,\nthe right to be forgotten can sometimes come into conflict\nwith other rights. For example, formal exceptions are\nsometimes made for security or public health reasons.\n(A) - (C) - (B) (B) - (A) - (C)\n(B) - (C) - (A) (C) - (A) - (B)\n(C) - (B) - (A)\n-- 6 of 8 --"
@@ -2108,7 +2108,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2022_11_q37",
-    "title": "상품을 소비함으로써 얻는 만족도가 또 다른 상품을 소비함으로써 얻는 …",
+    "title": "To an economist who succeeds in figuring out a person’s pref",
     "description": "상품을 소비함으로써 얻는 만족도가 또 다른 상품을 소비함으로써 얻는 만족도보다 더 큰지를 이해하는 것 에 성공한 경제학자에게는 행동을 기저에…",
     "content": [
       "To an economist who succeeds in figuring out a person’s\npreference structure — understanding whether the satisfaction\ngained from consuming one good is greater than that of\nanother — explaining behavior in terms of changes in\nunderlying likes and dislikes is usually highly problematic.\n(A) When income rises, for example, people want more children\n(or, as you will see later, more satisfaction derived from\nchildren), even if their inherent desire for children stays\nthe same.\n(B) To argue, for instance, that the baby boom and then the\nbaby bust resulted from an increase and then a decrease in\nthe public’s inherent taste for children, rather than a change\nin relative prices against a background of stable preferences,\nplaces a social scientist in an unsound position.\n(C) In economics, such an argument about birth rates would be\nequivalent to saying that a rise and fall in mortality could\nbe attributed to an increase in the inherent desire change\nfor death. For an economist, changes in income and prices,\nrather than changes in tastes, affect birth rates. [3점]\n(A) - (C) - (B) (B) - (A) - (C)\n(B) - (C) - (A) (C) - (A) - (B)\n(C) - (B) - (A)"
@@ -2127,7 +2127,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2022_11_q38",
-    "title": "게 하기에 충분한 항영양소가 있는 식물을 섭취하면 그 동물은 그 식물…",
+    "title": "It does this by making your taste buds perceive these flavor",
     "description": "게 하기에 충분한 항영양소가 있는 식물을 섭취하면 그 동물은 그 식물을 다시는 먹지 않을 것이다. 직관적으 로 동물은 또한 이러한 식물을 멀…",
     "content": [
       "It does this by making your taste buds perceive these flavors\nas bad and even disgusting.\nIn the natural world, if an animal consumes a plant with\nenough antinutrients to make it feel unwell, it won’t eat that\nplant again. Intuitively, animals also know to stay away from\nthese plants. Years of evolution and information being passed\ndown created this innate intelligence. ( ) This “intuition,”\nthough, is not just seen in animals. ( ) Have you ever\nwondered why most children hate vegetables? ( ) Dr. Steven\nGundry justifies this as part of our genetic programming, our\ninner intelligence. ( ) Since many vegetables are full of\nantinutrients, your body tries to keep you away from them\nwhile you are still fragile and in development. ( ) As you\ngrow and your body becomes stronger enough to tolerate these\nantinutrients, suddenly they no longer taste as bad as before."
@@ -2146,7 +2146,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2022_11_q39",
-    "title": "력의 차이는 효과적으로 ‘잡아 늘리는 힘’을 만든다.",
+    "title": "However, the rigidity of rock means that land rises and fall",
     "description": "력의 차이는 효과적으로 ‘잡아 늘리는 힘’을 만든다. 그것은 우리 행성을 달을 보는 방향으로 약간 늘어 나게 하고 그것에 직각을 이루는 선을…",
     "content": [
       "However, the rigidity of rock means that land rises and falls\nwith the tides by a much smaller amount than water, which is\nwhy we notice only the ocean tides.\nThe difference in the Moon’s gravitational pull on different\nparts of our planet effectively creates a “stretching force.” ( )\nIt makes our planet slightly stretched out along the line of sight\nto the Moon and slightly compressed along a line perpendicular\nto that. ( ) The tidal stretching caused by the Moon’s gravity\naffects our entire planet, including both land and water, inside\nand out. ( ) The stretching also explains why there are\ngenerally\ntwo high tides (and two low tides) in the ocean each\nday. ( ) Because Earth is stretched much like a rubber band,\nthe oceans bulge out both on the side facing toward the Moon\nand on the side facing away from the Moon. ( ) As Earth\nrotates, we are carried through both of these tidal bulges each\nday, so we have high tide when we are in each of the two bulges\nand low tide at the midpoints in between. [3점]"
@@ -2165,7 +2165,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2022_11_q40",
-    "title": "뇌가 우리를 속이는 일관성 있는 (그러나 반드시 사실 은 아닌) 이야…",
+    "title": "A study investigated the economic cost of prejudice based on",
     "description": "뇌가 우리를 속이는 일관성 있는 (그러나 반드시 사실 은 아닌) 이야기를 만들어 내는 데 있어 탁월하다는 것을 보여 주는 연구를 수행했다.",
     "content": [
       "A study investigated the economic cost of prejudice based\non blind assumptions. Researchers gave a group of Danish\nteenagers the choice of working with one of two people. The\nteenager had never met either of them. One of the people had\na name that suggested they were from a similar ethnic or\nreligious background to the teenager. The other had a name\nthat suggested they were from a different ethnic or religious\nbackground. The study showed that the teenagers were\nprepared to earn an average of 8% less if they could work\nwith someone they thought came from the same ethnic or\nreligious background. And this prejudice was evident among\nteenagers with ethnic majority names as well as those with\nethnic minority names. The teenagers were blindly making\nassumptions about the race of their potential colleagues.\nThey then applied prejudice to those assumptions, to the\npoint where they actually allowed that prejudice to reduce\ntheir own potential income. The job required the two\nteenagers to work together for just\n90 minutes."
@@ -2183,7 +2183,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2022_11_q42",
-    "title": "단지 연습 경기이기는 했지만 농구공은 마치 Chanel의 손에 속한 …",
+    "title": "The basketball felt like it belonged in Chanel’s hands even ",
     "description": "단지 연습 경기이기는 했지만 농구공은 마치 Chanel의 손에 속한 것처럼 느껴졌다. 그녀는 그녀의 쌍둥이 자매인 Vasha에게 공을 패스하…",
     "content": [
       "The basketball felt like it belonged in Chanel’s hands even\nthough it was only a practice game. She decided not to pass\nthe ball to her twin sister, Vasha. Instead, (a) she stopped,\njumped, and shot the ball toward the basket, but it bounced\noff the backboard. Chanel could see that her teammates were\ndisappointed. The other team got the ball and soon scored,\nending the game.\nThe next day, Chanel played in the championship game\nagainst a rival school. It was an intense game and the score\nwas tied when Chanel was passed the ball by Vasha, with ten\nseconds left in the game. (b) She leaped into the air and shot\nthe ball. It went straight into the basket! Chanel’s last shot\nhad made her team the champions. Vasha and all her other\nteammates cheered for her.\nAt first, Chanel did not like practicing with Vasha because\nevery time Vasha shot the ball, it went in. But whenever it\nwas Chanel’s turn, she missed. (c) She got frustrated at not\nmaking a shot. “Don’t give up!” Vasha shouted after each\nmissed shot. After twelve misses in a row, her thirteenth\nshot went in and she screamed, “I finally did it!” Her twin\nsaid, “I knew (d) you could! Now let’s keep practicing!”\nWhen the practice game ended, Chanel felt her eyes\nsting with tears. “It’s okay,” Vasha said in a comforting\nvoice. Chanel appreciated her, but Vasha wasn’t making her\nfeel any better. Vasha wanted to help her twin improve.\nShe invited her twin to practice with (e) her. After school,\nthey got their basketball and started practicing their\nbasketball shots."
@@ -2200,7 +2200,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2023_09_q20",
-    "title": "동했는지를 ‘파악하기’ 위해 심리학자 역할을 하려 고 자주 노력한다.",
+    "title": "Managers frequently try to play psychologist, to “figure out",
     "description": "동했는지를 ‘파악하기’ 위해 심리학자 역할을 하려 고 자주 노력한다. 그들의 관점을 이해하기 위해 직원들과 공감하는 것은 매우 도움이 될 수…",
     "content": [
       "Managers frequently try to play psychologist, to “figure\nout” why an employee has acted in a certain way.\nEmpathizing with employees in order to understand their point\nof view can be very helpful. However, when dealing with a\nproblem area, in particular, remember that it is not the\nperson who is bad, but the actions exhibited on the job.\nAvoid making suggestions to employees about personal traits\nthey should change; instead suggest more acceptable ways of\nperforming. For example, instead of focusing on a person’s\n“unreliability,” a manager might focus on the fact that the\nemployee “has been late to work seven times this month.” It\nis difficult for employees to change who they are; it is\nusually much easier for them to change how they act."
@@ -2218,7 +2218,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2023_09_q21",
-    "title": "더 앞서 ‘생각한다’고 짐작한다.",
+    "title": "I suspect fungi are a little more forward “thinking” than th",
     "description": "더 앞서 ‘생각한다’고 짐작한다. 나무들 사이에서 각 종은 다른 종들과 싸운다. 중부 유럽 태생의 너 도밤나무가 그곳의 숲 대부분에서 우세하…",
     "content": [
       "I suspect fungi are a little more forward “thinking” than\ntheir larger partners. Among trees, each species fights other\nspecies. Let’s assume the beeches native to Central Europe\ncould emerge victorious in most forests there. Would this\nreally be an advantage? What would happen if a new\npathogen came along that infected most of the beeches and\nkilled them? In that case, wouldn’t it be more advantageous\nif there were a certain number of other species around ―\noaks, maples, or firs ― that would continue to grow and\nprovide the shade needed for a new generation of young\nbeeches to sprout and grow up? Diversity provides security\nfor ancient forests. Because fungi are also very dependent\non stable conditions, they support other species underground\nand protect them from complete collapse to ensure that one\nspecies of tree doesn’t manage to dominate."
@@ -2237,7 +2237,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2023_09_q22",
-    "title": "날 정도로 우리가 긴장을 푸는 데 도움이 된다는 것은 주목할 만하다.",
+    "title": "It’s remarkable that positive fantasies help us relax to suc",
     "description": "날 정도로 우리가 긴장을 푸는 데 도움이 된다는 것은 주목할 만하다. 만약 여러분이 긴장을 풀고 싶다면, 심호흡하거나, 마사지를 받거나, 산…",
     "content": [
       "It’s remarkable that positive fantasies help us relax to\nsuch an extent that it shows up in physiological tests. If\nyou want to unwind, you can take some deep breaths, get a\nmassage, or go for a walk ― but you can also try simply\nclosing your eyes and fantasizing about some future outcome\nthat you might enjoy. But what about when your objective is\nto make your wish a reality? The\nlast thing you want to be\nis relaxed. You want to be energized enough to get off the\ncouch and lose those pounds or find that job or study for\nthat test, and you want to be motivated enough to stay\nengaged even when the inevitable obstacles or challenges\narise. The principle of “Dream it. Wish it. Do it.” does not\nhold true, and now we know why: in dreaming it, you\nundercut the energy you need to do it. You put yourself in\na temporary state of complete happiness, calmness ― and\ninactivity."
@@ -2255,7 +2255,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2023_09_q23",
-    "title": "하는 것만큼 요리가 인간의 정체성, 생물학 및 문 화에 중요하다면, …",
+    "title": "If cooking is as central to human identity, biology, and cul",
     "description": "하는 것만큼 요리가 인간의 정체성, 생물학 및 문 화에 중요하다면, 우리 시대의 요리 감소가 현대 생활에 심각한 결과들을 초래한다고 추론하는…",
     "content": [
       "If cooking is as central to human identity, biology, and\nculture as the biological anthropologist Richard Wrangham\nsuggests, it stands to reason that the decline of cooking in\nour time would have serious consequences for modern life,\nand so it has. Are they all bad? Not at all. The outsourcing\nof much of the work of cooking to corporations has relieved\nwomen of what has traditionally been their exclusive\nresponsibility for feeding the family, making it easier for\nthem to work outside the home and have careers. It has\nheaded off many of the domestic conflicts that such a large\nshift in gender roles and family dynamics was bound to\nspark. It has relieved other pressures in the household,\nincluding longer workdays and overscheduled children, and\nsaved us time that we can now invest in other pursuits. It\nhas also allowed us to diversify our diets substantially,\nmaking it possible even for people with no cooking skills\nand little money to enjoy a whole different cuisine. All\nthat’s required is a microwave.\ncurrent trends in commercial cooking equipment\nenvironmental impacts of shifts in dietary patterns\ncosteffective ways to cook healthy meals at home\nreasons behind the decline of the food service industry\nbenefits of reduced domestic cooking duties through outsourcing"
@@ -2276,7 +2276,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2023_09_q24",
-    "title": "떻게 구매하는지는 정치적일 수 있다.",
+    "title": "As you may already know, what and how you buy can be politic",
     "description": "떻게 구매하는지는 정치적일 수 있다. 여러분은 여러분의 돈을 누구에게 주고 싶은가? 여러분은 어떤 회사와 기업을 가치 있게 여기고 존중하는 가?",
     "content": [
       "As you may already know, what and how you buy can\nbe political. To whom do you want to give your money?\nWhich companies and corporations do you value and respect?\nBe mindful about every purchase by carefully researching\nthe corporations that are taking our money to decide if they\ndeserve our support. Do they have a record of polluting the\nenvironment, or do they have fairtrade practices and an\nendoflife plan for the products they make? Are they\ncommitted to bringing about good in the world? For instance,\nmy family has found a company producing recycled,\nplasticpackagingfree toilet paper with a social conscience.\nThey contribute 50 percent of their profits to the\nconstruction of toilets around the world, and we’re genuinely\nhappy to spend our money on this special toilet paper each\nmonth. Remember that the corporate world is built on\nconsumers, so as a consumer you have the power to vote\nwith your wallet and encourage companies to embrace\nhealthier and more sustainable practices with every purchase\nyou choose to make.\nGreen Businesses: Are They Really Green?\nFair Trade Does Not Always Appeal to Consumers\nBuy Consciously, Make Companies Do the Right Things\nDo Voters Have a Powerful Impact on Economic Policy?\nThe Secret to Saving Your Money: Record Your Spending\n-- 3 of 8 --"
@@ -2295,7 +2295,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2023_09_q29",
-    "title": "것은 의심할 여지가 거의 없다.",
+    "title": "There is little doubt that we are driven by the sellby date",
     "description": "것은 의심할 여지가 거의 없다. 일단 어떤 품목이 그 기한을 지나면 폐기물 흐름으로 들어가고, 이 는 그것의 탄소 발자국을 더욱더 증가시킨다.",
     "content": [
       "There is little doubt that we are driven by the sellby\ndate. Once an item is past that date it goes into the waste\nstream, further increasing its carbon footprint. Remember\nthose items have already travelled hundreds of miles\nreach the shelves and once they go into waste they start\na new carbon mile journey. But we all make our own\njudgement about sellby dates; those brought up during the\nSecond World War are often scornful of the terrible waste\nthey believe such caution encourages. The manufacturer of\nthe food has a view when making or growing something\nthat by the time the product reaches the shelves it has\nalready been travelling for so many days and possibly many\nmiles. The manufacturer then decides that a product can\nreasonably be consumed within say 90 days and 90 days\nminus so many days for travelling gives the sellby date.\nBut whether it becomes toxic is something each individual\ncan decide. It would seem to make sense not to buy large\npacks of perishable goods but nonperishable items may\nbecome costeffective."
@@ -2312,7 +2312,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2023_09_q30",
-    "title": "카페인은 여러분의 간 안에 있는 효소에 의해 여 러분의 신체로부터 제…",
+    "title": "The “jolt” of caffeine does wear off",
     "description": "카페인은 여러분의 간 안에 있는 효소에 의해 여 러분의 신체로부터 제거되는데, 이 효소는 시간이 지남에 따라 그것을 점진적으로 분해한다.",
     "content": [
       "The “jolt” of caffeine does wear off. Caffeine is\nremoved from your system by an enzyme within your\nliver, which gradually degrades it over time. Based in large\npart on genetics, some people have a more efficient version\nof the enzyme that degrades caffeine, allowing the liver\nto rapidly clear it from the bloodstream. These rare\nindividuals can drink an espresso with dinner and fall fast\nasleep at midnight without a problem. Others, however, have\na sloweracting version of the enzyme. It takes far longer\nfor their system to eliminate the same amount of caffeine.\nAs a result, they are very insensitive to caffeine’s\neffects. One cup of tea or coffee in the morning will last\nmuch of the day, and should they have a second cup, even\nearly in the afternoon, they will find it difficult to fall\nasleep in the evening. Aging also alters the speed of\ncaffeine clearance: the older we are, the longer it takes our\nbrain and body to remove caffeine, and thus the more sensitive\nwe become in later life to caffeine’s sleepdisrupting influence."
@@ -2332,7 +2332,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2023_09_q31",
-    "title": "“모두가 그것을 하고 있다.”라고 말하는 것은 일부 사람들로 하여 금…",
+    "title": "Rebels may think they’re rebels, but clever marketers influe",
     "description": "“모두가 그것을 하고 있다.”라고 말하는 것은 일부 사람들로 하여 금 어떠한 생각에 대해 흥미를 잃게 할지도 모른 다.",
     "content": [
       "Rebels may think they’re rebels, but clever marketers\ninfluence them just like the rest of us. Saying, “Everyone is\ndoing it” may turn some people off from an idea. These\npeople will look for alternatives, which (if cleverly planned)\ncan be exactly what a marketer or persuader wants you to\nbelieve. If I want you to consider an idea, and know you\nstrongly reject popular opinion in favor of maintaining your\nindependence and uniqueness, I would present the majority\noption first, which you would reject in favor of my actual\npreference. We are often tricked when we try to maintain a\nposition of defiance. People use this to make\nusindependently” choose an option which suits their\npurposes. Some brands have taken full effect of our defiance\ntowards the mainstream and positioned themselves as rebels;\nwhich has created even stronger brand loyalty. [3점]"
@@ -2349,7 +2349,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2023_09_q32",
-    "title": "어내며, 그 세계에서는 프로그램 제작자들의 마음 속에만 먼저 존재하고…",
+    "title": "A typical soap opera creates an abstract world, in which a h",
     "description": "어내며, 그 세계에서는 프로그램 제작자들의 마음 속에만 먼저 존재하고 그러고 나서 시청자의 마음 속에 재현되는 허구의 캐릭터들을 매우 복잡한…",
     "content": [
       "A typical soap opera creates an abstract world, in which\na highly complex web of relationships connects fictional\ncharacters that exist first only in the minds of the\nprogram’s creators and are then recreated in the minds of\nthe viewer. If you were to think about how much human\npsychology, law, and even everyday physics the viewer\nmust know in order to follow and speculate about the plot,\nyou would discover it is considerable — at least as much as\nthe knowledge required to follow and speculate about a\npiece of modern mathematics, and in most cases, much\nmore. Yet viewers follow soap operas with ease. How are\nthey able to cope with such abstraction? Because, of\ncourse, the abstraction .\nThe characters in a soap opera and the relationships\nbetween them are very much like the real people and\nrelationships we experience every day. The abstraction of a\nsoap opera is only a step removed from the real world. The\nmental “training” required to follow a soap opera is provided\nby our everyday lives. [3점]"
@@ -2369,7 +2369,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2023_09_q33",
-    "title": "먹잇감은 수백만 년 동안 생사를 가르는 감각 군 비 경쟁에 참여해 왔다.",
+    "title": "As always happens with natural selection, bats and their pre",
     "description": "먹잇감은 수백만 년 동안 생사를 가르는 감각 군 비 경쟁에 참여해 왔다. 나방의 청력은 특히 박쥐 에게 잡아먹히는 위협에 대한 반응으로 생겨…",
     "content": [
       "As always happens with natural selection, bats and their\nprey have for millions\nof years. It’s believed that hearing in moths arose\nspecifically in response to the threat of being eaten by bats.\n(Not all insects can hear.) Over millions of years, moths\nhave evolved the ability to detect sounds at ever higher\nfrequencies, and, as they have, the frequencies of bats’\nvocalizations have risen, too. Some moth species have also\nevolved scales on their wings and a furlike coat on their\nbodies; both act as “acoustic camouflage,” by absorbing\nsound waves in the frequencies emitted by bats, thereby\npreventing those sound waves from bouncing back. The B2\nbomber and other “stealth” aircraft have fuselages made of\nmaterials that do something similar with radar beams. [3점]"
@@ -2386,7 +2386,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2023_09_q34",
-    "title": "나머지는 처리하기 쉬운 상태로 분류하도록 설계 된다.",
+    "title": "Much of human thought is designed to screen out information ",
     "description": "나머지는 처리하기 쉬운 상태로 분류하도록 설계 된다. 특히 문화와 사회에서 이용할 수 있는 엄청 난 양의 정보를 고려할 때, 우리의 감각에서…",
     "content": [
       "Much of human thought is designed to screen out\ninformation and to sort the rest into a manageable condition.\nThe inflow of data from our senses could create an\noverwhelming chaos, especially given the enormous amount of\ninformation available in culture and society. Out of all the\nsensory impressions and possible information, it is vital to\nfind a small amount that is most relevant to our individual\nneeds and to organize that into a usable stock of knowledge.\nExpectancies accomplish some of this work, helping to screen\nout information that is irrelevant to what is expected, and\nfocusing our attention on clear contradictions. The processes\nof learning and memory .\nPeople notice only a part of the world around them. Then,\nonly a fraction of what they notice gets processed and stored\ninto memory. And only part of what gets committed to\nmemory can be retrieved. [3점]"
@@ -2405,7 +2405,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2023_09_q35",
-    "title": "럽의 통치자들이 매우 오랫동안 현저하게 약했기 때문에 그것이 번성하고…",
+    "title": "The irony of early democracy in Europe is that it thrived an",
     "description": "럽의 통치자들이 매우 오랫동안 현저하게 약했기 때문에 그것이 번성하고 번영했다는 것이다. 로마 의 멸망 후 천 년 넘게, 유럽의 통치자들은 …",
     "content": [
       "The irony of early democracy in Europe is that it thrived\nand prospered precisely because European rulers for a very\nlong time were remarkably weak. For more than a\nmillennium after the fall of Rome, European rulers lacked\nthe ability to assess what their people were producing and\nto levy substantial taxes based on this. The most striking\nway to illustrate European weakness is to show how little\nrevenue they collected. For this reason, tax collectors in\nEurope were able to collect a huge amount of revenue and\ntherefore had a great influence on how society should\nfunction. Europeans would eventually develop strong\nsystems of revenue collection, but it took them an awfully\nlong time to do so. In medieval times, and for part of the\nearly modern era, Chinese emperors and Muslim caliphs\nwere able to extract much more of economic production than\nany European ruler with the exception of small city states."
@@ -2425,7 +2425,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2023_09_q36",
-    "title": "여러분은 자주 서로의 바로 옆에서 경쟁하는 많은 업체들을 발견할 것이다.",
+    "title": "If you drive down a busy street, you will find many competin",
     "description": "여러분은 자주 서로의 바로 옆에서 경쟁하는 많은 업체들을 발견할 것이다. 예를 들어, 대부분의 장 소에서 빠른 식사를 찾는 소비자는 많은 선…",
     "content": [
       "If you drive down a busy street, you will find many\ncompeting businesses, often right next to one another.\nFor example, in most places a consumer in search of a\nquick meal has many choices, and more fast food\nrestaurants appear all the time.\n(A) Yes, costs rise, but consumers also gain information to\nhelp make purchasing decisions. Consumers also benefit\nfrom added variety, and we all get a product that’s\npretty close to our vision of a perfect good — and no\nother market structure delivers that outcome.\n(B) However, this misconception doesn’t account for why\nfirms advertise. In markets where competitors sell\nslightly differentiated products, advertising enables firms\nto inform their customers about new products and\nservices.\n(C) These competing firms advertise heavily. The temptation\nis to see advertising as driving up the price of a\nproduct without any benefit to the consumer.\n(A) - (C) - (B) (B) - (A) - (C)\n(B) - (C) - (A) (C) - (A) - (B)\n(C) - (B) - (A)\n-- 6 of 8 --"
@@ -2443,7 +2443,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2023_09_q37",
-    "title": "때문에 기계는 결코 혁신적이거나 인상적인 건물 을 디자인할 수 없다고…",
+    "title": "Architects might say a machine can never design an innovativ",
     "description": "때문에 기계는 결코 혁신적이거나 인상적인 건물 을 디자인할 수 없다고 말할지도 모른다. 그러나 Hamburg에 있는, 1만 개의 서로 맞물리…",
     "content": [
       "Architects might say a machine can never design an\ninnovative or impressive building because a computer\ncannot be “creative.” Yet consider the Elbphilharmonie, a\nnew concert hall in Hamburg, which contains a\nremarkably beautiful auditorium composed of ten thousand\ninterlocking acoustic panels.\n(A) Are these systems behaving “creatively”? No, they are\nusing lots of processing power to blindly generate\nvaried possible designs, working in a very different way\nfrom a human being.\n(B) It is the sort of space that makes one instinctively\nthink that only a human being — and a human with a\nremarkably refined creative sensibility, at that — could\ndesign something so aesthetically impressive. Yet the\nauditorium was, in fact, designed algorithmically, using\na technique known as “parametric design.”\n(C) The architects gave the system a set of criteria, and it\ngenerated a set of possible designs for the architects to\nchoose from. Similar software has been used to design\nlightweight bicycle frames and sturdier chairs, among\nmuch else. [3점]"
@@ -2461,7 +2461,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2023_09_q38",
-    "title": "비록 뇌는 사람 체중의 단지 3퍼센트를 차지하지만, 사용 가능한 연료…",
+    "title": "You don’t sit back and speculate about the meaning of life w",
     "description": "비자이다. 비록 뇌는 사람 체중의 단지 3퍼센트를 차지하지만, 사용 가능한 연료의 20퍼센트를 소비 한다. 그러나 여러분의 뇌는 연료를 저장…",
     "content": [
       "You don’t sit back and speculate about the meaning of\nlife when you are stressed.\nThe brain is a highenergy consumer of glucose, which is\nits fuel. Although the brain accounts for merely 3 percent of\na person’s body weight, it consumes 20 percent of the\navailable fuel. ( ) Your brain can’t store fuel, however,\nso it has to “pay as it goes.” ( ) Since your brain is\nincredibly adaptive, it economizes its fuel resources. ( )\nThus, during a period of high stress, it shifts away from the\nanalysis of the nuances of a situation to a singular and fixed\nfocus on the stressful situation at hand. ( ) Instead, you\ndevote all your energy to trying to figure out what action to\ntake. ( ) Sometimes, however, this shift from the\nhigherthinking parts of the brain to the automatic and\nreflexive parts of the brain can lead you to do something\ntoo quickly, without thinking."
@@ -2481,7 +2481,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2023_09_q39",
-    "title": "왔는데, 이는 이론적 그리고 실제적 둘 다의 관점 에서 중요한 문제이다.",
+    "title": "It is, however, noteworthy that although engagement drives j",
     "description": "왔는데, 이는 이론적 그리고 실제적 둘 다의 관점 에서 중요한 문제이다. 업무 몰입의 동기를 알아 내는 것은 우리가 그것을 조작하거나 그것에…",
     "content": [
       "It is, however, noteworthy that although engagement\ndrives job performance, job performance also drives\nengagement.\nMuch research has been carried out on the causes of\nengagement, an issue that is important from both a\ntheoretical and practical standpoint: identifying the drivers of\nwork engagement may enable us to manipulate or influence\nit. ( ) The causes of engagement fall into two major\ncamps: situational and personal. ( ) The most influential\nsituational causes are job resources, feedback and leadership,\nthe latter, of course, being responsible for job resources and\nfeedback. ( ) Indeed, leaders influence engagement by\ngiving their employees honest and constructive feedback on\ntheir performance, and by providing them with the necessary\nresources that enable them to perform their job well. ( )\nIn other words, when employees are able to do their jobs\nwell — to the point that they match or exceed their own\nexpectations and ambitions — they will engage more, be\nproud of their achievements, and find work more meaningful.\n( ) This is especially evident when people are employed\nin jobs that align with their values. [3점]"
@@ -2498,7 +2498,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2023_09_q40",
-    "title": "2006년에 연구자들은 미국을 향한 9.11 테 러 공격 이후에 도움…",
+    "title": "In 2006, researchers conducted a study on the motivations fo",
     "description": "2006년에 연구자들은 미국을 향한 9.11 테 러 공격 이후에 도움을 주려는 동기에 대한 연 구를 수행했다.",
     "content": [
       "In 2006, researchers conducted a study on the\nmotivations for helping after the September 11th terrorist\nattacks against the United States. In the study, they\nfound that individuals who gave money, blood, goods, or\nother forms of assistance because of otherfocused\nmotives (giving to reduce another’s discomfort) were\nalmost four times more likely to still be giving support\none year later than those whose original motivation was\nto reduce personal distress. This effect likely stems from\ndifferences in emotional arousal. The events of\nSeptember 11th emotionally affected people throughout\nthe United States. Those who gave to reduce their own\ndistress reduced their emotional arousal with their initial\ngift, discharging that emotional distress. However, those\nwho gave to reduce others’ distress did not stop\nempathizing with victims who continued to struggle long\nafter the attacks."
@@ -2516,7 +2516,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2024_09_q20",
-    "title": "면 더 만족할 것이라고 여러분의 아이들을 설득하 는 것만으로는 그들이…",
+    "title": "Merely convincing your children that worry is senseless and ",
     "description": "면 더 만족할 것이라고 여러분의 아이들을 설득하 는 것만으로는 그들이 걱정하는 것을 멈추게 하지 않을 것이다.",
     "content": [
       "Merely convincing your children that worry is senseless and\nthat they would be more content if they didn’t worry isn’t\ngoing to stop them from worrying. For some reason, young\npeople seem to believe that worry is a fact of life over\nwhich they have little or no control. Consequently, they don’t\neven try to stop. Therefore, you need to convince them that\nworry, like guilt and fear, is nothing more than an emotion,\nand like all emotions, is subject to the power of the will. Tell\nthem that they can eliminate worry from their lives by simply\nrefusing to attend to it. Explain to them that if they refuse\nto act worried regardless of how they feel, they will\neventually stop feeling worried and will begin to experience\nthe contentment that accompanies a worryfree life."
@@ -2533,7 +2533,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2024_09_q21",
-    "title": "에서 목표는 더 이상 오류 방지와 반복 가능성이 아니다.",
+    "title": "In today’s information age, in many companies and on many te",
     "description": "에서 목표는 더 이상 오류 방지와 반복 가능성이 아니다. 반대로, 그것은 창의성, 속도 그리고 명민 함이다.",
     "content": [
       "In today’s information age, in many companies and on\nmany teams, the objective is no longer error prevention and\nreplicability. On the contrary, it’s creativity, speed, and\nkeenness. In the industrial era, the goal was to minimize\nvariation. But in creative companies today, maximizing\nvariation is more essential. In these situations, the biggest\nrisk isn’t making a mistake or losing consistency; it’s failing\nto attract top talent, to invent new products, or to change\ndirection quickly when the environment shifts. Consistency\nand repeatability are more likely to suppress fresh thinking\nthan to bring your company profit. A lot of little mistakes,\nwhile sometimes painful, help the organization learn quickly\nand are a critical part of the innovation cycle. In these\nsituations, rules and process are no longer the best answer.\nA symphony isn’t what you’re going for. Leave the\nconductor and the sheet music behind. Build a jazz band\ninstead.\nFoster variation within an organization.\nLimit the scope of variability in businesses.\nInvent a new way of minimizing risktaking.\nPromote teamwork to forecast upcoming changes.\nShare innovations over a sufficient period of time."
@@ -2551,7 +2551,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2024_09_q22",
-    "title": "재난 상 황 중에는 소통이 매우 중요해서 보통의 사회적 장벽이 자주 …",
+    "title": "Any new or threatening situation may require us to make deci",
     "description": "재난 상 황 중에는 소통이 매우 중요해서 보통의 사회적 장벽이 자주 낮아진다. 우리는 평상시에는 전혀 고려하지 않을 방식으로 낯선 사람에게 …",
     "content": [
       "Any new or threatening situation may require us to make\ndecisions and this requires information. So important is\ncommunication during a disaster that normal social barriers\nare often lowered. We will talk to strangers in a way we\nwould never consider normally. Even relatively low grade\ndisruption of our life such as a fire drill or a very late train\nseems to give us the permission to break normal etiquette\nand talk to strangers. The more important an event to a\nparticular public, the more detailed and urgent the\nrequirement for news becomes. Without an authoritative\nsource of facts, whether that is a newspaper or trusted\nbroadcast station, rumours often run riot. Rumours start\nbecause people believe their group to be in danger and so,\nalthough the rumour is unproven, feel they should pass it on.\nFor example, if a worker heard that their employer’s business\nwas doing badly and people were going to be made redundant,\nthey would pass that information on to colleagues."
@@ -2569,7 +2569,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2024_09_q23",
-    "title": "장소에 특유한 특정 문화적 전통, 특정 공유 지식, 그리고 특정 가치…",
+    "title": "People seem to recognize that the arts are cultural activiti",
     "description": "장소에 특유한 특정 문화적 전통, 특정 공유 지식, 그리고 특정 가치와 아이디어에 기반한(또는 이에 반하는) 문화적 활동이라고 인식하는 것 …",
     "content": [
       "People seem to recognize that the arts are cultural\nactivities that draw on (or react against) certain cultural\ntraditions, certain shared understanding, and certain values\nand ideas that are characteristic of the time and place in\nwhich the art is created. In the case of science, however,\nopinions differ. Some scientists, like the great biologist J. B.\nS. Haldane, see science in a similar light ― as a historical\nactivity that occurs in a particular time and place, and that\nneeds to be understood within that context. Others,\nhowever, see science as a purely “objective” pursuit,\nuninfluenced by the cultural viewpoint and values of those\nwho create it. In describing this view of science, philosopher\nHugh Lacey speaks of the belief that there is an underlying\norder of the world which is simply there to be discovered ―\nthe world of pure “fact” stripped of any link with value. The\naim of science according to this view is to represent this\nworld of pure “fact”, independently of any relationship it\nmight bear contingently to human practices and experiences."
@@ -2589,7 +2589,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2024_09_q24",
-    "title": "범과 신호를 스스로 습득하는 것으로 이루어지는 데, 그들은 더 유능한…",
+    "title": "Mental development consists of individuals increasingly mast",
     "description": "범과 신호를 스스로 습득하는 것으로 이루어지는 데, 그들은 더 유능한 개인들, 일반적으로 성인들 의 도움을 받는 사회적 상황에서만 이를 습득…",
     "content": [
       "Mental development consists of individuals increasingly\nmastering social codes and signals themselves, which they can\nmaster only in social situations with the support of more\ncompetent individuals, typically adults. In this sense, mental\ndevelopment consists of internalizing social patterns and\ngradually becoming a responsible actor among other\nresponsible actors. In Denmark, the age of criminal\nresponsibility is 15 years, which means that we then say that\npeople have developed sufficient mental maturity to be\naccountable for their actions at this point. And at the age of\n18 people are given the right to vote and are thereby formally\nincluded in the basic democratic process. I do not know\nwhether these age boundaries are optimal, but it is clear that\nmental development takes place at different rates for different\nindividuals, and depends especially on the social and family\nenvironment they have been given. Therefore, having formal\nlimits for responsibility from a specific age that apply to\neveryone is a somewhat questionable practice. But the\nquestion, of course, is whether it can be done any differently.\nAdult Influence Is Key to Child Development\nHow Can Social Codes Limit People’s Cognition?\nDemocracy Grows Only with Responsible Youth\nSetting Responsibilities Based on Age: Is It Appropriate?\nAging: A Possible Obstacle to Consistent Personal Growth\n-- 3 of 8 --"
@@ -2607,7 +2607,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2024_09_q29",
-    "title": "우리가 태양을 공전하는 하나의 행성에 사는 거주 자일 뿐이라고 이해하…",
+    "title": "One well known shift took place when the accepted view ― tha",
     "description": "우리가 태양을 공전하는 하나의 행성에 사는 거주 자일 뿐이라고 이해하는 관점으로 바뀌었을 때 잘 알려진 한 가지 변화가 일어났다.",
     "content": [
       "One well known shift took place when the accepted view\n― that the Earth was the center of the universe — changed\nto one where we understood that we are only inhabitants on\none planet orbiting the Sun. With each person who\ngrasped the solar system view, it became easier for the\nnext person to do so. So it is with the notion that the\nworld revolves around the human economy. This is slowly\nbeing replaced by the view that the economy is a part of\nthe larger system of material flows that connect all living\nthings. When this perspective shifts into place, it will be\nobvious that our economic well being requires that we\naccount for, and respond to, factors of ecological health.\nUnfortunately we do not have a century or two make the\nchange. By clarifying the nature of the old and new\nperspectives, and by identifying actions on which we\nmight cooperate to move the process along, we can help\naccelerate the shift."
@@ -2627,7 +2627,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2024_09_q30",
-    "title": "가능한 열대 지역에서 진화했다.",
+    "title": "The first human beings probably evolved in tropical regions ",
     "description": "가능한 열대 지역에서 진화했다. 밝은 피부는 강 렬한 태양 광선에 대한 보호를 거의 제공하지 못 했을 것이기 때문에 그들은 매우 어두운 피부…",
     "content": [
       "The first human beings probably evolved in tropical\nregions where survival was possible without clothing. It is\nlikely that they had very dark skin because light skin would\nhave given little protection against the burning rays of the\nsun. There is a debate about whether these people spread\ninto other parts of the world or, instead, whether people\ndeveloped independently in various parts of the world.\nWhichever the case, it is believed that in time they became\ncapable of spreading out from Africa, eventually to most\nof the world. This was probably because their physical\ncharacteristics changed. For instance, early hominids\nprobably did not walk upright, but when they developed that\nability, they could travel more efficiently. More important,\nperhaps, was their development of tool making. With\ntools, they could hunt other animals, so they could consume\nmore protein and fat than their low energy vegetarian diet\nwould have provided. Not only their bodies but also their\nbrains would have been changed with more energy. The\nbrain needs lots of energy to grow. As their diet reduced,\nhominids could physically and intellectually expand their\nterritory."
@@ -2647,7 +2647,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2024_09_q31",
-    "title": "불리한 결과와 불공정한 과정 의 결합이 분노를 불러일으키지만, 이 결…",
+    "title": "When we get an unfavorable outcome, in some ways the last th",
     "description": "불리한 결과와 불공정한 과정 의 결합이 분노를 불러일으키지만, 이 결합은 또 한 위로의 상, 즉 나쁜 결과를 우리 자신 이외의 다른 무언가의…",
     "content": [
       "When we get an unfavorable outcome, in some ways the\nlast thing we want to hear is that the process was fair. As\noutraging as the combination of an unfavorable outcome and\nan unfair process is, this combination also brings with it a\nconsolation prize: the possibility of attributing the bad\noutcome to something other than ourselves. We may\nreassure ourselves by believing that our bad outcome had\nlittle to do with us and everything to do with the unfair\nprocess. If the process is fair, however, we cannot nearly\nas easily the outcome; we got what we got “fair\nand square.” When the process is fair we believe that our\noutcome is deserved, which is another way of saying that\nthere must have been something about ourselves (what we\ndid or who we are) that caused the outcome. [3점]"
@@ -2664,7 +2664,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2024_09_q32",
-    "title": "Louis Kroeber는 약 3세기 전으로 거슬러 올라가 판화 복제…",
+    "title": "The well known American ethnologist Alfred Louis Kroeber mad",
     "description": "Louis Kroeber는 약 3세기 전으로 거슬러 올라가 판화 복제품을 사용하여 서양의 여성 이브닝 드레 스에 대한 풍부하고 심도 있는 연…",
     "content": [
       "The well known American ethnologist Alfred Louis\nKroeber made a rich and in depth study of women’s evening\ndress in the West, stretching back about three centuries and\nusing reproductions of engravings. Having adjusted the\ndimensions of these plates due to their diverse origins, he\nwas able to analyse the constant elements in fashion\nfeatures and to come up with a study that was neither\nintuitive nor approximate, but precise, mathematical and\nstatistical. He reduced women’s clothing to a certain number\nof features: length and size of the skirt, size and depth of\nthe neckline, height of the waistline. He demonstrated\nunambiguously that fashion is which\nis not located at the level of annual variations but on the\nscale of history. For practically 300 years, women’s dress\nwas subject to a very precise periodic cycle: forms reach\nthe furthest point in their variations every fifty years. If, at\nany one moment, skirts are at their longest, fifty years\nlater they will be at their shortest; thus skirts become long\nagain fifty years after being short and a hundred years\nafter being long. [3점]"
@@ -2681,7 +2681,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2024_09_q33",
-    "title": "어느 때보다 훨씬 더 부유하게 만듦에 따라, 인류 의 집합적 부가 급…",
+    "title": "Over the last few centuries, humanity’s collective prosperit",
     "description": "어느 때보다 훨씬 더 부유하게 만듦에 따라, 인류 의 집합적 부가 급증했다. 이러한 부를 나누기 위 해 거의 모든 사회는 사람들에게 그들이 …",
     "content": [
       "Over the last few centuries, humanity’s collective\nprosperity has skyrocketed, as technological progress has\nmade us far wealthier than ever before. To share out those\nriches, almost all societies have settled upon the market\nmechanism, rewarding people in various ways for the work\nthat they do and the things that they own. But rising\ninequality, itself often driven by technology, has started to\nput that mechanism under strain. Today, markets already\nprovide immense rewards to some people but leave many\nothers with very little. And now, technological\nunemployment threatens to become a more radical version\nof the same story, taking place in the particular market we\nrely upon the most: the labor market. As that market\nbegins to break down, more and more people will be in\ndanger of . [3점]\nnot receiving a share of society’s prosperity at all\nmaking too large of an investment in new areas\nnot fully comprehending technological terms\nunconsciously wasting the rewards from their work\nnot realizing the reason to raise their cost of living"
@@ -2701,7 +2701,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2024_09_q34",
-    "title": "할 수 있는 사람은 기본을 가르칠 수 없 다고 말하는 것이 더 정확할…",
+    "title": "It’s often said that those who can’t do, teach",
     "description": "할 수 있는 사람은 기본을 가르칠 수 없 다고 말하는 것이 더 정확할 것이다. 많은 전문 지식은 명시적이지 않고 암시적이다.",
     "content": [
       "It’s often said that those who can’t do, teach. It would\nbe more accurate to say that those who can do, can’t teach\nthe basics. A great deal of expert knowledge is implicit, not\nexplicit. The further you progress toward mastery,\n. Experiments show\nthat skilled golfers and wine aficionados have a hard time\ndescribing their putting and tasting techniques — even asking\nthem to explain their approaches is enough to interfere with\ntheir performance, so they often stay on autopilot. When I\nfirst saw an elite diver do four and a half somersaults, I\nasked how he managed to spin so fast. His answer: “Just\ngo up in a ball.” Experts often have an intuitive\nunderstanding of a route, but they struggle to clearly\nexpress all the steps to take. Their brain dump is partially\nfilled with garbage. [3점]"
@@ -2719,7 +2719,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2024_09_q35",
-    "title": "이것은 또한 대부분의 영양소, 특히 많은 비 타민과 항산화물질과 같은…",
+    "title": "Minimal processing can be one of the best ways to keep origi",
     "description": "이것은 또한 대부분의 영양소, 특히 많은 비 타민과 항산화물질과 같은 가장 민감한 영양소를 유지하는 효율적인 방법일 수 있다.",
     "content": [
       "Minimal processing can be one of the best ways to keep\noriginal flavors and taste, without any need to add artificial\nflavoring or additives, or too much salt. This would also be\nthe efficient way to keep most nutrients, especially the\nmost sensitive ones such as many vitamins and\nanti oxidants. Milling of cereals is one of the most harsh\nprocesses which dramatically affect nutrient content. While\ngrains are naturally very rich in micronutrients, anti oxidants\nand fiber (i.e. in wholemeal flour or flakes), milling usually\nremoves the vast majority of minerals, vitamins and fibers to\nraise white flour. To increase grain production, the use of\nchemical fertilizers should be minimized, and insect resistant\ngrain varieties should be developed. Such a spoilage of\nkey nutrients and fiber is no longer acceptable in the context\nof a sustainable diet aiming at an optimal nutrient density\nand health protection. In contrast, fermentation of various\nfoodstuffs or germination of grains are traditional, locally\naccessible, low energy and highly nutritious processes of\nsounded interest."
@@ -2738,7 +2738,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2024_09_q36",
-    "title": "사람을 더 많이 좋아할 것이라는 점은 명확해 보 일 것이다.",
+    "title": "It would seem obvious that the more competent someone is, th",
     "description": "사람을 더 많이 좋아할 것이라는 점은 명확해 보 일 것이다. 나는, ‘능력’이라는 것을, 똑똑함, 일을 수행하는 능력, 지혜로운 결정 등과 …",
     "content": [
       "It would seem obvious that the more competent\nsomeone is, the more we will like that person. By\n“competence,” I mean a cluster of qualities: smartness, the\nability to get things done, wise decisions, etc.\n(A) If this were true, we might like people more if they\nreveal some evidence of fallibility. For example, if your\nfriend is a brilliant mathematician, superb athlete, and\ngourmet cook, you might like him or her better if, every\nonce in a while, they screwed up.\n(B) One possibility is that, although we like to be around\ncompetent people, those who are\ntoo competent make us\nuncomfortable. They may seem unapproachable, distant,\nsuperhuman ― and make us look bad (and feel worse) by\ncomparison.\n(C) We stand a better chance of doing well at our life tasks\nif we surround ourselves with people who know what\nthey’re doing and have a lot to teach us. But the\nresearch evidence is paradoxical: In problemsolving\ngroups, the participants who are considered the most\ncompetent and have the best ideas tend not to be the\nones who are best liked. Why?"
@@ -2755,7 +2755,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2024_09_q37",
-    "title": "력을 생성하는 컴퓨터를 사용하는 알고리즘은 실제 로 의미라는 그 어떤…",
+    "title": "A computational algorithm that takes input data and generate",
     "description": "력을 생성하는 컴퓨터를 사용하는 알고리즘은 실제 로 의미라는 그 어떤 개념도 구현하지 않는다. 분 명히, 그러한 컴퓨터 계산은 일반적으로 그…",
     "content": [
       "A computational algorithm that takes input data and\ngenerates some output from it doesn’t really embody any\nnotion of meaning. Certainly, such a computation does not\ngenerally have as its purpose its own survival and\nwell being.\n(A) Some bees might not bother to make the journey,\nconsidering it not worthwhile. The input, such as it is,\nis processed in the light of the organism’s own internal\nstates and history; there is nothing prescriptive about\nits effects.\n(B) It does not, in general, assign value to the inputs.\nCompare, for example, a computer algorithm with the\nwaggle dance of the honeybee, by which means a\nforaging bee conveys to others in the hive information\nabout the source of food (such as nectar) it has\nlocated.\n(C) The “dance” ― a series of stylized movements on the\ncomb ― shows the bees how far away the food is and\nin which direction. But this input does not simply\nprogram other bees to go out and look for it. Rather,\nthey evaluate this information, comparing it with their\nown knowledge of the surroundings. [3점]"
@@ -2773,7 +2773,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2024_09_q38",
-    "title": "예를 들어, 바이러스에 감염 된 다른 사람들과 아주 근접해 있거나 어…",
+    "title": "But there are also important differences between the two typ",
     "description": "깊은 유사성이 있다. 예를 들어, 바이러스에 감염 된 다른 사람들과 아주 근접해 있거나 어느 정도 근접해 있는 사람들은 그들도 감염될 가능성…",
     "content": [
       "But there are also important differences between the two\ntypes of contagion.\nThere are deep similarities between viral contagion and\nbehavioral contagion. ( ) For example, people in close or\nextended proximity to others infected by a virus are\nthemselves more likely to become infected, just as people\nare more likely to drink excessively when they spend more\ntime in the company of heavy drinkers. ( ) One is that\nvisibility promotes behavioral contagion but inhibits the\nspread of infectious diseases. ( ) Solar panels that are\nvisible from the street, for instance, are more likely to\nstimulate neighboring installations. ( ) In contrast, we try\nto avoid others who are visibly ill. ( ) Another important\ndifference is that whereas viral contagion is almost always a\nbad thing, behavioral contagion is sometimes negative ― as\nin the case of smoking ― but sometimes positive, as in the\ncase of solar installations."
@@ -2790,7 +2790,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2024_09_q39",
-    "title": "가지 호기심을 끄는 사실은 동면하고 있는 동물들 또한 잠자는 기간을 …",
+    "title": "Real hibernation involves profound unconsciousness and a dra",
     "description": "가지 호기심을 끄는 사실은 동면하고 있는 동물들 또한 잠자는 기간을 가진다는 점이다. 그것은 우 리 대부분에게 놀라움으로 다가오지만, 동면과…",
     "content": [
       "Real hibernation involves profound unconsciousness and a\ndramatic fall in body temperature ― often to around 32\ndegrees Fahrenheit.\nSleep is clearly about more than just resting. One curious\nfact is that animals that are hibernating also have periods of\nsleep. It comes as a surprise to most of us, but hibernation\nand sleep are not the same thing at all, at least not from a\nneurological and metabolic perspective. ( ) Hibernating is\nmore like being anesthetized: the subject is unconscious but\nnot actually asleep. ( ) So a hibernating animal needs to\nget a few hours of conventional sleep each day within the\nlarger unconsciousness. ( ) A further surprise to most of\nus is that bears, the most famous of wintry sleepers, don’t\nactually hibernate. ( ) By this definition, bears don’t\nhibernate, because their body temperature stays near normal\nand they are easily awakened. ( ) Their winter sleeps\nare more accurately called a state of torpor. [3점]"
@@ -2808,7 +2808,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2024_09_q40",
-    "title": "나의 두 딸은 발달과 사회적 상호 작용에 있 어서 어려움 없이 성장했다.",
+    "title": "The concern about how we appear to others can be seen in chi",
     "description": "나의 두 딸은 발달과 사회적 상호 작용에 있 어서 어려움 없이 성장했다. 하지만, 나의 아들 Benjamin은 꽤 더뎠다.",
     "content": [
       "The concern about how we appear to others can be\nseen in children, though work by the psychologist Ervin\nStaub suggests that the effect may vary with age. In a\nstudy where children heard another child in distress,\nyoung children (kindergarten through second grade) were\nmore likely to help the child in distress when with\nanother child than when alone. But for older children ― in\nfourth and sixth grade ― the effect reversed: they were\nless likely to help a child in distress when they were\nwith a peer than when they were alone. Staub suggested\nthat younger children might feel more comfortable acting\nwhen they have the company of a peer, whereas older\nchildren might feel more concern about being judged by\ntheir peers and fear feeling embarrassed by overreacting.\nStaub noted that “older children seemed to discuss the\ndistress sounds less and to react to them less openly\nthan younger children.” In other words, the older children\nwere deliberately putting on a poker face in front of their\npeers.\n\nThe study suggests that, contrary to younger children,\nolder children are less likely to help those in distress in\nthe (A) of others because they care more about\nhow they are (B) .\npresence …… evaluated\npresence …… motivated\nabsence …… viewed\nabsence …… assisted\naudience …… trained\n-- 7 of 8 --"
@@ -2827,7 +2827,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2025_09_q20",
-    "title": "략은 다른 군대를 공격할 때 군대를 지휘하는 행 동 계획이며, 전술은…",
+    "title": "“Tactics” is a term drawn from military usage",
     "description": "략은 다른 군대를 공격할 때 군대를 지휘하는 행 동 계획이며, 전술은 전장의 상황에 대한 대응책 이다. 이러한 맥락에서, 우리의 문화에 의해…",
     "content": [
       "“Tactics” is a term drawn from military usage. Strategies\nare plans of action directing a military force when attacking\nanother, and tactics are responses to conditions on the ground.\nIn this vein, time is imposed on us by our cultures, by the\ntechnologies that have regimented time down to the\nnanosecond, and by its own finite nature and the fact that\nwe’re going to live only so long. In response, we must\ndevelop tactics for dealing with time and waiting. These aren’t\ntactics to eliminate waiting; instead, these are tactics for\nteaching us how to learn from the seams. These tactics have\nthe potential to reorient us in profound ways, transforming our\nperspectives on our wait times. Such renewed perspectives\ntransform waiting from a burden to a springboard toward\nthings like creativity, social critique, or reflection on our inner\nstate and the state of our relationships."
@@ -2844,7 +2844,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2025_09_q21",
-    "title": "어떤 동물이 이 세포를 가지고 있는지 살펴보는 것보다 어떤 것이 더 …",
+    "title": "Mirror neurons are the hardware of empathy, and so what woul",
     "description": "어떤 동물이 이 세포를 가지고 있는지 살펴보는 것보다 어떤 것이 더 타당하겠는가? 그리고 이것 이 바로 현대 연구가 서 있는 곳으로, 현재까…",
     "content": [
       "Mirror neurons are the hardware of empathy, and so what\nwould make more sense than to look and see which animals\npossess these cells? And this is exactly where modern\nresearch now stands: all researchers know so far is that apes\npossess mirror neurons. We still need to test to see which\nother species are like us in this respect. Scientists often\npublicly speculate that we can probably expect surprises here,\ntoo. They assume that all animals that live in herds or large\ngroups possess similar brain mechanisms, because social units\nfunction only if individuals can see things from the\nperspective of others in the group and feel what they are\nfeeling. I can see a goldfish waving its fin at us. As an\nanimal that travels around in a tightlyknit group, it’s on board\nwith this idea ― or at least swimming alongside the boat.\nreluctant to empathize with other members in its group\npotentially able to be proven to possess mirror neurons\nlearning effective swimming skills with the help of others\nconstantly trying to hide from animals that have mirror neurons\ncautious about potential conflict over resources with other species"
@@ -2862,7 +2862,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2025_09_q22",
-    "title": "되는 보완하는 힘이라는 두 가지 힘에 달려 있다.",
+    "title": "The future of work depends on two forces: a harmful substitu",
     "description": "되는 보완하는 힘이라는 두 가지 힘에 달려 있다. 많은 이야기에는 지배권을 놓고 서로 싸우는 영웅 과 악당이 있지만, 우리의 이야기에서는 기…",
     "content": [
       "The future of work depends on two forces: a harmful\nsubstituting force and a helpful complementing one. Many\ntales have a hero and a villain fighting each other for\ndominance, but in our story, technology plays both roles at\nonce, displacing workers while simultaneously raising the\ndemand for their efforts elsewhere in the economy. This\ninteraction helps explain why past worries about automation\nwere misplaced: our ancestors had predicted the wrong\nwinner in that fight, underestimating quite how powerful the\ncomplementing force would prove to be or simply ignoring\nthat factor altogether. It also helps to explain why\neconomists have traditionally been dismissive of the idea of\ntechnological unemployment: there appeared to be firm\nlimits to the substituting force, leaving lots of tasks that\ncould not be performed by machines, and a growing demand\nfor human beings to do them instead."
@@ -2881,7 +2881,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2025_09_q23",
-    "title": "체를 발사하는 비용에 극단적인 폭락이 있는 세상 에서, 여러분이 패널…",
+    "title": "It’s conceivable that in a world where solar panels are incr",
     "description": "체를 발사하는 비용에 극단적인 폭락이 있는 세상 에서, 여러분이 패널을 대기권 위에 설치하여 패 널당 에너지를 극대화하고 싶어 할 수도 있다…",
     "content": [
       "It’s conceivable that in a world where solar panels are\nincredibly expensive and there’s an extreme collapse in the\ncost of launching objects to space, you might want to\nmaximize your energy per panel by putting them above the\natmosphere. But panels are cheap, and even if we assume\npretty steep drops in the cost of space launch, the numbers\ndon’t add up. This becomes especially clear when you start\nto think about maintenance. Try to imagine acres upon\nacres of glass panels in space, regularly hit by intense\nradiation and bits of space debris while enduring the\nextreme heat of constant sunlight. They’ll have to be\nrepaired and cared for either by astronauts or an army of\nadvanced robots. Solar panels in Australia can be cleaned by\na teenager with a spray bottle and a cloth."
@@ -2899,7 +2899,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2025_09_q24",
-    "title": "그럼에도, 우리는 뚜렷한 구분을 만들고 생각 없이 받아들이며, 그러 …",
+    "title": "Everything in the world exists on a continuum, whether in sp",
     "description": "그럼에도, 우리는 뚜렷한 구분을 만들고 생각 없이 받아들이며, 그러 한 구분은 근소한 차이가 그렇게 하는(삶을 변화시 키는) 것보다 훨씬 더…",
     "content": [
       "Everything in the world exists on a continuum, whether in\nspeed, size, or any other possible descriptor you could think\nof. Still, we create and mindlessly adopt sharp distinctions,\nand those distinctions change lives far more dramatically\nthan marginal differences ever do. Indeed, all differences are\narbitrary, but drawing hard lines between categories hides\nthis arbitrariness and can be severely damaging. I call this\nresulting damage “the borderline effect.” The examples are\nendless. Someone’s IQ is 69 and someone else’s is 70 ― but\nonly the score of 70 is deemed to be within the range of\nnormal. We don’t have to be statisticians to know there is\nnot a meaningful difference between 69 and 70. Yet once\nthe person with the lower score is labeled “cognitively\nimpaired,” his or her life will unfold differently than the\nperson with a one point advantage."
@@ -2916,7 +2916,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2025_09_q29",
-    "title": "계에서 그것들이 관찰하는 차이에 따라 시간의 흐 름을 표시한다.",
+    "title": "All human cultures mark the passing of time by the differenc",
     "description": "계에서 그것들이 관찰하는 차이에 따라 시간의 흐 름을 표시한다. 어떤 차이를 표시할지에 대한 우 리의 선택은 첫째로 우리가 무엇을 관찰할 수…",
     "content": [
       "All human cultures mark the passing of time by the\ndifferences they observe in the world around them. Our\nchoice of which differences to mark depend firstly on what\nwe can observe and secondly on what is important in our\nlives. How we mark the differences ― the shapes of our\ncalendars and our rituals ― depends on the connections we\nmake between those two things. In the agricultural society of\npre modern Europe, where higher latitudes make the seasons\neasily observable, it was natural to monitor the solar\ncycle. Conversely, among the largely nomadic peoples of\nArabia, for whom seasonal changes were less significant,\nthe lunar calendar was a more sensible choice. That did not\nmake it inevitable that Islam would use a lunar calendar and\nRoman Christianity a solar one, but political and religious\ndecisions were made from options limited by geography and\nlifestyle, filtered through tradition."
@@ -2934,7 +2934,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2025_09_q30",
-    "title": "칭송받지만, 모든 사람이 공감을 지지하는 사람인 것은 아니다.",
+    "title": "Although empathy is widely praised by scholars and public fi",
     "description": "칭송받지만, 모든 사람이 공감을 지지하는 사람인 것은 아니다. 공감에 대해 비판하는 사람들은 공 감이 사람 간 그리고 집단 간 갈등으로부터 …",
     "content": [
       "Although empathy is widely praised by scholars and public\nfigures, not everyone is an empathy booster. Critics of\nempathy argue that empathy will not save us from\ninterpersonal and intergroup conflict. In fact, they argue,\nempathy makes such conflicts worse. These critics maintain\nthat empathy can be exhausting and lead to burnout or\ninsensitivity to suffering. They argue that we tend to\nempathize strongly with our in group and resist\nempathizing with out groups, and even enjoy the suffering of\nout groups in competitive or threatening contexts. Thus, the\nprescription for more empathy is often efficient in cases of\nconflict. Empathy, they argue, can further encourage conflict\nand force us into an us vs. them mentality. Finally, even\nwhen we try to empathize with others who are dissimilar\nfrom us or in unfamiliar contexts, sometimes we are unable\nto accurately empathize with their experiences, causing further\nmisunderstandings and frustration. Critics of empathy argue\nthat we should give up on empathy and employ other tools in\npursuit of social harmony, e.g., rational compassion or moral\nemotions like fear, anger, and shame."
@@ -2953,7 +2953,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2025_09_q31",
-    "title": "게 만드는 것은 바로 불확실성이다.",
+    "title": "Paradoxically, it’s that makes us feel most alive",
     "description": "게 만드는 것은 바로 불확실성이다. 여러분을 일 상적인 삶에서 벗어나게 만드는 사건들을 생각해 보아라. 아마도 가족 결혼식에 참석하거나, 중…",
     "content": [
       "Paradoxically, it’s that makes us feel most\nalive. Think of events that shake you out of your everyday\nroutine: maybe attending a family wedding, making a big\npresentation, or going somewhere you’ve never been. It’s\non those occasions that time seems to slow down a little,\nand you feel more fully engaged. The same holds true if\nthe experience is risky, like mountain climbing or\nparasailing. Your senses are sharper. You notice more.\nThanks to the release of a feelgood chemical in the brain\ncalled\ndopamine, you get a greater rush of pleasure from\nchance encounters with people than planned meetings. Good\nnews, financial rewards, and gifts are more enjoyable if\nthey are surprises. It’s why the most popular television\nshows and movies are the ones with unexpected plot twists\nand astonishing endings.\nfailure uncertainty repetition\ndependence vulnerability"
@@ -2971,7 +2971,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2025_09_q32",
-    "title": "들이 자신의 행동을 통해 자신이 알고 있는 것을 드러내도록 하는 유인…",
+    "title": "A great strength of the market mechanism is that there are i",
     "description": "들이 자신의 행동을 통해 자신이 알고 있는 것을 드러내도록 하는 유인이 있다는 것이다. 이는 자 신의 진정한 선호나 생산 능력이 무엇인지 상…",
     "content": [
       "A great strength of the market mechanism is that there\nare incentives for individuals .\nThis stands in contrast to many\nstrategic situations ― for\nexample, in political negotiations ― in which it is wise\nnot\nto let the other side know what one’s true preferences or\nproduction capacities are. A perfectly competitive market\nthat clears on the spot leaves no room for such strategies.\nIf prices are not sticky ― as many models assume ―\nindividuals adapt their behavior instantaneously, whenever\ntheir preferences or the circumstances change. They stop\nbuying items that do not satisfy their needs and stop\nselling items that do not provide them with optimal gains,\nmaybe switching to the production of other items. If they\nhave motivational problems, for example, falling into denial\nabout the fact that there is no demand for their products,\nmarkets reveal to them, sometimes in quite brutal ways,\nthat they better accept this fact. [3점]\nto take advantage of political situations\nto endure hardships until prices go down\nto contribute to the price stabilization of items\nto avoid competition by using negotiation skills\nto reveal their knowledge through their behavior\n-- 5 of 8 --"
@@ -2989,7 +2989,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2025_09_q33",
-    "title": "식에 뒤처지지 않기 위해 끊임없이 수정된다.",
+    "title": "Dictionary definitions are constantly revised to keep up wit",
     "description": "식에 뒤처지지 않기 위해 끊임없이 수정된다. 그 단어는 결국 약물 의존과 연관되었는데, 사람은 자신이 중독된 것에 노예가 된다는 것이다.",
     "content": [
       "Dictionary definitions are constantly revised to keep up\nwith our changing uses and knowledge. In Roman times,\n“addicts” were people who were unable to pay their debts\nand gave themselves as slaves to their creditors. The word\neventually came to be associated with drug dependency: one\nbecomes a slave to one’s addiction. The word “husband”\noriginally referred to being a homeowner; it had nothing to\ndo with being married. But because owning your own\nproperty made it more likely you’d find a mate, the word\neventually came to mean a male who has been wed. On\nNovember 5th, 1605, Guy Fawkes tried to blow up the\nBritish Parliament. He was captured and put to death.\nLoyalists burned his effigy, which they nicknamed the “guy.”\nCenturies later, the word lost its negative connotation and a\nmusical named\nGuys and Dolls ran on Broadway. In\nAmerican slang, bad means good, cool means great, and\nwicked means excellent. If you could transport yourself one\nhundred years into the future, you’d find yourself confused\nby your greatgrandchildren’s speech because language itself\n."
@@ -3007,7 +3007,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2025_09_q34",
-    "title": "위해 텍스트가 자주 이미지 옆에 사용되는 점을 관찰한 Roland B…",
+    "title": "The term “anchoring” was introduced by Roland Barthes who ob",
     "description": "위해 텍스트가 자주 이미지 옆에 사용되는 점을 관찰한 Roland Barthes(그는 사진에 중점을 두었 다)에 의해 도입되었다.",
     "content": [
       "The term “anchoring” was introduced by Roland Barthes\nwho observed that text is often used next to images (his\nfocus was on photographs) to confine meaning. Of all\npossible literal or implied interpretations an image could\nelicit, text would point the viewer towards a desired, specific\ndirection. In advertising, as Barthes argues, the symbolic\nmessage does not guide identification but interpretation. The\nviewer is not asked to recognize what they see but to\nunderstand why they see it and what it means to them. By\ncombining images with text, advertising produces symbolic\nmeaning that is accurate and specific on the one hand, richer\non the other, thus adding depth and eliminating breadth of\nrational and emotional interpretations. The headline or tagline of\nan ad directs the reader through the intended meanings of the\nimage, so that .\nIt “remotecontrols” the reader towards a meaning chosen in\nadvance. [3점]"
@@ -3026,7 +3026,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2025_09_q35",
-    "title": "큰 질량은 시공간을 ‘휘어지게 한다’.",
+    "title": "According to Einstein’s theory, a large mass like the Sun ‘b",
     "description": "큰 질량은 시공간을 ‘휘어지게 한다’. 뉴턴의 이론 은 그런 예측을 하지 않는다. 이런 시공간의 휘어 짐은 멀리 있는 별의 빛이 태양과 같은…",
     "content": [
       "According to Einstein’s theory, a large mass like the Sun\n‘bends’ spacetime. Newton’s theory makes no such\nprediction. This bending of spacetime leads to phenomena\nsuch as ‘gravitational lensing’ where the light of distant stars\nappears to be in different locations when they pass by a large\nmass like the Sun. We don’t normally see this lensing\nbecause stars aren’t visible during the day when the Sun is\nout, but a solar eclipse in 1919 allowed scientists to observe\nwhat the Sun’s gravity was doing to the light from distant\nstars. The stars around the Sun appeared to have moved\nfrom their normal positions in the night sky. Despite the\nconsistent efforts to confirm the precise orbit of planets\nwithin our solar system, observational schedules were often\ndisrupted by local weather phenomena. The shift was much\nlarger than Newton’s theory predicted, but exactly in the\npositions predicted by Einstein’s theory."
@@ -3043,7 +3043,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2025_09_q36",
-    "title": "우리는 세상을 이해하고, 우리의 신념 을 유지하며, 일반적으로 기분이…",
+    "title": "We’re naturally wired to organize the world into a hierarchy",
     "description": "되어 있다. 우리는 세상을 이해하고, 우리의 신념 을 유지하며, 일반적으로 기분이 나아지도록 하 기 위해 이것을 한다.",
     "content": [
       "We’re naturally wired to organize the world into a\nhierarchy. We do this to help make sense of the world,\nmaintain our beliefs, and generally feel better.\n(A) Or consider when you get frustrated with your kids and\nend an argument with “Because I said so.” (Or the\noffice equivalent: “Because I’m the boss.”) In these\nmoments you’ve stopped thinking and regressed to your\nbiological tendencies of reaffirming the hierarchy.\n(B) You’re reacting to a threat to your inherent sense of\nhierarchy. On the road we are all equals. We’re all\nsupposed to play by the same rules. Cutting someone\noff violates those rules and implies higher status.\n(C) But when someone infringes on our place in the world\nand our understanding of how it works, we react\nwithout thinking. When someone cuts you off on the\nhighway and road rage kicks in, that’s your unconscious\nmind saying, “Who are you to cut me off?”"
@@ -3062,7 +3062,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2025_09_q37",
-    "title": "자리에 붙들고 있는 것은 바로 마찰이다.",
+    "title": "Once a nail is hammered in, it is friction that holds it in ",
     "description": "자리에 붙들고 있는 것은 바로 마찰이다. 마찰은 두 표면이 서로에 저항해 미끄러지거나 미끄러지려 고 할 때 발생하는 힘이다.",
     "content": [
       "Once a nail is hammered in, it is friction that holds it\nin place. Friction is the force that arises when two\nsurfaces are sliding, or trying to slide, against each other.\n(A) The force it would take to stretch the nail is much\nlarger than the friction forces on the surface, so we\ndon’t have to worry too much about the former. It’s the\nfriction with which we need to concern ourselves.\n(B) If you try to pull apart two blocks of wood that have\nbeen nailed together, the wood fibers grip the shaft of\nthe nail. The nail feels a force trying to rip it apart\nalong its length, and we call that force tension.\n(C) Your experiment can now fail in one of two ways ―\neither the nail stretches and splits in half because the\ntension force is too large for the nail, or the nail comes\nloose because the friction force is overcome. [3점]"
@@ -3079,7 +3079,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2025_09_q38",
-    "title": "지역 사회의 존경받는 기둥이자, 아마도 일찍 잠자 리에 들고 술을 많…",
+    "title": "Normally, people buy things because they want to use them, s",
     "description": "지역 사회의 존경받는 기둥이자, 아마도 일찍 잠자 리에 들고 술을 많이 마시지 않는 조심스럽고 신중 한 부류의 사람이었다.",
     "content": [
       "Normally, people buy things because they want to use\nthem, such as wheat to make bread and petrol to run the\ncar.\nThe traditional bank manager in the 1950s was usually a\nrespected pillar of the community, a cautious, careful sort of\nperson who probably went to bed early and didn’t drink too\nmuch. But from the 1970s a new kind of banker appeared ―\nloud, flashy, and arrogant. These bankers loved taking big\nrisks. ( ) They wanted to get rich quick and blow their\nmoney on fast cars and expensive champagne. ( ) They\nmade their money through what’s called ‘speculation’. ( )\nBut when people speculate, they buy things even when they\nhave no interest in using them. ( ) They might buy a\nload of wheat simply because they think that its price is\ngoing to rise when a drought is predicted in wheatgrowing\nareas. ( ) If their guess is right, they later sell the\nwheat for a profit."
@@ -3098,7 +3098,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2025_09_q39",
-    "title": "그것을 만드는 셀룰로오스 섬유는 최대로 구부러지는 부분에서 부분적으로…",
+    "title": "There are very few materials as good: metal foils can hold a",
     "description": "합하다. 그것을 만드는 셀룰로오스 섬유는 최대로 구부러지는 부분에서 부분적으로 꺾일 수 있어 영 구적인 주름이 형성되도록 하는 동시에, 충분…",
     "content": [
       "There are very few materials as good: metal foils can\nhold a crease, but control of the crease is somewhat\nmore difficult.\nPaper’s mechanical properties lend themselves to folding\nand bending. ( ) The cellulose fibers of which it is made\ncan be partially snapped in the area of maximum bend,\nallowing a permanent crease to form, while sufficient fibers\nremain undamaged for the material not to crack and fall\napart. ( ) Indeed, in this state it pretty much maintains\nits ability to resist being pulled apart, but it can also be\ntorn easily and accurately along the crease if a point of\nweakness ― a small, initial tear ― is opened up. ( ) This\nwinning combination of mechanical properties allows it to\nassume the shape of any object through creasing and\nfolding ― hence the art of origami. ( ) Plastic sheeting\ndoesn’t tend to hold a crease at all, unless it is very soft,\nin which case it lacks the rigidity required of a good\nwrapping material. ( ) So it is its ability to hold a\ncrease while remaining stiff that makes paper uniquely\nsuited to this purpose. [3점]"
@@ -3115,7 +3115,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high2_2025_09_q40",
-    "title": "Collin의 아버지는 15년 된 차를 가지고 있 었는데, 그것은 C…",
+    "title": "Mother cats can tell which kittens belong to them ― when lit",
     "description": "Collin의 아버지는 15년 된 차를 가지고 있 었는데, 그것은 Collin과 같은 나이였다. 그는 그것을 마침내 더 새로운 모델로 교체할…",
     "content": [
       "Mother cats can tell which kittens belong to them ―\nwhen litters are mixed up they use their kittens’ scent to\ndistinguish them from offspring of other mothers. Despite\nthis, when faced with a selection of kittens who have\nwandered from the nest, her own and others that aren’t\nhers, a mother cat doesn’t appear to favor her own\noffspring when retrieving them. The reason for this is\nuncertain, although distress vocalizations from kittens that\nare lost from their nest are known to be very powerful,\nso it may just be hard for the mother to resist retrieving\nthem, regardless of whether they are hers. In the wild, a\nsqueaking kitten out in the open is likely to attract\npredators, which is bad news for any other kittens around\nit. A rapid rescue of any crying kitten would be a good\nstrategy to prevent them from drawing unwanted\nattention."
@@ -3132,7 +3132,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_06_q20",
-    "title": "과학 발전에 영감을 받은 아이디어와 같은 새로운 아이디어는 건전한 공…",
+    "title": "New ideas, such as those inspired by scientific developments",
     "description": "과학 발전에 영감을 받은 아이디어와 같은 새로운 아이디어는 건전한 공개 토론 과정 의 일부로 우리의 대중문화에서 자주 방송되고 비판되는데, …",
     "content": [
       "New ideas, such as those inspired by scientific developments,\nare often aired and critiqued in our popular culture as part of a\nhealthy process of public debate, and scientists sometimes\ndeserve the criticism they get. But the popularization of science\nwould be greatly enhanced by improving the widespread\nimages of the scientist. Part of the problem may be that the\nmajority of the people who are most likely to write novels,\nplays, and film scripts were educated in the humanities, not in\nthe sciences. Furthermore, the few scientists-turned-writers\nhave used their scientific training as the source material for\nthrillers that further damage the image of science and scientists.\nWe need more screenplays and novels that present scientists in\na positive light. In our contemporary world, television and film\nare particularly influential media, and it is likely that the\nintroduction of more scientist-heroes would help to make\nscience more attractive."
@@ -3151,7 +3151,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_06_q21",
-    "title": "여러분이 일하는 습관에서 이뤄낼 수 있는 가장 중요한 단 한 가지 변…",
+    "title": "The single most important change you can make in your workin",
     "description": "여러분이 일하는 습관에서 이뤄낼 수 있는 가장 중요한 단 한 가지 변화는 창조적인 일을 먼저 하고 대응적인 일은 그다음에 하는 쪽으로 전환하…",
     "content": [
       "The single most important change you can make in your\nworking habits is to switch to creative work first, reactive work\nsecond. This means blocking off a large chunk of time every\nday for creative work on your own priorities, with the phone\nand e-mail off. I used to be a frustrated writer. Making this\nswitch turned me into a productive writer. Yet there wasn’t a\nsingle day when I sat down to write an article, blog post, or\nbook chapter without a string of people waiting for me to get\nback to them. It wasn’t easy, and it still isn’t, particularly when I\nget phone messages beginning “I sent you an e-mail two hours\nago...!” By definition, this approach goes against the grain of\nothers’ expectations and the pressures they put on you. It takes\nwillpower to switch off the world, even for an hour. It feels\nuncomfortable, and sometimes people get upset. But it’s better\nto disappoint a few people over small things, than to abandon\nyour dreams for an empty inbox. Otherwise, you’re sacrificing\nyour potential for the illusion of professionalism.\nfollowing an innovative course of action\nattempting to satisfy other people’s demands\ncompleting challenging work without mistakes\nremoving social ties to maintain a mental balance\nsecuring enough opportunities for social networking"
@@ -3170,7 +3170,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_06_q22",
-    "title": "주택 단지를 건설하려는 도급업자들은 계획 과정에 비중을 더 많이 둘 …",
+    "title": "Contractors that will construct a project may place more wei",
     "description": "주택 단지를 건설하려는 도급업자들은 계획 과정에 비중을 더 많이 둘 수도 있다. 적 절한 계획은 그 건설 사업에 대해 면밀한 사고를 하게 한다.",
     "content": [
       "Contractors that will construct a project may place more\nweight on the planning process. Proper planning forces detailed\nthinking about the project. It allows the project manager (or\nteam) to “build the project in his or her head.” The project\nmanager (or team) can consider different methodologies\nthereby deciding what works best or what does not work at all.\nThis detailed thinking may be the only way to discover\nrestrictions or risks that were not addressed in the estimating\nprocess. It would be far better to discover in the planning phase\nthat a particular technology or material will not work than in\nthe execution process. The goal of the planning process for the\ncontractor is to produce a workable scheme that uses the\nresources efficiently within the allowable time and given\nbudget. A well-developed plan does not guarantee that the\nexecuting process will proceed flawlessly or that the project\nwill even succeed in meeting its objectives. It does, however,\ngreatly improve its chances."
@@ -3188,7 +3188,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_06_q23",
-    "title": "아이들은 (역할) 놀이와 이야기로의 몰입이 같은 활동의 형태인 것처럼…",
+    "title": "Children can move effortlessly between play and absorption i",
     "description": "아이들은 (역할) 놀이와 이야기로의 몰입이 같은 활동의 형태인 것처럼 쉽게 그 둘 사이를 이동한다. 이야기식 구조의 해적 게임에서 역할을 맡…",
     "content": [
       "Children can move effortlessly between play and absorption\nin a story, as if both are forms of the same activity. The taking of\nroles in a narratively structured game of pirates is not very\ndifferent than the taking of roles in identifying with characters\nas one watches a movie. It might be thought that, as they grow\ntowards adolescence, people give up childhood play, but this is\nnot so. Instead, the bases and interests of this activity change\nand develop to playing and watching sports, to the fiction of\nplays, novels, and movies, and nowadays to video games. In\nfiction, one can enter possible worlds. When we experience\nemotions in such worlds, this is not a sign that we are being\nincoherent or regressed. It derives from trying out metaphorical\ntransformations of our selves in new ways, in new worlds, in\nways that can be moving and important to us."
@@ -3206,7 +3206,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_06_q24",
-    "title": "인식적 접근법과 신경심리학적 접근법이 사회 지각을 손상시킬지도 모르는…",
+    "title": "Although cognitive and neuropsychological approaches emphasi",
     "description": "인식적 접근법과 신경심리학적 접근법이 사회 지각을 손상시킬지도 모르는 노화에 따 른 상실을 강조하긴 하지만, 동기 이론은 어떤 이득이나 질적…",
     "content": [
       "Although cognitive and neuropsychological approaches\nemphasize the losses with age that might impair social\nperception, motivational theories indicate that there may be\nsome gains or qualitative changes. Charles and Carstensen\nreview a considerable body of evidence indicating that, as\npeople get older, they tend to prioritize close social relationships,\nfocus more on achieving emotional well-being, and attend\nmore to positive emotional information while ignoring negative\ninformation. These changing motivational goals in old age\nhave implications for attention to and processing of social cues\nfrom the environment. Of particular importance in considering\nemotional changes in old age is the presence of a positivity\nbias: that is, a tendency to notice, attend to, and remember\nmore positive compared to negative information. The role of\nlife experience in social skills also indicates that older adults\nmight show gains in some aspects of social perception."
@@ -3227,7 +3227,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_06_q29",
-    "title": "대부분의 과학 역사가들은 별과 행성에 대한 연구, 즉 우리가 현재 천…",
+    "title": "Most historians of science point to the need for a reliable ",
     "description": "대부분의 과학 역사가들은 별과 행성에 대한 연구, 즉 우리가 현재 천문학이라 부르 는 것에 대해 배우고자 하는 동기로 농업 활동을 규제하기 …",
     "content": [
       "Most historians of science point to the need for a reliable\ncalendar to regulate agricultural activity as the motivation for\nlearning about what we now call astronomy, the study of stars\nand planets. Early astronomy provided information about when\nto plant crops and gave humans their first formal method of\nrecording the passage of time. Stonehenge, the 4,000-year-old\nring of stones in southern Britain, is perhaps the best-known\nmonument to the discovery of regularity and predictability in\nthe world we inhabit. The great markers of Stonehenge point to\nthe spots on the horizon where the sun rises at the solstices\nand equinoxes ― the dates we still use to mark the beginnings\nof the seasons. The stones may even have been used to\npredict eclipses. The existence of Stonehenge, built by people\nwithout writing, bears silent testimony both to the regularity of\nnature and to the ability of the human mind to see behind\nimmediate appearances and discovers deeper meanings in\nevents."
@@ -3245,7 +3245,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_06_q30",
-    "title": "스포츠는 그것의 소비자에게 다른 제품이 좀처럼 일으키지 못하는 종류의…",
+    "title": "Sport can trigger an emotional response in its consumers of ",
     "description": "스포츠는 그것의 소비자에게 다른 제품이 좀처럼 일으키지 못하는 종류의 정서적 반 응을 촉발시킬 수 있다. 은행 고객이 그들 은행에 대한 충성…",
     "content": [
       "Sport can trigger an emotional response in its consumers of\nthe kind rarely brought forth by other products. Imagine bank\ncustomers buying memorabilia to show loyalty to their bank, or\nconsumers identifying so strongly with their car insurance\ncompany that they get a tattoo with its logo. We know that some\nsport followers are so passionate about players, teams and\nthe sport itself that their interest borders on obsession. This\naddiction provides the emotional glue that binds fans to teams,\nand maintains loyalty even in the face of on-field failure.\nWhile most managers can only dream of having customers that\nare as passionate about their products as sport fans, the emotion\ntriggered by sport can also have a negative impact. Sport’s\nemotional intensity can mean that organisations have strong\nattachments to the past through nostalgia and club tradition. As\na result, they may increase efficiency, productivity and the\nneed to respond quickly to changing market conditions. For\nexample, a proposal to change club colours in order to project a\nmore attractive image may be defeated because it breaks a\nlink with tradition."
@@ -3264,7 +3264,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_06_q31",
-    "title": "학과의 성장과 미술사학이나 고생물학과 같은 하위 학과의 성장, 그리고…",
+    "title": "The growth of academic disciplines and sub-disciplines, such",
     "description": "학과의 성장과 미술사학이나 고생물학과 같은 하위 학과의 성장, 그리고 미술평론가 와 같은 특정 인물의 성장은 비록 힘든 일로 남게 되었지만,…",
     "content": [
       "The growth of academic disciplines and sub-disciplines,\nsuch as art history or palaeontology, and of particular figures\nsuch as the art critic, helped produce principles and practices\nfor selecting and organizing what was worthy of keeping,\nthough it remained a struggle. Moreover, as museums and\nuniversities drew further apart toward the end of the nineteenth\ncentury, and as the idea of objects as a highly valued route to\nknowing the world went into decline, collecting began to lose\nits status as a worthy intellectual pursuit, especially in the\nsciences. The really interesting and important aspects of\nscience were increasingly those invisible to the naked eye,\nand the classification of things collected no longer promised\nto produce cutting-edge knowledge. The term “butterfly\ncollecting” could come to be used with the adjective “mere” to\nindicate a pursuit of academic status."
@@ -3283,7 +3283,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_06_q32",
-    "title": "정보 탐색에 관한 가장 통찰력 있는 연구 중 일부는 ‘전략적 자기 무…",
+    "title": "Some of the most insightful work on information seeking emph",
     "description": "정보 탐색에 관한 가장 통찰력 있는 연구 중 일부는 ‘전략적 자기 무지’를 강조하는 데, 이는 ‘무지를 핑계로 자신의 미래 자아에 해로울 수…",
     "content": [
       "Some of the most insightful work on information seeking\nemphasizes “strategic self-ignorance,” understood as “the use of\nignorance as an excuse to engage excessively in pleasurable\nactivities that may be harmful to one’s future self.” The idea here\nis that if people are present-biased, they might avoid information\nthat would ― perhaps\nbecause it would produce guilt or shame, perhaps because it\nwould suggest an aggregate trade-off that would counsel against\nengaging in such activities. St. Augustine famously said, “God\ngive me chastity ― tomorrow.” Present-biased agents think:\n“Please let me know the risks ― tomorrow.” Whenever people\nare thinking about engaging in an activity with short-term\nbenefits but long-term costs, they might prefer to delay receipt\nof important information. The same point might hold about\ninformation that could make people sad or mad: “Please tell me\nwhat I need to know ― tomorrow.”"
@@ -3300,7 +3300,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_06_q33",
-    "title": "자연에 대한 개념은 항상 문화적 진술이다.",
+    "title": "Concepts of nature are always cultural statements",
     "description": "자연에 대한 개념은 항상 문화적 진술이다. 이것은 유럽인들에게 대단한 통찰이라는 인상을 주지 않을 수도 있는데, 왜냐하면 유럽의 풍경은 너무…",
     "content": [
       "Concepts of nature are always cultural statements. This\nmay not strike Europeans as much of an insight, for Europe’s\nlandscape is so much of a blend. But in the new worlds ―\n‘new’ at least to Europeans ― the distinction appeared much\nclearer not only to European settlers and visitors but also to\ntheir descendants. For that reason, they had the fond conceit\nof primeval nature uncontrolled by human associations\nwhich could later find expression in an admiration for\nwilderness. Ecological relationships certainly have their own\nlogic and in this sense ‘nature’ can be seen to have a\nself-regulating but not necessarily stable dynamic independent\nof human intervention. But the context for ecological interactions\n. We may not\ndetermine how or what a lion eats but we certainly can\nregulate where the lion feeds. [3점]"
@@ -3318,7 +3318,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_06_q34",
-    "title": "Emma Brindley는 이웃 새와 낯선 새의 노래에 유럽 울새가 …",
+    "title": "Emma Brindley has investigated the responses of European rob",
     "description": "Emma Brindley는 이웃 새와 낯선 새의 노래에 유럽 울새가 보이는 반응을 조사해 왔다. 유럽 울새의 크고 복잡한 노래 목록에도 불구…",
     "content": [
       "Emma Brindley has investigated the responses of European\nrobins to the songs of neighbors and strangers. Despite the\nlarge and complex song repertoire of European robins, they\nwere able to discriminate between the songs of neighbors and\nstrangers. When they heard a tape recording of a stranger, they\nbegan to sing sooner, sang more songs, and overlapped their\nsongs with the playback more often than they did on hearing a\nneighbor’s song. As Brindley suggests, the overlapping of\nsong may be an aggressive response. However, this difference\nin responding to neighbor versus stranger occurred only when\nthe neighbor’s song was played by a loudspeaker placed at\nthe boundary between that neighbor’s territory and the\nterritory of the bird being tested. If the same neighbor’s song\nwas played at another boundary, one separating the territory of\nthe test subject from another neighbor, it was treated as the\ncall of a stranger. Not only does this result demonstrate that\n, but it also\nshows that the choice of songs used in playback experiments\nis highly important. [3점]"
@@ -3335,7 +3335,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_06_q35",
-    "title": "친족 유대 관계는 오늘날에도 계속 중요하다.",
+    "title": "Kinship ties continue to be important today",
     "description": "친족 유대 관계는 오늘날에도 계속 중요하다. 사람들이 자주 가족 모임을 갖는 미국 과 같은 현대 사회에서, 그들은 자신의 친척에게 자주 전화…",
     "content": [
       "Kinship ties continue to be important today. In modern\nsocieties such as the United States people frequently have family\nget-togethers, they telephone their relatives regularly, and they\nprovide their kin with a wide variety of services. Eugene\nLitwak has referred to this pattern of behaviour as the ‘modified\nextended family’. It is an extended family structure because\nmultigenerational ties are maintained, but it is modified\nbecause it does not usually rest on co-residence between the\ngenerations and most extended families do not act as corporate\ngroups. Although modified extended family members often\nlive close by, the modified extended family does not require\ngeographical proximity and ties are maintained even when\nkin are separated by considerable distances. The oldest\nmember of the family makes the decisions on important\nissues, no matter how far away family members live from each\nother. In contrast to the traditional extended family where\nkin always live in close proximity, the members of modified\nextended families may freely move away from kin to seek\nopportunities for occupational advancement."
@@ -3354,7 +3354,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_06_q36",
-    "title": "공간 기준점(공간적으로 기준이 되는 장소)은 자기 자신보다 더 크다.",
+    "title": "Spatial reference points are larger than themselves",
     "description": "공간 기준점(공간적으로 기준이 되는 장소)은 자기 자신보다 더 크다. 이것은 그다지 역설적이지 않은데, 랜드마크(주요 지형지물)는 그 자체이…",
     "content": [
       "Spatial reference points are larger than themselves. This\nisn’t really a paradox: landmarks are themselves, but they\nalso define neighborhoods around themselves.\n(A) In a paradigm that has been repeated on many campuses,\nresearchers first collect a list of campus landmarks from\nstudents. Then they ask another group of students to\nestimate the distances between pairs of locations, some to\nlandmarks, some to ordinary buildings on campus.\n(B) This asymmetry of distance estimates violates the most\nelementary principles of Euclidean distance, that the\ndistance from A to B must be the same as the distance\nfrom B to A. Judgments of distance, then, are not\nnecessarily coherent.\n(C) The remarkable finding is that distances from an ordinary\nlocation to a landmark are judged shorter than distances\nfrom a landmark to an ordinary location. So, people would\njudge the distance from Pierre’s house to the Eiffel Tower\nto be shorter than the distance from the Eiffel Tower to\nPierre’s house. Like black holes, landmarks seem to pull\nordinary locations toward themselves, but ordinary places\ndo not."
@@ -3371,7 +3371,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_06_q37",
-    "title": "한 회사가 조선업에 투자할지를 결정하고 있다.",
+    "title": "A firm is deciding whether to invest in shipbuilding",
     "description": "한 회사가 조선업에 투자할지를 결정하고 있다. 만약 충분히 대규모로 생산할 수 있 다면, 그것은 그 (사업상의) 모험이 수익성이 있을 거라는…",
     "content": [
       "A firm is deciding whether to invest in shipbuilding. If it\ncan produce at sufficiently large scale, it knows the venture\nwill be profitable.\n(A) There is a “good” outcome, in which both types of\ninvestments are made, and both the shipyard and the\nsteelmakers end up profitable and happy. Equilibrium is\nreached. Then there is a “bad” outcome, in which neither\ntype of investment is made. This second outcome also is\nan equilibrium because the decisions not to invest\nreinforce each other.\n(B) Assume that shipyards are the only potential customers of\nsteel. Steel producers figure they’ll make money if there’s\na shipyard to buy their steel, but not otherwise. Now we\nhave two possible outcomes ― what economists call\n“multiple equilibria.”\n(C) But one key input is low-cost steel, and it must be produced\nnearby. The company’s decision boils down to this: if there\nis a steel factory close by, invest in shipbuilding; otherwise,\ndon’t invest. Now consider the thinking of potential steel\ninvestors in the region. [3점]"
@@ -3388,7 +3388,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_06_q38",
-    "title": "대부분의 조직에서, 직원의 직속상관은 그 직원의 성과를 평가한다.",
+    "title": "A problem, however, is that supervisors often work in locati",
     "description": "대부분의 조직에서, 직원의 직속상관은 그 직원의 성과를 평가한다. 이것은 그 관리자 가 (직원에게) 감독을 제공하고, 과업을 배정하며, 그 …",
     "content": [
       "A problem, however, is that supervisors often work in\nlocations apart from their employees and therefore are not\nable to observe their subordinates’ performance.\nIn most organizations, the employee’s immediate supervisor\nevaluates the employee’s performance. ( ) This is because\nthe supervisor is responsible for the employee’s performance,\nproviding supervision, handing out assignments, and developing\nthe employee. ( ) Should supervisors rate employees on\nperformance dimensions they cannot observe? ( ) To\neliminate this dilemma, more and more organizations are\nimplementing assessments referred to as 360-degree evaluations.\n( ) Employees are rated not only by their supervisors but\nby coworkers, clients or citizens, professionals in other\nagencies with whom they work, and subordinates. ( ) The\nreason for this approach is that often coworkers and clients or\ncitizens have a greater opportunity to observe an employee’s\nperformance and are in a better position to evaluate many\nperformance dimensions."
@@ -3405,7 +3405,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_06_q39",
-    "title": "진화에 있어서 잠이 하는 역할은 여전히 연구 중이다.",
+    "title": "This is particularly true since one aspect of sleep is decre",
     "description": "진화에 있어서 잠이 하는 역할은 여전히 연구 중이다. 한 가지 가능성은 그것(잠)이 더 이상 긴급한 활동이 없을 때 신진대사를 줄이는, 동물…",
     "content": [
       "This is particularly true since one aspect of sleep is decreased\nresponsiveness to the environment.\nThe role that sleep plays in evolution is still under study.\n( ) One possibility is that it is an advantageous adaptive\nstate of decreased metabolism for an animal when there are no\nmore pressing activities. ( ) This seems true for deeper\nstates of inactivity such as hibernation during the winter when\nthere are few food supplies, and a high metabolic cost to\nmaintaining adequate temperature. ( ) It may be true in\ndaily situations as well, for instance for a prey species to avoid\npredators after dark. ( ) On the other hand, the apparent\nuniversality of sleep, and the observation that mammals such\nas cetaceans have developed such highly complex mechanisms\nto preserve sleep on at least one side of the brain at a time,\nsuggests that sleep additionally provides some vital service(s)\nfor the organism. ( ) If sleep is universal even when this\npotential price must be paid, the implication may be that it has\nimportant functions that cannot be obtained just by quiet,\nwakeful resting. [3점]"
@@ -3426,7 +3426,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_06_q40",
-    "title": "사생활에 대한 권리는 다른 사람의 표현의 자유에 대한 권리나 정보에 …",
+    "title": "The idea that planting trees could have a social or politica",
     "description": "사생활에 대한 권리는 다른 사람의 표현의 자유에 대한 권리나 정보에 대한 권리를 제한하지 않는 정도까지만 확대될 수 있다.",
     "content": [
       "The idea that planting trees could have a social or\npolitical significance appears to have been invented by\nthe English, though it has since spread widely. According\nto Keith Thomas’s history Man and the Natural World,\nseventeenth- and eighteenth-century aristocrats began\nplanting hardwood trees, usually in lines, to declare the\nextent of their property and the permanence of their claim\nto it. “What can be more pleasant,” the editor of a\nmagazine for gentlemen asked his readers, “than to have\nthe bounds and limits of your own property preserved and\ncontinued from age to age by the testimony of such living\nand growing witnesses?” Planting trees had the additional\nadvantage of being regarded as a patriotic act, for the\nCrown had declared a severe shortage of the hardwood on\nwhich the Royal Navy depended."
@@ -3444,7 +3444,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_06_q42",
-    "title": "물의 힘에 맞서 싸우는 것은 짜릿한 도전이었다.",
+    "title": "Fighting against the force of the water was a thrilling chal",
     "description": "물의 힘에 맞서 싸우는 것은 짜릿한 도전이었다. Sophia는 바위에 세게 부딪히는 물결에 주목하면서 배에 단단히 버티어 자리 잡고 있으려고…",
     "content": [
       "Fighting against the force of the water was a thrilling\nchallenge. Sophia tried to keep herself planted firmly in the\nboat, paying attention to the waves crashing against the rocks.\nAs the water got rougher, she was forced to paddle harder to\nkeep the waves from tossing her into the water. Her friends Mia\nand Rebecca were paddling eagerly behind her to balance the\nboat. They were soaked from all of the spray. Mia shouted to\nSophia, “Are you OK? Aren’t (a) you scared?”"
@@ -3461,7 +3461,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_09_q20",
-    "title": "우리는 모든 이가 빠르고 확실한 해결책을 찾고 있는 듯한 시대에 살고…",
+    "title": "We live in a time when everyone seems to be looking for quic",
     "description": "우리는 모든 이가 빠르고 확실한 해결책을 찾고 있는 듯한 시대에 살고 있다. 컴퓨터 회사들은 심지어 컴퓨터가 부모를 대신할 수 있는 방법을 …",
     "content": [
       "We live in a time when everyone seems to be looking for\nquick and sure solutions. Computer companies have even\nbegun to advertise ways in which computers can replace\nparents. They are too late ― television has already done that.\nSeriously, however, in every branch of education, including\nmoral education, we make a mistake when we suppose that a\nparticular batch of content or a particular teaching method or a\nparticular configuration of students and space will accomplish\nour ends. The answer is both harder and simpler. We, parents\nand teachers, have to live with our children, talk to them,\nlisten to them, enjoy their company, and show them by what\nwe do and how we talk that it is possible to live appreciatively\nor, at least, nonviolently with most other people."
@@ -3479,7 +3479,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_09_q21",
-    "title": "협업의 전등 스위치를 휙 누르는 것은 고유하게 지도자들이 해야 하는 …",
+    "title": "Flicking the collaboration light switch is something that le",
     "description": "협업의 전등 스위치를 휙 누르는 것은 고유하게 지도자들이 해야 하는 위치에 있는 것인데, 왜냐하면 자발적으로 혼자 일하는 사람들에게 여러 장…",
     "content": [
       "Flicking the collaboration light switch is something that\nleaders are uniquely positioned to do, because several\nobstacles stand in the way of people voluntarily working\nalone. For one thing, the fear of being left out of the loop can\nkeep them glued to their enterprise social media. Individuals\ndon’t want to be ― or appear to be ― isolated. For another,\nknowing what their teammates are doing provides a sense of\ncomfort and security, because people can adjust their own\nbehavior to be in harmony with the group. It’s risky to go off\non their own to try something new that will probably not be\nsuccessful right from the start. But even though it feels\nreassuring for individuals to be hyperconnected, it’s better for\nthe organization if they periodically go off and think for\nthemselves and generate diverse ― if not quite mature ― ideas.\nThus, it becomes the leader’s job to create conditions that are\ngood for the whole by enforcing intermittent interaction even\nwhen people wouldn’t choose it for themselves, without\nmaking it seem like a punishment."
@@ -3500,7 +3500,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_09_q22",
-    "title": "역사적으로 전문직과 사회는 그들의 관계의 조건을 규정하고자 의도된 협…",
+    "title": "Historically, the professions and society have engaged in a ",
     "description": "역사적으로 전문직과 사회는 그들의 관계의 조건을 규정하고자 의도된 협상 과정에 참여해 왔다. 사회가 전문직에 권한과 특권을 부여한 것은 사회…",
     "content": [
       "Historically, the professions and society have engaged in a\nnegotiating process intended to define the terms of their\nrelationship. At the heart of this process is the tension between\nthe professions’ pursuit of autonomy and the public’s demand\nfor accountability. Society’s granting of power and privilege to\nthe professions is premised on their willingness and ability to\ncontribute to social well-being and to conduct their affairs in a\nmanner consistent with broader social values. It has long been\nrecognized that the expertise and privileged position of\nprofessionals confer authority and power that could readily be\nused to advance their own interests at the expense of those they\nserve. As Edmund Burke observed two centuries ago, “Men are\nqualified for civil liberty in exact proportion to their disposition\nto put moral chains upon their own appetites.” Autonomy has\nnever been a one-way street and is never granted absolutely and\nirreversibly."
@@ -3519,7 +3519,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_09_q23",
-    "title": "칸트가 보기에, 기하학적 모양은 너무 완벽해서 심미적 경험을 유발할 …",
+    "title": "In Kant’s view, geometrical shapes are too perfect to induce",
     "description": "칸트가 보기에, 기하학적 모양은 너무 완벽해서 심미적 경험을 유발할 수 없다. 그것 들이 근본적인 개념이나 생각에 일치해서 고대 그리스인들이…",
     "content": [
       "In Kant’s view, geometrical shapes are too perfect to induce\nan aesthetic experience. Insofar as they agree with the\nunderlying concept or idea ― thus possessing the precision\nthat the ancient Greeks sought and celebrated ― geometrical\nshapes can be grasped, but they do not give rise to emotion,\nand, most importantly, they do not move the imagination to\nfree and new (mental) lengths. Forms or phenomena, on the\ncontrary, that possess a degree of immeasurability, or that do\nnot appear constrained, stimulate the human imagination ―\nhence their ability to induce a sublime aesthetic experience.\nThe pleasure associated with experiencing immeasurable\nobjects ― indefinable or formless objects ― can be defined as\nenjoying one’s own emotional and mental activity. Namely,\nthe pleasure consists of being challenged and struggling to\nunderstand and decode the phenomenon present to view.\nFurthermore, part of the pleasure comes from having one’s\ncomfort zone (momentarily) violated."
@@ -3538,7 +3538,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_09_q24",
-    "title": "세상은 질서를 유지하기 위해 공공 행정과 관리의 시스템을 도입한 법과…",
+    "title": "The world has become a nation of laws and governance that ha",
     "description": "세상은 질서를 유지하기 위해 공공 행정과 관리의 시스템을 도입한 법과 통치의 나라 가 되었다. 이런 행정적인 관리 시스템으로, 도시의 정부 …",
     "content": [
       "The world has become a nation of laws and governance that has\nintroduced a system of public administration and management to\nkeep order. With this administrative management system, urban\ninstitutions of government have evolved to offer increasing\nlevels of services to their citizenry, provided through a taxation\nprocess and/or fee for services (e.g., police and fire, street\nmaintenance, utilities, waste management, etc.). Frequently this\nhas displaced citizen involvement. Money for services is not a\nreplacement for citizen responsibility and public participation.\nResponsibility of the citizen is slowly being supplanted by\ngovernment being the substitute provider. Consequentially, there\nis a philosophical and social change in attitude and sense of\nresponsibility of our urban-based society to become involved.\nThe sense of community and associated responsibility of all\ncitizens to be active participants is therefore diminishing.\nGovernmental substitution for citizen duty and involvement can\nhave serious implications. This impedes the nations of the world\nto be responsive to natural and man-made disasters as part of\nglobal preparedness."
@@ -3558,7 +3558,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_09_q29",
-    "title": "다른 사람들이 전달하고 있는 것이 무엇이든 그것을 받아들이는 것은 그…",
+    "title": "Accepting whatever others are communicating only pays off if",
     "description": "다른 사람들이 전달하고 있는 것이 무엇이든 그것을 받아들이는 것은 그들의 관심사 가 우리의 관심사와 일치할 때에만 성공하는데, 체내의 세포,…",
     "content": [
       "Accepting whatever others are communicating only pays off\nif their interests correspond to ours ― think cells in a body,\nbees in a beehive. As far as communication between humans\nis concerned, such commonality of interests is rarely\nachieved; even a pregnant mother has reasons to mistrust the\nchemical signals sent by her fetus. Fortunately, there are ways\nof making communication work even in the most adversarial\nof relationships. A prey can convince a predator not to chase\nit. But for such communication to occur, there must be\nstrong guarantees which those who receive the signal will\nbe better off believing it. The messages have to be kept, on the\nwhole, honest. In the case of humans, honesty is maintained\nby a set of cognitive mechanisms that evaluate communicated\ninformation. These mechanisms allow us to accept most\nbeneficial messages ― to be open ― while rejecting most\nharmful messages ― to be vigilant."
@@ -3575,7 +3575,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_09_q30",
-    "title": "경제 시스템에서는 한 부문에서 일어나는 일이 다른 부문에 영향을 미치…",
+    "title": "In economic systems what takes place in one sector has impac",
     "description": "경제 시스템에서는 한 부문에서 일어나는 일이 다른 부문에 영향을 미치며, 한 부문 에서의 재화나 서비스에 대한 수요는 다른 부문에서 파생된다.",
     "content": [
       "In economic systems what takes place in one sector has\nimpacts on another; demand for a good or service in one sector is\nderived from another. For instance, a consumer buying a good in\na store will likely trigger the replacement of this product, which\nwill generate demands for activities such as manufacturing,\nresource extraction and, of course, transport. What is different\nabout transport is that it cannot exist alone and a movement\ncannot be stored. An unsold product can remain on the shelf\nof a store until bought (often with discount incentives), but an\nunsold seat on a flight or unused cargo capacity in the same\nflight remains unsold and cannot be brought back as additional\ncapacity later. In this case an opportunity has been seized,\nsince the amount of transport being offered has exceeded the\ndemand for it. The derived demand of transportation is often very\ndifficult to reconcile with an equivalent supply, and actually\ntransport companies would prefer to have some additional\ncapacity to accommodate unforeseen demand (often at much\nhigher prices)."
@@ -3594,7 +3594,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_09_q31",
-    "title": "인류 문화의 고고학 기록을 살펴볼 때, 우리는 그것이 엄청나게 불완전…",
+    "title": "When examining the archaeological record of human culture, o",
     "description": "인류 문화의 고고학 기록을 살펴볼 때, 우리는 그것이 엄청나게 불완전하다는 것을 고려해야 한다. 인류 문화의 많은 측면은 고고학자들이 낮은 …",
     "content": [
       "When examining the archaeological record of human culture,\none has to consider that it is vastly __________. Many aspects\nof human culture have what archaeologists describe as low\narchaeological visibility, meaning they are difficult to identify\narchaeologically. Archaeologists tend to focus on tangible (or\nmaterial) aspects of culture: things that can be handled and\nphotographed, such as tools, food, and structures. Reconstructing\nintangible aspects of culture is more difficult, requiring that\none draw more inferences from the tangible. It is relatively\neasy, for example, for archaeologists to identify and draw\ninferences about technology and diet from stone tools and\nfood remains. Using the same kinds of physical remains to\ndraw inferences about social systems and what people were\nthinking about is more difficult. Archaeologists do it, but there\nare necessarily more inferences involved in getting from\nphysical remains recognized as trash to making interpretations\nabout belief systems."
@@ -3612,7 +3612,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_09_q32",
-    "title": "TV를 보는 것처럼 평범한 행동일지라도 그 행동은 어떤 사람들이 주의…",
+    "title": "Even as mundane a behavior as watching TV may be a way for s",
     "description": "TV를 보는 것처럼 평범한 행동일지라도 그 행동은 어떤 사람들이 주의를 딴 데로 돌 리는 것을 통해 고통스러운 자각에서 벗어나는 방법이 될 …",
     "content": [
       "Even as mundane a behavior as watching TV may be a way\nfor some people to .\nTo test this idea, Sophia Moskalenko and Steven Heine gave\nparticipants false feedback about their test performance, and\nthen seated each one in front of a TV set to watch a video as\nthe next part of the study. When the video came on, showing\nnature scenes with a musical soundtrack, the experimenter\nexclaimed that this was the wrong video and went supposedly\nto get the correct one, leaving the participant alone as the\nvideo played. The participants who had received failure\nfeedback watched the video much longer than those who\nthought they had succeeded. The researchers concluded that\ndistraction through television viewing can effectively relieve\nthe discomfort associated with painful failures or mismatches\nbetween the self and self-guides. In contrast, successful\nparticipants had little wish to be distracted from their\nself-related thoughts!"
@@ -3630,7 +3630,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_09_q33",
-    "title": "개별적이고 문화적으로 형성된 행동과 문화적 통합의 상태 사이의 상호의…",
+    "title": "It is important to recognise the interdependence between ind",
     "description": "개별적이고 문화적으로 형성된 행동과 문화적 통합의 상태 사이의 상호의존성을 인식 하는 것은 중요하다. 사람들은 아무리 모순되더라도 자신이 내…",
     "content": [
       "It is important to recognise the interdependence between\nindividual, culturally formed actions and the state of cultural\nintegration. People work within the forms provided by the\ncultural patterns that they have internalised, however\ncontradictory these may be. Ideas are worked out as logical\nimplications or consequences of other accepted ideas, and it is in\nthis way that cultural innovations and discoveries are possible.\nNew ideas are discovered through logical reasoning, but such\ndiscoveries are inherent in and integral to the conceptual system\nand are made possible only because of the acceptance of its\npremises. For example, the discoveries of new prime numbers\nare ‘real’ consequences of the particular number system employed.\nThus, cultural ideas show ‘advances’ and ‘developments’\nbecause they . The\ncumulative work of many individuals produces a corpus of\nknowledge within which certain ‘discoveries’ become possible\nor more likely. Such discoveries are ‘ripe’ and could not have\noccurred earlier and are also likely to be made simultaneously\nby numbers of individuals. [3점]"
@@ -3648,7 +3648,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_09_q34",
-    "title": "동물이 무해한 자극 앞에서 움직일 수 있게 하는 것은 학습의 거의 보…",
+    "title": "Enabling animals to is an almost universal function of learn",
     "description": "동물이 무해한 자극 앞에서 움직일 수 있게 하는 것은 학습의 거의 보편적인 기능이 다. 대부분의 동물은 선천적으로 이전에 마주치지 않은 대상…",
     "content": [
       "Enabling animals to\nis an almost universal function of learning. Most animals\ninnately avoid objects they have not previously encountered.\nUnfamiliar objects may be dangerous; treating them with\ncaution has survival value. If persisted in, however, such\ncareful behavior could interfere with feeding and other\nnecessary activities to the extent that the benefit of caution\nwould be lost. A turtle that withdraws into its shell at every\npuff of wind or whenever a cloud casts a shadow would never\nwin races, not even with a lazy rabbit. To overcome this\nproblem, almost all animals habituate to safe stimuli that occur\nfrequently. Confronted by a strange object, an inexperienced\nanimal may freeze or attempt to hide, but if nothing unpleasant\nhappens, sooner or later it will continue its activity. The\npossibility also exists that an unfamiliar object may be useful,\nso if it poses no immediate threat, a closer inspection may be\nworthwhile. [3점]"
@@ -3665,7 +3665,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_09_q35",
-    "title": "다양한 이론적 관점은 이주에 대한 통찰을 제공한다.",
+    "title": "A variety of theoretical perspectives provide insight into i",
     "description": "다양한 이론적 관점은 이주에 대한 통찰을 제공한다. 행위자들이 효용 극대화에 참여 한다고 상정하는 경제학은 하나의 틀을 제시한다.",
     "content": [
       "A variety of theoretical perspectives provide insight into\nimmigration. Economics, which assumes that actors engage in\nutility maximization, represents one framework. From this\nperspective, it is assumed that individuals are rational actors,\ni.e., that they make migration decisions based on their\nassessment of the costs as well as benefits of remaining in a\ngiven area versus the costs and benefits of leaving. Benefits\nmay include but are not limited to short-term and long-term\nmonetary gains, safety, and greater freedom of cultural\nexpression. People with greater financial benefits tend to\nuse their money to show off their social status by purchasing\nluxurious items. Individual costs include but are not limited\nto the expense of travel, uncertainty of living in a foreign land,\ndifficulty of adapting to a different language, uncertainty about\na different culture, and the great concern about living in a new\nland. Psychic costs associated with separation from family,\nfriends, and the fear of the unknown also should be taken into\naccount in cost-benefit assessments."
@@ -3683,7 +3683,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_09_q36",
-    "title": "많은 경우, 친환경 제품은 주류 제품보다 더 높은 원료비를 수반한다.",
+    "title": "Green products involve, in many cases, higher ingredient cos",
     "description": "많은 경우, 친환경 제품은 주류 제품보다 더 높은 원료비를 수반한다. 게다가 그 런 제품에서 일반적인 제한 성분 목록과 디자인 기준이 친환경…",
     "content": [
       "Green products involve, in many cases, higher ingredient\ncosts than those of mainstream products.\n(A) They’d rather put money and time into known, profitable,\nhigh-volume products that serve populous customer\nsegments than into risky, less-profitable, low-volume\nproducts that may serve current noncustomers. Given that\nchoice, these companies may choose to leave the green\nsegment of the market to small niche competitors.\n(B) Even if the green product succeeds, it may cannibalize the\ncompany’s higher-profit mainstream offerings. Given such\ndownsides, companies serving mainstream consumers with\nsuccessful mainstream products face what seems like an\nobvious investment decision.\n(C) Furthermore, the restrictive ingredient lists and design\ncriteria that are typical of such products may make\ngreen products inferior to mainstream products on core\nperformance dimensions (e.g., less effective cleansers). In\nturn, the higher costs and lower performance of some\nproducts attract only a small portion of the customer base,\nleading to lower economies of scale in procurement,\nmanufacturing, and distribution."
@@ -3700,7 +3700,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_09_q37",
-    "title": "최근에, 소셜 로봇을 개인용 가정 도우미로 제공하는 많은 상업적인 벤…",
+    "title": "Recently, a number of commercial ventures have been launched",
     "description": "최근에, 소셜 로봇을 개인용 가정 도우미로 제공하는 많은 상업적인 벤처 기업들이 진출해 왔는데, 아마도 결국 기존의 스마트홈 도우미와 경쟁하…",
     "content": [
       "Recently, a number of commercial ventures have been\nlaunched that offer social robots as personal home\nassistants, perhaps eventually to rival existing smart-home\nassistants.\n(A) They might be motorized and can track the user around\nthe room, giving the impression of being aware of the\npeople in the environment. Although personal robotic\nassistants provide services similar to those of smart-home\nassistants, their social presence offers an opportunity that\nis unique to social robots.\n(B) Personal robotic assistants are devices that have no\nphysical manipulation or locomotion capabilities. Instead,\nthey have a distinct social presence and have visual\nfeatures suggestive of their ability to interact socially, such\nas eyes, ears, or a mouth.\n(C) For instance, in addition to playing music, a social personal\nassistant robot would express its engagement with the\nmusic so that users would feel like they are listening to the\nmusic together with the robot. These robots can be used as\nsurveillance devices, act as communicative intermediates,\nengage in richer games, tell stories, or be used to provide\nencouragement or incentives. [3점]"
@@ -3719,7 +3719,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_09_q38",
-    "title": "초기 인류는 매우 제한된 수의 물질, 즉 돌, 나무, 찰흙, 가죽 등…",
+    "title": "It was not until relatively recent times that scientists cam",
     "description": "초기 인류는 매우 제한된 수의 물질, 즉 돌, 나무, 찰흙, 가죽 등 자연적으로 존재하 는 물질에만 접근할 수 있었다.",
     "content": [
       "It was not until relatively recent times that scientists came\nto understand the relationships between the structural\nelements of materials and their properties.\nThe earliest humans had access to only a very limited number\nof materials, those that occur naturally: stone, wood, clay,\nskins, and so on. ( ) With time, they discovered techniques\nfor producing materials that had properties superior to those of\nthe natural ones; these new materials included pottery and\nvarious metals. ( ) Furthermore, it was discovered that the\nproperties of a material could be altered by heat treatments and\nby the addition of other substances. ( ) At this point, materials\nutilization was totally a selection process that involved deciding\nfrom a given, rather limited set of materials, the one best suited\nfor an application based on its characteristics. ( ) This\nknowledge, acquired over approximately the past 100 years, has\nempowered them to fashion, to a large degree, the characteristics\nof materials. ( ) Thus, tens of thousands of different materials\nhave evolved with rather specialized characteristics that meet\nthe needs of our modern and complex society, including metals,\nplastics, glasses, and fibers."
@@ -3736,7 +3736,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_09_q39",
-    "title": "식품 선택을 결정하는 사회적 역학이 점점 복잡해지면서 마케팅 담당자와…",
+    "title": "Personal stories connect with larger narratives to generate ",
     "description": "식품 선택을 결정하는 사회적 역학이 점점 복잡해지면서 마케팅 담당자와 광고주의 업무가 점점 더 어려워지고 있다.",
     "content": [
       "Personal stories connect with larger narratives to generate\nnew identities.\nThe growing complexity of the social dynamics determining\nfood choices makes the job of marketers and advertisers\nincreasingly more difficult. ( ) In the past, mass production\nallowed for accessibility and affordability of products, as well\nas their wide distribution, and was accepted as a sign of\nprogress. ( ) Nowadays it is increasingly replaced by\nthe fragmentation of consumers among smaller and smaller\nsegments that are supposed to reflect personal preferences.\n( ) Everybody feels different and special and expects\nproducts serving his or her inclinations. ( ) In reality, these\nsupposedly individual preferences end up overlapping with\nemerging, temporary, always changing, almost tribal\nformations solidifying around cultural sensibilities, social\nidentifications, political sensibilities, and dietary and health\nconcerns. ( ) These consumer communities go beyond\nnational boundaries, feeding on global and widely shared\nrepositories of ideas, images, and practices. [3점]"
@@ -3756,7 +3756,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_09_q40",
-    "title": "한 집단(실험 집단)은 비타민 C 보충제를 받고 다른 집단(통 제 집…",
+    "title": "The computer has, to a considerable extent, solved the probl",
     "description": "한 집단(실험 집단)은 비타민 C 보충제를 받고 다른 집단(통 제 집단)은 비타민 C 보충제를 받지 않는다.",
     "content": [
       "The computer has, to a considerable extent, solved the\nproblem of acquiring, preserving, and retrieving information.\nData can be stored in effectively unlimited quantities and in\nmanageable form. The computer makes available a range of\ndata unattainable in the age of books. It packages it\neffectively; style is no longer needed to make it accessible,\nnor is memorization. In dealing with a single decision\nseparated from its context, the computer supplies tools\nunimaginable even a decade ago. But it also diminishes\nperspective. Because information is so accessible and\ncommunication instantaneous, there is a diminution of focus\non its significance, or even on the definition of what is\nsignificant. This dynamic may encourage policymakers to\nwait for an issue to arise rather than anticipate it, and to\nregard moments of decision as a series of isolated events\nrather than part of a historical continuum. When this\nhappens, manipulation of information replaces reflection as\nthe principal policy tool."
@@ -3775,7 +3775,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_09_q42",
-    "title": "Sally가 사진 수업을 마치고 집에 돌아왔을 때, 그녀는 Katie…",
+    "title": "When Sally came back home from her photography class, she co",
     "description": "Sally가 사진 수업을 마치고 집에 돌아왔을 때, 그녀는 Katie가 이리저리 다니며 나무 도마 위에서 재료를 썰고 있는 소리를 들을 수 …",
     "content": [
       "When Sally came back home from her photography class,\nshe could hear Katie moving around, chopping things on a\nwooden cutting board. Wondering what her roommate was\ndoing, (a) she ran to the kitchen. Sally watched Katie\ncooking something that looked delicious. But Katie didn’t\nnotice her because she was too focused on preparing for her\ncooking test the next day. She was trying to remember what\nher professor had said in class that day.\nKatie, surprised by her roommate’s words, turned her head\nto Sally and sighed, “I don’t know. This is really hard.”\nStirring her sauce for pasta, Katie continued, “Professor\nBrown said that visual aspects make up a key part of a meal.\nMy recipe seems good, but I can’t think of any ways to alter\nthe feeling of the final dish.” Visibly frustrated, (b) she was\njust about to throw away all of her hard work and start again,\nwhen Sally suddenly stopped her.\n“Wait! You don’t have to start over. You just need to add\nsome color to the plate.” Being curious, Katie asked, “How\ncan (c) I do that?” Sally took out a container of vegetables\nfrom the refrigerator and replied, “How about making colored\npasta to go with (d) your sauce?” Smiling, she added, “It’s not\nthat hard, and all you need are brightly colored vegetables to\nmake your pasta green, orange, or even purple.” Katie smiled,\nknowing that now she could make her pasta with beautiful\ncolors like a photographer.\nIn that class, Professor Brown said, “You have to present\nyour food properly, considering every stage of the dining\nexperience. Imagine you are a photographer.” Recalling what\nthe professor had mentioned, Katie said to herself, “We need\nto see our ingredients as colors that make up a picture.” Sally\ncould clearly see that Katie was having a hard time preparing\nfor her cooking test. Trying to make (e) her feel better, Sally\nkindly asked, “Is there anything I can do to help?”"
@@ -3794,7 +3794,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_11_q20",
-    "title": "조직이 소셜 미디어로 실험하는 것을 처음 고려할 때 범하는 가장 일반…",
+    "title": "One of the most common mistakes made by organizations when t",
     "description": "조직이 소셜 미디어로 실험하는 것을 처음 고려할 때 범하는 가장 일반적인 실수 중 하나는 너무 지나치게 소셜 미디어 도구와 플랫폼에 중점을 …",
     "content": [
       "One of the most common mistakes made by organizations\nwhen they first consider experimenting with social media is\nthat they focus too much on social media tools and platforms\nand not enough on their business objectives. The reality of\nsuccess in the social web for businesses is that creating a social\nmedia program begins not with insight into the latest social\nmedia tools and channels but with a thorough understanding of\nthe organization’s own goals and objectives. A social media\nprogram is not merely the fulfillment of a vague need to manage\na “presence” on popular social networks because “everyone\nelse is doing it.” “Being in social media” serves no purpose\nin and of itself. In order to serve any purpose at all, a social\nmedia presence must either solve a problem for the organization\nand its customers or result in an improvement of some sort\n(preferably a measurable one). In all things, purpose drives\nsuccess. The world of social media is no different."
@@ -3812,7 +3812,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_11_q21",
-    "title": "과학자들은 도덕적 혹은 윤리적 결정에 대한 특별한 강점이 없으며, 기…",
+    "title": "Scientists have no special purchase on moral or ethical deci",
     "description": "과학자들은 도덕적 혹은 윤리적 결정에 대한 특별한 강점이 없으며, 기후 과학자가 의료 개혁에 대해 견해를 밝힐 자격이 없는 것은 물리학자가 …",
     "content": [
       "Scientists have no special purchase on moral or ethical\ndecisions; a climate scientist is no more qualified to comment\non health care reform than a physicist is to judge the causes of\nbee colony collapse. The very features that create expertise in a\nspecialized domain lead to ignorance in many others. In some\ncases lay people ― farmers, fishermen, patients, native peoples ―\nmay have relevant experiences that scientists can learn from.\nIndeed, in recent years, scientists have begun to recognize this:\nthe Arctic Climate Impact Assessment includes observations\ngathered from local native groups. So our trust needs to be\nlimited, and focused. It needs to be very particular. Blind trust\nwill get us into at least as much trouble as no trust at all. But\nwithout some degree of trust in our designated experts ― the\nmen and women who have devoted their lives to sorting out\ntough questions about the natural world we live in ― we are\nparalyzed, in effect not knowing whether to make ready for\nthe morning commute or not."
@@ -3831,7 +3831,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_11_q22",
-    "title": "환경 위험 요인에는 생물학적, 물리적, 화학적 위험 요인과 함께 노출…",
+    "title": "Environmental hazards include biological, physical, and chem",
     "description": "환경 위험 요인에는 생물학적, 물리적, 화학적 위험 요인과 함께 노출을 조장하거나 허용하는 인간의 행동이 포함된다.",
     "content": [
       "Environmental hazards include biological, physical, and\nchemical ones, along with the human behaviors that promote\nor allow exposure. Some environmental contaminants are\ndifficult to avoid (the breathing of polluted air, the drinking of\nchemically contaminated public drinking water, noise in open\npublic spaces); in these circumstances, exposure is largely\ninvoluntary. Reduction or elimination of these factors may require\nsocietal action, such as public awareness and public health\nmeasures. In many countries, the fact that some environmental\nhazards are difficult to avoid at the individual level is felt to be\nmore morally egregious than those hazards that can be avoided.\nHaving no choice but to drink water contaminated with very\nhigh levels of arsenic, or being forced to passively breathe in\ntobacco smoke in restaurants, outrages people more than the\npersonal choice of whether an individual smokes tobacco.\nThese factors are important when one considers how change\n(risk reduction) happens."
@@ -3850,7 +3850,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_11_q23",
-    "title": "과학자들은 패러다임을 믿기보다는 그것을 ‘사용한다’.",
+    "title": "Scientists use paradigms rather than believing them",
     "description": "과학자들은 패러다임을 믿기보다는 그것을 ‘사용한다’. 연구에서 패러다임의 사용은 일반적으로 공유된 개념, 상징적 표현, 실험 및 수학적 도구…",
     "content": [
       "Scientists use paradigms rather than believing them. The use\nof a paradigm in research typically addresses related problems\nby employing shared concepts, symbolic expressions,\nexperimental and mathematical tools and procedures, and even\nsome of the same theoretical statements. Scientists need only\nunderstand how to use these various elements in ways that\nothers would accept. These elements of shared practice thus\nneed not presuppose any comparable unity in scientists’ beliefs\nabout what they are doing when they use them. Indeed, one role\nof a paradigm is to enable scientists to work successfully\nwithout having to provide a detailed account of what they are\ndoing or what they believe about it. Thomas Kuhn noted that\nscientists “can agree in their identification of a paradigm without\nagreeing on, or even attempting to produce, a full interpretation\nor rationalization of it. Lack of a standard interpretation or of\nan agreed reduction to rules will not prevent a paradigm from\nguiding research.”\ndifficulty in drawing novel theories from existing paradigms\nsignificant influence of personal beliefs in scientific fields\nkey factors that promote the rise of innovative paradigms\nroles of a paradigm in grouping like-minded researchers\nfunctional aspects of a paradigm in scientific research"
@@ -3868,7 +3868,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_11_q24",
-    "title": "물건을 고치고 복원하는 것에는 흔히 최초 제작보다 훨씬 더 많은 창의…",
+    "title": "Mending and restoring objects often require even more creati",
     "description": "물건을 고치고 복원하는 것에는 흔히 최초 제작보다 훨씬 더 많은 창의력이 필요하 다. 산업화 이전의 대장장이는 가까이에 사는 마을 사람들을 …",
     "content": [
       "Mending and restoring objects often require even more\ncreativity than original production. The preindustrial blacksmith\nmade things to order for people in his immediate community;\ncustomizing the product, modifying or transforming it according\nto the user, was routine. Customers would bring things back if\nsomething went wrong; repair was thus an extension of\nfabrication. With industrialization and eventually with mass\nproduction, making things became the province of machine\ntenders with limited knowledge. But repair continued to require\na larger grasp of design and materials, an understanding of the\nwhole and a comprehension of the designer’s intentions.\n“Manufacturers all work by machinery or by vast subdivision\nof labour and not, so to speak, by hand,” an 1896 Manual of\nMending and Repairing explained. “But all repairing must be\ndone by hand. We can make every detail of a watch or of a\ngun by machinery, but the machine cannot mend it when\nbroken, much less a clock or a pistol!”\nStill Left to the Modern Blacksmith: The Art of Repair\nA Historical Survey of How Repairing Skills Evolved\nHow to Be a Creative Repairperson: Tips and Ideas\nA Process of Repair: Create, Modify, Transform!\nCan Industrialization Mend Our Broken Past?\n-- 3 of 8 --"
@@ -3887,7 +3887,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_11_q29",
-    "title": "개체 전체와 마찬가지로, 세포도 수명을 가지고 있다.",
+    "title": "Like whole individuals, cells have a life span",
     "description": "개체 전체와 마찬가지로, 세포도 수명을 가지고 있다. 그것의 생명 주기(세포 주기) 동안에, 세포의 크기, 모양, 물질대사 활동이 극적으로 …",
     "content": [
       "Like whole individuals, cells have a life span. During their life\ncycle (cell cycle), cell size, shape, and metabolic activities can\nchange dramatically. A cell is “born” as a twin when its mother\ncell divides, producing two daughter cells. Each daughter\ncell is smaller than the mother cell, and except for unusual cases,\neach grows until it becomes as large as the mother cell was.\nDuring this time, the cell absorbs water, sugars, amino acids,\nand other nutrients and assembles them into new, living\nprotoplasm. After the cell has grown to the proper size, its\nmetabolism shifts as it either prepares to divide or matures and\ndifferentiates into a specialized cell. Both growth and\ndevelopment require a complex and dynamic set of interactions\ninvolving all cell parts. What cell metabolism and structure\nshould be complex would not be surprising, but actually, they\nare rather simple and logical. Even the most complex cell has\nonly a small number of parts, each responsible for a distinct,\nwell-defined aspect of cell life."
@@ -3906,7 +3906,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_11_q30",
-    "title": "천연 제품들만 투입물로 사용되는 방식으로 정의되는 ‘유기농’ 방식은 …",
+    "title": "It has been suggested that “organic” methods, defined as tho",
     "description": "천연 제품들만 투입물로 사용되는 방식으로 정의되는 ‘유기농’ 방식은 생물권에 해를 덜 끼친다고 시사되어 왔다.",
     "content": [
       "It has been suggested that “organic” methods, defined as\nthose in which only natural products can be used as inputs,\nwould be less damaging to the biosphere. Large-scale adoption\nof “organic” farming methods, however, would reduce\nyields and increase production costs for many major crops.\nInorganic nitrogen supplies are essential for maintaining\nmoderate to high levels of productivity for many of the\nnon-leguminous crop species, because organic supplies of\nnitrogenous materials often are either limited or more\nexpensive than inorganic nitrogen fertilizers. In addition, there\nare benefits to the extensive use of either manure or legumes\nas “green manure” crops. In many cases, weed control can be\nvery difficult or require much hand labor if chemicals cannot\nbe used, and fewer people are willing to do this work as\nsocieties become wealthier. Some methods used in “organic”\nfarming, however, such as the sensible use of crop rotations\nand specific combinations of cropping and livestock enterprises,\ncan make important contributions to the sustainability of\nrural ecosystems."
@@ -3924,7 +3924,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_11_q31",
-    "title": "유머는 실제적인 이탈뿐만 아니라 인식의 이탈을 포함한다.",
+    "title": "Humour involves not just practical disengagement but cogniti",
     "description": "유머는 실제적인 이탈뿐만 아니라 인식의 이탈을 포함한다. 어떤 것이 재미있다면, 우 리는 잠깐 그것이 진짜인지 허구인지, 진실인지 거짓인지에…",
     "content": [
       "Humour involves not just practical disengagement but\ncognitive disengagement. As long as something is funny, we\nare for the moment not concerned with whether it is real or\nfictional, true or false. This is why we give considerable\nleeway to people telling funny stories. If they are getting extra\nlaughs by exaggerating the silliness of a situation or even by\nmaking up a few details, we are happy to grant them comic\nlicence, a kind of poetic licence. Indeed, someone listening to\na funny story who tries to correct the teller ― ‘No, he didn’t\nspill the spaghetti on the keyboard and the monitor, just on the\nkeyboard’ ― will probably be told by the other listeners to\nstop interrupting. The creator of humour is putting ideas into\npeople’s heads for the pleasure those ideas will bring, not to\nprovide information."
@@ -3942,7 +3942,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_11_q32",
-    "title": "뉴스, 특히 텔레비전으로 방송되는 형태는 그것이 선택하는 주제와 이야…",
+    "title": "News, especially in its televised form, is constituted not o",
     "description": "뉴스, 특히 텔레비전으로 방송되는 형태는 그것이 선택하는 주제와 이야기뿐만 아니 라 그것의 언어적, 시각적 표현 양식이나 전달 방식에 의해서…",
     "content": [
       "News, especially in its televised form, is constituted not\nonly by its choice of topics and stories but by its\n. Presentational\nstyles have been subject to a tension between an\ninformational-educational purpose and the need to engage us\nentertainingly. While current affairs programmes are often\n‘serious’ in tone sticking to the ‘rules’ of balance, more\npopular programmes adopt a friendly, lighter, idiom in which\nwe are invited to consider the impact of particular news items\nfrom the perspective of the ‘average person in the street’.\nIndeed, contemporary news construction has come to rely on an\nincreased use of faster editing tempos and ‘flashier’ presentational\nstyles including the use of logos, sound-bites, rapid visual cuts\nand the ‘star quality’ of news readers. Popular formats can be\nsaid to enhance understanding by engaging an audience unwilling\nto endure the longer verbal orientation of older news formats.\nHowever, they arguably work to reduce understanding by\nfailing to provide the structural contexts for news events.\ncoordination with traditional display techniques\nprompt and full coverage of the latest issues\neducational media contents favoured by producers\ncommitment to long-lasting news standards\nverbal and visual idioms or modes of address\n-- 5 of 8 --"
@@ -3960,7 +3960,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_11_q33",
-    "title": "Elinor Ostrom은 공유지의 문제에 대한 안정적인 제도적 해결…",
+    "title": "Elinor Ostrom found that there are several factors critical ",
     "description": "Elinor Ostrom은 공유지의 문제에 대한 안정적인 제도적 해결책을 가져오는 데 중요 한 몇 가지 요인이 있음을 알게 되었다.",
     "content": [
       "Elinor Ostrom found that there are several factors critical to\nbringing about stable institutional solutions to the problem of\nthe commons. She pointed out, for instance, that the actors\naffected by the rules for the use and care of resources must\nhave the right to .\nFor that reason, the people who monitor and control the\nbehavior of users should also be users and/or have been given\na mandate by all users. This is a significant insight, as it shows\nthat prospects are poor for a centrally directed solution to the\nproblem of the commons coming from a state power in\ncomparison with a local solution for which users assume\npersonal responsibility. Ostrom also emphasizes the importance\nof democratic decision processes and that all users must be\ngiven access to local forums for solving problems and conflicts\namong themselves. Political institutions at central, regional,\nand local levels must allow users to devise their own regulations\nand independently ensure observance. [3점]"
@@ -3979,7 +3979,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_11_q34",
-    "title": "정확성과 확정성은 모든 의미 있는 과학 토론을 위한 필요 조건이며, …",
+    "title": "Precision and determinacy are a necessary requirement for al",
     "description": "정확성과 확정성은 모든 의미 있는 과학 토론을 위한 필요 조건이며, 과학에서의 발전은 상당 부분, 훨씬 더 높은 정확성을 달성하는 계속 진행…",
     "content": [
       "Precision and determinacy are a necessary requirement for\nall meaningful scientific debate, and progress in the sciences\nis, to a large extent, the ongoing process of achieving ever\ngreater precision. But historical representation puts a premium\non a proliferation of representations, hence not on the\nrefinement of one representation but on the production of\nan ever more varied set of representations. Historical insight\nis not a matter of a continuous “narrowing down” of previous\noptions, not of an approximation of the truth, but, on the\ncontrary, is an “explosion” of possible points of view. It\ntherefore aims at the unmasking of previous illusions of\ndeterminacy and precision by the production of new and\nalternative representations, rather than at achieving truth by\na careful analysis of what was right and wrong in those\nprevious representations. And from this perspective, the\ndevelopment of historical insight may indeed be regarded by the\noutsider as a process of creating ever more confusion, a continuous\nquestioning of ,\nrather than, as in the sciences, an ever greater approximation\nto the truth. [3점]"
@@ -3998,7 +3998,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_11_q35",
-    "title": "정보 시스템은 도입 이래로 사업 수행 방식을 상당히 변화시켜왔다.",
+    "title": "Since their introduction, information systems have substanti",
     "description": "정보 시스템은 도입 이래로 사업 수행 방식을 상당히 변화시켜왔다. 이는 특히 다수 의 부문에 걸쳐 가치 체인의 통합을 수반하는 기업 간의 협…",
     "content": [
       "Since their introduction, information systems have\nsubstantially changed the way business is conducted. This is\nparticularly true for business in the shape and form of\ncooperation between firms that involves an integration of value\nchains across multiple units. The resulting networks do not\nonly cover the business units of a single firm but typically also\ninclude multiple units from different firms. As a consequence,\nfirms do not only need to consider their internal organization\nin order to ensure sustainable business performance; they also\nneed to take into account the entire ecosystem of units\nsurrounding them. Many major companies are fundamentally\nchanging their business models by focusing on profitable units\nand cutting off less profitable ones. In order to allow these\ndifferent units to cooperate successfully, the existence of a\ncommon platform is crucial."
@@ -4018,7 +4018,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_11_q36",
-    "title": "시장 반응 모형에 따르면, 공급자가 새로운 공급원을 찾게 하고, 혁신…",
+    "title": "According to the market response model, it is increasing pri",
     "description": "시장 반응 모형에 따르면, 공급자가 새로운 공급원을 찾게 하고, 혁신가가 대용하게 하고, 소비자가 아껴 쓰게 하고, 대안이 생기게 하는 것은…",
     "content": [
       "According to the market response model, it is increasing\nprices that drive providers to search for new sources,\ninnovators to substitute, consumers to conserve, and\nalternatives to emerge.\n(A) Many examples of such “green taxes” exist. Facing landfill\ncosts, labor expenses, and related costs in the provision of\ngarbage disposal, for example, some cities have required\nhouseholds to dispose of all waste in special trash bags,\npurchased by consumers themselves, and often costing a\ndollar or more each.\n(B) Taxing certain goods or services, and so increasing prices,\nshould result in either decreased use of these resources or\ncreative innovation of new sources or options. The money\nraised through the tax can be used directly by the government\neither to supply services or to search for alternatives.\n(C) The results have been greatly increased recycling and more\ncareful attention by consumers to packaging and waste.\nBy internalizing the costs of trash to consumers, there has\nbeen an observed decrease in the flow of garbage from\nhouseholds.\n(A) － (C) － (B) (B) － (A) － (C)\n(B) － (C) － (A) (C) － (A) － (B)\n(C) － (B) － (A)\n-- 6 of 8 --"
@@ -4035,7 +4035,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_11_q37",
-    "title": "허구의 세계와 현실의 세계 사이의 유사성에도 불구하고 허구의 세계는 …",
+    "title": "In spite of the likeness between the fictional and real worl",
     "description": "허구의 세계와 현실의 세계 사이의 유사성에도 불구하고 허구의 세계는 하나의 중요 한 측면에서 현실 세계로부터 벗어난다.",
     "content": [
       "In spite of the likeness between the fictional and real\nworld, the fictional world deviates from the real one in one\nimportant respect.\n(A) The author has selected the content according to his own\nworldview and his own conception of relevance, in an\nattempt to be neutral and objective or convey a subjective\nview on the world. Whatever the motives, the author’s\nsubjective conception of the world stands between the\nreader and the original, untouched world on which the\nstory is based.\n(B) Because of the inner qualities with which the individual is\nendowed through heritage and environment, the mind\nfunctions as a filter; every outside impression that passes\nthrough it is filtered and interpreted. However, the world\nthe reader encounters in literature is already processed\nand filtered by another consciousness.\n(C) The existing world faced by the individual is in principle\nan infinite chaos of events and details before it is organized\nby a human mind. This chaos only gets processed and\nmodified when perceived by a human mind. [3점]"
@@ -4054,7 +4054,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_11_q38",
-    "title": "공장에 로봇을 도입하는 것은, 인간 노동자의 고용이 줄어들면서 걱정과…",
+    "title": "Retraining current employees for new positions within the co",
     "description": "공장에 로봇을 도입하는 것은, 인간 노동자의 고용이 줄어들면서 걱정과 두려움을 불 러일으킨다. 이러한 두려움을 예방하거나 최소한 완화하는 것…",
     "content": [
       "Retraining current employees for new positions within the\ncompany will also greatly reduce their fear of being laid\noff.\nIntroduction of robots into factories, while employment of human\nworkers is being reduced, creates worry and fear. ( ) It is\nthe responsibility of management to prevent or, at least, to ease\nthese fears. ( ) For example, robots could be introduced only\nin new plants rather than replacing humans in existing assembly\nlines. ( ) Workers should be included in the planning for\nnew factories or the introduction of robots into existing plants,\nso they can participate in the process. ( ) It may be that robots\nare needed to reduce manufacturing costs so that the company\nremains competitive, but planning for such cost reductions\nshould be done jointly by labor and management. ( ) Since\nrobots are particularly good at highly repetitive simple motions,\nthe replaced human workers should be moved to positions\nwhere judgment and decisions beyond the abilities of robots\nare required."
@@ -4071,7 +4071,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_11_q39",
-    "title": "영화는 우리 현실의 숨겨진 윤곽을 보이게 만드는 능력 때문이 아니라 …",
+    "title": "As long as the irrealism of the silent black and white film ",
     "description": "영화는 우리 현실의 숨겨진 윤곽을 보이게 만드는 능력 때문이 아니라 현실 자체가 가리고 있는 것, 즉 환상의 차원을 드러내는 능력 때문에 가…",
     "content": [
       "As long as the irrealism of the silent black and white film\npredominated, one could not take filmic fantasies for\nrepresentations of reality.\nCinema is valuable not for its ability to make visible the\nhidden outlines of our reality, but for its ability to reveal what\nreality itself veils ― the dimension of fantasy. ( ) This is\nwhy, to a person, the first great theorists of film decried the\nintroduction of sound and other technical innovations (such as\ncolor) that pushed film in the direction of realism. ( ) Since\ncinema was an entirely fantasmatic art, these innovations were\ncompletely unnecessary. ( ) And what’s worse, they could\ndo nothing but turn filmmakers and audiences away from the\nfantasmatic dimension of cinema, potentially transforming\nfilm into a mere delivery device for representations of\nreality. ( ) But sound and color threatened to create just\nsuch an illusion, thereby destroying the very essence of film\nart. ( ) As Rudolf Arnheim puts it, “The creative power of\nthe artist can only come into play where reality and the\nmedium of representation do not coincide.” [3점]"
@@ -4088,7 +4088,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_11_q40",
-    "title": "사물들을 묶어서 그룹으로 분류하는 것은 우리가 항상 하는 일이며, 그…",
+    "title": "Philip Kitcher and Wesley Salmon have suggested that there a",
     "description": "사물들을 묶어서 그룹으로 분류하는 것은 우리가 항상 하는 일이며, 그 이유를 이해 하는 것은 어렵지 않다. 음식이 진열대에 마구잡이로 배열된…",
     "content": [
       "Philip Kitcher and Wesley Salmon have suggested that\nthere are two possible alternatives among philosophical\ntheories of explanation. One is the view that scientific\nexplanation consists in the unification of broad bodies of\nphenomena under a minimal number of generalizations.\nAccording to this view, the (or perhaps, a) goal of science\nis to construct an economical framework of laws or\ngeneralizations that are capable of subsuming all observable\nphenomena. Scientific explanations organize and systematize\nour knowledge of the empirical world; the more economical\nthe systematization, the deeper our understanding of what\nis explained. The other view is the causal/mechanical\napproach. According to it, a scientific explanation of a\nphenomenon consists of uncovering the mechanisms that\nproduced the phenomenon of interest. This view sees the\nexplanation of individual events as primary, with the\nexplanation of generalizations flowing from them. That is,\nthe explanation of scientific generalizations comes from\nthe causal mechanisms that produce the regularities."
@@ -4109,7 +4109,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2021_11_q42",
-    "title": "체육관에서, 태권도 동아리 회원들이 부지런히 연습하고 있었다.",
+    "title": "In the gym, members of the taekwondo club were busy practici",
     "description": "체육관에서, 태권도 동아리 회원들이 부지런히 연습하고 있었다. 일부는 가능한 한 높이 발차기를 하려고 애쓰고 있었고, 일부는 겨루기 패드 치…",
     "content": [
       "In the gym, members of the taekwondo club were busy\npracticing. Some were trying to kick as high as they could,\nand some were striking the sparring pad. Anna, the head of\nthe club, was teaching the new members basic moves. Close\nby, her friend Jane was assisting Anna. Jane noticed that\nAnna was glancing at the entrance door of the gym. She\nseemed to be expecting someone. At last, when Anna took a\nbreak, Jane came over to (a) her and asked, “Hey, are you\nwaiting for Cora?”\nCora walked in like a wounded soldier with bandages on\nher face and arms. Surprised, Anna and Jane simply looked at\nher with their eyes wide open. Cora explained, “I’m sorry\nI’ve been absent. I got into a bicycle accident, and I was in\nthe hospital for two days. Finally, the doctor gave me the\nokay to practice.” Anna said excitedly, “No problem! We’re\nthrilled to have you back!” Then, Jane gave Anna an\napologetic look, and (b) she responded with a friendly pat on\nJane’s shoulder.\nAnna answered the question by nodding uneasily. In fact,\nJane knew what her friend was thinking. Cora was a new\nmember, whom Anna had personally invited to join the club.\nAnna really liked (c) her. Although her budget was tight,\nAnna bought Cora a taekwondo uniform. When she received\nit, Cora thanked her and promised, “I’ll come to practice and\nwork hard every day.” However, unexpectedly, she came to\npractice only once and then never showed up again.\nSince Cora had missed several practices, Anna wondered\nwhat could have happened. Jane, on the other hand, was\ndisappointed and said judgingly, “Still waiting for her, huh? I\ncan’t believe (d) you don’t feel disappointed or angry. Why\ndon’t you forget about her?” Anna replied, “Well, I know\nmost newcomers don’t keep their commitment to the club,\nbut I thought that Cora would be different. She said she\nwould come every day and practice.” Just as Jane was about\nto respond to (e) her, the door swung open. There she was!"
@@ -4125,8 +4125,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2021년 11월"
   },
   {
-    "id": "high3_2021_11_q20",
-    "title": "조직이 소셜 미디어로 실험하는 것을 처음 고려할 때 범하는 가장 일반…",
+    "id": "high3_2021_11_q20_2",
+    "title": "One of the most common mistakes made by organizations when t",
     "description": "조직이 소셜 미디어로 실험하는 것을 처음 고려할 때 범하는 가장 일반적인 실수 중 하나는 너무 지나치게 소셜 미디어 도구와 플랫폼에 중점을 …",
     "content": [
       "One of the most common mistakes made by organizations\nwhen they first consider experimenting with social media is\nthat they focus too much on social media tools and platforms\nand not enough on their business objectives. The reality of\nsuccess in the social web for businesses is that creating a social\nmedia program begins not with insight into the latest social\nmedia tools and channels but with a thorough understanding of\nthe organization’s own goals and objectives. A social media\nprogram is not merely the fulfillment of a vague need to manage\na “presence” on popular social networks because “everyone\nelse is doing it.” “Being in social media” serves no purpose\nin and of itself. In order to serve any purpose at all, a social\nmedia presence must either solve a problem for the organization\nand its customers or result in an improvement of some sort\n(preferably a measurable one). In all things, purpose drives\nsuccess. The world of social media is no different."
@@ -4143,8 +4143,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2021년 11월"
   },
   {
-    "id": "high3_2021_11_q21",
-    "title": "과학자들은 도덕적 혹은 윤리적 결정에 대한 특별한 강점이 없으며, 기…",
+    "id": "high3_2021_11_q21_2",
+    "title": "Scientists have no special purchase on moral or ethical deci",
     "description": "과학자들은 도덕적 혹은 윤리적 결정에 대한 특별한 강점이 없으며, 기후 과학자가 의료 개혁에 대해 견해를 밝힐 자격이 없는 것은 물리학자가 …",
     "content": [
       "Scientists have no special purchase on moral or ethical\ndecisions; a climate scientist is no more qualified to comment\non health care reform than a physicist is to judge the causes of\nbee colony collapse. The very features that create expertise in a\nspecialized domain lead to ignorance in many others. In some\ncases lay people ― farmers, fishermen, patients, native peoples ―\nmay have relevant experiences that scientists can learn from.\nIndeed, in recent years, scientists have begun to recognize this:\nthe Arctic Climate Impact Assessment includes observations\ngathered from local native groups. So our trust needs to be\nlimited, and focused. It needs to be very particular. Blind trust\nwill get us into at least as much trouble as no trust at all. But\nwithout some degree of trust in our designated experts ― the\nmen and women who have devoted their lives to sorting out\ntough questions about the natural world we live in ― we are\nparalyzed, in effect not knowing whether to make ready for\nthe morning commute or not."
@@ -4162,8 +4162,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2021년 11월"
   },
   {
-    "id": "high3_2021_11_q22",
-    "title": "환경 위험 요인에는 생물학적, 물리적, 화학적 위험 요인과 함께 노출…",
+    "id": "high3_2021_11_q22_2",
+    "title": "Environmental hazards include biological, physical, and chem",
     "description": "환경 위험 요인에는 생물학적, 물리적, 화학적 위험 요인과 함께 노출을 조장하거나 허용하는 인간의 행동이 포함된다.",
     "content": [
       "Environmental hazards include biological, physical, and\nchemical ones, along with the human behaviors that promote\nor allow exposure. Some environmental contaminants are\ndifficult to avoid (the breathing of polluted air, the drinking of\nchemically contaminated public drinking water, noise in open\npublic spaces); in these circumstances, exposure is largely\ninvoluntary. Reduction or elimination of these factors may require\nsocietal action, such as public awareness and public health\nmeasures. In many countries, the fact that some environmental\nhazards are difficult to avoid at the individual level is felt to be\nmore morally egregious than those hazards that can be avoided.\nHaving no choice but to drink water contaminated with very\nhigh levels of arsenic, or being forced to passively breathe in\ntobacco smoke in restaurants, outrages people more than the\npersonal choice of whether an individual smokes tobacco.\nThese factors are important when one considers how change\n(risk reduction) happens."
@@ -4181,8 +4181,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2021년 11월"
   },
   {
-    "id": "high3_2021_11_q23",
-    "title": "과학자들은 패러다임을 믿기보다는 그것을 ‘사용한다’.",
+    "id": "high3_2021_11_q23_2",
+    "title": "Scientists use paradigms rather than believing them",
     "description": "과학자들은 패러다임을 믿기보다는 그것을 ‘사용한다’. 연구에서 패러다임의 사용은 일반적으로 공유된 개념, 상징적 표현, 실험 및 수학적 도구…",
     "content": [
       "Scientists use paradigms rather than believing them. The use\nof a paradigm in research typically addresses related problems\nby employing shared concepts, symbolic expressions,\nexperimental and mathematical tools and procedures, and even\nsome of the same theoretical statements. Scientists need only\nunderstand how to use these various elements in ways that\nothers would accept. These elements of shared practice thus\nneed not presuppose any comparable unity in scientists’ beliefs\nabout what they are doing when they use them. Indeed, one role\nof a paradigm is to enable scientists to work successfully\nwithout having to provide a detailed account of what they are\ndoing or what they believe about it. Thomas Kuhn noted that\nscientists “can agree in their identification of a paradigm without\nagreeing on, or even attempting to produce, a full interpretation\nor rationalization of it. Lack of a standard interpretation or of\nan agreed reduction to rules will not prevent a paradigm from\nguiding research.”\nfunctional aspects of a paradigm in scientific research\nroles of a paradigm in grouping like-minded researchers\nkey factors that promote the rise of innovative paradigms\nsignificant influence of personal beliefs in scientific fields\ndifficulty in drawing novel theories from existing paradigms"
@@ -4199,8 +4199,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2021년 11월"
   },
   {
-    "id": "high3_2021_11_q24",
-    "title": "물건을 고치고 복원하는 것에는 흔히 최초 제작보다 훨씬 더 많은 창의…",
+    "id": "high3_2021_11_q24_2",
+    "title": "Mending and restoring objects often require even more creati",
     "description": "물건을 고치고 복원하는 것에는 흔히 최초 제작보다 훨씬 더 많은 창의력이 필요하 다. 산업화 이전의 대장장이는 가까이에 사는 마을 사람들을 …",
     "content": [
       "Mending and restoring objects often require even more\ncreativity than original production. The preindustrial blacksmith\nmade things to order for people in his immediate community;\ncustomizing the product, modifying or transforming it according\nto the user, was routine. Customers would bring things back if\nsomething went wrong; repair was thus an extension of\nfabrication. With industrialization and eventually with mass\nproduction, making things became the province of machine\ntenders with limited knowledge. But repair continued to require\na larger grasp of design and materials, an understanding of the\nwhole and a comprehension of the designer’s intentions.\n“Manufacturers all work by machinery or by vast subdivision\nof labour and not, so to speak, by hand,” an 1896 Manual of\nMending and Repairing explained. “But all repairing must be\ndone by hand. We can make every detail of a watch or of a\ngun by machinery, but the machine cannot mend it when\nbroken, much less a clock or a pistol!”\nCan Industrialization Mend Our Broken Past?\nA Process of Repair: Create, Modify, Transform!\nHow to Be a Creative Repairperson: Tips and Ideas\nA Historical Survey of How Repairing Skills Evolved\nStill Left to the Modern Blacksmith: The Art of Repair\n-- 3 of 8 --"
@@ -4218,8 +4218,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2021년 11월"
   },
   {
-    "id": "high3_2021_11_q29",
-    "title": "개체 전체와 마찬가지로, 세포도 수명을 가지고 있다.",
+    "id": "high3_2021_11_q29_2",
+    "title": "Like whole individuals, cells have a life span",
     "description": "개체 전체와 마찬가지로, 세포도 수명을 가지고 있다. 그것의 생명 주기(세포 주기) 동안에, 세포의 크기, 모양, 물질대사 활동이 극적으로 …",
     "content": [
       "Like whole individuals, cells have a life span. During their life\ncycle (cell cycle), cell size, shape, and metabolic activities can\nchange dramatically. A cell is “born” as a twin when its mother\ncell divides, producing two daughter cells. Each daughter\ncell is smaller than the mother cell, and except for unusual cases,\neach grows until it becomes as large as the mother cell was.\nDuring this time, the cell absorbs water, sugars, amino acids,\nand other nutrients and assembles them into new, living\nprotoplasm. After the cell has grown to the proper size, its\nmetabolism shifts as it either prepares to divide or matures and\ndifferentiates into a specialized cell. Both growth and\ndevelopment require a complex and dynamic set of interactions\ninvolving all cell parts. What cell metabolism and structure\nshould be complex would not be surprising, but actually, they\nare rather simple and logical. Even the most complex cell has\nonly a small number of parts, each responsible for a distinct,\nwell-defined aspect of cell life."
@@ -4237,8 +4237,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2021년 11월"
   },
   {
-    "id": "high3_2021_11_q30",
-    "title": "천연 제품들만 투입물로 사용되는 방식으로 정의되는 ‘유기농’ 방식은 …",
+    "id": "high3_2021_11_q30_2",
+    "title": "It has been suggested that “organic” methods, defined as tho",
     "description": "천연 제품들만 투입물로 사용되는 방식으로 정의되는 ‘유기농’ 방식은 생물권에 해를 덜 끼친다고 시사되어 왔다.",
     "content": [
       "It has been suggested that “organic” methods, defined as\nthose in which only natural products can be used as inputs,\nwould be less damaging to the biosphere. Large-scale adoption\nof “organic” farming methods, however, would reduce\nyields and increase production costs for many major crops.\nInorganic nitrogen supplies are essential for maintaining\nmoderate to high levels of productivity for many of the\nnon-leguminous crop species, because organic supplies of\nnitrogenous materials often are either limited or more\nexpensive than inorganic nitrogen fertilizers. In addition, there\nare benefits to the extensive use of either manure or legumes\nas “green manure” crops. In many cases, weed control can be\nvery difficult or require much hand labor if chemicals cannot\nbe used, and fewer people are willing to do this work as\nsocieties become wealthier. Some methods used in “organic”\nfarming, however, such as the sensible use of crop rotations\nand specific combinations of cropping and livestock enterprises,\ncan make important contributions to the sustainability of\nrural ecosystems."
@@ -4255,8 +4255,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2021년 11월"
   },
   {
-    "id": "high3_2021_11_q31",
-    "title": "유머는 실제적인 이탈뿐만 아니라 인식의 이탈을 포함한다.",
+    "id": "high3_2021_11_q31_2",
+    "title": "Humour involves not just practical disengagement but cogniti",
     "description": "유머는 실제적인 이탈뿐만 아니라 인식의 이탈을 포함한다. 어떤 것이 재미있다면, 우 리는 잠깐 그것이 진짜인지 허구인지, 진실인지 거짓인지에…",
     "content": [
       "Humour involves not just practical disengagement but\ncognitive disengagement. As long as something is funny, we\nare for the moment not concerned with whether it is real or\nfictional, true or false. This is why we give considerable\nleeway to people telling funny stories. If they are getting extra\nlaughs by exaggerating the silliness of a situation or even by\nmaking up a few details, we are happy to grant them comic\nlicence, a kind of poetic licence. Indeed, someone listening to\na funny story who tries to correct the teller ― ‘No, he didn’t\nspill the spaghetti on the keyboard and the monitor, just on the\nkeyboard’ ― will probably be told by the other listeners to\nstop interrupting. The creator of humour is putting ideas into\npeople’s heads for the pleasure those ideas will bring, not to\nprovide information."
@@ -4273,8 +4273,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2021년 11월"
   },
   {
-    "id": "high3_2021_11_q32",
-    "title": "뉴스, 특히 텔레비전으로 방송되는 형태는 그것이 선택하는 주제와 이야…",
+    "id": "high3_2021_11_q32_2",
+    "title": "News, especially in its televised form, is constituted not o",
     "description": "뉴스, 특히 텔레비전으로 방송되는 형태는 그것이 선택하는 주제와 이야기뿐만 아니 라 그것의 언어적, 시각적 표현 양식이나 전달 방식에 의해서…",
     "content": [
       "News, especially in its televised form, is constituted not\nonly by its choice of topics and stories but by its\n. Presentational\nstyles have been subject to a tension between an\ninformational-educational purpose and the need to engage us\nentertainingly. While current affairs programmes are often\n‘serious’ in tone sticking to the ‘rules’ of balance, more\npopular programmes adopt a friendly, lighter, idiom in which\nwe are invited to consider the impact of particular news items\nfrom the perspective of the ‘average person in the street’.\nIndeed, contemporary news construction has come to rely on an\nincreased use of faster editing tempos and ‘flashier’ presentational\nstyles including the use of logos, sound-bites, rapid visual cuts\nand the ‘star quality’ of news readers. Popular formats can be\nsaid to enhance understanding by engaging an audience unwilling\nto endure the longer verbal orientation of older news formats.\nHowever, they arguably work to reduce understanding by\nfailing to provide the structural contexts for news events.\nverbal and visual idioms or modes of address\nprompt and full coverage of the latest issues\neducational media contents favoured by producers\ncommitment to long-lasting news standards\ncoordination with traditional display techniques\n-- 5 of 8 --"
@@ -4291,8 +4291,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2021년 11월"
   },
   {
-    "id": "high3_2021_11_q33",
-    "title": "Elinor Ostrom은 공유지의 문제에 대한 안정적인 제도적 해결…",
+    "id": "high3_2021_11_q33_2",
+    "title": "Elinor Ostrom found that there are several factors critical ",
     "description": "Elinor Ostrom은 공유지의 문제에 대한 안정적인 제도적 해결책을 가져오는 데 중요 한 몇 가지 요인이 있음을 알게 되었다.",
     "content": [
       "Elinor Ostrom found that there are several factors critical to\nbringing about stable institutional solutions to the problem of\nthe commons. She pointed out, for instance, that the actors\naffected by the rules for the use and care of resources must\nhave the right to .\nFor that reason, the people who monitor and control the\nbehavior of users should also be users and/or have been given\na mandate by all users. This is a significant insight, as it shows\nthat prospects are poor for a centrally directed solution to the\nproblem of the commons coming from a state power in\ncomparison with a local solution for which users assume\npersonal responsibility. Ostrom also emphasizes the importance\nof democratic decision processes and that all users must be\ngiven access to local forums for solving problems and conflicts\namong themselves. Political institutions at central, regional,\nand local levels must allow users to devise their own regulations\nand independently ensure observance. [3점]"
@@ -4310,8 +4310,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2021년 11월"
   },
   {
-    "id": "high3_2021_11_q34",
-    "title": "정확성과 확정성은 모든 의미 있는 과학 토론을 위한 필요 조건이며, …",
+    "id": "high3_2021_11_q34_2",
+    "title": "Precision and determinacy are a necessary requirement for al",
     "description": "정확성과 확정성은 모든 의미 있는 과학 토론을 위한 필요 조건이며, 과학에서의 발전은 상당 부분, 훨씬 더 높은 정확성을 달성하는 계속 진행…",
     "content": [
       "Precision and determinacy are a necessary requirement for\nall meaningful scientific debate, and progress in the sciences\nis, to a large extent, the ongoing process of achieving ever\ngreater precision. But historical representation puts a premium\non a proliferation of representations, hence not on the\nrefinement of one representation but on the production of\nan ever more varied set of representations. Historical insight\nis not a matter of a continuous “narrowing down” of previous\noptions, not of an approximation of the truth, but, on the\ncontrary, is an “explosion” of possible points of view. It\ntherefore aims at the unmasking of previous illusions of\ndeterminacy and precision by the production of new and\nalternative representations, rather than at achieving truth by\na careful analysis of what was right and wrong in those\nprevious representations. And from this perspective, the\ndevelopment of historical insight may indeed be regarded by the\noutsider as a process of creating ever more confusion, a continuous\nquestioning of ,\nrather than, as in the sciences, an ever greater approximation\nto the truth. [3점]"
@@ -4329,8 +4329,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2021년 11월"
   },
   {
-    "id": "high3_2021_11_q35",
-    "title": "정보 시스템은 도입 이래로 사업 수행 방식을 상당히 변화시켜왔다.",
+    "id": "high3_2021_11_q35_2",
+    "title": "Since their introduction, information systems have substanti",
     "description": "정보 시스템은 도입 이래로 사업 수행 방식을 상당히 변화시켜왔다. 이는 특히 다수 의 부문에 걸쳐 가치 체인의 통합을 수반하는 기업 간의 협…",
     "content": [
       "Since their introduction, information systems have\nsubstantially changed the way business is conducted. This is\nparticularly true for business in the shape and form of\ncooperation between firms that involves an integration of value\nchains across multiple units. The resulting networks do not\nonly cover the business units of a single firm but typically also\ninclude multiple units from different firms. As a consequence,\nfirms do not only need to consider their internal organization\nin order to ensure sustainable business performance; they also\nneed to take into account the entire ecosystem of units\nsurrounding them. Many major companies are fundamentally\nchanging their business models by focusing on profitable units\nand cutting off less profitable ones. In order to allow these\ndifferent units to cooperate successfully, the existence of a\ncommon platform is crucial."
@@ -4349,8 +4349,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2021년 11월"
   },
   {
-    "id": "high3_2021_11_q36",
-    "title": "시장 반응 모형에 따르면, 공급자가 새로운 공급원을 찾게 하고, 혁신…",
+    "id": "high3_2021_11_q36_2",
+    "title": "According to the market response model, it is increasing pri",
     "description": "시장 반응 모형에 따르면, 공급자가 새로운 공급원을 찾게 하고, 혁신가가 대용하게 하고, 소비자가 아껴 쓰게 하고, 대안이 생기게 하는 것은…",
     "content": [
       "According to the market response model, it is increasing\nprices that drive providers to search for new sources,\ninnovators to substitute, consumers to conserve, and\nalternatives to emerge.\n(A) Many examples of such “green taxes” exist. Facing landfill\ncosts, labor expenses, and related costs in the provision of\ngarbage disposal, for example, some cities have required\nhouseholds to dispose of all waste in special trash bags,\npurchased by consumers themselves, and often costing a\ndollar or more each.\n(B) Taxing certain goods or services, and so increasing prices,\nshould result in either decreased use of these resources or\ncreative innovation of new sources or options. The money\nraised through the tax can be used directly by the government\neither to supply services or to search for alternatives.\n(C) The results have been greatly increased recycling and more\ncareful attention by consumers to packaging and waste.\nBy internalizing the costs of trash to consumers, there has\nbeen an observed decrease in the flow of garbage from\nhouseholds.\n(A) － (C) － (B) (B) － (A) － (C)\n(B) － (C) － (A) (C) － (A) － (B)\n(C) － (B) － (A)\n-- 6 of 8 --"
@@ -4366,8 +4366,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2021년 11월"
   },
   {
-    "id": "high3_2021_11_q37",
-    "title": "허구의 세계와 현실의 세계 사이의 유사성에도 불구하고 허구의 세계는 …",
+    "id": "high3_2021_11_q37_2",
+    "title": "In spite of the likeness between the fictional and real worl",
     "description": "허구의 세계와 현실의 세계 사이의 유사성에도 불구하고 허구의 세계는 하나의 중요 한 측면에서 현실 세계로부터 벗어난다.",
     "content": [
       "In spite of the likeness between the fictional and real\nworld, the fictional world deviates from the real one in one\nimportant respect.\n(A) The author has selected the content according to his own\nworldview and his own conception of relevance, in an\nattempt to be neutral and objective or convey a subjective\nview on the world. Whatever the motives, the author’s\nsubjective conception of the world stands between the\nreader and the original, untouched world on which the\nstory is based.\n(B) Because of the inner qualities with which the individual is\nendowed through heritage and environment, the mind\nfunctions as a filter; every outside impression that passes\nthrough it is filtered and interpreted. However, the world\nthe reader encounters in literature is already processed\nand filtered by another consciousness.\n(C) The existing world faced by the individual is in principle\nan infinite chaos of events and details before it is organized\nby a human mind. This chaos only gets processed and\nmodified when perceived by a human mind. [3점]"
@@ -4385,8 +4385,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2021년 11월"
   },
   {
-    "id": "high3_2021_11_q38",
-    "title": "공장에 로봇을 도입하는 것은, 인간 노동자의 고용이 줄어들면서 걱정과…",
+    "id": "high3_2021_11_q38_2",
+    "title": "Retraining current employees for new positions within the co",
     "description": "공장에 로봇을 도입하는 것은, 인간 노동자의 고용이 줄어들면서 걱정과 두려움을 불 러일으킨다. 이러한 두려움을 예방하거나 최소한 완화하는 것…",
     "content": [
       "Retraining current employees for new positions within the\ncompany will also greatly reduce their fear of being laid\noff.\nIntroduction of robots into factories, while employment of human\nworkers is being reduced, creates worry and fear. ( ) It is\nthe responsibility of management to prevent or, at least, to ease\nthese fears. ( ) For example, robots could be introduced only\nin new plants rather than replacing humans in existing assembly\nlines. ( ) Workers should be included in the planning for\nnew factories or the introduction of robots into existing plants,\nso they can participate in the process. ( ) It may be that robots\nare needed to reduce manufacturing costs so that the company\nremains competitive, but planning for such cost reductions\nshould be done jointly by labor and management. ( ) Since\nrobots are particularly good at highly repetitive simple motions,\nthe replaced human workers should be moved to positions\nwhere judgment and decisions beyond the abilities of robots\nare required."
@@ -4402,8 +4402,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2021년 11월"
   },
   {
-    "id": "high3_2021_11_q39",
-    "title": "영화는 우리 현실의 숨겨진 윤곽을 보이게 만드는 능력 때문이 아니라 …",
+    "id": "high3_2021_11_q39_2",
+    "title": "As long as the irrealism of the silent black and white film ",
     "description": "영화는 우리 현실의 숨겨진 윤곽을 보이게 만드는 능력 때문이 아니라 현실 자체가 가리고 있는 것, 즉 환상의 차원을 드러내는 능력 때문에 가…",
     "content": [
       "As long as the irrealism of the silent black and white film\npredominated, one could not take filmic fantasies for\nrepresentations of reality.\nCinema is valuable not for its ability to make visible the\nhidden outlines of our reality, but for its ability to reveal what\nreality itself veils ― the dimension of fantasy. ( ) This is\nwhy, to a person, the first great theorists of film decried the\nintroduction of sound and other technical innovations (such as\ncolor) that pushed film in the direction of realism. ( ) Since\ncinema was an entirely fantasmatic art, these innovations were\ncompletely unnecessary. ( ) And what’s worse, they could\ndo nothing but turn filmmakers and audiences away from the\nfantasmatic dimension of cinema, potentially transforming\nfilm into a mere delivery device for representations of\nreality. ( ) But sound and color threatened to create just\nsuch an illusion, thereby destroying the very essence of film\nart. ( ) As Rudolf Arnheim puts it, “The creative power of\nthe artist can only come into play where reality and the\nmedium of representation do not coincide.” [3점]"
@@ -4419,8 +4419,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2021년 11월"
   },
   {
-    "id": "high3_2021_11_q40",
-    "title": "사물들을 묶어서 그룹으로 분류하는 것은 우리가 항상 하는 일이며, 그…",
+    "id": "high3_2021_11_q40_2",
+    "title": "Philip Kitcher and Wesley Salmon have suggested that there a",
     "description": "사물들을 묶어서 그룹으로 분류하는 것은 우리가 항상 하는 일이며, 그 이유를 이해 하는 것은 어렵지 않다. 음식이 진열대에 마구잡이로 배열된…",
     "content": [
       "Philip Kitcher and Wesley Salmon have suggested that\nthere are two possible alternatives among philosophical\ntheories of explanation. One is the view that scientific\nexplanation consists in the unification of broad bodies of\nphenomena under a minimal number of generalizations.\nAccording to this view, the (or perhaps, a) goal of science\nis to construct an economical framework of laws or\ngeneralizations that are capable of subsuming all observable\nphenomena. Scientific explanations organize and systematize\nour knowledge of the empirical world; the more economical\nthe systematization, the deeper our understanding of what\nis explained. The other view is the causal/mechanical\napproach. According to it, a scientific explanation of a\nphenomenon consists of uncovering the mechanisms that\nproduced the phenomenon of interest. This view sees the\nexplanation of individual events as primary, with the\nexplanation of generalizations flowing from them. That is,\nthe explanation of scientific generalizations comes from\nthe causal mechanisms that produce the regularities."
@@ -4440,8 +4440,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2021년 11월"
   },
   {
-    "id": "high3_2021_11_q42",
-    "title": "체육관에서, 태권도 동아리 회원들이 부지런히 연습하고 있었다.",
+    "id": "high3_2021_11_q42_2",
+    "title": "In the gym, members of the taekwondo club were busy practici",
     "description": "체육관에서, 태권도 동아리 회원들이 부지런히 연습하고 있었다. 일부는 가능한 한 높이 발차기를 하려고 애쓰고 있었고, 일부는 겨루기 패드 치…",
     "content": [
       "In the gym, members of the taekwondo club were busy\npracticing. Some were trying to kick as high as they could,\nand some were striking the sparring pad. Anna, the head of\nthe club, was teaching the new members basic moves. Close\nby, her friend Jane was assisting Anna. Jane noticed that\nAnna was glancing at the entrance door of the gym. She\nseemed to be expecting someone. At last, when Anna took a\nbreak, Jane came over to (a) her and asked, “Hey, are you\nwaiting for Cora?”\nCora walked in like a wounded soldier with bandages on\nher face and arms. Surprised, Anna and Jane simply looked at\nher with their eyes wide open. Cora explained, “I’m sorry\nI’ve been absent. I got into a bicycle accident, and I was in\nthe hospital for two days. Finally, the doctor gave me the\nokay to practice.” Anna said excitedly, “No problem! We’re\nthrilled to have you back!” Then, Jane gave Anna an\napologetic look, and (b) she responded with a friendly pat on\nJane’s shoulder.\nAnna answered the question by nodding uneasily. In fact,\nJane knew what her friend was thinking. Cora was a new\nmember, whom Anna had personally invited to join the club.\nAnna really liked (c) her. Although her budget was tight,\nAnna bought Cora a taekwondo uniform. When she received\nit, Cora thanked her and promised, “I’ll come to practice and\nwork hard every day.” However, unexpectedly, she came to\npractice only once and then never showed up again.\nSince Cora had missed several practices, Anna wondered\nwhat could have happened. Jane, on the other hand, was\ndisappointed and said judgingly, “Still waiting for her, huh? I\ncan’t believe (d) you don’t feel disappointed or angry. Why\ndon’t you forget about her?” Anna replied, “Well, I know\nmost newcomers don’t keep their commitment to the club,\nbut I thought that Cora would be different. She said she\nwould come every day and practice.” Just as Jane was about\nto respond to (e) her, the door swung open. There she was!"
@@ -4458,7 +4458,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2022_06_q20",
-    "title": "둘 다 대학에서 뛰고 싶어 하는 두 명의 운동선수를 생각해 보라.",
+    "title": "Consider two athletes who both want to play in college",
     "description": "둘 다 대학에서 뛰고 싶어 하는 두 명의 운동선수를 생각해 보라. 한 명은 매우 열심 히 해야 한다고 말하고, 다른 한 명은 계획대로 계속 …",
     "content": [
       "Consider two athletes who both want to play in college. One\nsays she has to work very hard and the other uses goal setting to\ncreate a plan to stay on track and work on specific skills where\nshe is lacking. Both are working hard but only the latter is\nworking smart. It can be frustrating for athletes to work extremely\nhard but not make the progress they wanted. What can make the\ndifference is drive ― utilizing the mental gear to maximize\ngains made in the technical and physical areas. Drive provides\ndirection (goals), sustains effort (motivation), and creates a\ntraining mindset that goes beyond simply working hard. Drive\napplies direct force on your physical and technical gears,\nstrengthening and polishing them so they can spin with vigor\nand purpose. While desire might make you spin those gears\nfaster and harder as you work out or practice, drive is what built\nthem in the first place."
@@ -4476,7 +4476,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2022_06_q21",
-    "title": "우리의 세계관은 순수하고 객관적인 형태로 외부에서 우리에게 주어지는 …",
+    "title": "Our view of the world is not given to us from the outside in",
     "description": "우리의 세계관은 순수하고 객관적인 형태로 외부에서 우리에게 주어지는 것이 아니 라, 그것은 우리의 정신 능력, 우리가 공유한 문화적 관점, …",
     "content": [
       "Our view of the world is not given to us from the outside in\na pure, objective form; it is shaped by our mental abilities, our\nshared cultural perspectives and our unique values and beliefs.\nThis is not to say that there is no reality outside our minds or\nthat the world is just an illusion. It is to say that our version of\nreality is precisely that: our version, not the version. There is\nno single, universal or authoritative version that makes sense,\nother than as a theoretical construct. We can see the world only\nas it appears to us, not “as it truly is,” because there is no “as it\ntruly is” without a perspective to give it form. Philosopher\nThomas Nagel argued that there is no “view from nowhere,”\nsince we cannot see the world except from a particular\nperspective, and that perspective influences what we see. We\ncan experience the world only through the human lenses that\nmake it intelligible to us."
@@ -4495,7 +4495,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2022_06_q22",
-    "title": "흔히 간과되지만 못지않게 중요한 이해관계자는 개인정보 역설이라는 개념…",
+    "title": "Often overlooked, but just as important a stakeholder, is th",
     "description": "흔히 간과되지만 못지않게 중요한 이해관계자는 개인정보 역설이라는 개념에서 큰 역 할을 하는 소비자이다. 모든 방식의 디지털 경험과 공동체에서…",
     "content": [
       "Often overlooked, but just as important a stakeholder, is the\nconsumer who plays a large role in the notion of the privacy\nparadox. Consumer engagement levels in all manner of digital\nexperiences and communities have simply exploded ― and they\nshow little or no signs of slowing. There is an awareness among\nconsumers, not only that their personal data helps to drive the\nrich experiences that these companies provide, but also that\nsharing this data is the price you pay for these experiences, in\nwhole or in part. Without a better understanding of the what,\nwhen, and why of data collection and use, the consumer is often\nleft feeling vulnerable and conflicted. “I love this restaurant-finder\napp on my phone, but what happens to my data if I press ‘ok’\nwhen asked if that app can use my current location?” Armed\nwith tools that can provide them options, the consumer moves\nfrom passive bystander to active participant."
@@ -4514,7 +4514,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2022_06_q23",
-    "title": "문화 심리학자들과 인류학자들의 주목할 만한 연구에 따르면 특정한 감정…",
+    "title": "Considerable work by cultural psychologists and anthropologi",
     "description": "문화 심리학자들과 인류학자들의 주목할 만한 연구에 따르면 특정한 감정의 표현을 끌어내는 사회적 상황에서만이 아니라 감정을 묘사하기 위해 서로…",
     "content": [
       "Considerable work by cultural psychologists and anthropologists\nhas shown that there are indeed large and sometimes surprising\ndifferences in the words and concepts that different cultures have\nfor describing emotions, as well as in the social circumstances\nthat draw out the expression of particular emotions. However,\nthose data do not actually show that different cultures have\ndifferent emotions, if we think of emotions as central, neurally\nimplemented states. As for, say, color vision, they just say that,\ndespite the same internal processing architecture, how we\ninterpret, categorize, and name emotions varies according to\nculture and that we learn in a particular culture the social context\nin which it is appropriate to express emotions. However, the\nemotional states themselves are likely to be quite invariant\nacross cultures. In a sense, we can think of a basic, culturally\nuniversal emotion set that is shaped by evolution and implemented\nin the brain, but the links between such emotional states and\nstimuli, behavior, and other cognitive states are plastic and can\nbe modified by learning in a specific cultural context."
@@ -4535,7 +4535,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2022_06_q24",
-    "title": "‘결합 인지 시스템’ 접근법은 로봇을 지력이 서로 도움을 주고, 각 …",
+    "title": "The approach, joint cognitive systems, treats a robot as par",
     "description": "‘결합 인지 시스템’ 접근법은 로봇을 지력이 서로 도움을 주고, 각 행위자의 기여로 생겨나는 인간-기계 팀의 일부로 다룬다.",
     "content": [
       "The approach, joint cognitive systems, treats a robot as part of\na human-machine team where the intelligence is synergistic,\narising from the contributions of each agent. The team consists\nof at least one robot and one human and is often called a mixed\nteam because it is a mixture of human and robot agents.\nSelf-driving cars, where a person turns on and off the driving, is\nan example of a joint cognitive system. Entertainment robots are\nexamples of mixed teams as are robots for telecommuting. The\ndesign process concentrates on how the agents will cooperate\nand coordinate with each other to accomplish the team goals.\nRather than treating robots as peer agents with their own\ncompletely independent agenda, joint cognitive systems\napproaches treat robots as helpers such as service animals or sheep\ndogs. In joint cognitive system designs, artificial intelligence is\nused along with human-robot interaction principles to create\nrobots that can be intelligent enough to be good team members.\nBetter Together: Human and Machine Collaboration\nCan Robots Join Forces to Outperform Human Teams?\nLoss of Humanity in the Human and Machine Conflict\nPower Off: When and How to Say No to Robot Partners\nShifting from Service Animals to Robot Assistants of Humans\n-- 3 of 8 --\n4\n4 8"
@@ -4554,7 +4554,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2022_06_q29",
-    "title": "생태계들은 구성과 범위에 있어 차이가 있다.",
+    "title": "Ecosystems differ in composition and extent",
     "description": "생태계들은 구성과 범위에 있어 차이가 있다. 그것[생태계]들은 여러분의 입안에 있는 유기체들의 군집과 상호작용 혹은 열대 우림의 덮개 안에 …",
     "content": [
       "Ecosystems differ in composition and extent. They can be\ndefined as ranging from the communities and interactions of\norganisms in your mouth or those in the canopy of a rain forest\nto all those in Earth’s oceans. The processes governing them\ndiffer in complexity and speed. There are systems that turn over\nin minutes, and there are others which rhythmic time\nextends to hundreds of years. Some ecosystems are extensive\n(‘biomes’, such as the African savanna); some cover regions (river\nbasins); many involve clusters of villages (micro-watersheds);\nothers are confined to the level of a single village (the village\npond). In each example there is an element of indivisibility.\nDivide an ecosystem into parts by creating barriers, and the sum\nof the productivity of the parts will typically be found to be\nlower than the productivity of the whole, other things being\nequal. The mobility of biological populations is a reason. Safe\npassages, for example, enable migratory species to survive."
@@ -4573,7 +4573,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2022_06_q30",
-    "title": "최근 몇 년 동안 전 세계적으로 도시 교통 전문가들은 도시의 자동차 …",
+    "title": "In recent years urban transport professionals globally have ",
     "description": "최근 몇 년 동안 전 세계적으로 도시 교통 전문가들은 도시의 자동차 수요에 부응하 기보다는 관리해야 한다는 견해를 대체로 따랐다.",
     "content": [
       "In recent years urban transport professionals globally have\nlargely acquiesced to the view that automobile demand in\ncities needs to be managed rather than accommodated. Rising\nincomes inevitably lead to increases in motorization. Even\nwithout the imperative of climate change, the physical constraints\nof densely inhabited cities and the corresponding demands of\naccessibility, mobility, safety, air pollution, and urban livability\nall limit the option of expanding road networks purely to\naccommodate this rising demand. As a result, as cities develop\nand their residents become more prosperous, persuading\npeople to choose not to use cars becomes an increasingly key\nfocus of city managers and planners. Improving the quality of\nalternative options, such as walking, cycling, and public\ntransport, is a central element of this strategy. However, the\nmost direct approach to accommodating automobile demand\nis making motorized travel more expensive or restricting it\nwith administrative rules. The contribution of motorized travel\nto climate change reinforces this imperative."
@@ -4591,7 +4591,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2022_06_q31",
-    "title": "21 자기 일에 디지털 기술을 이용하는 젊은 현대 미술가들은 컴퓨터를…",
+    "title": "Young contemporary artists who employ digital technologies i",
     "description": "21 자기 일에 디지털 기술을 이용하는 젊은 현대 미술가들은 컴퓨터를 거의 언급하지 않 는다. 예를 들어, 워드 프로세싱 프로그램과 잉크젯식…",
     "content": [
       "Young contemporary artists who employ digital technologies\nin their practice rarely make reference to computers. For example,\nWade Guyton, an abstractionist who uses a word processing\nprogram and inkjet printers, does not call himself a computer\nartist. Moreover, some critics, who admire his work, are little\nconcerned about his extensive use of computers in the\nart-making process. This is a marked contrast from three\ndecades ago when artists who utilized computers were labeled\nby critics ― often disapprovingly ― as computer artists. For the\npresent generation of artists, the computer, or more appropriately,\nthe laptop, is one in a collection of integrated, portable digital\ntechnologies that link their social and working life. With tablets\nand cell phones surpassing personal computers in Internet\nusage, and as slim digital devices resemble nothing like the\nroom-sized mainframes and bulky desktop computers of\nprevious decades, it now appears that the computer artist is\nfinally .\nawake influential\ndistinct troublesome\nextinct"
@@ -4611,7 +4611,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2022_06_q32",
-    "title": "형식주의의 관점에서 문학에 관하여 쓰고자 하는 비평가는 먼저 글의 모…",
+    "title": "The critic who wants to write about literature from a formal",
     "description": "형식주의의 관점에서 문학에 관하여 쓰고자 하는 비평가는 먼저 글의 모든 요소를 개 별적으로 검토하고 그것들이 모여 예술 작품을 만드는 방식에…",
     "content": [
       "The critic who wants to write about literature from a formalist\nperspective must first be a close and careful reader who examines\nall the elements of a text individually and questions how they\ncome together to create a work of art. Such a reader, who\nrespects the autonomy of a work, achieves an understanding of it\nby . Instead\nof examining historical periods, author biographies, or literary\nstyles, for example, he or she will approach a text with the\nassumption that it is a self-contained entity and that he or she\nis looking for the governing principles that allow the text to\nreveal itself. For example, the correspondences between the\ncharacters in James Joyce’s short story “Araby” and the people\nhe knew personally may be interesting, but for the formalist\nthey are less relevant to understanding how the story creates\nmeaning than are other kinds of information that the story\ncontains within itself."
@@ -4629,7 +4629,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2022_06_q33",
-    "title": "제조업자들은 자신들이 생각하기에 그 과정이 작동되는 방식에 맞춰 자신…",
+    "title": "Manufacturers design their innovation processes around the w",
     "description": "제조업자들은 자신들이 생각하기에 그 과정이 작동되는 방식에 맞춰 자신들의 혁신 과정을 설계한다. 제조업자의 대다수는 제품 개발과 서비스 개발…",
     "content": [
       "Manufacturers design their innovation processes around\nthe way they think the process works. The vast majority of\nmanufacturers still think that product development and service\ndevelopment are always done by manufacturers, and that\ntheir job is always to find a need and fill it rather than to\nsometimes find and commercialize an innovation that\n. Accordingly, manufacturers\nhave set up market-research departments to explore the needs\nof users in the target market, product-development groups to\nthink up suitable products to address those needs, and so forth.\nThe needs and prototype solutions of lead users ― if\nencountered at all ― are typically rejected as outliers of no\ninterest. Indeed, when lead users’ innovations do enter a firm’s\nproduct line ― and they have been shown to be the actual\nsource of many major innovations for many firms ― they\ntypically arrive with a lag and by an unusual and unsystematic\nroute. [3점]"
@@ -4647,7 +4647,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2022_06_q34",
-    "title": "전개부는 매우 복잡하고 별날 수가 있다.",
+    "title": "Development can get very complicated and fanciful",
     "description": "전개부는 매우 복잡하고 별날 수가 있다. Johann Sebastian Bach의 푸가는 하나의 멜로디 라인, 때로는 단지 소수의 음이 그 …",
     "content": [
       "Development can get very complicated and fanciful. A\nfugue by Johann Sebastian Bach illustrates how far this process\ncould go, when a single melodic line, sometimes just a handful\nof notes, was all that the composer needed to create a brilliant\nwork containing lots of intricate development within a coherent\nstructure. Ludwig van Beethoven’s famous Fifth Symphony\nprovides an exceptional example of how much mileage a classical\ncomposer can get out of a few notes and a simple rhythmic tapping.\nThe opening da-da-da-DUM that everyone has heard somewhere\nor another\nthroughout not only the opening movement, but the remaining\nthree movements, like a kind of motto or a connective thread.\nJust as we don’t always see the intricate brushwork that goes\ninto the creation of a painting, we may not always notice how\nBeethoven keeps finding fresh uses for his motto or how he\ndevelops his material into a large, cohesive statement. But a lot\nof the enjoyment we get from that mighty symphony stems from\nthe inventiveness behind it, the impressive development of\nmusical ideas. [3점]"
@@ -4664,7 +4664,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2022_06_q35",
-    "title": "상대를 공격하는 것과 도피하는 것 사이에서 갈등하는 동물은 처음에는 …",
+    "title": "The animal in a conflict between attacking a rival and fleei",
     "description": "상대를 공격하는 것과 도피하는 것 사이에서 갈등하는 동물은 처음에는 즉시 결정을 내릴 수 있게 해줄 만큼 충분한 정보를 갖지 못할 수도 있다.",
     "content": [
       "The animal in a conflict between attacking a rival and fleeing\nmay initially not have sufficient information to enable it to\nmake a decision straight away. If the rival is likely to win the\nfight, then the optimal decision would be to give up immediately\nand not risk getting injured. But if the rival is weak and\neasily defeatable, then there could be considerable benefit in\ngoing ahead and obtaining the territory, females, food or whatever\nis at stake. Animals under normal circumstances maintain a\nvery constant body weight and they eat and drink enough for\ntheir needs at regular intervals. By taking a little extra time to\ncollect information about the opponent, the animal is more\nlikely to reach a decision that maximizes its chances of winning\nthan if it takes a decision without such information. Many\nsignals are now seen as having this information gathering or\n‘assessment’ function, directly contributing to the mechanism\nof the decision-making process by supplying vital information\nabout the likely outcomes of the various options."
@@ -4681,7 +4681,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2022_06_q36",
-    "title": "화석 기록은 진화의 증거를 제공한다.",
+    "title": "The fossil record provides evidence of evolution",
     "description": "화석 기록은 진화의 증거를 제공한다. 화석이 전하는 이야기는 변화에 관한 것이다. 더는 우리와 함께하지 않는 생물들이 과거에는 존재했다.",
     "content": [
       "The fossil record provides evidence of evolution. The\nstory the fossils tell is one of change. Creatures existed in\nthe past that are no longer with us. Sequential changes are\nfound in many fossils showing the change of certain features\nover time from a common ancestor, as in the case of the\nhorse.\n(A) If multicelled organisms were indeed found to have evolved\nbefore single-celled organisms, then the theory of evolution\nwould be rejected. A good scientific theory always allows\nfor the possibility of rejection. The fact that we have not\nfound such a case in countless examinations of the fossil\nrecord strengthens the case for evolutionary theory.\n(B) The fossil record supports this prediction ― multicelled\norganisms are found in layers of earth millions of years\nafter the first appearance of single-celled organisms. Note\nthat the possibility always remains that the opposite could\nbe found.\n(C) Apart from demonstrating that evolution did occur, the\nfossil record also provides tests of the predictions made\nfrom evolutionary theory. For example, the theory predicts\nthat single-celled organisms evolved before multicelled\norganisms.\n(A) － (C) － (B) (B) － (A) － (C)\n(B) － (C) － (A) (C) － (A) － (B)\n(C) － (B) － (A)\n-- 6 of 8 --\n7\n7 8"
@@ -4699,7 +4699,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2022_06_q37",
-    "title": "경제학에서 ‘ 매몰 비용 오류’라고 알려진 원리가 있다.",
+    "title": "In economics, there is a principle known as the sunk cost fa",
     "description": "경제학에서 ‘ 매몰 비용 오류’라고 알려진 원리가 있다. 여러분이 어떤 것에 투자하고 소유권을 가지면, 그것을 지나치게 중시한다는 생각이다.",
     "content": [
       "In economics, there is a principle known as the sunk cost\nfallacy. The idea is that when you are invested and have\nownership in something, you overvalue that thing.\n(A) Sometimes, the smartest thing a person can do is quit.\nAlthough this is true, it has also become a tired and\nplayed-out argument. Sunk cost doesn’t always have to be\na bad thing.\n(B) This leads people to continue on paths or pursuits that\nshould clearly be abandoned. For example, people often\nremain in terrible relationships simply because they’ve\ninvested a great deal of themselves into them. Or someone\nmay continue pouring money into a business that is\nclearly a bad idea in the market.\n(C) Actually, you can leverage this human tendency to your\nbenefit. Like someone invests a great deal of money in a\npersonal trainer to ensure they follow through on their\ncommitment, you, too, can invest a great deal up front to\nensure you stay on the path you want to be on. [3점]"
@@ -4718,7 +4718,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2022_06_q38",
-    "title": "단지 현재의 수준으로 수확량을 유지하는 것만도 해충과 질병이 계속 진…",
+    "title": "Also, it has become difficult for companies to develop new p",
     "description": "단지 현재의 수준으로 수확량을 유지하는 것만도 해충과 질병이 계속 진화하고 있고 화학적, 물리적, 사회적 환경의 양상이 수십 년에 걸쳐 변할…",
     "content": [
       "Also, it has become difficult for companies to develop new\npesticides, even those that can have major beneficial effects\nand few negative effects.\nSimply maintaining yields at current levels often requires new\ncultivars and management methods, since pests and diseases\ncontinue to evolve, and aspects of the chemical, physical, and\nsocial environment can change over several decades. ( ) In\nthe 1960s, many people considered pesticides to be mainly\nbeneficial to mankind. ( ) Developing new, broadly effective,\nand persistent pesticides often was considered to be the best way\nto control pests on crop plants. ( ) Since that time, it has\nbecome apparent that broadly effective pesticides can have\nharmful effects on beneficial insects, which can negate their\neffects in controlling pests, and that persistent pesticides can\ndamage non-target organisms in the ecosystem, such as birds\nand people. ( ) Very high costs are involved in following all\nof the procedures needed to gain government approval for new\npesticides. ( ) Consequently, more consideration is being\ngiven to other ways to manage pests, such as incorporating\ngreater resistance to pests into cultivars by breeding and using\nother biological control methods."
@@ -4737,7 +4737,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2022_06_q39",
-    "title": "집단적 탐지의 역학은 흥미로운 특징이 있다.",
+    "title": "This makes sense from the perspective of information reliabi",
     "description": "집단적 탐지의 역학은 흥미로운 특징이 있다. 개체들은 어떤 단서를 포식자 공격의 증거로 사용하는가? 어떤 경우에는 개체가 포식자를 탐지할 때…",
     "content": [
       "This makes sense from the perspective of information\nreliability.\nThe dynamics of collective detection have an interesting\nfeature. Which cue(s) do individuals use as evidence of\npredator attack? In some cases, when an individual detects a\npredator, its best response is to seek shelter. ( ) Departure\nfrom the group may signal danger to nonvigilant animals and\ncause what appears to be a coordinated flushing of prey\nfrom the area. ( ) Studies on dark-eyed juncos (a type of\nbird) support the view that nonvigilant animals attend to\ndepartures of individual group mates but that the departure of\nmultiple individuals causes a greater escape response in the\nnonvigilant individuals. ( ) If one group member departs,\nit might have done so for a number of reasons that have little to\ndo with predation threat. ( ) If nonvigilant animals escaped\neach time a single member left the group, they would\nfrequently respond when there was no predator (a false\nalarm). ( ) On the other hand, when several individuals\ndepart the group at the same time, a true threat is much more\nlikely to be present. [3점]"
@@ -4755,7 +4755,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2022_06_q40",
-    "title": "일단 어떤 사건이 목격되면, 구경하는 사람은 그것이 정말로 비상 상황…",
+    "title": "Mobilities in transit offer a broad field to be explored by ",
     "description": "일단 어떤 사건이 목격되면, 구경하는 사람은 그것이 정말로 비상 상황인지 결정해야 한다. 비상 상황은 항상 명확하게 그와 같은 것으로 꼬리표…",
     "content": [
       "Mobilities in transit offer a broad field to be explored by\ndifferent disciplines in all faculties, in addition to the\nhumanities. In spite of increasing acceleration, for example\nin travelling through geographical or virtual space, our body\nbecomes more and more a passive non-moving container,\nwhich is transported by artefacts or loaded up with inner\nfeelings of being mobile in the so-called information society.\nTechnical mobilities turn human beings into some kind of\nterminal creatures, who spend most of their time at rest and\nwho need to participate in sports in order to balance their\ndaily disproportion of motion and rest. Have we come\ncloser to Aristotle’s image of God as the immobile mover,\nwhen elites exercise their power to move money, things\nand people, while they themselves do not need to move at\nall? Others, at the bottom of this power, are victims of\nmobility-structured social exclusion. They cannot decide\nhow and where to move, but are just moved around or\nlocked out or even locked in without either the right to\nmove or the right to stay.\n󰀻\nIn a technology and information society, human beings,\nwhose bodily movement is less (A) , appear to\nhave gained increased mobility and power, and such a\nmobility-related human condition raises the issue of social\n(B) .\nnecessary…… inequality necessary…… growth\nlimited …… consciousness desirable …… service\ndesirable …… divide\n-- 7 of 8 --\n8\n8 8\nOnce an event is noticed, an onlooker must decide if it is truly\nan emergency. Emergencies are not always clearly (a) labeled\nas such; “smoke” pouring into a waiting room may be caused\nby fire, or it may merely indicate a leak in a steam pipe.\nScreams in the street may signal an attack or a family quarrel.\nA man lying in a doorway may be having a coronary ― or he\nmay simply be sleeping off a drunk.\nA person trying to interpret a situation often looks at those\naround him to see how he should react. If everyone else is\ncalm and indifferent, he will tend to remain so; if everyone\nelse is reacting strongly, he is likely to become alert. This\ntendency is not merely blind conformity; ordinarily we derive\nmuch valuable information about new situations from how\nothers around us behave. It’s a (b) rare traveler who, in\npicking a roadside restaurant, chooses to stop at one where\nno other cars appear in the parking lot.\nBut occasionally the reactions of others provide (c) accurate\ninformation. The studied nonchalance of patients in a dentist’s\nwaiting room is a poor indication of their inner anxiety. It is\nconsidered embarrassing to “lose your cool” in public. In a\npotentially acute situation, then, everyone present will appear\nmore (d) unconcerned than he is in fact. A crowd can thus\nforce (e) inaction on its members by implying, through its\npassivity, that an event is not an emergency. Any individual\nin such a crowd fears that he may appear a fool if he behaves\nas though it were."
@@ -4775,7 +4775,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2022_06_q42",
-    "title": "자신의 공용 기숙사 방을 둘러보면서, Noah는 그것이 대학교의 다른…",
+    "title": "It was the first day of the semester",
     "description": "그날은 학기 첫날이었다. 자신의 공용 기숙사 방을 둘러보면서, Noah는 그것이 대학교의 다른 모든 기숙사 방과 똑같이 생겼다는 생각이 들어…",
     "content": [
       "It was the first day of the semester. Looking around his\nshared dorm room, Noah thought that it looked exactly like\nevery other dorm room at the university, and he became\ndisappointed. His roommate Steve noticed it and asked what\nwas wrong. Noah answered quietly that he thought their room\nwas totally boring. (a) He wished the space felt a bit more like\ntheir space. Steve agreed and suggested that they could start\npersonalizing the room like Noah wanted, the next day.\nAs they walked through a furniture store, Steve found a\npretty yellow table. Since he knew that yellow was Noah’s\nfavorite color, Steve asked (b) him what he thought about\nbuying that table. Noah was happy about the yellow table and\nsaid it would make their room more unique. Delighted, Noah\nadded, “Well, yesterday our room was just like any other\nplace at this school. But after today, (c) I really feel like it’ll\nbe our place.” Now, they both knew that the place would\nprovide them with energy and refreshment.\nNoah hardly slept that night making plans for the room.\nAfter Steve woke up, they started to rearrange the furniture.\nAll of the chairs and the sofa in their room were facing the TV.\nNoah mentioned to Steve that most of their visitors usually just\nsat and watched TV instead of chatting. In response to (d) his\nidea, Steve suggested, “How about we put the sofa over there\nby the wall so it will be easier to have conversations?” Noah\nagreed, and they moved it by the wall.\nAfter changing the place of the sofa, they could see that\nthey now had a lot of space in the middle of their room.\nThen, Noah remembered that his brother Sammy had a big\ntable in his living room for playing board games and told\nSteve about it. Steve and Noah both really enjoyed playing\nboard games. So, Steve replied to Noah, “(e) I think putting a\ntable in the middle of our room would be great for drinking\ntea as well as playing board games!” Both Noah and Steve\nagreed and decided to go shopping for a table."
@@ -4793,7 +4793,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_06_q20",
-    "title": "다면적인 창의적 활동에 대한 어떤 방해 요인은 너무 이른 전문화, 즉…",
+    "title": "Certain hindrances to multifaceted creative activity may lie",
     "description": "다면적인 창의적 활동에 대한 어떤 방해 요인은 너무 이른 전문화, 즉 인생의 너무 이른 시기에 교육 방향을 선택하거나 한 가지 능력 개발에 …",
     "content": [
       "Certain hindrances to multifaceted creative activity may lie\nin premature specialization, i.e., having to choose the direction\nof education or to focus on developing one ability too early in\nlife. However, development of creative ability in one domain\nmay enhance effectiveness in other domains that require\nsimilar skills, and flexible switching between generality and\nspecificity is helpful to productivity in many domains.\nExcessive specificity may result in information from outside\nthe domain being underestimated and unavailable, which leads\nto fixedness of thinking, whereas excessive generality causes\nchaos, vagueness, and shallowness. Both tendencies pose a\nthreat to the transfer of knowledge and skills between domains.\nWhat should therefore be optimal for the development of\ncross-domain creativity is support for young people in taking\nup creative challenges in a specific domain and coupling it\nwith encouragement to apply knowledge and skills in, as well\nas from, other domains, disciplines, and tasks."
@@ -4811,7 +4811,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_06_q21",
-    "title": "변호사들은 때로는 소유권을 ‘막대 다발’로 묘사한다.",
+    "title": "Lawyers sometimes describe ownership as a bundle of sticks",
     "description": "변호사들은 때로는 소유권을 ‘막대 다발’로 묘사한다. 그 비유는 그것이 우리가 소유권을 분리될 수 있고 다시 합쳐질 수 있는 대인 관계적인 …",
     "content": [
       "Lawyers sometimes describe ownership as a bundle of sticks.\nThis metaphor was introduced about a century ago, and it has\ndramatically transformed the teaching and practice of law. The\nmetaphor is useful because it helps us see ownership as a\ngrouping of interpersonal rights that can be separated and put\nback together. When you say It’s mine in reference to a\nresource, often that means you own a lot of the sticks that\nmake up the full bundle: the sell stick, the rent stick, the right\nto mortgage, license, give away, even destroy the thing. Often,\nthough, we split the sticks up, as for a piece of land: there may\nbe a landowner, a bank with a mortgage, a tenant with a lease,\na plumber with a license to enter the land, an oil company with\nmineral rights. Each of these parties owns a stick in the\nbundle."
@@ -4830,7 +4830,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_06_q22",
-    "title": "인터넷에 관한 한, (많이는 아니고) 약간 편집적이게 되는 것이 이득…",
+    "title": "When it comes to the Internet, it just pays to be a little p",
     "description": "인터넷에 관한 한, (많이는 아니고) 약간 편집적이게 되는 것이 이득이 될 따름이다. 인터넷에 있는 모든 것의 익명성 수준을 고려할 때, 여…",
     "content": [
       "When it comes to the Internet, it just pays to be a little\nparanoid (but not a lot). Given the level of anonymity with all\nthat resides on the Internet, it’s sensible to question the validity\nof any data that you may receive. Typically it’s to our natural\ninstinct when we meet someone coming down a sidewalk to\nplace yourself in some manner of protective position,\nespecially when they introduce themselves as having known\nyou, much to your surprise. By design, we set up challenges in\nwhich the individual must validate how they know us by\npresenting scenarios, names or acquaintances, or evidence by\nwhich to validate (that is, photographs). Once we have\nreceived that information and it has gone through a cognitive\nvalidation, we accept that person as more trustworthy. All this\nhappens in a matter of minutes but is a natural defense\nmechanism that we perform in the real world. However, in the\nvirtual world, we have a tendency to be less defensive, as there\nappears to be no physical threat to our well-being."
@@ -4847,7 +4847,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_06_q23",
-    "title": "박물관의 보이지 않는 구역에서 일어나는 활동보다 갤러리에서 발생하는 …",
+    "title": "There are pressures within the museum that cause it to empha",
     "description": "박물관의 보이지 않는 구역에서 일어나는 활동보다 갤러리에서 발생하는 것을 강조하 게 만드는 박물관 ‘내부의’ 압력이 있다.",
     "content": [
       "There are pressures within the museum that cause it to\nemphasise what happens in the galleries over the activities that\ntake place in its unseen zones. In an era when museums are\nforced to increase their earnings, they often focus their\nenergies on modernising their galleries or mounting temporary\nexhibitions to bring more and more audiences through the\ndoor. In other words, as museums struggle to survive in a\ncompetitive economy, their budgets often prioritise those parts\nof themselves that are consumable: infotainment in the galleries,\ngoods and services in the cafes and the shops. The unlit,\nunglamorous storerooms, if they are ever discussed, are at best\npresented as service areas that process objects for the exhibition\nhalls. And at worst, as museums pour more and more resources\ninto their publicly visible faces, the spaces of storage may\neven suffer, their modernisation being kept on hold or being\ngiven less and less space to house the expanding collections\nand serve their complex conservation needs.\nimportance of prioritising museums’ exhibition spaces\nbenefits of diverse activities in museums for audiences\nnecessity of expanding storerooms for displaying objects\nconsequences of profit-oriented management of museums\nways to increase museums’ commitment to the public good"
@@ -4866,7 +4866,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_06_q24",
-    "title": "더 먼 거리를 더 빠른 속도로 더 많이 이동하는 것이 더 큰 경제적 …",
+    "title": "Hyper-mobility ― the notion that more travel at faster speed",
     "description": "더 먼 거리를 더 빠른 속도로 더 많이 이동하는 것이 더 큰 경제적 성공을 만든다는 개념인 하이퍼 모빌리티는 현재 세계 인구의 절반보다 더 …",
     "content": [
       "Hyper-mobility ― the notion that more travel at faster\nspeeds covering longer distances generates greater economic\nsuccess ― seems to be a distinguishing feature of urban areas,\nwhere more than half of the world’s population currently\nreside. By 2005, approximately 7.5 billion trips were made\neach day in cities worldwide. In 2050, there may be three to\nfour times as many passenger-kilometres travelled as in the\nyear 2000, infrastructure and energy prices permitting. Freight\nmovement could also rise more than threefold during the same\nperiod. Mobility flows have become a key dynamic of\nurbanization, with the associated infrastructure invariably\nconstituting the backbone of urban form. Yet, despite the\nincreasing level of urban mobility worldwide, access to places,\nactivities and services has become increasingly difficult. Not\nonly is it less convenient ― in terms of time, cost and comfort ―\nto access locations in cities, but the very process of moving\naround in cities generates a number of negative externalities.\nAccordingly, many of the world’s cities face an unprecedented\naccessibility crisis, and are characterized by unsustainable\nmobility systems."
@@ -4885,7 +4885,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_06_q29",
-    "title": "‘오즈의 마법사’를 동기 부여에 관한 심리학적 연구로 생각해 보라.",
+    "title": "Consider The Wizard of Oz as a psychological study of motiva",
     "description": "‘오즈의 마법사’를 동기 부여에 관한 심리학적 연구로 생각해 보라. Dorothy와 그녀 의 세 친구는 에메랄드 시로 가기 위해 열심히 노력…",
     "content": [
       "Consider The Wizard of Oz as a psychological study of\nmotivation. Dorothy and her three friends work hard to get to\nthe Emerald City, overcoming barriers, persisting against all\nadversaries. They do so because they expect the Wizard to\ngive them what they are missing. Instead, the wonderful\n(and wise) Wizard makes them aware that they, not he, always\nhad the power to fulfill their wishes. For Dorothy, home is\nnot a place but a feeling of security, of comfort with people she\nloves; it is wherever her heart is. The courage the Lion wants,\nthe intelligence the Scarecrow longs for, and the emotions the\nTin Man dreams of being attributes they already possess.\nThey need to think about these attributes not as internal\nconditions but as positive ways in which they are already\nrelating to others. After all, didn’t they demonstrate those\nqualities on the journey to Oz, a journey motivated by little\nmore than an expectation, an idea about the future likelihood of\ngetting something they wanted?"
@@ -4905,7 +4905,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_06_q30",
-    "title": "에이전트가 자신이 지각한 내용보다 설계자의 사전 지식에 의존하는 경우…",
+    "title": "To the extent that an agent relies on the prior knowledge of",
     "description": "에이전트가 자신이 지각한 내용보다 설계자의 사전 지식에 의존하는 경우, 우리는 그 에이전트가 자율성이 부족하다고 말한다.",
     "content": [
       "To the extent that an agent relies on the prior knowledge of\nits designer rather than on its own percepts, we say that the\nagent lacks autonomy. A rational agent should be autonomous ―\nit should learn what it can to (A) compensate / prepare for\npartial or incorrect prior knowledge. For example, a\nvacuum-cleaning agent that learns to foresee where and when\nadditional dirt will appear will do better than one that does not.\nAs a practical matter, one seldom requires complete autonomy\nfrom the start: when the agent has had little or no experience,\nit would have to act (B) purposefully / randomly unless the\ndesigner gave some assistance. So, just as evolution provides\nanimals with enough built-in reflexes to survive long enough\nto learn for themselves, it would be reasonable to provide an\nartificial intelligent agent with some initial knowledge as\nwell as an ability to learn. After sufficient experience of its\nenvironment, the behavior of a rational agent can become\neffectively (C) independent / protective of its prior knowledge.\nHence, the incorporation of learning allows one to design a\nsingle rational agent that will succeed in a vast variety of\nenvironments."
@@ -4924,7 +4924,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_06_q31",
-    "title": "사람들은 항상 먹을 것이 필요했으며, 또 항상 그럴 것이다.",
+    "title": "People have always needed to eat, and they always will",
     "description": "사람들은 항상 먹을 것이 필요했으며, 또 항상 그럴 것이다. 자기표현 가치에 관한 늘어나는 강조가 물질적 욕구를 끝내지는 않는다.",
     "content": [
       "People have always needed to eat, and they always will.\nRising emphasis on self-expression values does not put an end\nto material desires. But prevailing economic orientations are\ngradually being reshaped. People who work in the knowledge\nsector continue to seek high salaries, but they place equal or\ngreater emphasis on doing stimulating work and being able to\nfollow their own time schedules. Consumption is becoming\nprogressively less determined by the need for sustenance and\nthe practical use of the goods consumed. People still eat, but a\ngrowing component of food’s value is determined by\nits aspects. People pay a premium to eat\nexotic cuisines that provide an interesting experience or that\nsymbolize a distinctive life-style. The publics of postindustrial\nsocieties place growing emphasis on “political consumerism,”\nsuch as boycotting goods whose production violates ecological\nor ethical standards. Consumption is less and less a matter of\nsustenance and more and more a question of life-style ― and\nchoice."
@@ -4943,7 +4943,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_06_q32",
-    "title": "노동력 공유 집단에서 사람들은 정기적으로(수확과 같은 계절적인 농사일…",
+    "title": "In labor-sharing groups, people contribute labor to other pe",
     "description": "노동력 공유 집단에서 사람들은 정기적으로(수확과 같은 계절적인 농사일을 위해) 혹 은 비정기적으로(화재로 손상된 헛간을 다시 지어야 하는 것…",
     "content": [
       "In labor-sharing groups, people contribute labor to other\npeople on a regular basis (for seasonal agricultural work such as\nharvesting) or on an irregular basis (in the event of a crisis such\nas the need to rebuild a barn damaged by fire). Labor sharing\ngroups are part of what has been called a “moral economy” since\nno one keeps formal records on how much any family puts in\nor takes out. Instead, accounting is .\nThe group has a sense of moral community based on years of\ntrust and sharing. In a certain community of North America,\nlabor sharing is a major economic factor of social cohesion.\nWhen a family needs a new barn or faces repair work that\nrequires group labor, a barn-raising party is called. Many\nfamilies show up to help. Adult men provide manual labor,\nand adult women provide food for the event. Later, when\nanother family needs help, they call on the same people."
@@ -4963,7 +4963,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_06_q33",
-    "title": "과학자와 예술가의 차이점이 무엇이든, 그들은 똑같은 질문, 즉 ‘당신…",
+    "title": "Whatever their differences, scientists and artists begin wit",
     "description": "과학자와 예술가의 차이점이 무엇이든, 그들은 똑같은 질문, 즉 ‘당신과 내가 똑같은 것을 똑같은 방식으로 볼 수 있을까?",
     "content": [
       "Whatever their differences, scientists and artists begin with\nthe same question: can you and I see the same thing the same\nway? If so, how? The scientific thinker looks for features of the\nthing that can be stripped of subjectivity ― ideally, those\naspects that can be quantified and whose values will thus never\nchange from one observer to the next. In this way, he arrives at\na reality independent of all observers. The artist, on the other\nhand, relies on the strength of her artistry to effect a marriage\nbetween her own subjectivity and that of her readers. To a\nscientific thinker, this must sound like magical thinking: you’re\nsaying you will imagine something so hard it’ll pop into\nsomeone else’s head exactly the way you envision it? The artist\nhas sought the opposite of the scientist’s observer-independent\nreality. She creates a reality dependent upon observers, indeed\na reality in which in\norder for it to exist at all. [3점]"
@@ -4981,7 +4981,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_06_q34",
-    "title": "서양의 철학적 전통의 공통된 주제 중 하나는 감각적 지각과 합리적 지…",
+    "title": "One of the common themes of the Western philosophical tradit",
     "description": "서양의 철학적 전통의 공통된 주제 중 하나는 감각적 지각과 합리적 지식 사이의 구 별이다. 플라톤 이래로, 합리적 이성의 우월성은 그것이 경…",
     "content": [
       "One of the common themes of the Western philosophical\ntradition is the distinction between sensual perceptions and\nrational knowledge. Since Plato, the supremacy of rational\nreason is based on the assertion that it is able to extract true\nknowledge from experience. As the discussion in the Republic\nhelps to explain, perceptions are inherently unreliable and\nmisleading because the senses are subject to errors and illusions.\nOnly the rational discourse has the tools to overcome illusions\nand to point towards true knowledge. For instance, perception\nsuggests that a figure in the distance is smaller than it really is.\nYet, the application of logical reasoning will reveal that the\nfigure only appears small because it obeys the laws of geometrical\nperspective. Nevertheless, even after the perspectival correction\nis applied and reason concludes that perception is misleading,\nthe figure still appears small, and the truth of the matter is\nrevealed . [3점]"
@@ -5001,7 +5001,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_06_q35",
-    "title": "흥미롭게도, 전문가들은 복잡한 과제를 수행하거나 많은 과제를 결합할 …",
+    "title": "Interestingly, experts do not suffer as much as beginners wh",
     "description": "흥미롭게도, 전문가들은 복잡한 과제를 수행하거나 많은 과제를 결합할 때 초보자만 큼 어려움을 겪지 않는다. 전문가는 제한된 영역 내에서 광범…",
     "content": [
       "Interestingly, experts do not suffer as much as beginners\nwhen performing complex tasks or combining multiple tasks.\nBecause experts have extensive practice within a limited\ndomain, the key component skills in their domain tend to be\nhighly practiced and more automated. Each of these highly\npracticed skills then demands relatively few cognitive resources,\neffectively lowering the total cognitive load that experts\nexperience. Thus, experts can perform complex tasks and\ncombine multiple tasks relatively easily. Furthermore,\nbeginners are excellent at processing the tasks when the\ntasks are divided and isolated. This is not because they\nnecessarily have more cognitive resources than beginners;\nrather, because of the high level of fluency they have achieved\nin performing key skills, they can do more with what they\nhave. Beginners, on the other hand, have not achieved the\nsame degree of fluency and automaticity in each of the\ncomponent skills, and thus they struggle to combine skills that\nexperts combine with relative ease and efficiency."
@@ -5018,7 +5018,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_06_q36",
-    "title": "컴퓨터 소프트웨어 복잡성의 증가는 전 세계의 안전과 보안에 직접적인 …",
+    "title": "The growing complexity of computer software has direct impli",
     "description": "컴퓨터 소프트웨어 복잡성의 증가는 전 세계의 안전과 보안에 직접적인 영향을 주는 데, 우리가 의존하는 물리적 대상, 즉 자동차, 비행기, 교…",
     "content": [
       "The growing complexity of computer software has direct\nimplications for our global safety and security, particularly\nas the physical objects upon which we depend ― things like\ncars, airplanes, bridges, tunnels, and implantable medical\ndevices ― transform themselves into computer code.\n(A) As all this code grows in size and complexity, so too do\nthe number of errors and software bugs. According to a\nstudy by Carnegie Mellon University, commercial software\ntypically has twenty to thirty bugs for every thousand\nlines of code ― 50 million lines of code means 1 million\nto 1.5 million potential errors to be exploited.\n(B) This is the basis for all malware attacks that take advantage\nof these computer bugs to get the code to do something it\nwas not originally intended to do. As computer code grows\nmore elaborate, software bugs flourish and security suffers,\nwith increasing consequences for society at large.\n(C) Physical things are increasingly becoming information\ntechnologies. Cars are “computers we ride in,” and\nairplanes are nothing more than “flying Solaris boxes\nattached to bucketfuls of industrial control systems.”"
@@ -5037,7 +5037,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_06_q37",
-    "title": "다윈은 얼굴이 붉어지는 것을 특별나게 인간적인 것으로, 사회적 환경에…",
+    "title": "Darwin saw blushing as uniquely human, representing an invol",
     "description": "다윈은 얼굴이 붉어지는 것을 특별나게 인간적인 것으로, 사회적 환경에서 당혹감과 자의식에 의한 무의식적인 신체 반응을 나타내는 것으로 여겼다.",
     "content": [
       "Darwin saw blushing as uniquely human, representing\nan involuntary physical reaction caused by embarrassment\nand self-consciousness in a social environment.\n(A) Maybe our brief loss of face benefits the long-term\ncohesion of the group. Interestingly, if someone blushes\nafter making a social mistake, they are viewed in a more\nfavourable light than those who don’t blush.\n(B) If we feel awkward, embarrassed or ashamed when we are\nalone, we don’t blush; it seems to be caused by our\nconcern about what others are thinking of us. Studies have\nconfirmed that simply being told you are blushing brings\nit on. We feel as though others can see through our skin\nand into our mind.\n(C) However, while we sometimes want to disappear when\nwe involuntarily go bright red, psychologists argue that\nblushing actually serves a positive social purpose. When we\nblush, it’s a signal to others that we recognize that a social\nnorm has been broken; it is an apology for a faux pas. [3점]"
@@ -5056,7 +5056,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_06_q38",
-    "title": "특정 관행이 오랜 기간 반복되고 더 널리 공유됨에 따라, 그 관행이 …",
+    "title": "Instead, much like the young child learning how to play ‘nic",
     "description": "특정 관행이 오랜 기간 반복되고 더 널리 공유됨에 따라, 그 관행이 구현하는 가치는 강화되고 재생산되며 우리는 그것들이 ‘제도화’된다고 말한다.",
     "content": [
       "Instead, much like the young child learning how to play\n‘nicely’, the apprentice scientist gains his or her understanding\nof the moral values inherent in the role by absorption from\ntheir colleagues ― socialization.\nAs particular practices are repeated over time and become\nmore widely shared, the values that they embody are\nreinforced and reproduced and we speak of them as becoming\n‘institutionalized’. ( ) In some cases, this institutionalization\nhas a formal face to it, with rules and protocols written down,\nand specialized roles created to ensure that procedures are\nfollowed correctly. ( ) The main institutions of state ―\nparliament, courts, police and so on ― along with certain of\nthe professions, exhibit this formal character. ( ) Other\nsocial institutions, perhaps the majority, are not like this;\nscience is an example. ( ) Although scientists are trained\nin the substantive content of their discipline, they are not\nformally instructed in ‘how to be a good scientist’. ( ) We\nthink that these values, along with the values that inform many\nof the professions, are under threat, just as the value of the\nprofessions themselves is under threat."
@@ -5076,7 +5076,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_06_q39",
-    "title": "나무가 함께 자랄 때는 각 나무가 가능한 최고의 나무로 성장할 수 있…",
+    "title": "As a result, they are fit and grow better, but they aren’t p",
     "description": "나무가 함께 자랄 때는 각 나무가 가능한 최고의 나무로 성장할 수 있도록 영양분과 물이 그것들 모두 사이에서 최적으로 분배된다.",
     "content": [
       "As a result, they are fit and grow better, but they aren’t\nparticularly long-lived.\nWhen trees grow together, nutrients and water can be\noptimally divided among them all so that each tree can grow\ninto the best tree it can be. If you “help” individual trees\nby getting rid of their supposed competition, the remaining\ntrees are bereft. They send messages out to their neighbors\nunsuccessfully, because nothing remains but stumps. Every\ntree now grows on its own, giving rise to great differences\nin productivity. ( ) Some individuals photosynthesize\nlike mad until sugar positively bubbles along their trunk.\n( ) This is because a tree can be only as strong as the\nforest that surrounds it. ( ) And there are now a lot of\nlosers in the forest. ( ) Weaker members, who would once\nhave been supported by the stronger ones, suddenly fall\nbehind. ( ) Whether the reason for their decline is their\nlocation and lack of nutrients, a passing sickness, or genetic\nmakeup, they now fall prey to insects and fungi. [3점]"
@@ -5094,7 +5094,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_06_q40",
-    "title": "많은 협상가는 모든 협상이 고정된 파이를 수반한다고 가정한다.",
+    "title": "The evolutionary process works on the genetic variation that",
     "description": "많은 협상가는 모든 협상이 고정된 파이를 수반한다고 가정한다. 협상가들은 자주 통 합 협상 기회를 제로섬 상황이나 승패 교환으로 접근한다.",
     "content": [
       "The evolutionary process works on the genetic variation\nthat is available. It follows that natural selection is unlikely\nto lead to the evolution of perfect, ‘maximally fit’ individuals.\nRather, organisms come to match their environments by\nbeing ‘the fittest available’ or ‘the fittest yet’: they are not\n‘the best imaginable’. Part of the lack of fit arises because\nthe present properties of an organism have not all originated\nin an environment similar in every respect to the one in\nwhich it now lives. Over the course of its evolutionary\nhistory, an organism’s remote ancestors may have evolved\na set of characteristics ― evolutionary ‘baggage’ ― that\nsubsequently constrain future evolution. For many millions\nof years, the evolution of vertebrates has been limited to\nwhat can be achieved by organisms with a vertebral\ncolumn. Moreover, much of what we now see as precise\nmatches between an organism and its environment may\nequally be seen as constraints: koala bears live successfully\non Eucalyptus foliage, but, from another perspective, koala\nbears cannot live without Eucalyptus foliage."
@@ -5113,7 +5113,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_06_q42",
-    "title": "점심 식사 후 쇼핑하러 가자는 어머니의 요청에 Ellen은 주저하며 …",
+    "title": "When invited by her mother to go shopping after lunch, Ellen",
     "description": "점심 식사 후 쇼핑하러 가자는 어머니의 요청에 Ellen은 주저하며 “죄송해요, 엄 마. 끝내야 할 영어 에세이 과제가 있어요.”라고 대답했다.",
     "content": [
       "When invited by her mother to go shopping after lunch,\nEllen hesitantly replied, “Sorry, Mom. I have an English essay\nassignment I need to finish.” Her mother persisted, “Come on!\nYour father’s birthday is just around the corner, and you wanted\nto buy his birthday present by yourself.” Ellen suddenly\nrealized that her father’s birthday was just two days away.\nSo (a) she altered her original plan to do the assignment in the\nlibrary and decided to go to the shopping mall with her mother.\nEllen wanted to get a strawberry smoothie in the cafe, but\nit was sold out. So she bought a yogurt smoothie instead. The\ncafe was not very busy for a Saturday afternoon, and Ellen\nsettled at a large table to work on her assignment. However,\nafter a while, a group of students came in, and there weren’t\nany large tables left. One of them came over to Ellen’s table\nand politely asked, “Could (b) you possibly move to that\nsmaller table?” Ellen replied, “It’s okay. I was just leaving\nanyway.” She hurriedly gathered her assignment leaving the\nshoe bag behind under the table.\nUpon arrival at the shopping center, her mother inquired,\n“Ellen, have you decided what to buy for his birthday\npresent?” She quickly replied, “(c) I would like to buy him a\npair of soccer shoes.” Ellen knew that her father had joined\nthe morning soccer club recently and needed some new\nsoccer shoes. She entered a shoe store and selected a pair of\nred soccer shoes. After buying the present, she told her\nmother, “Mom, now, I’m going to do my assignment in the\ncafe while you are shopping.”\n“It must be in the cafe,” Ellen suddenly exclaimed when\n(d) she realized the gift for her father was missing upon\nreturning home. She felt so disheartened, worrying it would\nbe impossible to find it. “Why don’t you call the cafe?”\nsuggested her mother. When she phoned the cafe and asked\nabout the shoe bag, the manager said that she would check\nand let her know. After a few minutes, she called back and\ntold Ellen that (e) she had just discovered it. Ellen was so\npleased that the birthday gift had been found."
@@ -5131,7 +5131,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_09_q20",
-    "title": "자신감이 있다는 것은 맘이 편하다는 것과 같지 않다.",
+    "title": "Confident is not the same as comfortable",
     "description": "자신감이 있다는 것은 맘이 편하다는 것과 같지 않다. 자신감을 갖게 되는 것에 관한 가장 큰 오해 중 하나는 그것이 두려움 없이 사는 것을 …",
     "content": [
       "Confident is not the same as comfortable. One of the biggest\nmisconceptions about becoming self-confident is that it means\nliving fearlessly. The key to building confidence is quite the\nopposite. It means we are willing to let fear be present as we do\nthe things that matter to us. When we establish some\nself-confidence in something, it feels good. We want to stay\nthere and hold on to it. But if we only go where we feel\nconfident, then confidence never expands beyond that. If we\nonly do the things we know we can do well, fear of the new and\nunknown tends to grow. Building confidence inevitably demands\nthat we make friends with vulnerability because it is the only\nway to be without confidence for a while. But the only way\nconfidence can grow is when we are willing to be without it.\nWhen we can step into fear and sit with the unknown, it is the\ncourage of doing so that builds confidence from the ground up."
@@ -5148,7 +5148,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_09_q21",
-    "title": "프로젝트에서 금도금은 예상되는 결과를 불필요하게 향상하는 것, 즉 비…",
+    "title": "Gold plating in the project means needlessly enhancing the e",
     "description": "프로젝트에서 금도금은 예상되는 결과를 불필요하게 향상하는 것, 즉 비용이 많이 들 고 필요하지 않으며 목표와 관련하여 부가 가치가 낮은 특성…",
     "content": [
       "Gold plating in the project means needlessly enhancing the\nexpected results, namely, adding characteristics that are costly,\nnot required, and that have low added value with respect to the\ntargets ― in other words, giving more with no real justification\nother than to demonstrate one’s own talent. Gold plating is\nespecially interesting for project team members, as it is typical\nof projects with a marked professional component ― in other\nwords, projects that involve specialists with proven experience\nand extensive professional autonomy. In these environments\nspecialists often see the project as an opportunity to test and enrich\ntheir skill sets. There is therefore a strong temptation, in all\ngood faith, to engage in gold plating, namely, to achieve more\nor higher-quality work that gratifies the professional but does\nnot add value to the client’s requests, and at the same time\nremoves valuable resources from the project. As the saying\ngoes, “The best is the enemy of the good.”"
@@ -5165,7 +5165,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_09_q22",
-    "title": "14 주류 문화의 가치와 생활방식에 동화되어야 하는 필요성 때문에 갈…",
+    "title": "The need to assimilate values and lifestyle of the host cult",
     "description": "14 주류 문화의 가치와 생활방식에 동화되어야 하는 필요성 때문에 갈등이 커지고 있다. 다문화주의자들은 이민자들이 자신의 관습, 신념, 언어…",
     "content": [
       "The need to assimilate values and lifestyle of the host culture\nhas become a growing conflict. Multiculturalists suggest that\nthere should be a model of partial assimilation in which\nimmigrants retain some of their customs, beliefs, and language.\nThere is pressure to conform rather than to maintain their cultural\nidentities, however, and these conflicts are greatly determined by\nthe community to which one migrates. These experiences are not\nnew; many Europeans experienced exclusion and poverty during\nthe first two waves of immigration in the 19th and 20th centuries.\nEventually, these immigrants transformed this country with\nsignificant changes that included enlightenment and acceptance of\ndiversity. People of color, however, continue to struggle for\nacceptance. Once again, the challenge is to recognize that other\ncultures think and act differently and that they have the right to do\nso. Perhaps, in the not too distant future, immigrants will no\nlonger be strangers among us."
@@ -5183,7 +5183,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_09_q23",
-    "title": "상업적 음악 라디오 방송의 주된 목적은 청취자를 광고주와 후원자 집단…",
+    "title": "The primary purpose of commercial music radio broadcasting i",
     "description": "상업적 음악 라디오 방송의 주된 목적은 청취자를 광고주와 후원자 집단에 인도하는 것이다. 상업적 성공을 달성하기 위해서는, 그 청취자는 가능…",
     "content": [
       "The primary purpose of commercial music radio broadcasting\nis to deliver an audience to a group of advertisers and sponsors.\nTo achieve commercial success, that audience must be as large\nas possible. More than any other characteristics (such as\ndemographic or psychographic profile, purchasing power, level\nof interest, degree of satisfaction, quality of attention or\nemotional state), the quantity of an audience aggregated as a\nmass is the most significant metric for broadcasters seeking to\nmake music radio for profitable ends. As a result, broadcasters\nattempt to maximise their audience size by playing music that is\npopular, or ― at the very least ― music that can be relied upon\nnot to cause audiences to switch off their radio or change the\nstation. Audience retention is a key value (if not the key value)\nfor many music programmers and for radio station management.\nIn consequence, a high degree of risk aversion frequently marks\nout the ‘successful’ radio music programmer. Playlists are\nrestricted, and often very small."
@@ -5201,7 +5201,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_09_q24",
-    "title": "웹 이전에 신문 기록 보관소는 주로 전문적 연구원과 언론학과 학생의 …",
+    "title": "Before the web, newspaper archives were largely the musty do",
     "description": "웹 이전에 신문 기록 보관소는 주로 전문적 연구원과 언론학과 학생의 곰팡내 나는 영역이었다. 저널리즘은 당연히 최신에 관한 것이었다.",
     "content": [
       "Before the web, newspaper archives were largely the musty\ndomain of professional researchers and journalism students.\nJournalism was, by definition, current. The general accessibility\nof archives has greatly extended the shelf life of journalism,\nwith older stories now regularly cited to provide context for\nmore current ones. With regard to how meaning is made of\ncomplex issues encountered in the news, this departure can be\nunderstood as a readiness by online news consumers to engage\nwith the underlying issues and contexts of the news that was not\napparent in, or even possible for, print consumers. One of the\nemergent qualities of online news, determined in part by the\ndepth of readily accessible online archives, seems to be the\npossibility of understanding news stories as the manifest\noutcomes of larger economic, social and cultural issues rather\nthan short-lived and unconnected media spectacles."
@@ -5222,7 +5222,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_09_q29",
-    "title": "스트레스 반응을 자원으로 보는 것은 두려움이라는 생리 기능을 용기라는…",
+    "title": "Viewing the stress response as a resource can transform the ",
     "description": "스트레스 반응을 자원으로 보는 것은 두려움이라는 생리 기능을 용기라는 생명 작용 으로 바꿀 수 있다. 그것은 위협을 도전으로 바꿀 수 있고 …",
     "content": [
       "Viewing the stress response as a resource can transform the\nphysiology of fear into the biology of courage. It can turn a\nthreat into a challenge and can help you do your best under\npressure. Even when the stress doesn’t feel helpful ― as in the\ncase of anxiety ― welcoming it can transform it into\nsomething that is helpful: more energy, more confidence, and\na greater willingness to take action. You can apply this\nstrategy in your own life anytime you notice signs of stress.\nWhen you feel your heart beating or your breath quickening,\nrealizing that it is your body’s way of trying to give you\nmore energy. If you notice tension in your body, remind\nyourself that the stress response gives you access to your\nstrength. Sweaty palms? Remember what it felt like to go\non your first date ― palms sweat when you’re close to\nsomething you want."
@@ -5240,7 +5240,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_09_q30",
-    "title": "‘장소’의 가치는 왜 그렇게 중요한가?",
+    "title": "Why is the value of place so important",
     "description": "‘장소’의 가치는 왜 그렇게 중요한가? 역사적 관점에서 볼 때, 1700년대까지 직물 생 산은 지리적으로 특정한 지역 내에서 이용 가능한 섬…",
     "content": [
       "Why is the value of place so important? From a historical\nperspective, until the 1700s textile production was a hand\nprocess using the fibers available within a particular\ngeographic region, for example, cotton, wool, silk, and flax.\nTrade among regions increased the availability of these\nfibers and associated textiles made from the fibers. The First\nIndustrial Revolution and subsequent technological advancements\nin manufactured fibers added to the fact that fibers and\ntextiles were no longer “place-bound.” Fashion companies\ncreated and consumers could acquire textiles and products\nmade from textiles with little or no connection to where, how,\nor by whom the products were made. This countered a\ndisconnect between consumers and the products they use on a\ndaily basis, a loss of understanding and appreciation in the\nskills and resources necessary to create these products, and an\nassociated disregard for the human and natural resources\nnecessary for the products’ creation. Therefore, renewing a\nvalue on place reconnects the company and the consumer\nwith the people, geography, and culture of a particular\nlocation."
@@ -5261,7 +5261,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_09_q31",
-    "title": "1945년 이후 제2차 세계대전 이후 시절에 유례없는 경제 성장은 건…",
+    "title": "In the post-World War II years after 1945, unparalleled econ",
     "description": "1945년 이후 제2차 세계대전 이후 시절에 유례없는 경제 성장은 건축 붐과 중심 도20 시에서 새로운 교외 지역으로의 대규모 이주를 부추겼다.",
     "content": [
       "In the post-World War II years after 1945, unparalleled\neconomic growth fueled a building boom and a massive\nmigration from the central cities to the new suburban areas.\nThe suburbs were far more dependent on the automobile,\nsignaling the shift from primary dependence on public\ntransportation to private cars. Soon this led to the construction\nof better highways and freeways and the decline and even loss\nof public transportation. With all of these changes came a\nof leisure. As more people owned their\nown homes, with more space inside and lovely yards outside,\ntheir recreation and leisure time was increasingly centered\naround the home or, at most, the neighborhood. One major\nactivity of this home-based leisure was watching television.\nNo longer did one have to ride the trolly to the theater to\nwatch a movie; similar entertainment was available for free\nand more conveniently from television."
@@ -5278,7 +5278,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_09_q32",
-    "title": "많은 사람이 인터넷에서 사진과 비디오를 만들고 공유한다.",
+    "title": "Many people create and share pictures and videos on the Inte",
     "description": "많은 사람이 인터넷에서 사진과 비디오를 만들고 공유한다. 어려운 점은 여러분이 원 하는 것을 찾는 것이다. 일반적으로 사람들은 (가령, 예시…",
     "content": [
       "Many people create and share pictures and videos on the\nInternet. The difficulty is finding what you want. Typically,\npeople want to search using words (rather than, say, example\nsketches). Because most pictures don’t come with words\nattached, it is natural to try and build tagging systems that tag\nimages with relevant words. The underlying machinery is\nstraightforward ― we apply image classification and object\ndetection methods and tag the image with the output words.\nBut tags aren’t .\nIt matters who is doing what, and tags don’t capture this. For\nexample, tagging a picture of a cat in the street with the object\ncategories “cat”, “street”, “trash can” and “fish bones” leaves\nout the information that the cat is pulling the fish bones out of\nan open trash can on the street.\na set of words that allow users to identify an individual object\na comprehensive description of what is happening in an image\na reliable resource for categorizing information by pictures\na primary means of organizing a sequential order of words\na useful filter for sorting similar but not identical images\n-- 5 of 8 --\n6\n6 8"
@@ -5295,7 +5295,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_09_q33",
-    "title": "시대를 너무 앞서간 발명이나 발견은 가치가 없는데, 누구도 따라갈 수…",
+    "title": "An invention or discovery that is too far ahead of its time ",
     "description": "시대를 너무 앞서간 발명이나 발견은 가치가 없는데, 누구도 따라갈 수 없기 때문이 다. 이상적으로, 혁신은 알려진 것으로부터 단지 다음 단계…",
     "content": [
       "An invention or discovery that is too far ahead of its time is\nworthless; no one can follow. Ideally, an innovation opens up\nonly the next step from what is known and invites the culture to\nmove forward one hop. An overly futuristic, unconventional, or\nvisionary invention can fail initially (it may lack essential\nnot-yet-invented materials or a critical market or proper\nunderstanding) yet succeed later, when the ecology of\nsupporting ideas catches up. Gregor Mendel’s 1865 theories of\ngenetic heredity were correct but ignored for 35 years. His sharp\ninsights were not accepted because they did not explain the\nproblems biologists had at the time, nor did his explanation\noperate by known mechanisms, so his discoveries were out of\nreach even for the early adopters. Decades later science faced\nthe urgent questions that Mendel’s discoveries could answer.\nNow his insights . Within\na few years of one another, three different scientists each\nindependently rediscovered Mendel’s forgotten work, which of\ncourse had been there all along. [3점]"
@@ -5315,7 +5315,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_09_q34",
-    "title": "사진이 나오기 전에는 장소들이 잘 이동하지 않았다.",
+    "title": "Prior to photography,",
     "description": "사진이 나오기 전에는 장소들이 잘 이동하지 않았다. 화가들이 항상 특정한 장소를 그것의 ‘거주지’에서 벗어나게 해 다른 곳으로 이동시켜 왔지…",
     "content": [
       "Prior to photography, .\nWhile painters have always lifted particular places out of their\n‘dwelling’ and transported them elsewhere, paintings were\ntime-consuming to produce, relatively difficult to transport and\none-of-a-kind. The multiplication of photographs especially\ntook place with the introduction of the half-tone plate in\nthe 1880s that made possible the mechanical reproduction\nof photographs in newspapers, periodicals, books and\nadvertisements. Photography became coupled to consumer\ncapitalism and the globe was now offered ‘in limitless\nquantities, figures, landscapes, events which had not previously\nbeen utilised either at all, or only as pictures for one customer’.\nWith capitalism’s arrangement of the world as a ‘department\nstore’, ‘the proliferation and circulation of representations ...\nachieved a spectacular and virtually inescapable global\nmagnitude’. Gradually photographs became cheap mass-\nproduced objects that made the world visible, aesthetic and"
@@ -5334,7 +5334,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_09_q35",
-    "title": "조직들이 과거 어느 때보다 더 많은 수의 재택근무 프로그램을 제공하고…",
+    "title": "Although organizations are offering telecommuting programs i",
     "description": "조직들이 과거 어느 때보다 더 많은 수의 재택근무 프로그램을 제공하고 있지만, 이 러한 프로그램의 수용과 이용은 여전히 많은 요인에 의해 제…",
     "content": [
       "Although organizations are offering telecommuting programs\nin greater numbers than ever before, acceptance and use of these\nprograms are still limited by a number of factors. These\nfactors include manager reliance on face-to-face management\npractices, lack of telecommuting training within an organization,\nmisperceptions of and discomfort with flexible workplace\nprograms, and a lack of information about the effects of\ntelecommuting on an organization’s bottom line. Despite\nthese limitations, at the beginning of the 21st century, a new\n“anytime, anywhere” work culture is emerging. Care must\nbe taken to select employees whose personal and working\ncharacteristics are best suited for telecommuting. Continuing\nadvances in information technology, the expansion of a global\nworkforce, and increased desire to balance work and family are\nonly three of the many factors that will gradually reduce the\ncurrent barriers to telecommuting as a dominant workforce\ndevelopment. With implications for organizational cost\nsavings, especially with regard to lower facility costs, increased\nemployee flexibility, and productivity, telecommuting is\nincreasingly of interest to many organizations."
@@ -5353,7 +5353,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_09_q36",
-    "title": "분류하고 일반화하는 직관적인 능력은 의심할 여지 없이 삶과 연구에 유…",
+    "title": "The intuitive ability to classify and generalize is undoubte",
     "description": "분류하고 일반화하는 직관적인 능력은 의심할 여지 없이 삶과 연구에 유용한 특징이 지만, 그것은 사람과 상황에 대한 일반화를 고정 관념화하는 …",
     "content": [
       "The intuitive ability to classify and generalize is\nundoubtedly a useful feature of life and research, but it\ncarries a high cost, such as in our tendency to stereotype\ngeneralizations about people and situations.\n(A) Intuitively and quickly, we mentally sort things into groups\nbased on what we perceive the differences between them\nto be, and that is the basis for stereotyping. Only afterwards\ndo we examine (or not examine) more evidence of how\nthings are differentiated, and the degree and significance\nof the variations.\n(B) Our brain performs these tasks efficiently and automatically,\nusually without our awareness. The real danger of\nstereotypes is not their inaccuracy, but their lack of\nflexibility and their tendency to be preserved, even when\nwe have enough time to stop and consider.\n(C) For most people, the word stereotype arouses negative\nconnotations: it implies a negative bias. But, in fact,\nstereotypes do not differ in principle from all other\ngeneralizations; generalizations about groups of people\nare not necessarily always negative."
@@ -5372,7 +5372,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_09_q37",
-    "title": "식물은 영양분이 제한적일 때 미세하게 조정된 적응 반응을 보인다.",
+    "title": "Plants show finely tuned adaptive responses when nutrients a",
     "description": "식물은 영양분이 제한적일 때 미세하게 조정된 적응 반응을 보인다. 정원사는 노란 잎을 영양 부족과 비료가 필요하다는 신호로 인식할 수도 있다.",
     "content": [
       "Plants show finely tuned adaptive responses when\nnutrients are limiting. Gardeners may recognize yellow\nleaves as a sign of poor nutrition and the need for fertilizer.\n(A) In contrast, plants with a history of nutrient abundance are\nrisk averse and save energy. At all developmental stages,\nplants respond to environmental changes or unevenness so\nas to be able to use their energy for growth, survival, and\nreproduction, while limiting damage and nonproductive\nuses of their valuable energy.\n(B) Research in this area has shown that plants are constantly\naware of their position in the environment, in terms of\nboth space and time. Plants that have experienced variable\nnutrient availability in the past tend to exhibit risk-taking\nbehaviors, such as spending energy on root lengthening\ninstead of leaf production.\n(C) But if a plant does not have a caretaker to provide\nsupplemental minerals, it can proliferate or lengthen its\nroots and develop root hairs to allow foraging in more\ndistant soil patches. Plants can also use their memory to\nrespond to histories of temporal or spatial variation in\nnutrient or resource availability. [3점]"
@@ -5391,7 +5391,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_09_q39",
-    "title": "예술 작품의 제작을 인정하는 데는, 예를 들어 화가가 다양한 종류의 …",
+    "title": "In the case of specialists such as art critics, a deeper fam",
     "description": "예술 작품의 제작을 인정하는 데는, 예를 들어 화가가 다양한 종류의 물감을 섞는 방 법이나 이미지 편집 도구가 작동하는 방식과 같은 것에 관…",
     "content": [
       "In the case of specialists such as art critics, a deeper\nfamiliarity with materials and techniques is often useful in\nreaching an informed judgement about a work.\nAcknowledging the making of artworks does not require a\ndetailed, technical knowledge of, say, how painters mix\ndifferent kinds of paint, or how an image editing tool works.\n( ) All that is required is a general sense of a significant\ndifference between working with paints and working with an\nimaging application. ( ) This sense might involve a basic\nfamiliarity with paints and paintbrushes as well as a basic\nfamiliarity with how we use computers, perhaps including how\nwe use consumer imaging apps. ( ) This is because every\nkind of artistic material or tool comes with its own challenges\nand affordances for artistic creation. ( ) Critics are often\ninterested in the ways artists exploit different kinds of materials\nand tools for particular artistic effect. ( ) They are also\ninterested in the success of an artist’s attempt ― embodied in\nthe artwork itself ― to push the limits of what can be achieved\nwith certain materials and tools. [3점]"
@@ -5410,7 +5410,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_09_q40",
-    "title": "우리가 학교에서 배운 것 대부분을 잊어버린다고 생각하는 한 가지 이유…",
+    "title": "Research for historical fiction may focus on under-documente",
     "description": "우리가 학교에서 배운 것 대부분을 잊어버린다고 생각하는 한 가지 이유는 우리가 실 제로 기억하는 것을 과소평가하기 때문이다.",
     "content": [
       "Research for historical fiction may focus on\nunder-documented ordinary people, events, or sites. Fiction\nhelps portray everyday situations, feelings, and atmosphere\nthat recreate the historical context. Historical fiction adds\n“flesh to the bare bones that historians are able to uncover\nand by doing so provides an account that while not\nnecessarily true provides a clearer indication of past events,\ncircumstances and cultures.” Fiction adds color, sound,\ndrama to the past, as much as it invents parts of the past.\nAnd Robert Rosenstone argues that invention is not the\nweakness of films, it is their strength. Fiction can allow\nusers to see parts of the past that have never ― for lack of\narchives ― been represented. In fact, Gilden Seavey\nexplains that if producers of historical fiction had strongly\nheld the strict academic standards, many historical subjects\nwould remain unexplored for lack of appropriate evidence.\nHistorical fiction should, therefore, not be seen as the\nopposite of professional history, but rather as a challenging\nrepresentation of the past from which both public historians\nand popular audiences may learn.\n󰀻\nWhile historical fiction reconstructs the past using\n(A) evidence, it provides an inviting description,\nwhich may (B) people’s understanding of historical\nevents.\ninsignificant …… delay insufficient …… enrich\nconcrete …… enhance outdated …… improve\nlimited …… disturb\n-- 7 of 8 --\n8\n8 8\nOne reason we think we forget most of what we learned in\nschool is that we underestimate what we actually remember.\nOther times, we know we remember something, but we don’t\nrecognize that we learned it in school. Knowing where and\nwhen you learned something is usually called context\ninformation, and context is handled by (a) different memory\nprocesses than memory for the content. Thus, it’s quite\npossible to retain content without remembering the context.\nFor example, if someone mentions a movie and you think\nto yourself that you heard it was terrible but can’t remember\n(b) where you heard that, you’re recalling the content, but\nyou’ve lost the context. Context information is frequently\n(c) easier to forget than content, and it’s the source of a variety\nof memory illusions. For instance, people are (d) unconvinced\nby a persuasive argument if it’s written by someone who is not\nvery credible (e.g., someone with a clear financial interest in\nthe topic). But in time, readers’ attitudes, on average, change\nin the direction of the persuasive argument. Why? Because\nreaders are likely to remember the content of the argument but\nforget the source ― someone who is not credible. If remembering\nthe source of knowledge is difficult, you can see how it would\nbe (e) challenging to conclude you don’t remember much\nfrom school."
@@ -5430,7 +5430,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_09_q42",
-    "title": "7월에 도시 사람들은 흔히 산에서 휴식하고자 벗어났다.",
+    "title": "In July, people in the city often escaped to relax in the mo",
     "description": "7월에 도시 사람들은 흔히 산에서 휴식하고자 벗어났다. Sean은 아직 그것을 몰 랐지만, 막 일생의 경험을 하려는 참이었다.",
     "content": [
       "In July, people in the city often escaped to relax in the\nmountains. Sean didn’t yet know it, but he was about to have\nthe experience of a lifetime. “When I look around, all I see is\nthe work I haven’t finished and the bills I haven’t paid,” he\ncomplained over the phone to his friend and doctor, Alex.\nConcerned about Sean, he said, “(a) You’ve been stressed for\nweeks. Come see me for medical treatment if things don’t\nimprove.”\nHaving hiked for several hours, Sean was thrilled to reach\nthe top of Vincent Mountain. As Toby started to bark, Sean\nturned around and found him running toward a large pond.\n“What a nice, quiet place,” Sean whispered to himself.\nAmong the trees, he could ease the stress of recent weeks. As\nnight approached, however, the wind blew fiercely. Sean\nbecame nervous. Unable to sleep, (b) he called to his\ncompanion, “Come here, Boy!” He held the dog close in an\neffort to ignore the fear rushing in.\nAfter what felt like the longest night of Sean’s life, the sky\nfinally turned a beautiful shade of pink, and the warm sun\nshone around him. He packed up his equipment, enjoying his\nlast moments in the mountain air. Finding Toby energetically\nrunning next to the campsite, Sean said, “(c) You must be as\nexcited as I am after surviving a night like that!” Sean went\ndown the mountain with a renewed sense of joy, and he\nexclaimed, “My treatment worked like a charm!”\nUpon hearing this offer, Sean replied, “Thanks, but (d) I\nknow just the treatment I need.” He told his friend about the\nVincent Mountain hike he had read about. Alex anxiously\nwarned, “Even in the summer, hiking can be dangerous.\nDon’t forget your safety checklist.” Following his friend’s\nwords, (e) he added protective gear to his camping\nequipment. Sean put on his hiking clothes and tied up his\nboots. He almost forgot his new hiking sticks as he walked\nout the door with his dog, Toby."
@@ -5448,7 +5448,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_11_q20",
-    "title": "가치만으로는 문화가 창조되고 구축되지 않는다.",
+    "title": "Values alone do not create and build culture",
     "description": "가치만으로는 문화가 창조되고 구축되지 않는다. 일부 시간에만 가치에 따라 생활하 는 것은 문화의 창조와 유지에 기여하지 않는다.",
     "content": [
       "Values alone do not create and build culture. Living your\nvalues only some of the time does not contribute to the\ncreation and maintenance of culture. Changing values into\nbehaviors is only half the battle. Certainly, this is a step in the\nright direction, but those behaviors must then be shared and\ndistributed widely throughout the organization, along with a\nclear and concise description of what is expected. It is not\nenough to simply talk about it. It is critical to have a visual\nrepresentation of the specific behaviors that leaders and all\npeople managers can use to coach their people. Just like a\nsports team has a playbook with specific plays designed to\nhelp them perform well and win, your company should have a\nplaybook with the key shifts needed to transform your culture\ninto action and turn your values into winning behaviors."
@@ -5466,7 +5466,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_11_q21",
-    "title": "여러분이 여러분의 주의를 집중하는 방식은 여러분이 스트레스에 대처하는…",
+    "title": "How you focus your attention plays a critical role in how yo",
     "description": "여러분이 여러분의 주의를 집중하는 방식은 여러분이 스트레스에 대처하는 방식에 중 요한 역할을 한다. 주의가 분산되면 스트레스를 해소하는 능력…",
     "content": [
       "How you focus your attention plays a critical role in how\nyou deal with stress. Scattered attention harms your ability to let\ngo of stress, because even though your attention is scattered,\nit is narrowly focused, for you are able to fixate only on the\nstressful parts of your experience. When your attentional\nspotlight is widened, you can more easily let go of stress. You\ncan put in perspective many more aspects of any situation and\nnot get locked into one part that ties you down to superficial\nand anxiety-provoking levels of attention. A narrow focus\nheightens the stress level of each experience, but a widened\nfocus turns down the stress level because you’re better able to put\neach situation into a broader perspective. One anxiety-provoking\ndetail is less important than the bigger picture. It’s like\ntransforming yourself into a nonstick frying pan. You can still\nfry an egg, but the egg won’t stick to the pan."
@@ -5483,7 +5483,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_11_q22",
-    "title": "여러분의 응답에 우선순위를 매길 수 있는 것은, 그것이 특별히 즐겁거…",
+    "title": "Being able to prioritize your responses allows you to connec",
     "description": "여러분의 응답에 우선순위를 매길 수 있는 것은, 그것이 특별히 즐겁거나 화가 나는 경험에 대한 일회성 상호 작용이든, 여러분의 고객 기반 내…",
     "content": [
       "Being able to prioritize your responses allows you to connect\nmore deeply with individual customers, be it a one-off interaction\naround a particularly delightful or upsetting experience, or the\ndevelopment of a longer-term relationship with a significantly\ninfluential individual within your customer base. If you’ve\never posted a favorable comment ― or any comment, for that\nmatter ― about a brand, product or service, think about what it\nwould feel like if you were personally acknowledged by the\nbrand manager, for example, as a result. In general, people\npost because they have something to say ― and because they\nwant to be recognized for having said it. In particular, when\npeople post positive comments they are expressions of\nappreciation for the experience that led to the post. While a\ncompliment to the person standing next to you is typically\nanswered with a response like “Thank You,” the sad fact is\nthat most brand compliments go unanswered. These are lost\nopportunities to understand what drove the compliments and\ncreate a solid fan based on them."
@@ -5502,7 +5502,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_11_q23",
-    "title": "천연자원의 관리자는 일반적으로 이용에 대한 재정적 보상을 제공하는 시…",
+    "title": "Managers of natural resources typically face market incentiv",
     "description": "천연자원의 관리자는 일반적으로 이용에 대한 재정적 보상을 제공하는 시장 인센티브 에 직면한다. 예를 들어, 삼림 지대의 소유자는 탄소 포집,…",
     "content": [
       "Managers of natural resources typically face market\nincentives that provide financial rewards for exploitation. For\nexample, owners of forest lands have a market incentive to cut\ndown trees rather than manage the forest for carbon capture,\nwildlife habitat, flood protection, and other ecosystem services.\nThese services provide the owner with no financial benefits,\nand thus are unlikely to influence management decisions. But\nthe economic benefits provided by these services, based on\ntheir non-market values, may exceed the economic value of the\ntimber. For example, a United Nations initiative has estimated\nthat the economic benefits of ecosystem services provided by\ntropical forests, including climate regulation, water purification,\nand erosion prevention, are over three times greater per hectare\nthan the market benefits. Thus cutting down the trees is\neconomically inefficient, and markets are not sending the correct\n“signal” to favor ecosystem services over extractive uses."
@@ -5520,7 +5520,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_11_q24",
-    "title": "과잉 관광의 개념은 관광학과 사회 과학 전반에서 흔히 볼 수 있는 사…",
+    "title": "The concept of overtourism rests on a particular assumption ",
     "description": "과잉 관광의 개념은 관광학과 사회 과학 전반에서 흔히 볼 수 있는 사람과 장소에 관 한 특정한 가정에 기초한다.",
     "content": [
       "The concept of overtourism rests on a particular assumption\nabout people and places common in tourism studies and the\nsocial sciences in general. Both are seen as clearly defined and\ndemarcated. People are framed as bounded social actors either\nplaying the role of hosts or guests. Places, in a similar way, are\ntreated as stable containers with clear boundaries. Hence,\nplaces can be full of tourists and thus suffer from overtourism.\nBut what does it mean for a place to be full of people? Indeed,\nthere are examples of particular attractions that have limited\ncapacity and where there is actually no room for more visitors.\nThis is not least the case with some man-made constructions\nsuch as the Eiffel Tower. However, with places such as cities,\nregions or even whole countries being promoted as destinations\nand described as victims of overtourism, things become more\ncomplex. What is excessive or out of proportion is highly\nrelative and might be more related to other aspects than physical\ncapacity, such as natural degradation and economic leakages\n(not to mention politics and local power dynamics)."
@@ -5541,7 +5541,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_11_q29",
-    "title": "많은 연구가 사회적 자극에 차별적으로 반응하는 타고난 인간 성향에 대…",
+    "title": "A number of studies provide substantial evidence of an innat",
     "description": "많은 연구가 사회적 자극에 차별적으로 반응하는 타고난 인간 성향에 대한 상당한 증 거를 제시한다. 태어날 때부터, 아기들은 사람의 얼굴과 목…",
     "content": [
       "A number of studies provide substantial evidence of an\ninnate human disposition to respond differentially to social\nstimuli. From birth, infants will orient preferentially towards\nthe human face and voice, seeming to know that such\nstimuli are particularly meaningful for them. Moreover, they\nregister this connection actively, imitating a variety of facial\ngestures that are presented to them ― tongue protrusions, lip\ntightenings, mouth openings. They will even try to match\ngestures which they have some difficulty, experimenting with\ntheir own faces until they succeed. When they do succeed,\nthey show pleasure by a brightening of their eyes; when they\nfail, they show distress. In other words, they not only have\nan innate capacity for matching their own kinaesthetically\nexperienced bodily movements with those of others that are\nvisually perceived; they have an innate drive to do so. That is,\nthey seem to have an innate drive to imitate others whom they\njudge to be ‘like me’."
@@ -5559,7 +5559,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_11_q30",
-    "title": "상점가 경제는 공유되는 문화라는 더 지속적인 유대 위에 자리 잡은, …",
+    "title": "Bazaar economies feature an apparently flexible price-settin",
     "description": "상점가 경제는 공유되는 문화라는 더 지속적인 유대 위에 자리 잡은, 겉으로 보기에 유연한 가격 설정 메커니즘을 특징으로 한다.",
     "content": [
       "Bazaar economies feature an apparently flexible price-setting\nmechanism that sits atop more enduring ties of shared culture.\nBoth the buyer and seller are aware of each other’s restrictions.\nIn Delhi’s bazaars, buyers and sellers can assess to a large\nextent the financial constraints that other actors have in their\neveryday life. Each actor belonging to a specific economic class\nunderstands what the other sees as a necessity and a luxury.\nIn the case of electronic products like video games, they are not\na necessity at the same level as other household purchases\nsuch as food items. So, the seller in Delhi’s bazaars is careful\nnot to directly ask for very low prices for video games\nbecause at no point will the buyer see possession of them as an\nabsolute necessity. Access to this type of knowledge establishes\na price consensus by relating to each other’s preferences and\nlimitations of belonging to a similar cultural and economic\nuniverse."
@@ -5577,7 +5577,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_11_q31",
-    "title": "지난 10년 동안 어린이가 읽는 법을 배우는 방법에 관한 관심은 ‘텍…",
+    "title": "Over the last decade the attention given to how children lea",
     "description": "지난 10년 동안 어린이가 읽는 법을 배우는 방법에 관한 관심은 ‘텍스트성’의 본질과20 모든 나이의 독자가 텍스트를 의미하게 하는 다양하고…",
     "content": [
       "Over the last decade the attention given to how children\nlearn to read has foregrounded the nature of textuality, and of\nthe different, interrelated ways in which readers of all ages\nmake texts mean. ‘Reading’ now applies to a greater number of\nrepresentational forms than at any time in the past: pictures,\nmaps, screens, design graphics and photographs are all\nregarded as text. In addition to the innovations made possible\nin picture books by new printing processes, design features\nalso predominate in other kinds, such as books of poetry and\ninformation texts. Thus, reading becomes a more complicated\nkind of interpretation than it was when children’s attention\nwas focused on the printed text, with sketches or pictures as an\nadjunct. Children now learn from a picture book that words\nand illustrations complement and enhance each other. Reading\nis not simply . Even in the easiest\ntexts, what a sentence ‘says’ is often not what it means."
@@ -5594,7 +5594,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_11_q32",
-    "title": "어떤 영화 속에서든 악보는 영화 텍스트에 추가적인 층을 추가할 수 있…",
+    "title": "A musical score within any film can add an additional layer ",
     "description": "어떤 영화 속에서든 악보는 영화 텍스트에 추가적인 층을 추가할 수 있는데, 그것은 보이는 연기를 단순히 흉내 내는 것을 넘어선다.",
     "content": [
       "A musical score within any film can add an additional layer\nto the film text, which goes beyond simply imitating the action\nviewed. In films that tell of futuristic worlds, composers, much\nlike sound designers, have added freedom to create a world that\nis unknown and new to the viewer. However, unlike sound\ndesigners, composers often shy away from creating unique\npieces that reflect these new worlds and often present musical\nscores that possess familiar structures and cadences. While it is\npossible that this may interfere with creativity and a sense of\nspace and time, it in fact .\nThrough recognizable scores, visions of the future or a galaxy\nfar, far away can be placed within a recognizable context.\nSuch familiarity allows the viewer to be placed in a comfortable\nspace so that the film may then lead the viewer to what is an\nunfamiliar, but acceptable vision of a world different from their\nown."
@@ -5611,7 +5611,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_11_q33",
-    "title": "피실험자에게 사람들의 얼굴 사진을 보여주고 분명히 나타나는 표정이나 …",
+    "title": "There have been psychological studies in which subjects were",
     "description": "피실험자에게 사람들의 얼굴 사진을 보여주고 분명히 나타나는 표정이나 마음 상태를 파악하도록 요청하는 심리학 연구가 있었다.",
     "content": [
       "There have been psychological studies in which subjects\nwere shown photographs of people’s faces and asked to\nidentify the expression or state of mind evinced. The results\nare invariably very mixed. In the 17th century the French\npainter and theorist Charles Le Brun drew a series of faces\nillustrating the various emotions that painters could be called\nupon to represent. What is striking about them is that\n. What\nis missing in all this is any setting or context to make the\nemotion determinate. We must know who this person is, who\nthese other people are, what their relationship is, what is at\nstake in the scene, and the like. In real life as well as in\npainting we do not come across just faces; we encounter\npeople in particular situations and our understanding of people\ncannot somehow be precipitated and held isolated from the\nsocial and human circumstances in which they, and we, live\nand breathe and have our being. [3점]"
@@ -5632,7 +5632,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_11_q34",
-    "title": "도시에서 운전하거나 걷거나 교통 카드를 판독기에 통과시키는 모든 사람…",
+    "title": "Everyone who drives, walks, or swipes a transit card in a ci",
     "description": "도시에서 운전하거나 걷거나 교통 카드를 판독기에 통과시키는 모든 사람은 현관문을 나서는 순간부터 자신을 교통 전문가로 여긴다.",
     "content": [
       "Everyone who drives, walks, or swipes a transit card in a\ncity views herself as a transportation expert from the moment\nshe walks out the front door. And how she views the street\n. That’s\nwhy we find so many well-intentioned and civic-minded\ncitizens arguing past one another. At neighborhood meetings\nin school auditoriums, and in back rooms at libraries and\nchurches, local residents across the nation gather for\noften-contentious discussions about transportation proposals\nthat would change a city’s streets. And like all politics, all\ntransportation is local and intensely personal. A transit project\nthat could speed travel for tens of thousands of people can be\nstopped by objections to the loss of a few parking spaces or by\nthe simple fear that the project won’t work. It’s not a challenge\nof the data or the traffic engineering or the planning. Public\ndebates about streets are typically rooted in emotional\nassumptions about how a change will affect a person’s\ncommute, ability to park, belief about what is safe and what\nisn’t, or the bottom line of a local business. [3점]"
@@ -5649,7 +5649,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_11_q35",
-    "title": "빨리 말하는 것은 위험 부담이 큰 일이다.",
+    "title": "Speaking fast is a high-risk proposition",
     "description": "빨리 말하는 것은 위험 부담이 큰 일이다. 입이 속도 제한을 훨씬 초과하여 움직일 때 설득력 있고, 말을 잘하며, 효과적인 이상적 조건을 유…",
     "content": [
       "Speaking fast is a high-risk proposition. It’s nearly impossible\nto maintain the ideal conditions to be persuasive, well-spoken,\nand effective when the mouth is traveling well over the speed\nlimit. Although we’d like to think that our minds are sharp\nenough to always make good decisions with the greatest\nefficiency, they just aren’t. In reality, the brain arrives at an\nintersection of four or five possible things to say and sits idling\nfor a couple of seconds, considering the options. Making a\ngood decision helps you speak faster because it provides you\nwith more time to come up with your responses. When the\nbrain stops sending navigational instructions back to the\nmouth and the mouth is moving too fast to pause, that’s when\nyou get a verbal fender bender, otherwise known as filler.\nUm, ah, you know, and like are what your mouth does when\nit has nowhere to go."
@@ -5666,7 +5666,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_11_q36",
-    "title": "협상은 수용할 수 있는 결과에 도달하기 위해 상충하는 입장을 탐색하고…",
+    "title": "Negotiation can be defined as an attempt to explore and reco",
     "description": "협상은 수용할 수 있는 결과에 도달하기 위해 상충하는 입장을 탐색하고 화해시키려 는 시도라고 정의될 수 있다.",
     "content": [
       "Negotiation can be defined as an attempt to explore and\nreconcile conflicting positions in order to reach an\nacceptable outcome.\n(A) Areas of difference can and do frequently remain, and\nwill perhaps be the subject of future negotiations, or\nindeed remain irreconcilable. In those instances in which\nthe parties have highly antagonistic or polarised relations,\nthe process is likely to be dominated by the exposition,\nvery often in public, of the areas of conflict.\n(B) In these and sometimes other forms of negotiation,\nnegotiation serves functions other than reconciling\nconflicting interests. These will include delay, publicity,\ndiverting attention or seeking intelligence about the other\nparty and its negotiating position.\n(C) Whatever the nature of the outcome, which may actually\nfavour one party more than another, the purpose of\nnegotiation is the identification of areas of common interest\nand conflict. In this sense, depending on the intentions of\nthe parties, the areas of common interest may be clarified,\nrefined and given negotiated form and substance."
@@ -5683,7 +5683,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_11_q37",
-    "title": "규범은 사람들이 다른 사람들의 행동에 순응하는 결과로 집단에서 생겨난다.",
+    "title": "Norms emerge in groups as a result of people conforming to t",
     "description": "규범은 사람들이 다른 사람들의 행동에 순응하는 결과로 집단에서 생겨난다. 따라서 규범의 시작은 한 사람이 특정 상황에서 자신이 그래야 한다고…",
     "content": [
       "Norms emerge in groups as a result of people conforming\nto the behavior of others. Thus, the start of a norm occurs\nwhen one person acts in a particular manner in a particular\nsituation because she thinks she ought to.\n(A) Thus, she may prescribe the behavior to them by uttering\nthe norm statement in a prescriptive manner. Alternately,\nshe may communicate that conformity is desired in other\nways, such as by gesturing. In addition, she may threaten\nto sanction them for not behaving as she wishes. This will\ncause some to conform to her wishes and act as she acts.\n(B) But some others will not need to have the behavior prescribed\nto them. They will observe the regularity of behavior and\ndecide on their own that they ought to conform. They may do\nso for either rational or moral reasons.\n(C) Others may then conform to this behavior for a number of\nreasons. The person who performed the initial action may\nthink that others ought to behave as she behaves in\nsituations of this sort. [3점]"
@@ -5702,7 +5702,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_11_q39",
-    "title": "책이나 어떤 서면 메시지에서 오타가 발생하면 일반적으로 내용에 부정적…",
+    "title": "At the next step in the argument, however, the analogy break",
     "description": "책이나 어떤 서면 메시지에서 오타가 발생하면 일반적으로 내용에 부정적인 영향을 미치며 때로는 (문자 그대로) 치명적이기도 하다.",
     "content": [
       "At the next step in the argument, however, the analogy\nbreaks down.\nMisprints in a book or in any written message usually have a\nnegative impact on the content, sometimes (literally) fatally.\n( ) The displacement of a comma, for instance, may be a\nmatter of life and death. ( ) Similarly most mutations have\nharmful consequences for the organism in which they occur,\nmeaning that they reduce its reproductive fitness. ( )\nOccasionally, however, a mutation may occur that increases\nthe fitness of the organism, just as an accidental failure to\nreproduce the text of the first edition might provide more\naccurate or updated information. ( ) A favorable mutation\nis going to be more heavily represented in the next generation,\nsince the organism in which it occurred will have more offspring\nand mutations are transmitted to the offspring. ( ) By\ncontrast, there is no mechanism by which a book that\naccidentally corrects the mistakes of the first edition will tend\nto sell better. [3점]"
@@ -5720,7 +5720,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_11_q40",
-    "title": "이야기를 과대광고하는 것에 대한 기여를 피하는 한 가지 방법은 아무 …",
+    "title": "Even those with average talent can produce notable work in t",
     "description": "이야기를 과대광고하는 것에 대한 기여를 피하는 한 가지 방법은 아무 말도 하지 않 는 것이다. 그러나 그것은 대중과 정책 입안자에게 정보를 …",
     "content": [
       "Even those with average talent can produce notable work\nin the various sciences, so long as they do not try to embrace\nall of them at once. Instead, they should concentrate attention\non one subject after another (that is, in different periods of\ntime), although later work will weaken earlier attainments\nin the other spheres. This amounts to saying that the brain\nadapts to universal science in time but not in space. In fact,\neven those with great abilities proceed in this way. Thus,\nwhen we are astonished by someone with publications in\ndifferent scientific fields, realize that each topic was\nexplored during a specific period of time. Knowledge\ngained earlier certainly will not have disappeared from the\nmind of the author, but it will have become simplified by\ncondensing into formulas or greatly abbreviated symbols.\nThus, sufficient space remains for the perception and\nlearning of new images on the cerebral blackboard."
@@ -5739,7 +5739,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2023_11_q42",
-    "title": "Emma와 Clara는 끝없이 펼쳐진 바다에 시선을 고정하고, 해변 …",
+    "title": "Emma and Clara stood side by side on the beach road, with th",
     "description": "Emma와 Clara는 끝없이 펼쳐진 바다에 시선을 고정하고, 해변 도로에 나란히 서 있었다. 그들을 둘러싸고 있는 숨 막히는 풍경은 말로 …",
     "content": [
       "Emma and Clara stood side by side on the beach road, with\ntheir eyes fixed on the boundless ocean. The breathtaking\nscene that surrounded them was beyond description. Just after\nsunrise, they finished their preparations for the bicycle ride\nalong the beach road. Emma turned to Clara with a question,\n“Do you think this will be your favorite ride ever?” Clara’s\nface lit up with a bright smile as she nodded. “Definitely!\n(a) I can’t wait to ride while watching those beautiful waves!”\nWhen they reached their destination, Emma and Clara\nstopped their bikes. Emma approached Clara, saying “Bicycle\nriding is unlike swimming, isn’t it?” Clara answered with a\nsmile, “Quite similar, actually. Just like swimming, riding\nmakes me feel truly alive.” She added, “It shows (b) me what\nit means to live while facing life’s tough challenges.” Emma\nnodded in agreement and suggested, “Your first beach bike\nride was a great success. How about coming back next summer?”\nClara replied with delight, “With (c) you, absolutely!”\nClara used to be a talented swimmer, but she had to give up\nher dream of becoming an Olympic medalist in swimming\nbecause of shoulder injuries. Yet she responded to the hardship\nin a constructive way. After years of hard training, she made\nan incredible recovery and found a new passion for bike\nriding. Emma saw how the painful past made her maturer and\nhow it made (d) her stronger in the end. One hour later, Clara,\nriding ahead of Emma, turned back and shouted, “Look at the\nwhite cliff!”\nEmma and Clara jumped on their bikes and started to pedal\ntoward the white cliff where the beach road ended. Speeding\nup and enjoying the wide blue sea, Emma couldn’t hide her\nexcitement and exclaimed, “Clara, the view is amazing!”\nClara’s silence, however, seemed to say that she was lost in her\nthoughts. Emma understood the meaning of her silence.\nWatching Clara riding beside her, Emma thought about Clara’s\npast tragedy, which (e) she now seemed to have overcome."
@@ -5756,8 +5756,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2023년 11월"
   },
   {
-    "id": "high3_2023_11_q20",
-    "title": "가치만으로는 문화가 창조되고 구축되지 않는다.",
+    "id": "high3_2023_11_q20_2",
+    "title": "Values alone do not create and build culture",
     "description": "가치만으로는 문화가 창조되고 구축되지 않는다. 일부 시간에만 가치에 따라 생활하 는 것은 문화의 창조와 유지에 기여하지 않는다.",
     "content": [
       "Values alone do not create and build culture. Living your\nvalues only some of the time does not contribute to the\ncreation and maintenance of culture. Changing values into\nbehaviors is only half the battle. Certainly, this is a step in the\nright direction, but those behaviors must then be shared and\ndistributed widely throughout the organization, along with a\nclear and concise description of what is expected. It is not\nenough to simply talk about it. It is critical to have a visual\nrepresentation of the specific behaviors that leaders and all\npeople managers can use to coach their people. Just like a\nsports team has a playbook with specific plays designed to\nhelp them perform well and win, your company should have a\nplaybook with the key shifts needed to transform your culture\ninto action and turn your values into winning behaviors."
@@ -5774,8 +5774,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2023년 11월"
   },
   {
-    "id": "high3_2023_11_q21",
-    "title": "여러분이 여러분의 주의를 집중하는 방식은 여러분이 스트레스에 대처하는…",
+    "id": "high3_2023_11_q21_2",
+    "title": "How you focus your attention plays a critical role in how yo",
     "description": "여러분이 여러분의 주의를 집중하는 방식은 여러분이 스트레스에 대처하는 방식에 중 요한 역할을 한다. 주의가 분산되면 스트레스를 해소하는 능력…",
     "content": [
       "How you focus your attention plays a critical role in how\nyou deal with stress. Scattered attention harms your ability to let\ngo of stress, because even though your attention is scattered,\nit is narrowly focused, for you are able to fixate only on the\nstressful parts of your experience. When your attentional\nspotlight is widened, you can more easily let go of stress. You\ncan put in perspective many more aspects of any situation and\nnot get locked into one part that ties you down to superficial\nand anxiety-provoking levels of attention. A narrow focus\nheightens the stress level of each experience, but a widened\nfocus turns down the stress level because you’re better able to put\neach situation into a broader perspective. One anxiety-provoking\ndetail is less important than the bigger picture. It’s like\ntransforming yourself into a nonstick frying pan. You can still\nfry an egg, but the egg won’t stick to the pan."
@@ -5791,8 +5791,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2023년 11월"
   },
   {
-    "id": "high3_2023_11_q22",
-    "title": "여러분의 응답에 우선순위를 매길 수 있는 것은, 그것이 특별히 즐겁거…",
+    "id": "high3_2023_11_q22_2",
+    "title": "Being able to prioritize your responses allows you to connec",
     "description": "여러분의 응답에 우선순위를 매길 수 있는 것은, 그것이 특별히 즐겁거나 화가 나는 경험에 대한 일회성 상호 작용이든, 여러분의 고객 기반 내…",
     "content": [
       "Being able to prioritize your responses allows you to connect\nmore deeply with individual customers, be it a one-off interaction\naround a particularly delightful or upsetting experience, or the\ndevelopment of a longer-term relationship with a significantly\ninfluential individual within your customer base. If you’ve\never posted a favorable comment ― or any comment, for that\nmatter ― about a brand, product or service, think about what it\nwould feel like if you were personally acknowledged by the\nbrand manager, for example, as a result. In general, people\npost because they have something to say ― and because they\nwant to be recognized for having said it. In particular, when\npeople post positive comments they are expressions of\nappreciation for the experience that led to the post. While a\ncompliment to the person standing next to you is typically\nanswered with a response like “Thank You,” the sad fact is\nthat most brand compliments go unanswered. These are lost\nopportunities to understand what drove the compliments and\ncreate a solid fan based on them."
@@ -5810,8 +5810,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2023년 11월"
   },
   {
-    "id": "high3_2023_11_q23",
-    "title": "천연자원의 관리자는 일반적으로 이용에 대한 재정적 보상을 제공하는 시…",
+    "id": "high3_2023_11_q23_2",
+    "title": "Managers of natural resources typically face market incentiv",
     "description": "천연자원의 관리자는 일반적으로 이용에 대한 재정적 보상을 제공하는 시장 인센티브 에 직면한다. 예를 들어, 삼림 지대의 소유자는 탄소 포집,…",
     "content": [
       "Managers of natural resources typically face market\nincentives that provide financial rewards for exploitation. For\nexample, owners of forest lands have a market incentive to cut\ndown trees rather than manage the forest for carbon capture,\nwildlife habitat, flood protection, and other ecosystem services.\nThese services provide the owner with no financial benefits,\nand thus are unlikely to influence management decisions. But\nthe economic benefits provided by these services, based on\ntheir non-market values, may exceed the economic value of the\ntimber. For example, a United Nations initiative has estimated\nthat the economic benefits of ecosystem services provided by\ntropical forests, including climate regulation, water purification,\nand erosion prevention, are over three times greater per hectare\nthan the market benefits. Thus cutting down the trees is\neconomically inefficient, and markets are not sending the correct\n“signal” to favor ecosystem services over extractive uses."
@@ -5828,8 +5828,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2023년 11월"
   },
   {
-    "id": "high3_2023_11_q24",
-    "title": "과잉 관광의 개념은 관광학과 사회 과학 전반에서 흔히 볼 수 있는 사…",
+    "id": "high3_2023_11_q24_2",
+    "title": "The concept of overtourism rests on a particular assumption ",
     "description": "과잉 관광의 개념은 관광학과 사회 과학 전반에서 흔히 볼 수 있는 사람과 장소에 관 한 특정한 가정에 기초한다.",
     "content": [
       "The concept of overtourism rests on a particular assumption\nabout people and places common in tourism studies and the\nsocial sciences in general. Both are seen as clearly defined and\ndemarcated. People are framed as bounded social actors either\nplaying the role of hosts or guests. Places, in a similar way, are\ntreated as stable containers with clear boundaries. Hence,\nplaces can be full of tourists and thus suffer from overtourism.\nBut what does it mean for a place to be full of people? Indeed,\nthere are examples of particular attractions that have limited\ncapacity and where there is actually no room for more visitors.\nThis is not least the case with some man-made constructions\nsuch as the Eiffel Tower. However, with places such as cities,\nregions or even whole countries being promoted as destinations\nand described as victims of overtourism, things become more\ncomplex. What is excessive or out of proportion is highly\nrelative and might be more related to other aspects than physical\ncapacity, such as natural degradation and economic leakages\n(not to mention politics and local power dynamics)."
@@ -5849,8 +5849,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2023년 11월"
   },
   {
-    "id": "high3_2023_11_q29",
-    "title": "많은 연구가 사회적 자극에 차별적으로 반응하는 타고난 인간 성향에 대…",
+    "id": "high3_2023_11_q29_2",
+    "title": "A number of studies provide substantial evidence of an innat",
     "description": "많은 연구가 사회적 자극에 차별적으로 반응하는 타고난 인간 성향에 대한 상당한 증 거를 제시한다. 태어날 때부터, 아기들은 사람의 얼굴과 목…",
     "content": [
       "A number of studies provide substantial evidence of an\ninnate human disposition to respond differentially to social\nstimuli. From birth, infants will orient preferentially towards\nthe human face and voice, seeming to know that such\nstimuli are particularly meaningful for them. Moreover, they\nregister this connection actively, imitating a variety of facial\ngestures that are presented to them ― tongue protrusions, lip\ntightenings, mouth openings. They will even try to match\ngestures which they have some difficulty, experimenting with\ntheir own faces until they succeed. When they do succeed,\nthey show pleasure by a brightening of their eyes; when they\nfail, they show distress. In other words, they not only have\nan innate capacity for matching their own kinaesthetically\nexperienced bodily movements with those of others that are\nvisually perceived; they have an innate drive to do so. That is,\nthey seem to have an innate drive to imitate others whom they\njudge to be ‘like me’."
@@ -5867,8 +5867,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2023년 11월"
   },
   {
-    "id": "high3_2023_11_q30",
-    "title": "상점가 경제는 공유되는 문화라는 더 지속적인 유대 위에 자리 잡은, …",
+    "id": "high3_2023_11_q30_2",
+    "title": "Bazaar economies feature an apparently flexible price-settin",
     "description": "상점가 경제는 공유되는 문화라는 더 지속적인 유대 위에 자리 잡은, 겉으로 보기에 유연한 가격 설정 메커니즘을 특징으로 한다.",
     "content": [
       "Bazaar economies feature an apparently flexible price-setting\nmechanism that sits atop more enduring ties of shared culture.\nBoth the buyer and seller are aware of each other’s restrictions.\nIn Delhi’s bazaars, buyers and sellers can assess to a large\nextent the financial constraints that other actors have in their\neveryday life. Each actor belonging to a specific economic class\nunderstands what the other sees as a necessity and a luxury.\nIn the case of electronic products like video games, they are not\na necessity at the same level as other household purchases\nsuch as food items. So, the seller in Delhi’s bazaars is careful\nnot to directly ask for very low prices for video games\nbecause at no point will the buyer see possession of them as an\nabsolute necessity. Access to this type of knowledge establishes\na price consensus by relating to each other’s preferences and\nlimitations of belonging to a similar cultural and economic\nuniverse."
@@ -5885,8 +5885,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2023년 11월"
   },
   {
-    "id": "high3_2023_11_q31",
-    "title": "지난 10년 동안 어린이가 읽는 법을 배우는 방법에 관한 관심은 ‘텍…",
+    "id": "high3_2023_11_q31_2",
+    "title": "Over the last decade the attention given to how children lea",
     "description": "지난 10년 동안 어린이가 읽는 법을 배우는 방법에 관한 관심은 ‘텍스트성’의 본질과20 모든 나이의 독자가 텍스트를 의미하게 하는 다양하고…",
     "content": [
       "Over the last decade the attention given to how children\nlearn to read has foregrounded the nature of textuality, and of\nthe different, interrelated ways in which readers of all ages\nmake texts mean. ‘Reading’ now applies to a greater number of\nrepresentational forms than at any time in the past: pictures,\nmaps, screens, design graphics and photographs are all\nregarded as text. In addition to the innovations made possible\nin picture books by new printing processes, design features\nalso predominate in other kinds, such as books of poetry and\ninformation texts. Thus, reading becomes a more complicated\nkind of interpretation than it was when children’s attention\nwas focused on the printed text, with sketches or pictures as an\nadjunct. Children now learn from a picture book that words\nand illustrations complement and enhance each other. Reading\nis not simply . Even in the easiest\ntexts, what a sentence ‘says’ is often not what it means."
@@ -5902,8 +5902,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2023년 11월"
   },
   {
-    "id": "high3_2023_11_q32",
-    "title": "어떤 영화 속에서든 악보는 영화 텍스트에 추가적인 층을 추가할 수 있…",
+    "id": "high3_2023_11_q32_2",
+    "title": "A musical score within any film can add an additional layer ",
     "description": "어떤 영화 속에서든 악보는 영화 텍스트에 추가적인 층을 추가할 수 있는데, 그것은 보이는 연기를 단순히 흉내 내는 것을 넘어선다.",
     "content": [
       "A musical score within any film can add an additional layer\nto the film text, which goes beyond simply imitating the action\nviewed. In films that tell of futuristic worlds, composers, much\nlike sound designers, have added freedom to create a world that\nis unknown and new to the viewer. However, unlike sound\ndesigners, composers often shy away from creating unique\npieces that reflect these new worlds and often present musical\nscores that possess familiar structures and cadences. While it is\npossible that this may interfere with creativity and a sense of\nspace and time, it in fact .\nThrough recognizable scores, visions of the future or a galaxy\nfar, far away can be placed within a recognizable context.\nSuch familiarity allows the viewer to be placed in a comfortable\nspace so that the film may then lead the viewer to what is an\nunfamiliar, but acceptable vision of a world different from their\nown."
@@ -5919,8 +5919,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2023년 11월"
   },
   {
-    "id": "high3_2023_11_q33",
-    "title": "피실험자에게 사람들의 얼굴 사진을 보여주고 분명히 나타나는 표정이나 …",
+    "id": "high3_2023_11_q33_2",
+    "title": "There have been psychological studies in which subjects were",
     "description": "피실험자에게 사람들의 얼굴 사진을 보여주고 분명히 나타나는 표정이나 마음 상태를 파악하도록 요청하는 심리학 연구가 있었다.",
     "content": [
       "There have been psychological studies in which subjects\nwere shown photographs of people’s faces and asked to\nidentify the expression or state of mind evinced. The results\nare invariably very mixed. In the 17th century the French\npainter and theorist Charles Le Brun drew a series of faces\nillustrating the various emotions that painters could be called\nupon to represent. What is striking about them is that\n. What\nis missing in all this is any setting or context to make the\nemotion determinate. We must know who this person is, who\nthese other people are, what their relationship is, what is at\nstake in the scene, and the like. In real life as well as in\npainting we do not come across just faces; we encounter\npeople in particular situations and our understanding of people\ncannot somehow be precipitated and held isolated from the\nsocial and human circumstances in which they, and we, live\nand breathe and have our being. [3점]"
@@ -5940,8 +5940,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2023년 11월"
   },
   {
-    "id": "high3_2023_11_q34",
-    "title": "도시에서 운전하거나 걷거나 교통 카드를 판독기에 통과시키는 모든 사람…",
+    "id": "high3_2023_11_q34_2",
+    "title": "Everyone who drives, walks, or swipes a transit card in a ci",
     "description": "도시에서 운전하거나 걷거나 교통 카드를 판독기에 통과시키는 모든 사람은 현관문을 나서는 순간부터 자신을 교통 전문가로 여긴다.",
     "content": [
       "Everyone who drives, walks, or swipes a transit card in a\ncity views herself as a transportation expert from the moment\nshe walks out the front door. And how she views the street\n. That’s\nwhy we find so many well-intentioned and civic-minded\ncitizens arguing past one another. At neighborhood meetings\nin school auditoriums, and in back rooms at libraries and\nchurches, local residents across the nation gather for\noften-contentious discussions about transportation proposals\nthat would change a city’s streets. And like all politics, all\ntransportation is local and intensely personal. A transit project\nthat could speed travel for tens of thousands of people can be\nstopped by objections to the loss of a few parking spaces or by\nthe simple fear that the project won’t work. It’s not a challenge\nof the data or the traffic engineering or the planning. Public\ndebates about streets are typically rooted in emotional\nassumptions about how a change will affect a person’s\ncommute, ability to park, belief about what is safe and what\nisn’t, or the bottom line of a local business. [3점]"
@@ -5957,8 +5957,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2023년 11월"
   },
   {
-    "id": "high3_2023_11_q35",
-    "title": "빨리 말하는 것은 위험 부담이 큰 일이다.",
+    "id": "high3_2023_11_q35_2",
+    "title": "Speaking fast is a high-risk proposition",
     "description": "빨리 말하는 것은 위험 부담이 큰 일이다. 입이 속도 제한을 훨씬 초과하여 움직일 때 설득력 있고, 말을 잘하며, 효과적인 이상적 조건을 유…",
     "content": [
       "Speaking fast is a high-risk proposition. It’s nearly impossible\nto maintain the ideal conditions to be persuasive, well-spoken,\nand effective when the mouth is traveling well over the speed\nlimit. Although we’d like to think that our minds are sharp\nenough to always make good decisions with the greatest\nefficiency, they just aren’t. In reality, the brain arrives at an\nintersection of four or five possible things to say and sits idling\nfor a couple of seconds, considering the options. Making a\ngood decision helps you speak faster because it provides you\nwith more time to come up with your responses. When the\nbrain stops sending navigational instructions back to the\nmouth and the mouth is moving too fast to pause, that’s when\nyou get a verbal fender bender, otherwise known as filler.\nUm, ah, you know, and like are what your mouth does when\nit has nowhere to go."
@@ -5974,8 +5974,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2023년 11월"
   },
   {
-    "id": "high3_2023_11_q36",
-    "title": "협상은 수용할 수 있는 결과에 도달하기 위해 상충하는 입장을 탐색하고…",
+    "id": "high3_2023_11_q36_2",
+    "title": "Negotiation can be defined as an attempt to explore and reco",
     "description": "협상은 수용할 수 있는 결과에 도달하기 위해 상충하는 입장을 탐색하고 화해시키려 는 시도라고 정의될 수 있다.",
     "content": [
       "Negotiation can be defined as an attempt to explore and\nreconcile conflicting positions in order to reach an\nacceptable outcome.\n(A) Areas of difference can and do frequently remain, and\nwill perhaps be the subject of future negotiations, or\nindeed remain irreconcilable. In those instances in which\nthe parties have highly antagonistic or polarised relations,\nthe process is likely to be dominated by the exposition,\nvery often in public, of the areas of conflict.\n(B) In these and sometimes other forms of negotiation,\nnegotiation serves functions other than reconciling\nconflicting interests. These will include delay, publicity,\ndiverting attention or seeking intelligence about the other\nparty and its negotiating position.\n(C) Whatever the nature of the outcome, which may actually\nfavour one party more than another, the purpose of\nnegotiation is the identification of areas of common interest\nand conflict. In this sense, depending on the intentions of\nthe parties, the areas of common interest may be clarified,\nrefined and given negotiated form and substance."
@@ -5991,8 +5991,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2023년 11월"
   },
   {
-    "id": "high3_2023_11_q37",
-    "title": "규범은 사람들이 다른 사람들의 행동에 순응하는 결과로 집단에서 생겨난다.",
+    "id": "high3_2023_11_q37_2",
+    "title": "Norms emerge in groups as a result of people conforming to t",
     "description": "규범은 사람들이 다른 사람들의 행동에 순응하는 결과로 집단에서 생겨난다. 따라서 규범의 시작은 한 사람이 특정 상황에서 자신이 그래야 한다고…",
     "content": [
       "Norms emerge in groups as a result of people conforming\nto the behavior of others. Thus, the start of a norm occurs\nwhen one person acts in a particular manner in a particular\nsituation because she thinks she ought to.\n(A) Thus, she may prescribe the behavior to them by uttering\nthe norm statement in a prescriptive manner. Alternately,\nshe may communicate that conformity is desired in other\nways, such as by gesturing. In addition, she may threaten\nto sanction them for not behaving as she wishes. This will\ncause some to conform to her wishes and act as she acts.\n(B) But some others will not need to have the behavior prescribed\nto them. They will observe the regularity of behavior and\ndecide on their own that they ought to conform. They may do\nso for either rational or moral reasons.\n(C) Others may then conform to this behavior for a number of\nreasons. The person who performed the initial action may\nthink that others ought to behave as she behaves in\nsituations of this sort. [3점]"
@@ -6010,8 +6010,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2023년 11월"
   },
   {
-    "id": "high3_2023_11_q39",
-    "title": "책이나 어떤 서면 메시지에서 오타가 발생하면 일반적으로 내용에 부정적…",
+    "id": "high3_2023_11_q39_2",
+    "title": "At the next step in the argument, however, the analogy break",
     "description": "책이나 어떤 서면 메시지에서 오타가 발생하면 일반적으로 내용에 부정적인 영향을 미치며 때로는 (문자 그대로) 치명적이기도 하다.",
     "content": [
       "At the next step in the argument, however, the analogy\nbreaks down.\nMisprints in a book or in any written message usually have a\nnegative impact on the content, sometimes (literally) fatally.\n( ) The displacement of a comma, for instance, may be a\nmatter of life and death. ( ) Similarly most mutations have\nharmful consequences for the organism in which they occur,\nmeaning that they reduce its reproductive fitness. ( )\nOccasionally, however, a mutation may occur that increases\nthe fitness of the organism, just as an accidental failure to\nreproduce the text of the first edition might provide more\naccurate or updated information. ( ) A favorable mutation\nis going to be more heavily represented in the next generation,\nsince the organism in which it occurred will have more offspring\nand mutations are transmitted to the offspring. ( ) By\ncontrast, there is no mechanism by which a book that\naccidentally corrects the mistakes of the first edition will tend\nto sell better. [3점]"
@@ -6028,8 +6028,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2023년 11월"
   },
   {
-    "id": "high3_2023_11_q40",
-    "title": "이야기를 과대광고하는 것에 대한 기여를 피하는 한 가지 방법은 아무 …",
+    "id": "high3_2023_11_q40_2",
+    "title": "Even those with average talent can produce notable work in t",
     "description": "이야기를 과대광고하는 것에 대한 기여를 피하는 한 가지 방법은 아무 말도 하지 않 는 것이다. 그러나 그것은 대중과 정책 입안자에게 정보를 …",
     "content": [
       "Even those with average talent can produce notable work\nin the various sciences, so long as they do not try to embrace\nall of them at once. Instead, they should concentrate attention\non one subject after another (that is, in different periods of\ntime), although later work will weaken earlier attainments\nin the other spheres. This amounts to saying that the brain\nadapts to universal science in time but not in space. In fact,\neven those with great abilities proceed in this way. Thus,\nwhen we are astonished by someone with publications in\ndifferent scientific fields, realize that each topic was\nexplored during a specific period of time. Knowledge\ngained earlier certainly will not have disappeared from the\nmind of the author, but it will have become simplified by\ncondensing into formulas or greatly abbreviated symbols.\nThus, sufficient space remains for the perception and\nlearning of new images on the cerebral blackboard."
@@ -6047,8 +6047,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2023년 11월"
   },
   {
-    "id": "high3_2023_11_q42",
-    "title": "Emma와 Clara는 끝없이 펼쳐진 바다에 시선을 고정하고, 해변 …",
+    "id": "high3_2023_11_q42_2",
+    "title": "Emma and Clara stood side by side on the beach road, with th",
     "description": "Emma와 Clara는 끝없이 펼쳐진 바다에 시선을 고정하고, 해변 도로에 나란히 서 있었다. 그들을 둘러싸고 있는 숨 막히는 풍경은 말로 …",
     "content": [
       "Emma and Clara stood side by side on the beach road, with\ntheir eyes fixed on the boundless ocean. The breathtaking\nscene that surrounded them was beyond description. Just after\nsunrise, they finished their preparations for the bicycle ride\nalong the beach road. Emma turned to Clara with a question,\n“Do you think this will be your favorite ride ever?” Clara’s\nface lit up with a bright smile as she nodded. “Definitely!\n(a) I can’t wait to ride while watching those beautiful waves!”\nWhen they reached their destination, Emma and Clara\nstopped their bikes. Emma approached Clara, saying “Bicycle\nriding is unlike swimming, isn’t it?” Clara answered with a\nsmile, “Quite similar, actually. Just like swimming, riding\nmakes me feel truly alive.” She added, “It shows (b) me what\nit means to live while facing life’s tough challenges.” Emma\nnodded in agreement and suggested, “Your first beach bike\nride was a great success. How about coming back next summer?”\nClara replied with delight, “With (c) you, absolutely!”\nClara used to be a talented swimmer, but she had to give up\nher dream of becoming an Olympic medalist in swimming\nbecause of shoulder injuries. Yet she responded to the hardship\nin a constructive way. After years of hard training, she made\nan incredible recovery and found a new passion for bike\nriding. Emma saw how the painful past made her maturer and\nhow it made (d) her stronger in the end. One hour later, Clara,\nriding ahead of Emma, turned back and shouted, “Look at the\nwhite cliff!”\nEmma and Clara jumped on their bikes and started to pedal\ntoward the white cliff where the beach road ended. Speeding\nup and enjoying the wide blue sea, Emma couldn’t hide her\nexcitement and exclaimed, “Clara, the view is amazing!”\nClara’s silence, however, seemed to say that she was lost in her\nthoughts. Emma understood the meaning of her silence.\nWatching Clara riding beside her, Emma thought about Clara’s\npast tragedy, which (e) she now seemed to have overcome."
@@ -6066,7 +6066,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_06_q20",
-    "title": "전 세계가 전반적으로 기계의 영향력, 구체적으로 말하면 인공지능(AI…",
+    "title": "As the world seems to be increasingly affected by the ever-e",
     "description": "전 세계가 전반적으로 기계의 영향력, 구체적으로 말하면 인공지능(AI)의 계속 확대되 는 영향력에 점점 더 영향을 받는 듯 보이면서, 많은 …",
     "content": [
       "As the world seems to be increasingly affected by the\never-expanding influence of machines in general and artificial\nintelligence (AI) specifically, many begin to imagine, with\neither fear or anticipation, a future with a diminished role for\nhuman decision making. Whether it be due to the growing\npresence of AI assistants or the emergence of self-driving cars,\nthe necessity of the role of humans as the decision makers\nwould appear to be in decline. After all, our capacity for\nmaking mistakes is well documented. However, perhaps the\nsaving grace of human determination is to be found here as\nwell. Little evidence exists that suggests modern AI’s\ninfallibility or predicts it in the future. It is crucial that, in light\nof humanity’s acceptance of our own fallibility, we utilize our\ncapacity to overcome such failures to position ourselves as the\noverseers of AI’s own growth and applications for the\nforeseeable future."
@@ -6085,7 +6085,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_06_q21",
-    "title": "폭(모두가 약간 지쳤다고 느낀다)과 깊이(일부는 너무 지쳐서 더는 일…",
+    "title": "To balance the need for breadth (everyone feels a bit burned",
     "description": "폭(모두가 약간 지쳤다고 느낀다)과 깊이(일부는 너무 지쳐서 더는 일을 할 수 없다) 에 대한 필요의 균형을 맞추기 위해, 우리는 번아웃을 …",
     "content": [
       "To balance the need for breadth (everyone feels a bit burned\nout) and depth (some are so burned out, they can no longer do\ntheir jobs), we ought to think of burnout not as a state but as a\nspectrum. In most public discussion of burnout, we talk about\nworkers who “are burned out,” as if that status were black and\nwhite. A black-and-white view cannot account for the variety\nof burnout experience, though. If there is a clear line between\nburned out and not, as there is with a lightbulb, then we have\nno good way to categorize people who say they are burned out\nbut still manage to do their work competently. Thinking about\nburnout as a spectrum solves this problem; those who claim\nburnout but are not debilitated by it are simply dealing with a\npartial or less-severe form of it. They are experiencing burnout\nwithout being burned out. Burnout hasn’t had the last word."
@@ -6102,7 +6102,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_06_q22",
-    "title": "고대의 수렵·채집인 무리와 오늘날 우리의 친밀한 언어 공동체 둘 다에…",
+    "title": "In both the ancient hunter-gatherer band and our intimate sp",
     "description": "고대의 수렵·채집인 무리와 오늘날 우리의 친밀한 언어 공동체 둘 다에서, 언어의 확 산은 가치를 형성했다. 모든 사람이 말하고 들을 수 있을…",
     "content": [
       "In both the ancient hunter-gatherer band and our intimate\nspeech communities today, the diffusion of speech shaped\nvalues. The fact that everyone was going to be able to speak\nand listen had to be accommodated ethically, and it was via a\nrough egalitarianism. In terms of communications, people\nwere equal and therefore it was believed they should be equal,\nor at least relatively so. By this code, ancient Big Men were\nnot allowed to act controllingly and modern office managers\nare not allowed to silence anyone at will. Moreover, equal\naccess to speech and hearing promoted the notion that\nproperty should be held in common, that goods and food in\nparticular should be shared, and that everyone had a duty to\ntake care of everyone else. This was probably more true\namong hunter-gatherers than it is in the modern family, circle\nof friends, or workplace. But even in these cases we believe\nthat sharing and mutual aid are right and proper. Remember, if\nyou bring something, you should bring enough for everyone."
@@ -6121,7 +6121,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_06_q23",
-    "title": "도시의 구매자 대부분이 자연과 관련이 있는 식품을 사고 먹는다는 개념…",
+    "title": "While many city shoppers were clearly drawn to the notion of",
     "description": "도시의 구매자 대부분이 자연과 관련이 있는 식품을 사고 먹는다는 개념에 확실히 끌 렸지만, 광고가 주장하는 그 자연은 더는 그 식품을 만들어…",
     "content": [
       "While many city shoppers were clearly drawn to the notion\nof buying and eating foods associated with nature, the nature\nclaimed by the ads was no longer the nature that created the\nfoods. Indeed, the nature claimed by many ads was associated\nwith food products only by the ads’ attachment. This is clearly\na case of what French sociologist Henri Lefebvre has called\n“the decline of the referentials,” or the tendency of words\nunder the influence of capitalism to become separated from\nmeaningful associations. Increasingly, food ads helped\nshoppers become accustomed to new definitions of words\nsuch as “fresh” and “natural,” definitions that could well be\nconsidered opposite of their traditional meanings. The new\ndefinitions better served the needs of the emerging industrial\nfood system, which could not supply foods that matched\ncustomary meanings and expectations. And they better met\nshoppers’ desires, although with pretense.\ndecline of reliability in the ads of natural foods\nchanges in the senses of words linked to food ads\ninfluence of capitalism on the industrial food system\nvarious ways to attract customers in the food industry\nnecessity of meaningful word associations in commercials"
@@ -6139,7 +6139,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_06_q24",
-    "title": "무려 3만 2천 년으로 거슬러 올라가, 선사시대 동굴 예술가들은 자신…",
+    "title": "As far back as 32,000 years ago, prehistoric cave artists sk",
     "description": "무려 3만 2천 년으로 거슬러 올라가, 선사시대 동굴 예술가들은 자신의 말과 들소 그 림에 입체감을 주기 위해 모형화한 그림자를 능숙하게 사…",
     "content": [
       "As far back as 32,000 years ago, prehistoric cave artists\nskillfully used modeling shadows to give their horses and\nbison volume. A few thousand years ago ancient Egyptian and\nthen ancient Greek art presented human forms in shadow-style\nsilhouette. But cast shadows do not appear in Western art until\nabout 400 BCE in Athens. It was only after shadows had\nbecome an established, if controversial, part of representation\nthat classical writers claimed that art itself had begun with the\ntracing of a human shadow. Greeks and Romans were the first\nto make the transition from modeling shadows to cast\nshadows, a practice that implied a consistent light source, a\nfixed point of view, and an understanding of geometric\nprojection. In fact, what we might now call “shadow studies”\n― the exploration of shadows in their various artistic\nrepresentations ― has its roots in ancient Athens. Ever since,\nthe practice of portraying shadows has evolved along with\ncritical analysis of them, as artists and theoreticians have\nengaged in an ongoing debate about the significance of\nshadow representation."
@@ -6157,7 +6157,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_06_q29",
-    "title": "불러오기를 연습하는 것이 복습보다 훨씬 더 좋은 이유는 무엇인가?",
+    "title": "What makes practicing retrieval so much better than review",
     "description": "불러오기를 연습하는 것이 복습보다 훨씬 더 좋은 이유는 무엇인가? 한 가지 대답은 심리학자 R. A. Bjork의 바람직한 난도 개념에서 나…",
     "content": [
       "What makes practicing retrieval so much better than review?\nOne answer comes from the psychologist R. A. Bjork’s concept\nof desirable difficulty. More difficult retrieval leads to\nbetter learning, provided the act of retrieval is itself successful.\nFree recall tests, in which students need to recall as much as\nthey can remember without prompting, tend to result in better\nretention than cued recall tests, in which students give hints\nabout what they need to remember. Cued recall tests, in turn,\nare better than recognition tests, such as multiple-choice\nanswers, where the correct answer needs to be recognized\nbut not generated. Giving someone a test immediately after\nthey learn something improves retention less than giving them\na slight delay, long enough so that answers aren’t in mind\nwhen they need them. Difficulty, far from being a barrier to\nmaking retrieval work, may be part of the reason it does so."
@@ -6177,7 +6177,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_06_q30",
-    "title": "내면화는 자율성에 대한 지지에 의존한다.",
+    "title": "Internalization depends on supports for autonomy",
     "description": "내면화는 자율성에 대한 지지에 의존한다. 두드러진 보상과 처벌 또는 평가하는, 자존 감을 건드리는 압박과 같은 통제 전략을 사용하는 상황에서…",
     "content": [
       "Internalization depends on supports for autonomy. Contexts\nthat use controlling strategies such as salient rewards and\npunishments or evaluative, selfesteem-hooking pressures are\nleast likely to lead people to value activities as their own.\nThis is not to say that controls don’t work to produce\nbehavior ― decades of operant psychology prove that they\ncan. It is rather that the more salient the external control over a\nperson’s behavior, the more the person is likely to be merely\nexternally regulated or introjected in his or her actions.\nConsequently, the person does not develop a value or\ninvestment in the behaviors, but instead remains dependent on\nexternal controls. Thus, parents who reward, force, or cajole\ntheir child to do homework are more likely to have a child\nwho does so only when rewarded, cajoled, or forced. The\nsalience of external controls drives the acquisition of\nself-responsibility. Alternatively, parents who supply reasons,\nshow an emotional understanding of difficulties overcoming\nproblems, and use a minimum of external incentives are\nmore likely to cultivate a sense of willingness and value for\nwork in their child."
@@ -6195,7 +6195,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_06_q31",
-    "title": "디지털 보존이 의미하는 바를 정립하려고 할 때 가장 먼저 다루어야 할…",
+    "title": "When trying to establish what is meant by digital preservati",
     "description": "디지털 보존이 의미하는 바를 정립하려고 할 때 가장 먼저 다루어야 할 질문은 ‘실제 로 무엇을 보존하려고 하는가?’이다.",
     "content": [
       "When trying to establish what is meant by digital\npreservation, the first question that must be addressed is:\nwhat are you actually trying to preserve? This is clear in\nthe analog environment where the information content is\ninextricably fixed to the physical medium. In the digital\nenvironment, the medium is not part of the . A bit\nstream looks the same to a computer regardless of the media\nit is read from. A physical carrier is necessary, but as long as\nthe source media can be read, bit-perfect copies can be made\ncheaply and easily on other devices, making the preservation\nof the original carrier of diminishing importance. As the\nphysical media that carry digital information are quite delicate\nrelative to most analog media, it is expected that digital\ninformation will necessarily need to be migrated from one\nphysical carrier to another as part of the ongoing preservation\nprocess. It is not the media itself but the information on the\nmedia that needs to be preserved."
@@ -6213,7 +6213,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_06_q32",
-    "title": "창의성은 참신하고(독창적이고, 새로운) 유용한(적절하고.",
+    "title": "Creativity is commonly defined as the production of ideas th",
     "description": "창의성은 참신하고(독창적이고, 새로운) 유용한(적절하고. 실현 가능한) 아이디어를 생 산하는 것으로 흔히 정의된다.",
     "content": [
       "Creativity is commonly defined as the production of\nideas that are both novel (original, new) and useful\n(appropriate, feasible). Ideas that are original but not useful\nare irrelevant, and ideas that are useful but not original are\nunremarkable. While this definition is widely used in research,\nan important aspect of creativity is often ignored: Generating\ncreative ideas rarely is the final goal. Rather, to successfully\nsolve problems or innovate requires one or a few good\nideas that really work, and work better than previous\napproaches. This requires that people evaluate the products\nof their own or each other’s imagination, and choose those\nideas that seem promising enough to develop further, and\nabandon those that are unlikely to be successful. Thus, being\ncreative . In fact,\nthe ability to generate creative ideas is essentially useless if\nthese ideas subsequently die a silent death.\ndoes not stop with idea generation\nrarely originates from practical ideas\nis often regarded as a shortcut to innovation\nfrequently gives way to unanticipated success\nbrings out tension between novelty and relevancy\n-- 5 of 8 --\n6\n6 8"
@@ -6232,7 +6232,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_06_q33",
-    "title": "환경이 의미 있는 내적 과정을 돕는 데 중요한 역할을 하기 때문에, …",
+    "title": "Because the environment plays a significant role in aiding m",
     "description": "환경이 의미 있는 내적 과정을 돕는 데 중요한 역할을 하기 때문에, 주관적 경험과 환경은 ‘결합된 시스템’으로 작용한다.",
     "content": [
       "Because the environment plays a significant role in\naiding meaningful internal processes, subjective experience\nand the environment act as a ‘coupled system.’ This coupled\nsystem can be seen as a complete cognitive system of its\nown. In this manner, subjective experience is extended into the\nexternal environment and vice versa; the external\nenvironment with its disciplinary objects such as\ninstitutional laws and equipment becomes mental institutions\nthat . A subjectively\nheld belief attains the status of objectivity when the belief is\nsocially shared. That is, even if we are trained as hard-nosed\nhealth care rationalists, or no-nonsense bureaucrats, or\ndata-driven scientists, research has shown that our decisions\nare influenced by various institutional practices. They include\nbureaucratic structures and procedures, the architectural\ndesign of health care institutions, the rules of evidence and the\nstructure of allowable questions in a courtroom trial, the\nspatial arrangement of kindergartens and supermarkets, and a\nvariety of conventions and practices designed to manipulate\nour emotions. [3점]"
@@ -6252,7 +6252,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_06_q34",
-    "title": "일반적인 방식으로 음악적 행동이나 인식의 모형을 만들려는 시도는 어떤…",
+    "title": "Any attempt to model musical behavior or perception in a gen",
     "description": "일반적인 방식으로 음악적 행동이나 인식의 모형을 만들려는 시도는 어떤 것이든 어 려움으로 가득 차 있다. 인식의 모형과 관련하여, 우리가 특…",
     "content": [
       "Any attempt to model musical behavior or perception in a\ngeneral way is filled with difficulties. With regard to models\nof perception, the question arises of whose perception we are\ntrying to model ― even if we confine ourselves to a\nparticular culture and historical environment. Surely the\nperception of music varies greatly between listeners of\ndifferent levels of training; indeed, a large part of music\neducation is devoted to developing and enriching (and\ntherefore likely changing) these listening processes. While\nthis may be true, I am concerned here with fairly basic aspects\nof perception ― particularly meter and key ― which I believe\nare relatively consistent across listeners. Anecdotal evidence\nsuggests, for example, that most people are able to ‘‘find\nthe beat’’ in a typical folk song or classical piece. This is\nnot to say that there is complete uniformity in this regard ―\nthere may be occasional disagreements, even among experts,\nas to how we hear the tonality or meter of a piece. But I\nbelieve . [3점]"
@@ -6273,7 +6273,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_06_q35",
-    "title": "조류의 노래 학습은 두 단계로 이루어지는데, 첫째로는, 노래를 암기해…",
+    "title": "Avian song learning occurs in two stages: first, songs must ",
     "description": "조류의 노래 학습은 두 단계로 이루어지는데, 첫째로는, 노래를 암기해야 하고 둘째로 는, 노래를 연습해야 한다.",
     "content": [
       "Avian song learning occurs in two stages: first, songs must\nbe memorized and, second, they must be practiced. In some\nspecies these two events overlap, but in others memorization\ncan occur before practice by several months, providing an\nimpressive example of long-term memory storage. The young\nbird’s initial efforts to reproduce the memorized song are\nusually not successful. These early songs may have uneven\npitch, irregular tempo, and notes that are out of order or poorly\nreproduced. However, sound graphs of songs recorded over\nseveral weeks or months reveal that during this practice period\nthe bird fine-tunes his efforts until he produces an accurate\ncopy of the memorized template. An important idea to\nemerge from the study of birdsong is that song learning is\nshaped by preferences and limitations. This process requires\nhearing oneself sing; birds are unable to reproduce memorized\nsongs if they are deafened after memorization but before the\npractice period."
@@ -6291,7 +6291,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_06_q36",
-    "title": "산불은 호주의 많은 환경에서 자연스러운 현상이다.",
+    "title": "Wildfire is a natural phenomenon in many Australian environm",
     "description": "산불은 호주의 많은 환경에서 자연스러운 현상이다. 경관을 관리하기 위해 의도적으 로 불을 지르는 일은 수천 년 동안 호주 원주민들에 의해 행…",
     "content": [
       "Wildfire is a natural phenomenon in many Australian\nenvironments. The intentional setting of fire to manage the\nlandscape was practised by Aboriginal people for millennia.\n(A) However, the pattern of burning that stockmen introduced\nwas unlike previous regimes. When conditions allowed,\nthey would set fire to the landscape as they moved their\nanimals out for the winter. This functioned to clear woody\nvegetation and also stimulated new plant growth in the\nfollowing spring.\n(B) Although grasses were the first kinds of plants to\nrecolonize the burnt areas they were soon succeeded by\nfurther woody plants and shrubs. About the only strategy\nto prevent such regrowth was further burning ― essentially\nusing fire to control the consequences of using fire.\n(C) The young shoots were a ready food source for their\nanimals when they returned. However, the practice also\ntended to reinforce the scrubby growth it was intended to\ncontrol."
@@ -6308,7 +6308,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_06_q37",
-    "title": "조직의 학습을 지원하는 데 필요한 여러 가지 인적 자원 관리 관행이 …",
+    "title": "There are a number of human resource management practices th",
     "description": "조직의 학습을 지원하는 데 필요한 여러 가지 인적 자원 관리 관행이 있다. 예컨 대, 장기적인 성과를 강화하는 업무 평가 및 보상 시스템, …",
     "content": [
       "There are a number of human resource management\npractices that are necessary to support organizational\nlearning.\n(A) Their role should be to assist, consult, and advise teams\non how best to approach learning. They must be able to\ndevelop new mechanisms for cross-training peers ― team\nmembers ― and new systems for capturing and sharing\ninformation. To do this, human resource development\nprofessionals must be able to think systematically and\nunderstand how to promote learning within groups and\nacross the organization.\n(B) For example, performance evaluation and reward systems\nthat reinforce long-term performance and the development\nand sharing of new skills and knowledge are particularly\nimportant. In addition, the human resource development\nfunction may be dramatically changed to keep the emphasis\non continuous learning.\n(C) In a learning organization, every employee must take the\nresponsibility for acquiring and transferring knowledge.\nFormal training programs, developed in advance and\ndelivered according to a preset schedule, are insufficient to\naddress shifting training needs and encourage timely\ninformation sharing. Rather, human resource development\nprofessionals must become learning facilitators. [3점]\n－\n－\n－\n－\n－\n－\n－\n－\n－\n－"
@@ -6325,7 +6325,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_06_q39",
-    "title": "주제(즉, 형상)와 스타일(즉, 배경)의 상대적 중요성에는 흥미로운 …",
+    "title": "This active involvement provides a basis for depth of aesthe",
     "description": "주제(즉, 형상)와 스타일(즉, 배경)의 상대적 중요성에는 흥미로운 균형이 있다. 고도 로 구상주의적인 그림, 연극 또는 이야기에서는 초점이…",
     "content": [
       "This active involvement provides a basis for depth of\naesthetic processing and reflection on the meaning of the\nwork.\nThere are interesting trade-offs in the relative importance\nof subject matter (i.e., figure) and style (i.e., background).\n( ) In highly representational paintings, plays, or stories,\nthe focus is on subject matter that resembles everyday life and\nthe role of background style is to facilitate the construction of\nmental models. ( ) Feelings of pleasure and uncertainty\ncarry the viewer along to the conclusion of the piece. ( ) In\nhighly expressionist works, novel stylistic devices work in an\ninharmonious manner against the subject matter thereby\ncreating a disquieting atmosphere. ( ) Thus, when the\nwork is less “readable” (or easily interpreted), its departure\nfrom conventional forms reminds the viewer or reader that an\n“aesthetic attitude” is needed to appreciate the whole episode.\n( ) An ability to switch between the “pragmatic attitude” of\neveryday life and an “aesthetic attitude” is fundamental to a\nbalanced life. [3점]"
@@ -6344,7 +6344,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_06_q40",
-    "title": "우리가 비판적 사고를 ‘의사결정을 안내하기 위한 증거의 검증 및 평가…",
+    "title": "There is a tendency, once the dust of an emergency has settl",
     "description": "우리가 비판적 사고를 ‘의사결정을 안내하기 위한 증거의 검증 및 평가’로 이해한다 면, 윤리적 사고는 윤리적 사안을 식별하고 이러한 사안을 …",
     "content": [
       "There is a tendency, once the dust of an emergency has\nsettled down, to seek the reduction of famine vulnerability\nprimarily in enhanced economic growth, or the revival of\nthe rural economy, or the diversification of economic\nactivities. The potential contribution of greater economic\nsuccess, if it involves vulnerable groups, cannot be denied.\nAt the same time, it is important to recognize that, no\nmatter how fast they grow, countries where a large part of\nthe population derive their livelihood from uncertain\nsources cannot hope to prevent famines without specialized\nentitlement protection mechanisms involving direct public\nintervention. Rapid growth of the economy in Botswana,\nor of the agricultural sector in Kenya, or of food\nproduction in Zimbabwe, explains at best only a small part\nof their success in preventing recurrent threats of famine.\nThe real achievements of these countries lie in having\nprovided direct public support to their populations in times\nof crisis."
@@ -6363,7 +6363,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_06_q42",
-    "title": "Garcia는 Frontcountry Mall 밖에 서서 동생 Jef…",
+    "title": "Garcia stood outside Frontcountry Mall, waiting for his brot",
     "description": "Garcia는 Frontcountry Mall 밖에 서서 동생 Jeff를 기다리고 있었다. Garcia의 밴드는 싱가포르에 있는 자매 대학교…",
     "content": [
       "Garcia stood outside Frontcountry Mall, waiting for his\nbrother, Jeff. Garcia’s band had been chosen to perform at the\nwelcoming ceremony for a large group of students from their\nsister university in Singapore. Garcia was hoping to find the\nperfect clothing for the performance. That was why (a) he\nhad asked Jeff to help him pick out new clothes. “I’m sorry.\nI’m late because traffic was terrible,” Jeff apologized as he\narrived. “Don’t worry. I haven’t waited long,” Garcia replied\nas they entered the lively shopping center.\nThe band performance was the first event of the ceremony.\nThe host introduced the band, and each member took their\nplace on stage. Garcia stood at the center of the stage. As he\nstarted playing, everyone fell silent, fascinated by the music.\nGarcia’s trumpet playing was flawless. When the band was\nfinished, the audience loudly cheered. After the show, Jeff\napproached Garcia. “It was fantastic. I think that was the best\nperformance I’ve ever seen,” (b) he said. Garcia beamed\nwith joy at his brother’s praise.\nGarcia felt good as he arrived at the concert hall for the\nrehearsal wearing his new clothes. His confidence was,\nhowever, quickly changed to nervousness when he thought\nof how many people would be there. As the rehearsal\nbegan, (c) he struggled with the rhythm, making several\nmistakes. Tom, Garcia’s band mate, came over and put a\nhand on Garcia’s back, saying, “Don’t worry, I’ll be right\nbehind (d) you.” He looked at his friend, took a deep breath\nand started to feel much better.\n“Aren’t these cool?” Garcia asked, pointing at a patterned\nred shirt and yellow pants he had found in the store. “Um,\nI think they’re a bit too colorful,” Jeff objected. Instead,\nJeff picked out a white shirt and black jeans. He asked the\nstore clerk, “Don’t you think these would look great on\n(e) my brother?” The clerk stopped her work and looked\nat the clothes, quickly agreeing with Jeff’s choice. Garcia\nbought the recommended clothes, saying, “Maybe I’ll wear\nthese for tonight’s rehearsal, too.”"
@@ -6382,7 +6382,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_09_q20",
-    "title": "진실은 진보와 지식의 발전에 필수적인데, 그것이 신뢰할 수 있고 정확…",
+    "title": "Truth is essential for progress and the development of knowl",
     "description": "진실은 진보와 지식의 발전에 필수적인데, 그것이 신뢰할 수 있고 정확한 이해가 이 루어지는 토대의 역할을 하기 때문이다.",
     "content": [
       "Truth is essential for progress and the development of\nknowledge, as it serves as the foundation upon which reliable\nand accurate understanding is built. However, one of the\ngreatest threats to the accumulation of knowledge can now be\nfound on social media platforms. As social media becomes a\nprimary source of information for millions, its unregulated\nnature allows misinformation to spread rapidly. Social media\nusers may unknowingly participate in creating and circulating\nmisinformation, which can influence elections, cause violence,\nand create widespread panic, as seen in various global\nincidents. As creators and consumers, it is our responsibility to\ntake on a greater role in the enhancement of fact-checking\nprotocols in order to ensure accuracy. It is critical that\nparticipants safeguard the reliability of information, supporting\na more informed and rational public community."
@@ -6400,7 +6400,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_09_q21",
-    "title": "20세기에 접어들면서, 자연 과학에서 훈련받은 인류학자들은 인류학이 …",
+    "title": "Around the turn of the twentieth century, anthropologists tr",
     "description": "20세기에 접어들면서, 자연 과학에서 훈련받은 인류학자들은 인류학이 어떻게 보여야 하는지와 사회 과학자들이 문화 집단 연구를 어떻게 시작해야…",
     "content": [
       "Around the turn of the twentieth century, anthropologists\ntrained in the natural sciences began to reimagine what a\nscience of humanity should look like and how social scientists\nought to go about studying cultural groups. Some of those\nanthropologists insisted that one should at least spend\nsignificant time actually observing and talking to the people\nstudied. Early ethnographers such as Franz Boas and Alfred\nCort Haddon typically traveled to the remote locations where\nthe people in question lived and spent a few weeks to a few\nmonths there. They sought out a local Western host who was\nfamiliar with the people and the area (such as a colonial\nofficial, missionary, or businessman) and found accommodations\nthrough them. Although they did at times venture into the\ncommunity without a guide, they generally did not spend\nsignificant time with the local people. Thus, their observations\nwere primarily conducted from their verandas."
@@ -6419,7 +6419,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_09_q22",
-    "title": "개를 선택과 계획을 할 수 있는 지각력이 있는 존재로 간주하여, 이를…",
+    "title": "Even though there is good reason to consider a dog a sentien",
     "description": "개를 선택과 계획을 할 수 있는 지각력이 있는 존재로 간주하여, 이를테면 우리가 ‘그14 것(개)이 다른 방식으로 행동하는 것을 상상했을 수…",
     "content": [
       "Even though there is good reason to consider a dog a\nsentient being capable of making choices and plans ― so that\nwe might suppose ‘it could have conceived of acting\notherwise’ ― we’re unlikely to think it is wicked and immoral\nfor attacking a child. Moral responsibility is not some\nuniversal concept like entropy or temperature ― something\nthat applies equally, and can be measured similarly,\neverywhere in the cosmos. It is a notion developed specifically\nfor human use, no more or less than languages are. While\nsentience and volition are aspects of mind and agency, morals\nare cultural tools developed to influence social behaviour: to\ncultivate the desirable and discourage the harmful. They are\nlearnt, not given at birth. It’s possible, indeed likely, that we\nare born with a predisposition to cooperate with others ― but\nonly within human society do we come to understand this as\nmoral behaviour."
@@ -6438,7 +6438,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_09_q23",
-    "title": "낙하하는 물체나 밤이 낮으로, 낮이 밤으로 이어지는 것과 같은 평범한…",
+    "title": "It is much more natural to be surprised by unusual phenomena",
     "description": "낙하하는 물체나 밤이 낮으로, 낮이 밤으로 이어지는 것과 같은 평범한 현상보다 일 식과 같은 특이한 현상에 놀라는 것이 훨씬 더 자연스럽다.",
     "content": [
       "It is much more natural to be surprised by unusual phenomena\nlike eclipses than ordinary phenomena like falling bodies or\nthe succession of night into day and day into night. Many\ncultures invented gods to explain these eclipses that shocked,\nfrightened, or surprised them; but very few imagined a god of\nfalling bodies ― to which they were so accustomed that they\ndid not even notice them. But the reason for eclipses is\nultimately the same as that of the succession of night and day:\nthe movement of celestial bodies, which itself is based on the\nNewtonian law of attraction and how it explains why things\nfall when we let them go. For the physicist, understanding the\nordinary, the habitual, and the frequent thus allows us to\naccount for the frightening and the singular. As such, it was\nthus necessary to ask “Why do things fall?” and to have\nNewton’s response to understand a broad range of much more\nbizarre phenomena occurring at every level of the universe."
@@ -6455,7 +6455,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_09_q24",
-    "title": "개방형 사무실 계획이 유행하는 데는 그럴 만한 이유가 있지만, 개방형…",
+    "title": "There are good reasons why open-office plans have gained cur",
     "description": "개방형 사무실 계획이 유행하는 데는 그럴 만한 이유가 있지만, 개방형 사무실이 ‘언 제라도’ 선택할 수 있는 계획은 아닐 수도 있다.",
     "content": [
       "There are good reasons why open-office plans have gained\ncurrency, but open offices may not be the plan of choice for all\ntimes. Instead, the right plan seems to be building a culture of\nchange. Overly rigid habits and conventions, no matter how\nwell-considered or well-intentioned, threaten innovation. The\ncrucial take-away from analyzing office plans over time is that\nthe answers keep changing. It might seem that there is a\nstraight line of progress, but it’s a myth. Surveying office\nspaces from the past eighty years, one can see a cycle that\nrepeats. Comparing the offices of the 1940s with contemporary\noffice spaces shows that they have circled back around to\nessentially the same style, via a period in the 1980s when\npartitions and cubicles were more the norm. The technologies\nand colors may differ, but the 1940s and 2000s plans are alike,\nright down to the pillars running down the middle."
@@ -6473,7 +6473,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_09_q29",
-    "title": "빅토리아 시대 영국의 특징은 산업혁명의 완전한 전개이다.",
+    "title": "Victorian England is characterised by the full development o",
     "description": "빅토리아 시대 영국의 특징은 산업혁명의 완전한 전개이다. 영국은 세계 최초의 산업 국가가 되었고, 1850년 무렵에는 농업보다 공업에 종사하…",
     "content": [
       "Victorian England is characterised by the full development of\nthe Industrial Revolution. England became the first industrial\nnation in the world and, by 1850, the first nation to have more\npeople employed in industry than in agriculture. Expanding\ntrade coincided with the growth of the Empire and brought\ngreat wealth to Britain, but this wealth was not evenly\ndistributed. Many enterprising individuals (the ‘self-made men’)\nrose from humble origins to positions of wealth and influence,\nbut large sections of the working class were forced into the\novercrowded slums of large cities where they worked long\nhours for low wages in unhealthy conditions. The manufacturing\ntowns of the north of England provided some of the worst\nexamples and inspired such socially conscious novels as\nKingsley’s Alton Locke, Gaskell’s Mary Barton, and Dickens’s\nHard Times. In the south there was London, already the\nlargest city in the world, showing all the crime, evil, and misery\nwhose result from overpopulation and unplanned growth."
@@ -6494,7 +6494,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_09_q30",
-    "title": "우리는 모두 자신을 신중하고 사려 깊이 생각하며 타당하고 신뢰할 수 …",
+    "title": "We all like to think of ourselves as rational actors, carefu",
     "description": "우리는 모두 자신을 신중하고 사려 깊이 생각하며 타당하고 신뢰할 수 있는 판단을 내릴 수 있는 합리적인 행위자라고 여기고 싶어 한다.",
     "content": [
       "We all like to think of ourselves as rational actors, careful\nand considered in our thinking, capable of sound and reliable\njudgments. We might believe that we generally consider\ndifferent points of view and make informed decisions. We\nare, in fact, “predictably irrational,” as psychologist Dan\nAriely titled his book on the topic. All of us engage in\nautomatic, reflexive thinking, typically taking the easier\npath and conserving mental effort. Although we each may\nhave the subjective impression that we are careful thinkers, we\noften make snap judgments or no real judgments at all. In\naddition, numerous biases inhibit or override reflective,\ndeliberative thought; intuitive theories can also interfere with\nacceptance of accurate scientific explanations. Understanding\nmore about how our minds work and how biases may operate\ncan make us each less subject to fallacious reasoning, more\nrational, and more aware of the problems in others’ thinking.\nLearning to understand the built-in rationality of our mental\nprocesses can also help us improve our ability to inform others\nmore effectively."
@@ -6514,7 +6514,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_09_q31",
-    "title": "나방이 왜 빛에 끌리는지에 관한 많은 논의가 있어 왔다.",
+    "title": "There has been a lot of discussion on why moths are attracte",
     "description": "나방이 왜 빛에 끌리는지에 관한 많은 논의가 있어 왔다. 나방이 빛에 끌리는 것이20 아니라 빛에 의해 갇힌다는 것이 합의인 것처럼 보인다.",
     "content": [
       "There has been a lot of discussion on why moths are\nattracted to light. The consensus seems to hold that moths are\nnot so much attracted to lights as they are by them.\nThe light becomes a sensory overload that disorients the\ninsects and sends them into a holding pattern. A hypothesis\ncalled the Mach band theory suggests that moths see a dark\narea around a light source and head for it to escape the light.\nAnother theory suggests that moths perceive the light coming\nfrom a source as a diffuse halo with a dark spot in the center.\nThe moths, attempting to escape the light, fly toward that\nimagined “portal,” bringing them closer to the source. As they\napproach the light, their reference point changes and they\ncircle the light hopelessly trying to reach the portal. Everyone\nis familiar with moths circling their porch lights. Their flight\nappears to have no purpose, but they are, it is believed, trying\nto escape the pull of the light."
@@ -6531,7 +6531,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_09_q32",
-    "title": "통신 기술의 사용을 결정하는 요인 중 하나는 장비와 인력에 들어가는 …",
+    "title": "One of the factors determining the use of technologies of co",
     "description": "통신 기술의 사용을 결정하는 요인 중 하나는 장비와 인력에 들어가는 투자의 종류, 즉, 누가 투자를 하고, 그들이 수익으로 무엇을 기대하는지…",
     "content": [
       "One of the factors determining the use of technologies of\ncommunication will be the kinds of investments made in\nequipment and personnel; who makes them, and what they\nexpect in return. There is no guarantee that the investment\nwill necessarily be in forms of communication that\n. Because the\nownership of investment funds tends to be in the hands of\ncommercial organisations, the modernisation of communications\ninfrastructure only takes place on the basis of potential\nprofitability. Take, for example, the installation of fibre-optic\ncommunications cable across the African continent. A number\nof African nations are involved in the development but its\noperational structures will be oriented to those who can pay\nfor access. Many states that might wish to use it for education\nand information may not only find it too expensive but also\nsimply unavailable to them. There can be no doubt that the\ndevelopment has been led by investment opportunity rather\nthan community demand. [3점]"
@@ -6549,7 +6549,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_09_q33",
-    "title": "도시의 질은 선택적 활동에 매우 중요해서, 머물기 활동의 정도가 흔히…",
+    "title": "City quality is so crucial for optional activities that the ",
     "description": "도시의 질은 선택적 활동에 매우 중요해서, 머물기 활동의 정도가 흔히 도시의 공간 뿐만 아니라 도시의 질을 측정하는 잣대로 사용될 수 있다.",
     "content": [
       "City quality is so crucial for optional activities that the\nextent of staying activities can often be used as a measuring\nstick for the quality of the city as well as of its space. Many\npedestrians in a city are not necessarily an indication of good\ncity quality ― many people walking around can often be a\nsign of insufficient transit options or long distances between\nthe various functions in the city. Conversely, it can be claimed\nthat a city in which many people are not walking often\nindicates good city quality. In a city like Rome, it is the large\nnumber of people standing or sitting in squares rather than\nwalking that is conspicuous. And it’s not due to necessity but\nrather that . It is\nhard to keep moving in city space with so many temptations to\nstay. In contrast are many new quarters and complexes that\nmany people walk through but rarely stop or stay in."
@@ -6566,7 +6566,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_09_q34",
-    "title": "사람이 다른 사람을 필요로 한다는 것은 거의 새로울 게 없지만, Ro…",
+    "title": "That people need other people is hardly news, but for Rousse",
     "description": "사람이 다른 사람을 필요로 한다는 것은 거의 새로울 게 없지만, Rousseau에게는 이 러한 의존이 동료 관계나 심지어 사랑을 넘어 인간이…",
     "content": [
       "That people need other people is hardly news, but for\nRousseau this dependence extended far beyond companionship\nor even love, into the very process of becoming human. Rousseau\nbelieved that people are not born but made, every individual a\nbundle of potentials whose realization requires the active\ninvolvement of other people. Self-development is a social process.\nSelf-sufficiency is an impossible fantasy. Much of the time\nRousseau wished passionately that it were not: Robinson Crusoe\nwas a favorite book, and he yearned to be free from the pains\nand uncertainties of social life. But his writings document with\nextraordinary clarity .\n“Our sweetest existence is relative and collective, and our true\nself is not entirely within us.” And it is kindness ― which\nRousseau analyzed under the rubric of pitié, which translates as\n“pity” but is much closer to “sympathy” as Hume and Smith\ndefined it ― that is the key to this collective existence. [3점]"
@@ -6584,7 +6584,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_09_q35",
-    "title": "최고의 판매업자는 단지 상품을 전시하고 ‘재고로 있는 것을 판매하는 …",
+    "title": "The best dealers offer a much broader service than merely ha",
     "description": "최고의 판매업자는 단지 상품을 전시하고 ‘재고로 있는 것을 판매하는 것’보다 훨씬 더 폭넓은 서비스를 제공한다.",
     "content": [
       "The best dealers offer a much broader service than merely\nhaving their goods on display and ‘selling from stock’. Once\nthey know the needs of a particular collector they can actively\nseek specific items to fill gaps in the collection. Because it\nis their business, to which they devote themselves full-time,\nthey will inevitably have a much wider network than any\nnon-professional collector can ever develop. As a matter of\ncourse they can enquire about the availability of pieces from\ndealers in other cities and, most crucially in some categories,\nfrom overseas. They will be routinely informed of news of\nall auctions and important private sales, and should be\nwell-enough connected to hear occasionally of items which\nare not yet quite on sale but might be available for a certain\nprice. The main advantage of buying from a dealer is\ngetting personalised service on your purchases. In turn,\nthey can circulate their own contacts with ‘want-lists’ of\ndesired items or subjects, multiplying their client collectors’\nchances of expanding their collections."
@@ -6602,7 +6602,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_09_q36",
-    "title": "학습이 단순히 사실의 목록을 축적하는 문제라면, 우리가 이미 알고 있…",
+    "title": "If learning were simply a matter of accumulating lists of fa",
     "description": "학습이 단순히 사실의 목록을 축적하는 문제라면, 우리가 이미 알고 있는 것을 조금 넘어서는 정보가 제공되거나 완전히 새로운 정보가 제공되더라…",
     "content": [
       "If learning were simply a matter of accumulating lists of\nfacts, then it shouldn’t make any difference if we are\npresented with information that is just a little bit beyond\nwhat we already know or totally new information.\n(A) If we are trying to understand something totally new,\nhowever, we need to make larger adjustments to the units\nof the patterns we already have, which requires changing\nthe strengths of large numbers of connections in our\nbrain, and this is a difficult, tiring process.\n(B) The adjustments are clearly smallest when the new\ninformation is only slightly new ― when it is compatible\nwith what we already know, so that the old patterns need\nonly a little bit of adjustment to accommodate the new\nknowledge.\n(C) Each fact would simply be stored separately. According to\nconnectionist theory, however, our knowledge is organized\ninto patterns of activity, and each time we learn something\nnew we have to modify the old patterns so as to keep the\nold material while adding the new information. [3점]"
@@ -6619,7 +6619,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_09_q37",
-    "title": "올바른 것을 얻고자 하는 것과 잘못된 것을 피하고자 하는 것은 동물이…",
+    "title": "The generally close connection between health and what anima",
     "description": "올바른 것을 얻고자 하는 것과 잘못된 것을 피하고자 하는 것은 동물이 자신의 건강 을 유지하는 주요한 방법이기 때문에 건강과 동물이 원하는 …",
     "content": [
       "The generally close connection between health and what\nanimals want exists because wanting to obtain the right\nthings and wanting to avoid the wrong ones are major\nways in which animals keep themselves healthy.\n(A) They can take pre-emptive action so that the worst never\nhappens. They start to want things that will be necessary\nfor their health and survival not for now but for some time\nin the future.\n(B) Animals have evolved many different ways of maintaining\ntheir health and then regaining it again once it has been\ndamaged, such as an ability to heal wounds when they are\ninjured and an amazingly complex immune system for\nwarding off infection.\n(C) Animals are equally good, however, at dealing with injury\nand disease before they even happen. They have evolved\na complex set of mechanisms for anticipating and avoiding\ndanger altogether."
@@ -6639,7 +6639,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_09_q39",
-    "title": "생태계에 개입할지 여부와 방법을 결정하기 위해 보호 지역 관리자는 자…",
+    "title": "Unfortunately, at the scales, accuracy, and precision most u",
     "description": "생태계에 개입할지 여부와 방법을 결정하기 위해 보호 지역 관리자는 자신이 개입하 지 않을 경우 미래의 생태계가 어떨지 일반적으로 상당히 명확…",
     "content": [
       "Unfortunately, at the scales, accuracy, and precision most\nuseful to protected area management, the future not only\npromises to be unprecedented, but it also promises to be\nunpredictable.\nTo decide whether and how to intervene in ecosystems,\nprotected area managers normally need a reasonably clear idea\nof what future ecosystems would be like if they did not\nintervene. ( ) Management practices usually involve\ndefining a more desirable future condition and implementing\nmanagement actions designed to push or guide ecosystems\ntoward that condition. ( ) Managers need confidence in the\nlikely outcomes of their interventions. ( ) This traditional\nand inherently logical approach requires a high degree of\npredictive ability, and predictions must be developed at\nappropriate spatial and temporal scales, often localized and\nnear-term. ( ) To illustrate this, consider the uncertainties\ninvolved in predicting climatic changes, how ecosystems are\nlikely to respond to climatic changes, and the likely efficacy of\nactions that might be taken to counter adverse effects of\nclimatic changes. ( ) Comparable uncertainties surround\nthe nature and magnitude of future changes in other ecosystem\nstressors. [3점]"
@@ -6657,7 +6657,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_09_q40",
-    "title": "사람들이 문자 기반 사회에서 문자로 쓰인 시와 문자에 의존하지 않는 …",
+    "title": "Human speech differs from the cries of other species in many",
     "description": "사람들이 문자 기반 사회에서 문자로 쓰인 시와 문자에 의존하지 않는 사회에서 말로 전달되는 시가 공동체에서 사용되는 일상의 언어와 상당히 다…",
     "content": [
       "Human speech differs from the cries of other species in\nmany ways. One very important distinction is that all other\nanimals use one call for one message as the general\nprinciple of communication. This means that the number of\npossible messages is very restricted. If a new message is to\nbe included in the system, a new sound has to be\nintroduced, too. After the first few tens of sounds it\nbecomes difficult to invent new distinctive sounds, and\nalso to remember them for the next time they are needed.\nHuman speech builds on the principle of combining a\nrestricted number of sounds into an unlimited number of\nmessages. In a typical human language there are something\nlike thirty or forty distinctive speech sounds. These sounds\ncan be combined into chains to form a literally unlimited\nnumber of words. Even a small child, who can communicate\nby only one word at a time, uses a system for communication\nthat is infinitely superior to any system utilized by any\nother animal.\n󰀻\nIn animal cries, each call (A) a different message,\nwhich limits the number of possible messages, whereas\nhuman language creates an unlimited number of messages\nusing a (B) set of distinctive sounds.\nrepresents…… finite symbolizes…… universal\ndistorts …… fixed expresses …… novel\nrecords …… complex\n-- 7 of 8 --\n8\n8 8\nPeople are correct when they feel that the written poetry of\nliterate societies and the oral poetry of non-literate ones differ\nconsiderably from the everyday language spoken in the\ncommunity. Listeners not only accept the (a) strange use of\nwords, rearrangement of word order, assonance, alliteration,\nrhythm, rhyme, compression of thought, and so on ― they\nactually expect to find these things in poetry and they are\ndisappointed when poetry does not sound “poetic.” But those\nwho regard poetry as a (b) different category of language\naltogether are deaf to the true achievements of the poet.\nRather, the poet artfully manipulates the same raw materials\nof his language as are used in everyday speech; his skill is to\nfind new possibilities in the resources already in the\nlanguage. In much the same way that people living at the\nseashore become so accustomed to the sound of waves that\nthey no longer hear it, most of us have become (c) sensitive to\nthe flood tide of words, millions of them every day, that hit\nour eardrums. One function of poetry is to depict the world\nwith a (d) fresh perception ― to make it strange ― so that we\nwill listen to language once again. But the successful poet\nnever departs so far into the strange world of language that\nnone of his listeners can (e) follow him. He still remains the\ncommunicator, the man of speech."
@@ -6678,7 +6678,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_09_q42",
-    "title": "Helen은 중고 쇼핑 앱에서 Anna라는 판매자로부터 알림을 받았을…",
+    "title": "Helen was thrilled when she received a notification on a sec",
     "description": "Helen은 중고 쇼핑 앱에서 Anna라는 판매자로부터 알림을 받았을 때 매우 기뻤 다. 그녀는 몇 달 동안 하트 모양의 짙은 벨벳 같은 잎…",
     "content": [
       "Helen was thrilled when she received a notification on a\nsecond-hand shopping app from a seller named Anna. For\nmonths, she had been looking for a Philodendron gloriosum,\na Colombian plant with dark, velvety leaves shaped like\nhearts. She had almost given up on getting one. Anna,\nthough, had put one up for sale. The posting read, “(a) I’m\nselling my favorite plant, because I’m moving abroad. If you\npick it up today from Edincester Heights, you can have it for\nthe current price, which is half the market rate.”\nArriving at the building, Helen could identify Julia by the\nlarge paper bag she was holding. The bag had leaves sticking\nout of the top. (b) She said, “You must be Julia!” Laughing,\nthe woman said, “Yes! Please take good care of this plant.\nAnna had it for six years, so she considers it family.” From\nthe bag, she pulled out another plant, a tiny one with thick,\nglossy leaves. “Are you familiar with this? It’s called a\nDragon’s Tail. (c) My housemate said you could take it too,\nif you’d like.”\nHelen immediately messaged the seller. “Hello! I’m\ninterested in purchasing (d) your plant. If it works for your\nschedule, I can be there in 10 minutes!” Anna replied, “Hi,\nthere! I am at work right now, but my housemate, Julia, can\nmeet you in front of the building.” Unable to believe her\ngood luck, Helen typed back in excitement, “Great! I can\nleave now. I’ll wear a black baseball cap.”\nHelen exclaimed, “Yes, I’d love to! Please thank Anna for\nme. Both are in such wonderful condition. Do you have any\ntips for keeping them in good shape?” Handing over the bag,\nJulia replied, “I’m not a plant expert, but I know that Anna\nkept them away from windows to avoid direct sunlight. Why\ndon’t you message (e) her? She would be happy to offer\nadvice.” “I’ll be sure to do that,” Helen said, as she handed\nover the cash."
@@ -6697,7 +6697,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_11_q20",
-    "title": "우리는 거의 보편적으로 비디오 게임을 하는 것이 기껏해야 학생이 학습…",
+    "title": "We almost universally accept that playing video games is at ",
     "description": "우리는 거의 보편적으로 비디오 게임을 하는 것이 기껏해야 학생이 학습에서 잠시 벗 어나는 즐거운 휴식이고, 더 흔히는 학생이 목표를 이루는 …",
     "content": [
       "We almost universally accept that playing video games is at\nbest a pleasant break from a student’s learning and more often\nwhat prevents a student from accomplishing their goals.\nGames catch and hold attention in a way that few things can.\nAnd yet once they have our focus, they rarely seem to offer\nanything meaningful to help students grow in their lives\noutside the games. While this may be true for many games, we\nare too easily ignoring a valuable tool that could be used to\nenhance productivity instead of derailing it. Rather, it is\ndesirable that we develop games that connect to the learning\noutcomes we want for our students. This will enable educators\nto take advantage of games’ attention commanding capacities\nand allow our students to enjoy their games while learning."
@@ -6714,7 +6714,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_11_q21",
-    "title": "건축가의 지위는 로마 제국 시대에 상승했는데, 이는 건축이 상징적으로…",
+    "title": "The position of the architect rose during the Roman Empire, ",
     "description": "건축가의 지위는 로마 제국 시대에 상승했는데, 이는 건축이 상징적으로 특히 중요한 정치적 성명이 되었기 때문이다.",
     "content": [
       "The position of the architect rose during the Roman Empire,\nas architecture symbolically became a particularly important\npolitical statement. Cicero classed the architect with the\nphysician and the teacher and Vitruvius spoke of “so great a\nprofession as this.” Marcus Vitruvius Pollio, a practicing\narchitect during the rule of Augustus Caesar, recognized that\narchitecture requires both practical and theoretical knowledge,\nand he listed the disciplines he felt the aspiring architect should\nmaster: literature and writing, draftsmanship, mathematics,\nhistory, philosophy, music, medicine, law, and astronomy ― a\ncurriculum that still has much to recommend it. All of this\nstudy was necessary, he argued, because architects who have\naimed at acquiring manual skill without scholarship have never\nbeen able to reach a position of authority to correspond to their\nplans, while those who have relied only upon theories and\nscholarship were obviously “hunting the shadow, not the\nsubstance.”\nseeking abstract knowledge emphasized by architectural tradition\ndiscounting the subjects necessary to achieve architectural goals\npursuing the ideals of architecture without the practical skills\nprioritizing architecture’s material aspects over its artistic ones\nfollowing historical precedents without regard to current standards"
@@ -6734,7 +6734,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_11_q22",
-    "title": "감정을 이해하는 능력, 즉 다양한 감정 어휘를 가지고 있고 감정의 원…",
+    "title": "The ability to understand emotions ― to have a diverse emoti",
     "description": "감정을 이해하는 능력, 즉 다양한 감정 어휘를 가지고 있고 감정의 원인과 결과를 이 해하는 능력은 집단 환경에서 특히 중요하다.",
     "content": [
       "The ability to understand emotions ― to have a diverse\nemotion vocabulary and to understand the causes and\nconsequences of emotion ― is particularly relevant in group\nsettings. Individuals who are skilled in this domain are able to\nexpress emotions, feelings and moods accurately and thus,\nmay facilitate clear communication between co-workers.\nFurthermore, they may be more likely to act in ways that\naccommodate their own needs as well as the needs of others\n(i.e. cooperate). In a group conflict situation, for example, a\nmember with a strong ability to understand emotion will be\nable to express how he feels about the problem and why he\nfeels this way. He also should be able to take the perspective\nof the other group members and understand why they are\nreacting in a certain manner. Appreciation of differences creates\nan arena for open communication and promotes constructive\nconflict resolution and improved group functioning."
@@ -6753,7 +6753,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_11_q23",
-    "title": "산업 시대의 도래는 시간, 노동, 자본 사이의 관계를 변화시켰다.",
+    "title": "The arrival of the Industrial Age changed the relationship a",
     "description": "산업 시대의 도래는 시간, 노동, 자본 사이의 관계를 변화시켰다. 공장은 24시간 내내 생산할 수 있었고, 이전 어느 때보다 더 빠른 속도와…",
     "content": [
       "The arrival of the Industrial Age changed the relationship\namong time, labor, and capital. Factories could produce\naround the clock, and they could do so with greater speed and\nvolume than ever before. A machine that runs twelve hours a\nday will produce more widgets than one that runs for only\neight hours per day ― and a machine that runs twenty-four\nhours per day will produce the most widgets of all. As such, at\nmany factories, the workday is divided into eight-hour shifts,\nso that there will always be people on hand to keep the widget\nmachines humming. Industrialization raised the potential value\nof every single work hour ― the more hours you worked, the\nmore widgets you produced, and the more money you made ―\nand thus wages became tied to effort and production. Labor,\npreviously guided by harvest cycles, became clock-oriented,\nand society started to reorganize around new principles of\nproductivity."
@@ -6772,7 +6772,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_11_q24",
-    "title": "셀피가 공명하는 이유는 그것이 새롭기 때문이 아니라, 자화상의 오랜 …",
+    "title": "The selfie resonates not because it is new, but because it e",
     "description": "셀피가 공명하는 이유는 그것이 새롭기 때문이 아니라, 자화상의 오랜 역사를 표현하 고 발전시키며 확장하고 강화하기 때문이다.",
     "content": [
       "The selfie resonates not because it is new, but because it\nexpresses, develops, expands, and intensifies the long history\nof the self-portrait. The self-portrait showed to others the\nstatus of the person depicted. In this sense, what we have\ncome to call our own “image” ― the interface of the way we\nthink we look and the way others see us ― is the first and\nfundamental object of global visual culture. The selfie depicts\nthe drama of our own daily performance of ourselves in\ntension with our inner emotions that may or may not be\nexpressed as we wish. At each stage of the self-portrait’s\nexpansion, more and more people have been able to depict\nthemselves. Today’s young, urban, networked majority has\nreworked the history of the self-portrait to make the selfie into\nthe first visual signature of the new era."
@@ -6791,7 +6791,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_11_q29",
-    "title": "예를 들어, 여러분은 일어서서 물을 마시기로 결정할 때, 그와 관련된…",
+    "title": "When you decide to get up and get a drink of water, for exam",
     "description": "자신을 생각해 보라. 예를 들어, 여러분은 일어서서 물을 마시기로 결정할 때, 그와 관련된 많은 단계를 의식적으로 조직하거나 고려하지 않는다.",
     "content": [
       "Think of yourself. When you decide to get up and get a\ndrink of water, for example, you don’t consciously organize or\nconsider the host of steps involved. Imagine if we had to\nconsider every single muscle that needed to be contracted or\nrelaxed just to stand up and walk. It would be tiresome and\nvery slow ― as patients recovering from a brain injury\naffecting the motor system knows. The autopilot parts of\nour brain do it for us automatically, freeing up our\nconscious mind for more important jobs. It is the older parts of\nour brain that support these automatic processes that allow\nus to move, hear, see, and use many of our social skills. More\nrecently evolved abilities like talking, reading, and writing are\nfar less automated. So, most of the time, what you are\nperceiving, feeling, or thinking is based on a very crude and\nfast analysis that happens completely without your awareness."
@@ -6810,7 +6810,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_11_q30",
-    "title": "심리학 연구에서는 경쟁적 유인책이 과업 노력을 저하하는 사례를 보고했…",
+    "title": "Studies in psychology have reported cases in which competiti",
     "description": "심리학 연구에서는 경쟁적 유인책이 과업 노력을 저하하는 사례를 보고했으며, 그 초 점은 동기 저하의 심리적 기반에 맞춰져 있었다.",
     "content": [
       "Studies in psychology have reported cases in which\ncompetitive incentives resulted in lower task effort, and their\nfocus was on the psychological underpinnings of the reduction\nin motivation. For example, competition presents an inevitable\nconflict between the motivation to achieve one’s personal goal\nand the desire to maintain good relationships with others.\nWhen the maintenance of interpersonal relationships is important,\nwith their counterparts in particular or with others generally,\ncompetitors experience an internal conflict that can harm\ntheir desire to achieve their goal and taint the good feeling\nbrought about by winning. Exline and Lobel found that the\nperception of oneself as a target for upward social comparison\noften makes people uncomfortable. When they believe that\nothers are making envious comparisons with them, people feel\nuneasiness, distress, or sorrow. Feelings of guilt, an emotion\ngenerally associated with high motivation for goal-achievement,\nlead to stronger motivation and performance in the pursuit\nof competitive goals. Consequences of this emotional state include\nlower task motivation in a competition and preferences for\nmore cooperative and altruistic outcomes, such as diminishing\nthe significance of the outcome or sharing the winner’s reward."
@@ -6832,7 +6832,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_11_q31",
-    "title": "20 문학은 그것이 독자에게 길러 주는 개인적 몰입 때문에 언어 학습…",
+    "title": "Literature can be helpful in the language learning process b",
     "description": "20 문학은 그것이 독자에게 길러 주는 개인적 몰입 때문에 언어 학습 과정에 도움이 될 수 있다. 핵심 언어 교육 자료는 언어가 규칙 기반 …",
     "content": [
       "Literature can be helpful in the language learning process\nbecause of the it fosters in readers.\nCore language teaching materials must concentrate on how a\nlanguage operates both as a rule-based system and as a\nsociosemantic system. Very often, the process of learning is\nessentially analytic, piecemeal, and, at the level of the\npersonality, fairly superficial. Engaging imaginatively with\nliterature enables learners to shift the focus of their attention\nbeyond the more mechanical aspects of the foreign language\nsystem. When a novel, play or short story is explored over a\nperiod of time, the result is that the reader begins to ‘inhabit’\nthe text. He or she is drawn into the book. Pinpointing what\nindividual words or phrases may mean becomes less important\nthan pursuing the development of the story. The reader is\neager to find out what happens as events unfold; he or she\nfeels close to certain characters and shares their emotional\nresponses. The language becomes ‘transparent’ ― the fiction\ndraws the whole person into its own world."
@@ -6851,7 +6851,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_11_q32",
-    "title": "교육은 최고의 모습에서는 단순한 지식 이상을 가르친다.",
+    "title": "Education, at its best, teaches more than just knowledge",
     "description": "교육은 최고의 모습에서는 단순한 지식 이상을 가르친다. 그것은 비판적 사고, 즉 행 동하기 전에 멈추어 생각할 수 있는, 감정적 압박에 굴복…",
     "content": [
       "Education, at its best, teaches more than just knowledge.\nIt teaches critical thinking: the ability to stop and think\nbefore acting, to avoid succumbing to emotional pressures.\nThis is not thought control. It is the very reverse: mental\nliberation. Even the most advanced intellectual will be\nimperfect at this skill. But even imperfect possession of it\nof being ‘stimulus-driven’,\nconstantly reacting to the immediate environment, the\nbrightest colours or loudest sounds. Being driven by heuristic\nresponses, living by instinct and emotion all the time, is a very\neasy way to live, in many ways: thought is effortful, especially\nfor the inexperienced. But emotions are also exhausting, and\nshort-term reactions may not, in the long term, be the most\nbeneficial for health and survival. Just as we reach for burgers\nfor the sake of convenience, storing up the arterial fat which\nmay one day kill us, so our reliance on feelings can do us great\nharm."
@@ -6871,7 +6871,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_11_q33",
-    "title": "우리는 잘 알려져 있는 바와 같이 세상에서 가장 크고 수익성이 가장 …",
+    "title": "We are famously living in the era of the attention economy, ",
     "description": "우리는 잘 알려져 있는 바와 같이 세상에서 가장 크고 수익성이 가장 높은 사업은 나 의 관심을 ‘소비하는’ 사업인 관심 경제의 시대에 살고 …",
     "content": [
       "We are famously living in the era of the attention economy,\nwhere the largest and most profitable businesses in the world\nare those that consume my attention. The advertising industry\nis literally dedicated to capturing the conscious hours of my\nlife and selling them to someone else. It might seem magical\nthat so many exciting and useful software systems are\navailable to use for free, but it is now conventional wisdom\nthat if you can’t see who is paying for something that appears\nto be free, then .\nOur creative engagement with other people is mediated by\nAI-based recommendation systems that are designed to trap\nour attention through the process that Nick Seaver calls\ncaptology, keeping us attending to work sold by one company\nrather than another, replacing the freedom of personal\nexploration with algorithm-generated playlists or even\nalgorithm-generated art. [3점]\nall of your attention has already been spent\nthe real product being sold is you\nyour privacy is being violated\nthe public may be sponsoring you\nyou owe the benefits to your friend AI"
@@ -6891,7 +6891,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_11_q34",
-    "title": "중앙 집중화된, 공식적인 규칙은 역할과 관행을 확립함으로써 생산적인 …",
+    "title": "Centralized, formal rules can",
     "description": "중앙 집중화된, 공식적인 규칙은 역할과 관행을 확립함으로써 생산적인 활동을 촉진 할 수 있다. 야구 규칙은 그저 선수들의 행동을 규제하는 것…",
     "content": [
       "Centralized, formal rules can .\nThe rules of baseball don’t just regulate the behavior of the\nplayers; they determine the behavior that constitutes playing\nthe game. Rules do not prevent people from playing baseball;\nthey create the very practice that allows people to play\nbaseball. A score of music imposes rules, but it also creates a\npattern of conduct that enables people to produce music. Legal\nrules that enable the formation of corporations, that enable the\nuse of wills and trusts, that create negotiable instruments, and\nthat establish the practice of contracting all make practices that\ncreate new opportunities for individuals. And we have legal\nrules that establish roles individuals play within the legal\nsystem, such as judges, trustees, partners, and guardians. True,\nthe legal rules that establish these roles constrain the behavior\nof individuals who occupy them, but rules also create the roles\nthemselves. Without them an individual would not have the\nopportunity to occupy the role. [3점]"
@@ -6909,7 +6909,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_11_q35",
-    "title": "20세기의 스포츠 관광의 확대는 교통수단이 더욱 발전되는 것에 영향을…",
+    "title": "The expansion of sports tourism in the twentieth century has",
     "description": "20세기의 스포츠 관광의 확대는 교통수단이 더욱 발전되는 것에 영향을 받았다. 철도23 가 19세기에 여행에 혁신을 일으켰던 것과 꼭 마찬가…",
     "content": [
       "The expansion of sports tourism in the twentieth century has\nbeen influenced by further developments in transportation.\nJust as the railways revolutionized travel in the nineteenth\ncentury, so the automobile produced even more dramatic\nchanges in the twentieth. The significance of the car in the\ndevelopment of sport and tourism generally has attracted\nconsiderable coverage and it has had no less an impact on\nsports tourism specifically. Although originally invented\ntowards the end of the nineteenth century, it started to become\na mass form of transport in the 1920s in the USA and rather\nlater in Britain. Apart from its convenience and flexibility,\nthe car has the additional advantages of affording access to\nmany areas not served by public transport, as well as allowing\nthe easy transport of luggage and equipment. The expansion\nof reasonably priced, good quality accommodation associated\nwith tourism growth has also facilitated the growth of locally\nbased restaurants. As a result, it was invaluable for the\ndevelopment of many forms of sports tourism but especially\nthose which require the transportation of people and equipment\nto relatively remote locations."
@@ -6929,7 +6929,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_11_q36",
-    "title": "시장 규제 집행 가능성은 계약 당사자들이 계약 위반 시 가치가 떨어질…",
+    "title": "The potential for market enforcement is greater when contrac",
     "description": "시장 규제 집행 가능성은 계약 당사자들이 계약 위반 시 가치가 떨어질 수 있는 평판 자본을 구축한 경우에 더 크다.",
     "content": [
       "The potential for market enforcement is greater when\ncontracting parties have developed reputational capital that\ncan be devalued when contracts are violated.\n(A) Similarly, a landowner can undermaintain fences, ditches,\nand irrigation systems. Accurate assessments of farmer\nand landowner behavior will be made over time, and\nthose farmers and landowners who attempt to gain at each\nother’s expense will find that others may refuse to deal\nwith them in the future.\n(B) Over time landowners indirectly monitor farmers by\nobserving the reported output, the general quality of the soil,\nand any unusual or extreme behavior. Farmer and landowner\nreputations act as a bond. In any growing season a farmer can\nreduce effort, overuse soil, or underreport the crop.\n(C) Farmers and landowners develop reputations for honesty,\nfairness, producing high yields, and consistently demonstrating\nthat they are good at what they do. In small, close-knit\nfarming communities, reputations are well known."
@@ -6950,7 +6950,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_11_q37",
-    "title": "새 한 마리가 놀라 날아오르면 다른 새들도 위협의 진위 를 판단하기 …",
+    "title": "Watch the birds in your backyard",
     "description": "뒷마당의 새를 관찰해 보라. 새 한 마리가 놀라 날아오르면 다른 새들도 위협의 진위 를 판단하기 위해 기다리지 않고 뒤따를 것이다.",
     "content": [
       "Watch the birds in your backyard. If one bird startles and\nflies off, others will follow, not waiting around to assess\nwhether the threat is real. They have been infected by\nemotional contagion.\n(A) Marc wondered whether the birds in line were more fearful\nbecause they didn’t know what their flockmates were\ndoing. Emotional contagion would have been impossible for\nindividual grosbeaks in the linear array except with their\nnearest neighbors.\n(B) In a long-term research project that Marc did with some\nof his students on patterns of antipredatory scanning by\nwestern evening grosbeaks, they found that birds in a\ncircle showed more coordination in scanning than did\nbirds who were feeding in a line.\n(C) The birds in a line, who could only see their nearest\nneighbor, not only were less coordinated when scanning,\nbut also were more nervous, changing their body and head\npositions significantly more than grosbeaks in a circle,\nwhere it was possible for each grosbeak to see every other\ngrosbeak. [3점]"
@@ -6968,7 +6968,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_11_q38",
-    "title": "영업상의 비밀 법은 혁신을 촉진하는 것이 목표이지만, 특허 보호와는 …",
+    "title": "Without any special legal protection for trade secrets, howe",
     "description": "영업상의 비밀 법은 혁신을 촉진하는 것이 목표이지만, 특허 보호와는 매우 다른 방 식으로 이 목표를 이룬다.",
     "content": [
       "Without any special legal protection for trade secrets,\nhowever, the secretive inventor risks that an employee or\ncontractor will disclose the proprietary information.\nTrade secret law aims to promote innovation, although it\naccomplishes this objective in a very different manner than\npatent protection. ( ) Notwithstanding the advantages of\nobtaining a patent, many innovators prefer to protect their\ninnovation through secrecy. ( ) They may believe that the\ncost and delay of seeking a patent are too great or that\nsecrecy better protects their investment and increases their\nprofit. ( ) They might also believe that the invention can\nbest be utilized over a longer period of time than a patent\nwould allow. ( ) Once the idea is released, it will be “free\nas the air” under the background norms of a free market\neconomy. ( ) Such a predicament would lead any inventor\nseeking to rely upon secrecy to spend an inordinate amount of\nresources building high and impassable fences around their\nresearch facilities and greatly limiting the number of people\nwith access to the proprietary information. [3점]"
@@ -6986,7 +6986,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_11_q39",
-    "title": "그야말로 본질적으로, 정비와 수리의 개념은 과정 지향적인 관점에서 주…",
+    "title": "In reality, objects do not conform to a linear lifecycle mod",
     "description": "그야말로 본질적으로, 정비와 수리의 개념은 과정 지향적인 관점에서 주로 검토된다. 관련된 학문적 담론의 초점은 흔히 물건과 기술의 수명 또는…",
     "content": [
       "In reality, objects do not conform to a linear lifecycle model;\ninstead, they undergo breakdowns, await repairs, are stored\naway, or find themselves relegated to the basement, only to\nbe rediscovered and repurposed later.\nBy their very nature, the concepts of maintenance and repair\nare predominantly examined from a process-oriented\nperspective. ( ) The focus in related scholarly discourse\noften revolves around the lifespan or lifecycle of objects and\ntechnologies. ( ) In this context, maintenance and repair\nare considered practices that have the potential to prolong the\nexistence of objects, ensuring their sustained utilization over\nan extended period. ( ) Krebs and Weber critically engage\nwith anthropomorphic metaphors that imply a biography of\nthings, appropriately highlighting that conventional understanding\nof the lifecycle of a technology, from its acquisition to its\ndisposal from the household, provides an incomplete\ndefinition. ( ) Additionally, objects may enter recycling or\nsecond-hand cycles, leading to a dynamic afterlife marked by\ndiverse applications. ( ) As such, the life of an object\nexhibits a far more complicated and adaptive path than a\nsimplistic linear progression."
@@ -7003,7 +7003,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_11_q40",
-    "title": "여러분의 엄지손가락과 집게손가락 사이에 한 장의 종이를 쥐는 것을 상…",
+    "title": "People often assume that synthetic food ingredients are more",
     "description": "여러분의 엄지손가락과 집게손가락 사이에 한 장의 종이를 쥐는 것을 상상해 보라. 어쩌면 여러분은 이 페이지를 넘기면서 이미 하고 있을지도 모…",
     "content": [
       "People often assume that synthetic food ingredients are\nmore harmful than natural ones, but this is not always the\ncase. Typically, synthetic ingredients can be made in a\nprecisely controlled fashion and have well-defined\ncompositions and properties, allowing careful evaluation of\ntheir potential toxicity. On the other hand, natural ingredients\noften vary appreciably in their composition and properties\ndepending on their origin, the time of year they were\nharvested, the climate they experienced throughout their\nlifetime, the soil quality, and how they were isolated and\nstored. These variations can make testing their safety\nextremely difficult ― one is never sure about the potential\ntoxicity of minor components that may vary from time to\ntime. In some cases, a natural food component has been\nconsumed for hundreds or thousands of years without\ncausing any obvious health problems and can, therefore, be\nassumed to be safe. However, one must still be very careful."
@@ -7021,7 +7021,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2024_11_q42",
-    "title": "“Sean이 나에게 내가 세상에서 최고의 아빠라고 말하곤 했던 거 기…",
+    "title": "“Do you remember when Sean used to tell me that I was the be",
     "description": "“Sean이 나에게 내가 세상에서 최고의 아빠라고 말하곤 했던 거 기억나요?” Ethan이 아내 Grace에게 물었다.",
     "content": [
       "“Do you remember when Sean used to tell me that I was the\nbest dad in the world?” Ethan asked his wife, Grace. “Yes, I\ndo. I always envied your relationship with Sean,” she replied.\nEthan then shared how things had changed since (a) his son\nstarted middle school. Grace had noticed Ethan often pushing\nSean to study harder. “Maybe he isn’t that into school right\nnow. How about going hiking, just the two of you?” she\nsuggested. He agreed, and realizing that both his and Sean’s\nhiking jackets were still at the laundry, he asked his wife to go\nand pick them up with him.\nEthan and Grace came back home with the jackets and\nchecked if Sean had everything else he needed for hiking.\nLuckily, in his drawers they found his hat, shoes, sunglasses,\nand hiking sticks. When Sean returned from school, Ethan\nsoftly said, “Sean, let’s go hiking this Saturday, just the two\nof us.” Though Sean thanked (b) him for the suggestion, he\nsaid he had to go to the library. Grace stepped in, “You know,\nthe weather this weekend will be the best of the year. Why not\nenjoy it?” After a moment’s hesitation, (c) he agreed.\n“When did you bring the jackets in?” the clerk at the\nlaundry asked. “Maybe two weeks ago,” Ethan replied. Then,\nGrace quickly reminded (d) him, “Honey, we actually left\nthem here a month ago.” The clerk went into the storage area\nto look for the clothes. Finally, he returned with the jackets\nand handed them to Ethan. The clerk politely said, “I am\nsorry, but please collect your items earlier next time. Our\nstorage is too full.” Ethan felt embarrassed for the late\ncollection and apologized.\nThe weather was perfect. Ethan and Sean set off hiking\nalong the valley by Aicken Mountain. They walked in silence\nuntil Sean fell over a rock and twisted his ankle. Realizing he\ncouldn’t walk, Ethan carried his son down on his back. He\nfelt Sean’s heartbeat, something he hadn’t felt since Sean was\na baby. Suddenly, Sean said, “Dad, I’m sorry. At some point,\nI started to become afraid of disappointing (e) you. But you\nare still the best dad.” Energized, he felt no weight on his\nback and replied, “You are the best son, no matter what.”"
@@ -7038,8 +7038,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2024년 11월"
   },
   {
-    "id": "high3_2024_11_q20",
-    "title": "우리는 거의 보편적으로 비디오 게임을 하는 것이 기껏해야 학생이 학습…",
+    "id": "high3_2024_11_q20_2",
+    "title": "We almost universally accept that playing video games is at ",
     "description": "우리는 거의 보편적으로 비디오 게임을 하는 것이 기껏해야 학생이 학습에서 잠시 벗 어나는 즐거운 휴식이고, 더 흔히는 학생이 목표를 이루는 …",
     "content": [
       "We almost universally accept that playing video games is at\nbest a pleasant break from a student’s learning and more often\nwhat prevents a student from accomplishing their goals.\nGames catch and hold attention in a way that few things can.\nAnd yet once they have our focus, they rarely seem to offer\nanything meaningful to help students grow in their lives\noutside the games. While this may be true for many games, we\nare too easily ignoring a valuable tool that could be used to\nenhance productivity instead of derailing it. Rather, it is\ndesirable that we develop games that connect to the learning\noutcomes we want for our students. This will enable educators\nto take advantage of games’ attention commanding capacities\nand allow our students to enjoy their games while learning."
@@ -7055,8 +7055,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2024년 11월"
   },
   {
-    "id": "high3_2024_11_q21",
-    "title": "건축가의 지위는 로마 제국 시대에 상승했는데, 이는 건축이 상징적으로…",
+    "id": "high3_2024_11_q21_2",
+    "title": "The position of the architect rose during the Roman Empire, ",
     "description": "건축가의 지위는 로마 제국 시대에 상승했는데, 이는 건축이 상징적으로 특히 중요한 정치적 성명이 되었기 때문이다.",
     "content": [
       "The position of the architect rose during the Roman Empire,\nas architecture symbolically became a particularly important\npolitical statement. Cicero classed the architect with the\nphysician and the teacher and Vitruvius spoke of “so great a\nprofession as this.” Marcus Vitruvius Pollio, a practicing\narchitect during the rule of Augustus Caesar, recognized that\narchitecture requires both practical and theoretical knowledge,\nand he listed the disciplines he felt the aspiring architect should\nmaster: literature and writing, draftsmanship, mathematics,\nhistory, philosophy, music, medicine, law, and astronomy ― a\ncurriculum that still has much to recommend it. All of this\nstudy was necessary, he argued, because architects who have\naimed at acquiring manual skill without scholarship have never\nbeen able to reach a position of authority to correspond to their\nplans, while those who have relied only upon theories and\nscholarship were obviously “hunting the shadow, not the\nsubstance.”\nfollowing historical precedents without regard to current standards\nprioritizing architecture’s material aspects over its artistic ones\npursuing the ideals of architecture without the practical skills\ndiscounting the subjects necessary to achieve architectural goals\nseeking abstract knowledge emphasized by architectural tradition"
@@ -7075,8 +7075,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2024년 11월"
   },
   {
-    "id": "high3_2024_11_q22",
-    "title": "감정을 이해하는 능력, 즉 다양한 감정 어휘를 가지고 있고 감정의 원…",
+    "id": "high3_2024_11_q22_2",
+    "title": "The ability to understand emotions ― to have a diverse emoti",
     "description": "감정을 이해하는 능력, 즉 다양한 감정 어휘를 가지고 있고 감정의 원인과 결과를 이 해하는 능력은 집단 환경에서 특히 중요하다.",
     "content": [
       "The ability to understand emotions ― to have a diverse\nemotion vocabulary and to understand the causes and\nconsequences of emotion ― is particularly relevant in group\nsettings. Individuals who are skilled in this domain are able to\nexpress emotions, feelings and moods accurately and thus,\nmay facilitate clear communication between co-workers.\nFurthermore, they may be more likely to act in ways that\naccommodate their own needs as well as the needs of others\n(i.e. cooperate). In a group conflict situation, for example, a\nmember with a strong ability to understand emotion will be\nable to express how he feels about the problem and why he\nfeels this way. He also should be able to take the perspective\nof the other group members and understand why they are\nreacting in a certain manner. Appreciation of differences creates\nan arena for open communication and promotes constructive\nconflict resolution and improved group functioning."
@@ -7094,8 +7094,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2024년 11월"
   },
   {
-    "id": "high3_2024_11_q23",
-    "title": "산업 시대의 도래는 시간, 노동, 자본 사이의 관계를 변화시켰다.",
+    "id": "high3_2024_11_q23_2",
+    "title": "The arrival of the Industrial Age changed the relationship a",
     "description": "산업 시대의 도래는 시간, 노동, 자본 사이의 관계를 변화시켰다. 공장은 24시간 내내 생산할 수 있었고, 이전 어느 때보다 더 빠른 속도와…",
     "content": [
       "The arrival of the Industrial Age changed the relationship\namong time, labor, and capital. Factories could produce\naround the clock, and they could do so with greater speed and\nvolume than ever before. A machine that runs twelve hours a\nday will produce more widgets than one that runs for only\neight hours per day ― and a machine that runs twenty-four\nhours per day will produce the most widgets of all. As such, at\nmany factories, the workday is divided into eight-hour shifts,\nso that there will always be people on hand to keep the widget\nmachines humming. Industrialization raised the potential value\nof every single work hour ― the more hours you worked, the\nmore widgets you produced, and the more money you made ―\nand thus wages became tied to effort and production. Labor,\npreviously guided by harvest cycles, became clock-oriented,\nand society started to reorganize around new principles of\nproductivity."
@@ -7113,8 +7113,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2024년 11월"
   },
   {
-    "id": "high3_2024_11_q24",
-    "title": "셀피가 공명하는 이유는 그것이 새롭기 때문이 아니라, 자화상의 오랜 …",
+    "id": "high3_2024_11_q24_2",
+    "title": "The selfie resonates not because it is new, but because it e",
     "description": "셀피가 공명하는 이유는 그것이 새롭기 때문이 아니라, 자화상의 오랜 역사를 표현하 고 발전시키며 확장하고 강화하기 때문이다.",
     "content": [
       "The selfie resonates not because it is new, but because it\nexpresses, develops, expands, and intensifies the long history\nof the self-portrait. The self-portrait showed to others the\nstatus of the person depicted. In this sense, what we have\ncome to call our own “image” ― the interface of the way we\nthink we look and the way others see us ― is the first and\nfundamental object of global visual culture. The selfie depicts\nthe drama of our own daily performance of ourselves in\ntension with our inner emotions that may or may not be\nexpressed as we wish. At each stage of the self-portrait’s\nexpansion, more and more people have been able to depict\nthemselves. Today’s young, urban, networked majority has\nreworked the history of the self-portrait to make the selfie into\nthe first visual signature of the new era."
@@ -7132,8 +7132,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2024년 11월"
   },
   {
-    "id": "high3_2024_11_q29",
-    "title": "예를 들어, 여러분은 일어서서 물을 마시기로 결정할 때, 그와 관련된…",
+    "id": "high3_2024_11_q29_2",
+    "title": "When you decide to get up and get a drink of water, for exam",
     "description": "자신을 생각해 보라. 예를 들어, 여러분은 일어서서 물을 마시기로 결정할 때, 그와 관련된 많은 단계를 의식적으로 조직하거나 고려하지 않는다.",
     "content": [
       "Think of yourself. When you decide to get up and get a\ndrink of water, for example, you don’t consciously organize or\nconsider the host of steps involved. Imagine if we had to\nconsider every single muscle that needed to be contracted or\nrelaxed just to stand up and walk. It would be tiresome and\nvery slow ― as patients recovering from a brain injury\naffecting the motor system knows. The autopilot parts of\nour brain do it for us automatically, freeing up our\nconscious mind for more important jobs. It is the older parts of\nour brain that support these automatic processes that allow\nus to move, hear, see, and use many of our social skills. More\nrecently evolved abilities like talking, reading, and writing are\nfar less automated. So, most of the time, what you are\nperceiving, feeling, or thinking is based on a very crude and\nfast analysis that happens completely without your awareness."
@@ -7151,8 +7151,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2024년 11월"
   },
   {
-    "id": "high3_2024_11_q30",
-    "title": "심리학 연구에서는 경쟁적 유인책이 과업 노력을 저하하는 사례를 보고했…",
+    "id": "high3_2024_11_q30_2",
+    "title": "Studies in psychology have reported cases in which competiti",
     "description": "심리학 연구에서는 경쟁적 유인책이 과업 노력을 저하하는 사례를 보고했으며, 그 초 점은 동기 저하의 심리적 기반에 맞춰져 있었다.",
     "content": [
       "Studies in psychology have reported cases in which\ncompetitive incentives resulted in lower task effort, and their\nfocus was on the psychological underpinnings of the reduction\nin motivation. For example, competition presents an inevitable\nconflict between the motivation to achieve one’s personal goal\nand the desire to maintain good relationships with others.\nWhen the maintenance of interpersonal relationships is important,\nwith their counterparts in particular or with others generally,\ncompetitors experience an internal conflict that can harm\ntheir desire to achieve their goal and taint the good feeling\nbrought about by winning. Exline and Lobel found that the\nperception of oneself as a target for upward social comparison\noften makes people uncomfortable. When they believe that\nothers are making envious comparisons with them, people feel\nuneasiness, distress, or sorrow. Feelings of guilt, an emotion\ngenerally associated with high motivation for goal-achievement,\nlead to stronger motivation and performance in the pursuit\nof competitive goals. Consequences of this emotional state include\nlower task motivation in a competition and preferences for\nmore cooperative and altruistic outcomes, such as diminishing\nthe significance of the outcome or sharing the winner’s reward."
@@ -7173,8 +7173,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2024년 11월"
   },
   {
-    "id": "high3_2024_11_q31",
-    "title": "20 문학은 그것이 독자에게 길러 주는 개인적 몰입 때문에 언어 학습…",
+    "id": "high3_2024_11_q31_2",
+    "title": "Literature can be helpful in the language learning process b",
     "description": "20 문학은 그것이 독자에게 길러 주는 개인적 몰입 때문에 언어 학습 과정에 도움이 될 수 있다. 핵심 언어 교육 자료는 언어가 규칙 기반 …",
     "content": [
       "Literature can be helpful in the language learning process\nbecause of the it fosters in readers.\nCore language teaching materials must concentrate on how a\nlanguage operates both as a rule-based system and as a\nsociosemantic system. Very often, the process of learning is\nessentially analytic, piecemeal, and, at the level of the\npersonality, fairly superficial. Engaging imaginatively with\nliterature enables learners to shift the focus of their attention\nbeyond the more mechanical aspects of the foreign language\nsystem. When a novel, play or short story is explored over a\nperiod of time, the result is that the reader begins to ‘inhabit’\nthe text. He or she is drawn into the book. Pinpointing what\nindividual words or phrases may mean becomes less important\nthan pursuing the development of the story. The reader is\neager to find out what happens as events unfold; he or she\nfeels close to certain characters and shares their emotional\nresponses. The language becomes ‘transparent’ ― the fiction\ndraws the whole person into its own world."
@@ -7192,8 +7192,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2024년 11월"
   },
   {
-    "id": "high3_2024_11_q32",
-    "title": "교육은 최고의 모습에서는 단순한 지식 이상을 가르친다.",
+    "id": "high3_2024_11_q32_2",
+    "title": "Education, at its best, teaches more than just knowledge",
     "description": "교육은 최고의 모습에서는 단순한 지식 이상을 가르친다. 그것은 비판적 사고, 즉 행 동하기 전에 멈추어 생각할 수 있는, 감정적 압박에 굴복…",
     "content": [
       "Education, at its best, teaches more than just knowledge.\nIt teaches critical thinking: the ability to stop and think\nbefore acting, to avoid succumbing to emotional pressures.\nThis is not thought control. It is the very reverse: mental\nliberation. Even the most advanced intellectual will be\nimperfect at this skill. But even imperfect possession of it\nof being ‘stimulus-driven’,\nconstantly reacting to the immediate environment, the\nbrightest colours or loudest sounds. Being driven by heuristic\nresponses, living by instinct and emotion all the time, is a very\neasy way to live, in many ways: thought is effortful, especially\nfor the inexperienced. But emotions are also exhausting, and\nshort-term reactions may not, in the long term, be the most\nbeneficial for health and survival. Just as we reach for burgers\nfor the sake of convenience, storing up the arterial fat which\nmay one day kill us, so our reliance on feelings can do us great\nharm."
@@ -7212,8 +7212,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2024년 11월"
   },
   {
-    "id": "high3_2024_11_q33",
-    "title": "우리는 잘 알려져 있는 바와 같이 세상에서 가장 크고 수익성이 가장 …",
+    "id": "high3_2024_11_q33_2",
+    "title": "We are famously living in the era of the attention economy, ",
     "description": "우리는 잘 알려져 있는 바와 같이 세상에서 가장 크고 수익성이 가장 높은 사업은 나 의 관심을 ‘소비하는’ 사업인 관심 경제의 시대에 살고 …",
     "content": [
       "We are famously living in the era of the attention economy,\nwhere the largest and most profitable businesses in the world\nare those that consume my attention. The advertising industry\nis literally dedicated to capturing the conscious hours of my\nlife and selling them to someone else. It might seem magical\nthat so many exciting and useful software systems are\navailable to use for free, but it is now conventional wisdom\nthat if you can’t see who is paying for something that appears\nto be free, then .\nOur creative engagement with other people is mediated by\nAI-based recommendation systems that are designed to trap\nour attention through the process that Nick Seaver calls\ncaptology, keeping us attending to work sold by one company\nrather than another, replacing the freedom of personal\nexploration with algorithm-generated playlists or even\nalgorithm-generated art. [3점]\nall of your attention has already been spent\nthe real product being sold is you\nyour privacy is being violated\nthe public may be sponsoring you\nyou owe the benefits to your friend AI"
@@ -7232,8 +7232,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2024년 11월"
   },
   {
-    "id": "high3_2024_11_q34",
-    "title": "중앙 집중화된, 공식적인 규칙은 역할과 관행을 확립함으로써 생산적인 …",
+    "id": "high3_2024_11_q34_2",
+    "title": "Centralized, formal rules can",
     "description": "중앙 집중화된, 공식적인 규칙은 역할과 관행을 확립함으로써 생산적인 활동을 촉진 할 수 있다. 야구 규칙은 그저 선수들의 행동을 규제하는 것…",
     "content": [
       "Centralized, formal rules can .\nThe rules of baseball don’t just regulate the behavior of the\nplayers; they determine the behavior that constitutes playing\nthe game. Rules do not prevent people from playing baseball;\nthey create the very practice that allows people to play\nbaseball. A score of music imposes rules, but it also creates a\npattern of conduct that enables people to produce music. Legal\nrules that enable the formation of corporations, that enable the\nuse of wills and trusts, that create negotiable instruments, and\nthat establish the practice of contracting all make practices that\ncreate new opportunities for individuals. And we have legal\nrules that establish roles individuals play within the legal\nsystem, such as judges, trustees, partners, and guardians. True,\nthe legal rules that establish these roles constrain the behavior\nof individuals who occupy them, but rules also create the roles\nthemselves. Without them an individual would not have the\nopportunity to occupy the role. [3점]"
@@ -7250,8 +7250,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2024년 11월"
   },
   {
-    "id": "high3_2024_11_q35",
-    "title": "20세기의 스포츠 관광의 확대는 교통수단이 더욱 발전되는 것에 영향을…",
+    "id": "high3_2024_11_q35_2",
+    "title": "The expansion of sports tourism in the twentieth century has",
     "description": "20세기의 스포츠 관광의 확대는 교통수단이 더욱 발전되는 것에 영향을 받았다. 철도23 가 19세기에 여행에 혁신을 일으켰던 것과 꼭 마찬가…",
     "content": [
       "The expansion of sports tourism in the twentieth century has\nbeen influenced by further developments in transportation.\nJust as the railways revolutionized travel in the nineteenth\ncentury, so the automobile produced even more dramatic\nchanges in the twentieth. The significance of the car in the\ndevelopment of sport and tourism generally has attracted\nconsiderable coverage and it has had no less an impact on\nsports tourism specifically. Although originally invented\ntowards the end of the nineteenth century, it started to become\na mass form of transport in the 1920s in the USA and rather\nlater in Britain. Apart from its convenience and flexibility,\nthe car has the additional advantages of affording access to\nmany areas not served by public transport, as well as allowing\nthe easy transport of luggage and equipment. The expansion\nof reasonably priced, good quality accommodation associated\nwith tourism growth has also facilitated the growth of locally\nbased restaurants. As a result, it was invaluable for the\ndevelopment of many forms of sports tourism but especially\nthose which require the transportation of people and equipment\nto relatively remote locations."
@@ -7270,8 +7270,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2024년 11월"
   },
   {
-    "id": "high3_2024_11_q36",
-    "title": "시장 규제 집행 가능성은 계약 당사자들이 계약 위반 시 가치가 떨어질…",
+    "id": "high3_2024_11_q36_2",
+    "title": "The potential for market enforcement is greater when contrac",
     "description": "시장 규제 집행 가능성은 계약 당사자들이 계약 위반 시 가치가 떨어질 수 있는 평판 자본을 구축한 경우에 더 크다.",
     "content": [
       "The potential for market enforcement is greater when\ncontracting parties have developed reputational capital that\ncan be devalued when contracts are violated.\n(A) Similarly, a landowner can undermaintain fences, ditches,\nand irrigation systems. Accurate assessments of farmer\nand landowner behavior will be made over time, and\nthose farmers and landowners who attempt to gain at each\nother’s expense will find that others may refuse to deal\nwith them in the future.\n(B) Over time landowners indirectly monitor farmers by\nobserving the reported output, the general quality of the soil,\nand any unusual or extreme behavior. Farmer and landowner\nreputations act as a bond. In any growing season a farmer can\nreduce effort, overuse soil, or underreport the crop.\n(C) Farmers and landowners develop reputations for honesty,\nfairness, producing high yields, and consistently demonstrating\nthat they are good at what they do. In small, close-knit\nfarming communities, reputations are well known."
@@ -7291,8 +7291,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2024년 11월"
   },
   {
-    "id": "high3_2024_11_q37",
-    "title": "새 한 마리가 놀라 날아오르면 다른 새들도 위협의 진위 를 판단하기 …",
+    "id": "high3_2024_11_q37_2",
+    "title": "Watch the birds in your backyard",
     "description": "뒷마당의 새를 관찰해 보라. 새 한 마리가 놀라 날아오르면 다른 새들도 위협의 진위 를 판단하기 위해 기다리지 않고 뒤따를 것이다.",
     "content": [
       "Watch the birds in your backyard. If one bird startles and\nflies off, others will follow, not waiting around to assess\nwhether the threat is real. They have been infected by\nemotional contagion.\n(A) Marc wondered whether the birds in line were more fearful\nbecause they didn’t know what their flockmates were\ndoing. Emotional contagion would have been impossible for\nindividual grosbeaks in the linear array except with their\nnearest neighbors.\n(B) In a long-term research project that Marc did with some\nof his students on patterns of antipredatory scanning by\nwestern evening grosbeaks, they found that birds in a\ncircle showed more coordination in scanning than did\nbirds who were feeding in a line.\n(C) The birds in a line, who could only see their nearest\nneighbor, not only were less coordinated when scanning,\nbut also were more nervous, changing their body and head\npositions significantly more than grosbeaks in a circle,\nwhere it was possible for each grosbeak to see every other\ngrosbeak. [3점]"
@@ -7309,8 +7309,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2024년 11월"
   },
   {
-    "id": "high3_2024_11_q38",
-    "title": "영업상의 비밀 법은 혁신을 촉진하는 것이 목표이지만, 특허 보호와는 …",
+    "id": "high3_2024_11_q38_2",
+    "title": "Without any special legal protection for trade secrets, howe",
     "description": "영업상의 비밀 법은 혁신을 촉진하는 것이 목표이지만, 특허 보호와는 매우 다른 방 식으로 이 목표를 이룬다.",
     "content": [
       "Without any special legal protection for trade secrets,\nhowever, the secretive inventor risks that an employee or\ncontractor will disclose the proprietary information.\nTrade secret law aims to promote innovation, although it\naccomplishes this objective in a very different manner than\npatent protection. ( ) Notwithstanding the advantages of\nobtaining a patent, many innovators prefer to protect their\ninnovation through secrecy. ( ) They may believe that the\ncost and delay of seeking a patent are too great or that\nsecrecy better protects their investment and increases their\nprofit. ( ) They might also believe that the invention can\nbest be utilized over a longer period of time than a patent\nwould allow. ( ) Once the idea is released, it will be “free\nas the air” under the background norms of a free market\neconomy. ( ) Such a predicament would lead any inventor\nseeking to rely upon secrecy to spend an inordinate amount of\nresources building high and impassable fences around their\nresearch facilities and greatly limiting the number of people\nwith access to the proprietary information. [3점]"
@@ -7327,8 +7327,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2024년 11월"
   },
   {
-    "id": "high3_2024_11_q39",
-    "title": "그야말로 본질적으로, 정비와 수리의 개념은 과정 지향적인 관점에서 주…",
+    "id": "high3_2024_11_q39_2",
+    "title": "In reality, objects do not conform to a linear lifecycle mod",
     "description": "그야말로 본질적으로, 정비와 수리의 개념은 과정 지향적인 관점에서 주로 검토된다. 관련된 학문적 담론의 초점은 흔히 물건과 기술의 수명 또는…",
     "content": [
       "In reality, objects do not conform to a linear lifecycle model;\ninstead, they undergo breakdowns, await repairs, are stored\naway, or find themselves relegated to the basement, only to\nbe rediscovered and repurposed later.\nBy their very nature, the concepts of maintenance and repair\nare predominantly examined from a process-oriented\nperspective. ( ) The focus in related scholarly discourse\noften revolves around the lifespan or lifecycle of objects and\ntechnologies. ( ) In this context, maintenance and repair\nare considered practices that have the potential to prolong the\nexistence of objects, ensuring their sustained utilization over\nan extended period. ( ) Krebs and Weber critically engage\nwith anthropomorphic metaphors that imply a biography of\nthings, appropriately highlighting that conventional understanding\nof the lifecycle of a technology, from its acquisition to its\ndisposal from the household, provides an incomplete\ndefinition. ( ) Additionally, objects may enter recycling or\nsecond-hand cycles, leading to a dynamic afterlife marked by\ndiverse applications. ( ) As such, the life of an object\nexhibits a far more complicated and adaptive path than a\nsimplistic linear progression."
@@ -7344,8 +7344,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2024년 11월"
   },
   {
-    "id": "high3_2024_11_q40",
-    "title": "여러분의 엄지손가락과 집게손가락 사이에 한 장의 종이를 쥐는 것을 상…",
+    "id": "high3_2024_11_q40_2",
+    "title": "People often assume that synthetic food ingredients are more",
     "description": "여러분의 엄지손가락과 집게손가락 사이에 한 장의 종이를 쥐는 것을 상상해 보라. 어쩌면 여러분은 이 페이지를 넘기면서 이미 하고 있을지도 모…",
     "content": [
       "People often assume that synthetic food ingredients are\nmore harmful than natural ones, but this is not always the\ncase. Typically, synthetic ingredients can be made in a\nprecisely controlled fashion and have well-defined\ncompositions and properties, allowing careful evaluation of\ntheir potential toxicity. On the other hand, natural ingredients\noften vary appreciably in their composition and properties\ndepending on their origin, the time of year they were\nharvested, the climate they experienced throughout their\nlifetime, the soil quality, and how they were isolated and\nstored. These variations can make testing their safety\nextremely difficult ― one is never sure about the potential\ntoxicity of minor components that may vary from time to\ntime. In some cases, a natural food component has been\nconsumed for hundreds or thousands of years without\ncausing any obvious health problems and can, therefore, be\nassumed to be safe. However, one must still be very careful."
@@ -7362,8 +7362,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2024년 11월"
   },
   {
-    "id": "high3_2024_11_q42",
-    "title": "“Sean이 나에게 내가 세상에서 최고의 아빠라고 말하곤 했던 거 기…",
+    "id": "high3_2024_11_q42_2",
+    "title": "“Do you remember when Sean used to tell me that I was the be",
     "description": "“Sean이 나에게 내가 세상에서 최고의 아빠라고 말하곤 했던 거 기억나요?” Ethan이 아내 Grace에게 물었다.",
     "content": [
       "“Do you remember when Sean used to tell me that I was the\nbest dad in the world?” Ethan asked his wife, Grace. “Yes, I\ndo. I always envied your relationship with Sean,” she replied.\nEthan then shared how things had changed since (a) his son\nstarted middle school. Grace had noticed Ethan often pushing\nSean to study harder. “Maybe he isn’t that into school right\nnow. How about going hiking, just the two of you?” she\nsuggested. He agreed, and realizing that both his and Sean’s\nhiking jackets were still at the laundry, he asked his wife to go\nand pick them up with him.\nEthan and Grace came back home with the jackets and\nchecked if Sean had everything else he needed for hiking.\nLuckily, in his drawers they found his hat, shoes, sunglasses,\nand hiking sticks. When Sean returned from school, Ethan\nsoftly said, “Sean, let’s go hiking this Saturday, just the two\nof us.” Though Sean thanked (b) him for the suggestion, he\nsaid he had to go to the library. Grace stepped in, “You know,\nthe weather this weekend will be the best of the year. Why not\nenjoy it?” After a moment’s hesitation, (c) he agreed.\n“When did you bring the jackets in?” the clerk at the\nlaundry asked. “Maybe two weeks ago,” Ethan replied. Then,\nGrace quickly reminded (d) him, “Honey, we actually left\nthem here a month ago.” The clerk went into the storage area\nto look for the clothes. Finally, he returned with the jackets\nand handed them to Ethan. The clerk politely said, “I am\nsorry, but please collect your items earlier next time. Our\nstorage is too full.” Ethan felt embarrassed for the late\ncollection and apologized.\nThe weather was perfect. Ethan and Sean set off hiking\nalong the valley by Aicken Mountain. They walked in silence\nuntil Sean fell over a rock and twisted his ankle. Realizing he\ncouldn’t walk, Ethan carried his son down on his back. He\nfelt Sean’s heartbeat, something he hadn’t felt since Sean was\na baby. Suddenly, Sean said, “Dad, I’m sorry. At some point,\nI started to become afraid of disappointing (e) you. But you\nare still the best dad.” Energized, he felt no weight on his\nback and replied, “You are the best son, no matter what.”"
@@ -7381,7 +7381,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_06_q20",
-    "title": "위험에 대한 우리의 대응 능력은 생존에 중요했기 때문에, 불확실한 상…",
+    "title": "Our ability to respond to danger has been important for surv",
     "description": "위험에 대한 우리의 대응 능력은 생존에 중요했기 때문에, 불확실한 상황에서 걱정을 느끼는 것은 정상이다. 걱정이라는 감정은, 미래 사건을 예…",
     "content": [
       "Our ability to respond to danger has been important for\nsurvival, so feeling worried in uncertain situations is normal.\nFeelings of worry, which are activated in anticipation of future\nevents, are often experienced in everyday situations. For\nexample, we may feel nervous imagining unlikely events, such\nas a computer crashing during an important presentation. To\nsome extent, thinking through potential scenarios can be\nhelpful. When our worries exceed our control, however, they\ncause us unnecessary suffering. Consider how many times you\nhave lost sleep thinking about a terrible situation, which, in the\nend, did not actually take place. If that situation actually\noccurred, it only goes to show that worrying about it did\nnothing to prevent it from happening. It is worth making a\nconscious effort, then, to stop worrying endlessly about events\nyou may not experience."
@@ -7398,7 +7398,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_06_q21",
-    "title": "여러분의 자존감을 등반 성과에 근거하는 것은 외부 요인의 변덕에 자신…",
+    "title": "Basing your self-worth on climbing performance puts you at t",
     "description": "여러분의 자존감을 등반 성과에 근거하는 것은 외부 요인의 변덕에 자신을 맡기는 것 이다. 이러한 요인은 무작위적이고 오도할 수도 있다.",
     "content": [
       "Basing your self-worth on climbing performance puts you at\nthe whim of external factors. These factors may be random\nand misleading. Comparison is one source of illusion. Perhaps\nyou felt that you performed well on a certain climb because\nyour partner was having an off day and found the climbing\nvery difficult. You found it only slightly difficult and conclude\nthat you were climbing quite well, when in fact you were\nclimbing no better than usual. Or, your partner was at the top\nof his game. You felt weak in comparison, when in fact,\nobjectively, you put in a very strong performance. Environmental\nfactors may be involved. Perhaps you mastered your day’s\nobjective due to especially favorable conditions, such as low\nhumidity, when in fact, you really didn’t climb particularly well.\nIn all these cases, the good or bad feelings you have are not\nbased on something you can take credit for. If the performances\nboost your self-worth, the boost is grounded in fiction."
@@ -7416,7 +7416,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_06_q22",
-    "title": "정보와 의미는 분명히 동일한 것이 아니다.",
+    "title": "Information and meaning are, clearly, not the same thing",
     "description": "정보와 의미는 분명히 동일한 것이 아니다. 전자는 특정 상황에서 그 확률이 쉽게 측 정될 수 있는, 해석되지 않은 데이터나 감각 상태를 가리…",
     "content": [
       "Information and meaning are, clearly, not the same thing.\nThe former refers to uninterpreted data or sensory states whose\nprobability in a certain situation can be easily measured; the\nlatter refers to the interpretation of the data or sensory states,\nincluding the special kinds of nuances and values that the\ninformation entails, or is intended to have, in the given situation.\nThis applies to any type of information, from alarm signals to\nsophisticated statements. Take, for instance, a coin-tossing\ngame in which it is decided that throwing three heads in a row\nconstitutes a win. If a certain player ends up consistently with\nthe desired outcome, defeating all who challenge that player,\nthen we tend to interpret the outcome either as the work of\nFortune, or else as clever and undetectable cheating on the part\nof the winning player. Interpretation is at the core of everything\nwe do, think about, and feel."
@@ -7433,7 +7433,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_06_q23",
-    "title": "수업 토론의 목적은 여러분이 수동적인 기록자가 아닌 능동적인 참여자가…",
+    "title": "The purpose of class discussions is to encourage you to be a",
     "description": "수업 토론의 목적은 여러분이 수동적인 기록자가 아닌 능동적인 참여자가 되도록 장 려하는 것이다. 토론에서는 학생들이 생각하고, 반응하고, 응…",
     "content": [
       "The purpose of class discussions is to encourage you to be\nan active participant, not a passive recorder. Much of the\nemphasis in a discussion is on getting students involved in\nthinking, reacting, and responding. These are important\nintellectual activities in the learning process, for through them\nyou are supposed to discover and express your opinions.\nWriting is an invaluable tool for accomplishing these tasks.\nUnfortunately, too many times, when class discussion begins,\npens and pencils go down. Admittedly, it is considerably more\ndifficult to take notes from discussions than from lectures, for,\nunlike lectures, discussions tend to be disorganized and difficult\nto follow. Also, students usually don’t know how much of\nwhat other students are saying is important. And if you are an\nactive participant, it is not easy to take notes and formulate\nwhat you want to say. But note taking in discussions is not\nonly manageable, it is also important. Note taking helps to keep\nyou active and alert; it allows you to impose some organization\non the discussion; and it can prepare you to speak."
@@ -7451,7 +7451,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_06_q24",
-    "title": "우리 모두가 아는 것처럼 음식은 인간의 삶에 필수적이다.",
+    "title": "Food, as we all know, is essential for human life",
     "description": "우리 모두가 아는 것처럼 음식은 인간의 삶에 필수적이다. 그것은 또한 농업, 식품 가공, 식품 소매업, 식품 서비스업과 같은 전 세계 여러 …",
     "content": [
       "Food, as we all know, is essential for human life. It also is\nthe basis for several major industries found in many countries\naround the world such as in agriculture, food processing, food\nretailing and food service. For millennia, the focus of those\ninvolved with food as a human and economic phenomenon\nwas on its production, preservation, distribution, pricing and\nother practical concerns. But in the late 18th century this\nbegan to change. Food became more than just a life necessity.\nRestaurants began to be developed, initially in France but\neventually in other nations, as a distinct institution offering\npeople dining choices and table service, the opportunity for\nsocialization and, over time, a finer and finer atmosphere. The\nrise of restaurants eventually led to a class of diners who\nprided themselves on being critics of taste, food and cooking.\nBrillat-Savarin is probably the best known of the ‘culinary\nphilosophers’ or, in today’s parlance, a ‘foodie’. One of\nBrillat-Savarin’s better known sayings was, ‘[t]ell me what\nyou eat, and I’ll tell you who you are.’"
@@ -7471,7 +7471,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_06_q29",
-    "title": "친밀도의 변화는 감정 강도 조절에 매우 중요하다.",
+    "title": "Changes in the degree of closeness are quite important in ma",
     "description": "친밀도의 변화는 감정 강도 조절에 매우 중요하다. 예를 들어, 텔레비전에 의해 유발 된 감정을 생각해 보라.",
     "content": [
       "Changes in the degree of closeness are quite important in\nmanaging emotional intensity. Take, for example, emotions\ninduced by television. Closeness and familiarity are important\nin making the fictional environment more real. Accordingly,\nmost TV shows are set in the present or in a time within the\nmemory of the viewers. Most characters are supposed to be\ntypes with whom we are familiar. Such closeness and familiarity\nmake it easier for us perceive the imaginary story to be a\nreal one. In other circumstances, such as when violence is\nshown on TV, the closeness variable is used to reduce emotional\nintensity. Television entertainment tends to place social problems\ninvolving violence in another time and place, letting us watch\nthose fictionalized characters search for solutions to our\nproblems in settings safely distanced from our own. When\nviolence occurs in a contemporary setting, it is generally the\nproduct of the interaction of police and criminals ― again, it\nis removed from the lives of good citizenry."
@@ -7491,7 +7491,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_06_q30",
-    "title": "여러분이 쓴 글에 대한 청중을 확보하는 데에는 단지 목소리를 찾는 것…",
+    "title": "Gaining an audience for your writing involves not just findi",
     "description": "여러분이 쓴 글에 대한 청중을 확보하는 데에는 단지 목소리를 찾는 것뿐만 아니라, 그 목소리가 여러분이 의도한 독자들과 공명하도록 보장하는 …",
     "content": [
       "Gaining an audience for your writing involves not just\nfinding a voice but ensuring that voice resonates with your\nintended readers. Entrepreneurs understand the importance of\nbuilding a brand that makes them memorable and distinct from\ntheir competitors, drawing customers to their products or\nservices. They achieve this by pinpointing their target\naudience, crafting a unique value proposition, and shaping a\nrecognizable identity. While scholars might initially find these\nentrepreneurial concepts alien, they actually engage in\nsimilar practices when they set themselves apart in their\nacademic writing. Consider the typical literature review and\nmotivation section of a scholarly article ― the aim is to\nhighlight gaps in existing research and position oneself as\nthe one who will address these overlooked areas. The\nchallenge, as Labaree suggests, is not just in developing\ninnovative ideas but in cultivating a distinctive voice that\nmakes readers think, “Ah, this sounds like [the author].” It’s about\nbalancing the expression of your ideas with the development\nof a unique voice that leaves a temporary impression on\nyour audience."
@@ -7509,7 +7509,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_06_q31",
-    "title": "인간 심리학과 교육계(일부 동물 연구자들까지도!)는 동물의 사회적 학…",
+    "title": "The human psychology and education communities (as well as s",
     "description": "인간 심리학과 교육계(일부 동물 연구자들까지도!)는 동물의 사회적 학습을 설명할 때 ‘가르치기’라고 언급하는 것에 반대해 왔는데, 주된 이유…",
     "content": [
       "The human psychology and education communities (as\nwell as some animal researchers!) have been against referring\nto “teaching” when describing social learning in animals,\nmainly because teaching implies a level of on\nthe part of the model that is difficult to measure in animals.\nNonetheless, there has been a movement within the animal\ncognition community to say that animals can, in fact, teach\none another. For example, skilled ants engage in a behavior\ncalled tandem running, in which they touch their bodies to the\nbody of a novice ant as they lay down chemical trails,\npresumably to assist the newcomer with route learning. Killer\nwhales also repeat the same seal hunting technique in front of\ntheir offspring, sometimes without even killing the seal,\nleading researchers to ask why they would repeatedly catch\nand release a seal if they were not planning to eat it.\nConsidering the amount of energy they’d have to expend,\nthere would need to be a good reason, and that reason might\nbe teaching."
@@ -7529,7 +7529,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_06_q32",
-    "title": "21 작가는 흔히 자신이 등장인물의 얼굴을 묘사했다는 인상을 우리에게…",
+    "title": "Writers often give us the impression that they have describe",
     "description": "21 작가는 흔히 자신이 등장인물의 얼굴을 묘사했다는 인상을 우리에게 주지만, 사실, 그 들은 여러분에게 채워 넣어야 할 윤곽만 제시했을 뿐…",
     "content": [
       "Writers often give us the impression that they have\ndescribed the faces of their characters, when in fact they have\nsimply given you an outline to fill in. Of Esch, the most\nimportant character in Hermann Broch’s masterpiece The\nSleepwalkers, we learn only that he has big teeth. Even so, we\ndon’t feel as if his face is a dentate blankness. Most often, we\nmistake being told what effect someone’s appearance has\nfor an account of that appearance. The poet Mallarmé’s advice\n― Peindre non la chose, mais l’effet qu’elle produit (‘Paint\nnot the thing itself but the effect it produces’) sounds like\na self-denying ordinance. Actually it is a rather clever way\nout of an intractable problem. When, in one of his novels,\nEvelyn Waugh says of a new character, that ‘he had just the\nkind of appearance one would expect a young man of his\ntype to have’ and nothing else, you still feel as if you\n. [3점]"
@@ -7546,7 +7546,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_06_q33",
-    "title": "우리가 한 곳에 집중할 때, 우리는 모든 연산력을 중요한 몇 가지 과…",
+    "title": "When we narrow, we’re redirecting all of our computing power",
     "description": "우리가 한 곳에 집중할 때, 우리는 모든 연산력을 중요한 몇 가지 과정으로 다시 향 하게 하고 있다. 그것은 마치 느린 와이파이를 돕기 위해…",
     "content": [
       "When we narrow, we’re redirecting all of our computing\npower to the handful of processes that matter. It’s as if to help\nwith our slow Wi-Fi, we disconnect our phone and tablet, just\nso that our video conference call won’t lag. Narrowing also\nhelps with goal attainment. It cuts out all of the other\ndistractions and places the most important goal front and\ncenter. When we home in, we increase motivational intensity,\nreinforcing that what’s in front of us is what we should be\nafter. For a brief moment, the trade-off can be worthwhile, but\nwhen we , we start to miss\ncues and signals. We get locked in on one path without being\nable to step back and see a better route. When we’re stuck\nnarrowed in for too long, accidents go up and performance\ndrops. We miss hearing alarms that signal there’s a problem\nelsewhere."
@@ -7564,7 +7564,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_06_q34",
-    "title": "지리학과 풀 수 없게 연관된 단어가 하나 있는데, 바로 ‘어디에서’이다.",
+    "title": "One word is inextricably associated with geography: where",
     "description": "지리학과 풀 수 없게 연관된 단어가 하나 있는데, 바로 ‘어디에서’이다. 이는 지리학 이 어떤 일이 지구 표면의 어디에서 일어나는지가 중요하…",
     "content": [
       "One word is inextricably associated with geography: where.\nThat is because geography starts from the premise that it\nmatters where something takes place on Earth’s surface. The\nkey questions are not simply “where” questions, though; they\nare “why there” and “so what” questions. Getting to such\nquestions means taking spatial arrangements, variations, and\ninterconnections seriously. Engaging in even the simplest\nday-to-day activity requires some appreciation of spatial\ncircumstances ― where to find food and services, how to get\nto work places, and the like. Moving up in scale, without some\nawareness of ,\nit is difficult to make reasoned business or policy judgments,\nmake sense of events, or grasp some of the basic forces\nshaping life on the planet. Locating a new store or public\nservice requires taking into consideration population distributions,\nthe location of roads and utilities, socio-economic patterns,\nand more. Understanding why and where migration happens\nrequires consideration of the political organization of territory,\nthe spatial consequences of discrimination, socio-economic\npatterns, and the layout of the physical environment. [3점]"
@@ -7584,7 +7584,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_06_q35",
-    "title": "진정한 빙하는 영구적이어야 한다.",
+    "title": "A genuine glacier must be permanent",
     "description": "진정한 빙하는 영구적이어야 한다. 일반적으로, 이는 연간 기준으로는 빙하가 지역적 및 지구적 기후 조건에 따라 팽창하거나 수축할 수도 있지만…",
     "content": [
       "A genuine glacier must be permanent. Generally, this\nimplies that sufficient fresh snow must accumulate during the\ncold months to offset melting during the summer, although on\na year-to-year basis, glaciers may expand or contract,\ndepending on local and global climatic conditions. Today,\nmost glaciers around the world are melting because of the\nwarming climate, and it appears that the rate of melting is\naccelerating. This has been documented spectacularly in\nplaces such as the Alps, where historical records have been\nkept and dated sketches and photographs are available to\ncompare with the present extent of ice. Even over periods\nas short as a few decades, satellite images show that dramatic\nreduction of mountain glaciers has occurred in the Andes,\nthe Himalayas, and elsewhere. The various rocks and\nminerals contained in glaciers have become a popular subject\nof science projects in schools. It is estimated that many\nsmall mountain glaciers will disappear completely within ten\nto twenty years unless there is a sudden and unexpected\nchange in the present warming trend."
@@ -7602,7 +7602,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_06_q36",
-    "title": "24 우리가 우리의 시초를 진화론적으로 살펴보면, 우리는 생존을 위해…",
+    "title": "If we take an evolutionary look at our beginnings, we see a ",
     "description": "24 우리가 우리의 시초를 진화론적으로 살펴보면, 우리는 생존을 위해 높은 수준의 신체 활동이 필요했던 삶을 보게 된다.",
     "content": [
       "If we take an evolutionary look at our beginnings, we see\na life in which high levels of physical activity were required\nfor survival.\n(A) There are fewer manual jobs, we do not need to travel on\nfoot, we do not need to hunt and harvest for our food, and\nmany domestic chores have been mechanized. While these\nchanges have created many benefits for our longevity and\nquality of life, they have also created many problems.\n(B) Lack of sufficient physical activity has now been linked to\nat least 17 unhealthy conditions, almost all of which are\nchronic diseases or considered risk factors for chronic\ndiseases. Adrianne Hardman has summarized this serious\nsituation for public health: “Physical inactivity is a waste\nof human potential for health and well-being.”\n(C) Even one century ago, most people needed to be physically\nactive to work, to travel, and to take care of homes and\nfamilies. Our modern world has engineered such activity\nout of our lives."
@@ -7620,7 +7620,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_06_q37",
-    "title": "혼돈의 좋은 예는 사무용 장난감으로 판매되는 자기 진자이다.",
+    "title": "A good example of chaos is the magnetic pendulum sold as an ",
     "description": "혼돈의 좋은 예는 사무용 장난감으로 판매되는 자기 진자이다. 그것에는 바닥에 사각 형으로 배열된 네 개의 자석이 있고 그것들 사이에서 앞뒤로…",
     "content": [
       "A good example of chaos is the magnetic pendulum sold\nas an executive toy. It has four magnets arranged in a\nsquare at the base and a pendulum that swings back and\nforth between them.\n(A) In order to produce chaos, the iteration has to be within\nwhat is called a nonlinear system. Nor are all nonlinear\nsystems chaotic: to become so they need to be pushed\nbeyond a certain point, called a bifurcation. Before that\npoint is reached they may behave in a quite orderly fashion.\n(B) Release the pendulum and note the magnets that it visits,\nand in what order. If the pendulum is released from the same\nposition a second time, the pattern of movement may at\nfirst be the same but soon it will become completely\ndifferent. In fact, the pattern of its movement is chaotic.\n(C) No matter how much care is taken to start the pendulum\nin the same position, it will visit an entirely different set of\npoints on the two occasions. Chaotic systems are generated\nby iteration, though not all iteration leads to chaos. [3점]"
@@ -7639,7 +7639,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_06_q38",
-    "title": "연구에 따르면, 사람들은 귀여워 보이고 아름다운(우아한) 디자인에 강…",
+    "title": "But cute and beautiful designs also have downsides",
     "description": "연구에 따르면, 사람들은 귀여워 보이고 아름다운(우아한) 디자인에 강한 본능적인 관 심과 접근하고 소유하고자 하는 욕구를 보인다.",
     "content": [
       "But cute and beautiful designs also have downsides.\nResearch finds that people show a strong visceral interest in\nand desire to approach and own cute-looking and beautiful\n(elegant) designs. ( ) However, cute and beautiful designs\nelicit two very different motivations. ( ) A cute product or\npackage design elicits a nurturing motivation ― a desire to\ntake care of and keep the product, to hold it dear to our hearts\nand never let it go. ( ) The beautiful product or package\ndesign elicits a self-expressive, or signaling, motivation ― a\ndesire to express oneself to others through product ownership.\n( ) Certain types of cute products can be associated with a\nlack of sophistication or seriousness, which can reduce\nperformance expectations (lowering perceived enablement\nbenefits). ( ) Beautiful-looking designs may not attract\nattention over time because people become desensitized to\nthem."
@@ -7657,7 +7657,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_06_q39",
-    "title": "연구자들은 우리가 세상에서 겪는 일상적인 신체적 경험이 수학 개념의 …",
+    "title": "They might be sitting still as they imagine all of this walk",
     "description": "연구자들은 우리가 세상에서 겪는 일상적인 신체적 경험이 수학 개념의 이해에 어떻 게 기여하는지를 연구하고 있다.",
     "content": [
       "They might be sitting still as they imagine all of this walking\nback and forth along their path; but they are reliving, at\nleast in their imagination, the movement of their feet.\nResearchers are studying how our everyday physical\nexperiences in the world contribute to our understanding of\nmathematical concepts. ( ) The experience of walking\nalong a path, for example, can be a metaphor for thinking about\narithmetic. ( ) The path starts at some point 0 and as\nchildren walk along, every step takes them 1 unit further from\nthe starting point; they can even take half steps or skip along\ntwo steps at a time. ( ) If they want to imagine what it might\nmean to add 5 and 9, they could think of first walking 9 steps\nand then walking 5 more. ( ) But that also helps them\nthink about what 14－3 might mean because they can imagine\nwalking backwards. ( ) If they close their eyes, they might\neven imagine the shape of the path, the smell of the trees, and\nthe sound that is made when they step on the dried leaves. [3점]"
@@ -7674,7 +7674,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_06_q40",
-    "title": "기술적 설계에서, ‘이음매 없음’을 향한 열망은 인간의 기술적 경험이…",
+    "title": "A serious deterioration in people’s working lives would be d",
     "description": "기술적 설계에서, ‘이음매 없음’을 향한 열망은 인간의 기술적 경험이 우리의 일상생 활에 매끄럽게 녹아들게 하는 것을 목표로 한다.",
     "content": [
       "A serious deterioration in people’s working lives would\nbe deeply disturbing to the social order. Indeed, few\nconsequences of technological change would be as\ndangerous. Today, the world of work is the main way that\nwe share out the fruits of growth: for most people, their\njob is their main, if not their only, source of income.\nTechnological unemployment would weaken that longstanding\narrangement, encouraging an even more extreme version\nof inequality in which some people receive more income\nthan others and many receive nothing at all. Nor would the\ndisturbance be only economic. For many people, their\nwork is both a source of income and of meaning. And with\nthat in mind, the threat is even broader: not only that the\nlabor market might be hollowed out, leaving some unable\nto find a good job and a reliable income, but that this sense\nof fulfilment that some people are fortunate to feel in their\njobs might be hollowed out as well, leaving them unable to\nfind purpose and live a satisfying life."
@@ -7693,7 +7693,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_06_q42",
-    "title": "나 여기 있어!” Laura가 Darlingdale Farmer's …",
+    "title": "I’m over here!” shouted Laura, waving brightly at Cathy at t",
     "description": "“안녕! 나 여기 있어!” Laura가 Darlingdale Farmer's Market 입구에서 Cathy 를 향해 밝게 손을 흔들며 소리…",
     "content": [
       "“Hi! I’m over here!” shouted Laura, waving brightly at\nCathy at the entrance of Darlingdale Farmer’s Market. Seeing\nher friend, Cathy rushed over in delight. Cathy had recently\nmoved into Laura’s town, and this was going to be (a) her\nfirst experience at a real farmer’s market. Born and raised in\na big city, where large supermarkets were more common,\nCathy had never had a chance to buy freshly-picked fruits or\nvegetables.\nCarrying the bags of peaches, Cathy came back and\nnoticed Laura holding a box of blueberries and jars of jam.\n“Cathy, those peaches look delicious! I bought some blueberries.\nWould you like to go to my place and make blueberry\npancakes together?” Laura asked. “Yes, that’s an excellent\nidea!” replied Cathy happily. As they walked out of the\nmarket, Cathy thanked her friend for the special experience,\nsaying “(b) I really love this place! Thank you for the\nwonderful day.”\nEntering the market, Laura said, “Let me show you around.\nAre you ready?” Cathy answered excitedly, “Absolutely! I’m\ngoing to buy some fresh peaches!” The market was already\ncrowded with people of all ages. “Cathy, you can taste the\nbest of the season here,” said Laura. Cathy smiled and began\nto look around. Meanwhile, Laura found some strawberry\njam for sale. She walked over to buy some. Curious to explore\nmore, Cathy said, “While (c) you’re buying jam, I’ll look\naround the market and get some peaches.”\nWandering away from Laura, Cathy began to search for\npeaches. Cathy walked past booths of fresh flowers and\nhand-made soaps, which smelled heavenly. From a fruit stand,\n(d) she picked out some beautiful, ripe peaches. The fruit seller\ntold her, “Those peaches are a great choice because they’re\nonly here until this week. If you miss them now, (e) you’ll\nhave to wait another year for the season.” Hearing that, Cathy\nsaid, “Oh, I’ll get some more then! They’re really cheap!” She\nbought two bags of peaches."
@@ -7711,7 +7711,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_09_q20",
-    "title": "직장에 늦게 나타나거나 욕설을 사용하는 것은 모든 기업이 없애고 싶은…",
+    "title": "Showing up late for work and using abusive language are the ",
     "description": "직장에 늦게 나타나거나 욕설을 사용하는 것은 모든 기업이 없애고 싶은 유형의 문제 이다. 이를 달성하기를 바라는 기업 지도자들은 흔히 규칙을…",
     "content": [
       "Showing up late for work and using abusive language are\nthe kinds of problems that every business wants to eliminate.\nBusiness leaders looking to achieve this often focus on finding\n“bad apples” who break their rules and then punishing them.\nThis assumes that the bad apples are acting badly on purpose.\nIn fact, one common reason that employees give for breaking\nrules is that they were unaware their behavior was undesirable.\nThere are some actors who knowingly act against policy, but\nmany problems are unintentional failings. If businesses want\nbetter employees, those businesses must create clear standards\nand educate their employees directly about how to follow\nthem. Without these standards there would be no way to\ndistinguish bad apples from merely uninformed apples."
@@ -7729,7 +7729,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_09_q21",
-    "title": "다음은 음악의 근본적 특성이다.",
+    "title": "Here is a fundamental quality of music",
     "description": "다음은 음악의 근본적 특성이다. 음 이름들이 반복되는 것은 주파수의 두 배와 절반 에 상응하는 지각 현상 때문이다.",
     "content": [
       "Here is a fundamental quality of music. Note names repeat\nbecause of a perceptual phenomenon that corresponds to the\ndoubling and halving of frequencies. When we double or\nhalve a frequency, we end up with a note that sounds\nremarkably similar to the one we started out with. This\nrelationship, a frequency ratio of 2:1 or 1:2, is called the\noctave. It is so important that, in spite of the large differences\nthat exist between musical cultures, every culture we know of\nhas the octave as the basis for its music, even if it has little else\nin common with other musical traditions. This phenomenon\nleads to the notion of circularity in pitch perception, and is\nsimilar to circularity in colors. Although red and violet fall at\nopposite ends of the continuum of visible frequencies of\nelectromagnetic energy, we see them as perceptually similar.\nThe same is true in music, and music is often described as\nhaving two dimensions, one that accounts for tones going up\nin frequency and another that accounts for the perceptual sense\nthat we’ve come back home again each time we double a\ntone’s frequency.\nidentified tonal differences within the same octave\nreturned to the original note with an identical frequency\nreached a note named the same but with a different pitch\nrestored musical sensitivity by adapting to various octaves\nconstructed frequency patterns from notes with the same name"
@@ -7750,7 +7750,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_09_q22",
-    "title": "사람들이 소셜 미디어에 참여하는 한 가지 이유는 그것이 사회적 관계를…",
+    "title": "One reason that people participate in social media is becaus",
     "description": "사람들이 소셜 미디어에 참여하는 한 가지 이유는 그것이 사회적 관계를 형성하기 때 문이다. 우리가 소셜 미디어에 성공적으로 참여할 때, 우리…",
     "content": [
       "One reason that people participate in social media is because\nit builds social relations. We increase our social capital when\nwe successfully engage in social media. Social capital describes\nthe networks of relationships we have that are built on mutuality\nand sharing of identity, understanding, norms and values. We\nbuild ties that may pay off with a job lead or a letter of\nrecommendation. We reinforce our identities through our online\npresentation in a personal blog or our profile. “The premise\nbehind the notion of social capital is rather simple and\nstraightforward: investment in social relations with expected\nreturns,” noted sociologist Nan Lin. Lin’s work stresses that it\nis who you know as much as what you know that shapes our\nexperience in society. With new media, our reach of connecting\nis all the greater, expanding our “who you know” to greater\nand greater lengths."
@@ -7769,7 +7769,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_09_q23",
-    "title": "한 사람의 생애를 기록하는 데 있어서, 생애 서술자와 전기 작가는 서…",
+    "title": "In writing a life, the life narrator and the biographer enga",
     "description": "한 사람의 생애를 기록하는 데 있어서, 생애 서술자와 전기 작가는 서로 다른 종류의 증거를 사용한다. 대부분의 전기 작가들은 역사적 문서, …",
     "content": [
       "In writing a life, the life narrator and the biographer engage\ndifferent kinds of evidence. Most biographers incorporate\nmultiple forms of evidence, including historical documents,\ninterviews, and family archives, which they evaluate for validity.\nRelatively few biographers use their personal memories of\ntheir subject as reliable evidence, unless they had a personal\nrelationship to the subject of the biography (as a relative,\nchild, friend, or colleague). For life narrators, by contrast,\npersonal memories are the primary archival source. They may\nhave recourse to other kinds of sources ― letters, journals,\nphotographs, conversations ― and to their knowledge of a\nhistorical moment. But the usefulness of such evidence for\ntheir stories lies in the ways in which they employ that\nevidence to support, supplement, or offer commentary on their\npersonalized acts of remembering. In autobiographical narratives,\nimaginative acts of remembering always overlap with such\nrhetorical acts as assertion, justification, judgment, conviction,\nand questioning."
@@ -7786,7 +7786,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_09_q24",
-    "title": "수도원은 중세 시대의 원동력이었다.",
+    "title": "Monasteries were the engine rooms of the Middle Ages",
     "description": "수도원은 중세 시대의 원동력이었다. 수도원은 활동과 영향력이 정점에 있을 때, 교회 와 시민 정부 기관들에 지적 지도력, 종교적 사상과 관행…",
     "content": [
       "Monasteries were the engine rooms of the Middle Ages.\nAt the height of their activities and influence, monasteries\nprovided intellectual leadership for the institutions of Church\nand civil governments, innovation in religious thought and\npractice, medical provision, education, visual culture and\nagricultural development. They did all this while apparently\nobserving self-imposed isolation from the wider community.\nFor monasteries were intended to function as places set apart\nfrom the world, in which monks devoted their lives to a\npermanent rhythm of religious observance, prayer and study.\nReligious prayer and praise lay at the heart of monasticism.\nBoth those following this life and those outside believed that\nmonastic lives were led for the benefit of wider society, and\nthat the sacrifices made by monks in separating themselves\nfrom ‘normal’ human contact functioned as penances on\nbehalf of the community as well as for their own deliverance.\nMonks were regarded as leading parallel lives that had the\npower to save themselves and others."
@@ -7805,7 +7805,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_09_q29",
-    "title": "꿀은 그 자체로 먹거나 다른 재료와 섞을 수 있다.",
+    "title": "Honey can be eaten by itself or mixed with other ingredients",
     "description": "꿀은 그 자체로 먹거나 다른 재료와 섞을 수 있다. 천연 또는 순수 꿀은 첨가물, 방 부제, 또는 합성 성분이 전혀 더해져 있지 않다.",
     "content": [
       "Honey can be eaten by itself or mixed with other ingredients.\nNatural or pure honey has had no additives, preservatives or\nsynthetic ingredients added. Also referred to as ‘undiluted’,\nit is usually more expensive than diluted honeys. Natural\nhoney can also be called ‘blended honey’, which honeys\nfrom various sources are blended together ― not by the bees,\nbut by human processors and distributors in stages after the\nhoney has been collected. Blending is frequently done for taste\nas well as marketing reasons, especially since some consumers\nfind the darker honeys too strong. Mixing different types of\nhoney together can make it more palatable, and also gives a\nmore uniform flavour ― this is an important consideration for\nproducers and retailers, who feel the need to guarantee\nreliable, unsurprising (typically mild) flavours to their customers.\nClover is one of the most popular honeys in the U.S., and its\nmild flavour and taste have become familiar to many Americans."
@@ -7823,7 +7823,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_09_q30",
-    "title": "소프트 패스 하천 공학이란 무엇인가?",
+    "title": "What is soft-path river engineering",
     "description": "소프트 패스 하천 공학이란 무엇인가? 그것의 정신을 시각화하는 한 가지 방법은 그 것을 숲속의 오솔길에 비유하는 것이다.",
     "content": [
       "What is soft-path river engineering? One way to visualize its\nspirit is to liken it to a footpath in the forest. Suppose a tree\nfalls across a footpath. A soft-path response would be simply\nto redirect the trail around the fallen tree. A more interventionist\nresponse would be to remove the tree and restore the\noriginal route. A still more interventionist response might be to\nstraighten and pave the path to insert it more permanently in\nthe landscape. The true high-modernist step would, of course,\nbe to create a superhighway that removes the landscape\nand bulldozes straight through all obstacles in the topography.\nSoft-path engineering has the unique advantage of intellectual\nmodesty with respect to what we actually know about river\nmovement and its environmental effects. In contrast to hard-path\nengineering, soft-path engineering accepts variability in the\nriver’s movement as insignificant until proven otherwise.\nBackwaters, short-lived wetlands, braids and channels, swamps\n― all undesirable to hard-path engineering ― are presumed by\nsoft-path engineers to be ecologically important."
@@ -7842,7 +7842,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_09_q31",
-    "title": "우리는 동물이 자신에게 약간의 안전을 부여하기 위해 포식자의 지각을 …",
+    "title": "We know that animals have evolved a variety of patterns to m",
     "description": "우리는 동물이 자신에게 약간의 안전을 부여하기 위해 포식자의 지각을 조작하는 다 양한 방식을 진화시켜 왔음을 알고 있다.",
     "content": [
       "We know that animals have evolved a variety of patterns to\nmanipulate the perceptions of their predators to afford\nthemselves a modicum of safety. Greater Bower birds utilize\nin the mating domain. Males construct a\nbower; its function is to provide an arena in which males\ndisplay to females standing in an avenue that leads up to the\nbower. The males decorate the avenue with a variety of\nobjects, such as stones and shells. But they do not do so in a\nchaotic manner. The larger objects are placed closer to the\nbower and the smaller objects farther away. This creates a\nforced perspective the opposite of the Cinderella Castle; the\nbower appears smaller than it actually is. Endler and his\ncolleagues suggested that the male courting in the bower now\nappears larger and thus more attractive to the female. Data on\nmale mating success collected in the wild supports their\nhypothesis."
@@ -7860,7 +7860,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_09_q32",
-    "title": "비록 공감이 학자들과 공인들에 의해 널리 칭송받지만, 모든 사람이 공…",
+    "title": "Although empathy is widely praised by scholars and public fi",
     "description": "비록 공감이 학자들과 공인들에 의해 널리 칭송받지만, 모든 사람이 공감을 북돋는 것은 아니다. 공감의 비판자들은 공감이 우리를 개인 간 및 …",
     "content": [
       "Although empathy is widely praised by scholars and public\nfigures, not everyone is an empathy booster. Critics of empathy\nargue that empathy will not save us from interpersonal and\nintergroup conflict. In fact, they argue, empathy makes such\nconflicts worse. These critics maintain that empathy can be\nexhausting and lead to burnout, insensitivity to suffering, or\nworse. They argue that we tend to empathize strongly with\nour in-group and resist empathizing with out-groups, and\neven enjoy the suffering of out-groups in competitive or\nthreatening contexts. Thus, the prescription for more empathy\n. Empathy,\nthey argue, can further entrench conflict and force us into an\nus vs. them mentality. Finally, even when we try to empathize\nwith others who are dissimilar from us or in unfamiliar\ncontexts, sometimes we are unable to accurately empathize\nwith their experiences, causing further misunderstandings and\nfrustration. Critics of empathy argue that we should give up on\nempathy and employ other tools in pursuit of social harmony,\ne.g., rational compassion or moral emotions like fear, anger,\nand shame. [3점]"
@@ -7879,7 +7879,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_09_q33",
-    "title": "22 다른 생태계들과 비교했을 때, 숲은 상대적으로 다양하지만, 이것…",
+    "title": "Compared to other ecosystems, forests are relatively diverse",
     "description": "22 다른 생태계들과 비교했을 때, 숲은 상대적으로 다양하지만, 이것이 반드시 숲이 아닌 곳을 숲으로 전환하기 위한 타당한 이유가 될 수는 …",
     "content": [
       "Compared to other ecosystems, forests are relatively diverse,\nbut this should not necessarily be .\nWetlands, meadows, and grasslands have a unique biota too,\neven if it is often not as rich as a forest biota. The ecological\nproblems of this process have been described from a number\nof places such as Iceland, South Africa, and Australia, but the\nclassic example of this comes from Scotland and northern\nEngland. Here the Forestry Commission has drained, fertilized,\nand fenced extensive areas of wetlands to facilitate turning\nthem into forests. Increasing the extent of forests in Britain is\ncertainly a desirable goal, and most of the Forestry Commission’s\nefforts are directed toward sites that were forested before\nsheep and their keepers came to the island. However, ecologists\nfrequently complain about the Commission’s work because it\nis not restricted to former forest sites, because the forests\nestablished are usually composed of exotic trees, and because\nthe wildlife threatened by this activity includes many\nuncommon species."
@@ -7896,7 +7896,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_09_q34",
-    "title": "여러 행위자의 선호를 하나의 집단적 선택으로 모을 때, 특정 경우들은…",
+    "title": "When gathering the preferences of multiple agents into one c",
     "description": "여러 행위자의 선호를 하나의 집단적 선택으로 모을 때, 특정 경우들은 무작위 추출 이나 동점을 가르는 다른 방법들이 필요하다는 것을 쉽게 알…",
     "content": [
       "When gathering the preferences of multiple agents into\none collective choice, it is easily seen that certain cases\n. For example,\nif there are two alternatives, a and b, and two agents such that\none prefers a and the other one b, there is no deterministic way\nof selecting a single alternative without violating one of two\nbasic fairness conditions known as anonymity and neutrality.\nAnonymity requires that the collective choice ought to be\nindependent of the agents’ identities whereas neutrality requires\nimpartiality towards the alternatives. Allowing lotteries as\nsocial outcomes hence seems like a necessity for impartial\ncollective choice. Indeed, most common “deterministic” social\nchoice functions such as plurality rule are only deterministic\nas long as there is no tie, which is usually resolved by drawing\na lot. The use of lotteries for the selection of officials\ninterestingly goes back to the world’s first democracy in Athens,\nwhere it was widely regarded as a principal characteristic of\ndemocracy, and has recently gained increasing attention in\npolitical science. [3점]"
@@ -7915,7 +7915,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_09_q35",
-    "title": "모든 근로자들은 그들의 직무, 직장, 그리고 조직 내에서 이용 가능한…",
+    "title": "All workers need access to mentors that can provide them wit",
     "description": "모든 근로자들은 그들의 직무, 직장, 그리고 조직 내에서 이용 가능한 자원에 대해 가치 있는 정보를 제공해 줄 수 있는 멘토에게로의 접근이 …",
     "content": [
       "All workers need access to mentors that can provide them\nwith valuable information about their job, their workplace, and\nthe resources that are available within their organization. Mentors\nalso provide much needed psychosocial support. Having a\ndiverse network of mentors is important for dominant and\nminority group members alike. Minority group members\nneed diverse mentors so that they can gain insight into what it\nmeans to be employed by a particular organization or in a\nparticular field or profession. Majority workers benefit by\nhaving a network of diverse mentors because it increases their\nunderstanding and sensitivity to the unique realities of diverse\nworkers and their own identity, and perhaps even their own\nforms of privilege. Mentoring has been typically required and\npraised as an essential component in the personal development of\nemployers. The ultimate goal of these mentoring opportunities\nis to have individuals be more informed, identified, and engaged\nin their work and in their organization."
@@ -7933,7 +7933,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_09_q36",
-    "title": "전통적으로, 글쓰기를 가르칠 때, 교사들은 학생들이 글을 쓸 주제를 …",
+    "title": "Traditionally, when teachers teach writing, they assign topi",
     "description": "전통적으로, 글쓰기를 가르칠 때, 교사들은 학생들이 글을 쓸 주제를 배정해 주고, 아 마도 사전 글쓰기 단계에서 그 주제에 대해 약간의 브레…",
     "content": [
       "Traditionally, when teachers teach writing, they assign\ntopics for students to write on; perhaps they do a bit of\nbrainstorming about the topic during a pre-writing phase,\nand then have students write about the topic without\ninterruption.\n(A) In process writing, on the other hand, students may\ninitially brainstorm ideas about a topic and begin writing,\nbut then they have repeated conferences with the teacher\nand the other students, during which they receive feedback\non their writing up to that point, make revisions, based on\nthe feedback they receive, and carry on writing.\n(B) In this way, students learn to view their writing as someone\nelse’s reading and to improve both the expression of\nmeaning and the form of their writing as they draft and\nredraft. Process writing shifts the emphasis in teaching\nwriting from evaluation to revision.\n(C) Subsequently, teachers collect and evaluate what students\nhave written. Such instruction is very ‘product-oriented;’\nthere is no involvement of the teacher in the act or\n‘process’ of writing.\n－\n－\n－\n－\n－\n－\n－\n－\n－\n－\n-- 6 of 8 --"
@@ -7951,7 +7951,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_09_q37",
-    "title": "아마도 어느 순간 여러분은 수학적 글을 본 적이 있지만, 그것을 이해…",
+    "title": "Perhaps at some point you have seen some mathematical writin",
     "description": "아마도 어느 순간 여러분은 수학적 글을 본 적이 있지만, 그것을 이해하지 못했을 수 도 있다. 여러분이 처음은 아니므로, 안심해도 되는 것이…",
     "content": [
       "Perhaps at some point you have seen some mathematical\nwriting and not understood it.\n(A) The complicated notations that might spring to mind ― all\nthose strange dashes, squiggles and letters ― are obvious\nsigns, but a lot of those are really quite modern. Mathematics\nhad been going on for a long time before the dashes and\nsquiggles were invented.\n(B) You would not be the first; rest assured, even professional\nmathematicians sometimes have to rely on discussions\nwith colleagues to properly understand problems they are\nlooking at. But how do you recognise some writing is\nmathematical in the first place?\n(C) Put simply, there has to be something mathematical going\non for us to say that it is mathematics. And if we are\ndealing with writing from a very distant past, in a\nlanguage that is not familiar to us, from a time even\nbefore recorded language, that can be sometimes difficult\nto recognise. [3점]"
@@ -7968,7 +7968,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_09_q38",
-    "title": "잎이 땅에 떨어지는 것은 잎이 죽어가기 때문이 아니라, 나무가 노화라…",
+    "title": "As winter approaches, the length of the day shortens, the te",
     "description": "잎이 땅에 떨어지는 것은 잎이 죽어가기 때문이 아니라, 나무가 노화라고 불리는 영 리한 재순환의 능동적 과정을 시작하기 때문이라는 점은 주목…",
     "content": [
       "As winter approaches, the length of the day shortens, the\ntemperature drops, and plants, including trees, can detect\nthis change.\nIt is worth pointing out that leaves don’t drop to the ground\nbecause they are dying ― rather, the tree initiates an active\nprocess of clever recycling called senescence. A tree, like an\noak for example, would struggle to survive through a harsh\nwinter if it retained its canopy of leaves. ( ) It would risk\ndamage from strong winter winds and would lose more water\nfrom its leaves than it could draw up from the frozen ground.\n( ) If it didn’t blow over, it would die of thirst. ( ) It\nsignals to them that it is time to lose their leaves. ( ) First,\nhowever, trees carefully suck all of the useful nutrients out of\nthe leaves and then, with surgical precision, block up that\npathway into the leaves. ( ) That blocked pathway at the\nbase of the leaf stem creates a weakness and, in the wind, the\nleaves snap off and fall to the ground."
@@ -7985,7 +7985,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_09_q39",
-    "title": "역사학자들은 무엇이 일어났고 그것이 왜 일어났는지를 이해하기 위해 증…",
+    "title": "The problem of survival lies at the root of many of the hist",
     "description": "역사학자들은 무엇이 일어났고 그것이 왜 일어났는지를 이해하기 위해 증거를 활용한 다. 건축사에서 이러한 증거는 건물 그 자체나 그것의 잔해,…",
     "content": [
       "The problem of survival lies at the root of many of the\nhistorian’s problems, for what has survived may not\nnecessarily be more significant than what has not survived.\nHistorians use evidence in order to understand what happened\nand why it happened. In architectural history this evidence\nmay take the form of the buildings themselves or their\nremains, and documents such as plans, drawings, descriptions,\ndiaries or bills. ( ) Our picture of any period of history is\nderived from a multitude of sources, such as the paintings,\nliterature, deeds, buildings and other artefacts that have survived.\n( ) The Egyptian pyramids have survived thousands of\nyears, but historical significance is not just a question of\ndurability. ( ) These buildings were part of a rich and\ndiverse culture, much of which has been lost. ( ) They are\nhistorical facts, but facts by themselves, even such massive\nfacts as the pyramids, are just the first stage in any historical\nstudy, and until they have been evaluated, placed in context\nand interpreted, they tell us little. ( ) Different historians\nmay place different values on the same facts, and the discovery\nof new evidence may modify or change existing theories and\ninterpretations. [3점]"
@@ -8004,7 +8004,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_09_q40",
-    "title": "사회적 실재감은 유선 전화 환경에서 처음 발달한 이후 많은 반복을 거…",
+    "title": "In most fiction, characters’ lives are limited to the indivi",
     "description": "사회적 실재감은 유선 전화 환경에서 처음 발달한 이후 많은 반복을 거쳐 진화해 왔28 지만, 대화 환경 내에서 다른 사람과 연결되어 있다는 …",
     "content": [
       "In most fiction, characters’ lives are limited to the\nindividual work. Readers may disagree on the characteristics\nand traits of fictional figures, and in drama there is room\nfor different interpretations of characters. However, it is\nless common for characters in literary fiction to reappear\nin subsequent works than in genre fiction, where series\nfeaturing the same central characters are common. This is\neven more pronounced in comics, which are typically\nserialized in newspaper strips or comic books. Thus\ncharacters introduced in the 1930s, like Superman and\nBatman, may still enjoy new adventures decades later.\nDuring these characters’ long histories, they change in\nvarious ways for a variety of reasons. If a character is\ncreated by a single author, like Sherlock Holmes, the\ncharacter’s core traits may change little from story to story,\nbut readers learn more about him with each successive\nstory. On the other hand, if characters are the work of\nseveral hands over decades, they may change considerably.\n󰀻\nWhile characters in most literary fiction hardly ever\n(A) in successive works, those in genre fiction\nand comics often do so, and may undergo (B) in\ntheir traits especially when written about by different authors\nover time.\nresurface …… simplification endure …… degradation\nfade …… variation feature …… transformation\ndisappear…… fossilization\n-- 7 of 8 --"
@@ -8021,7 +8021,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_09_q42",
-    "title": "Mike는 항상 야구 경기에 가는 것에 대해 꿈꿔왔다.",
+    "title": "Mike had always dreamed about going to a baseball game",
     "description": "Mike는 항상 야구 경기에 가는 것에 대해 꿈꿔왔다. 그는 자신이 가장 좋아하는 팀인 Arrows를 항상 TV에서 시청했지만, 직접 경기를…",
     "content": [
       "Mike had always dreamed about going to a baseball game.\nHe watched his favorite team, the Arrows, on TV all the\ntime, but he had never seen a game in person. One afternoon,\nMike’s dad came home earlier than usual. “Hey, Mike,” he\nsaid, “I just got two tickets for tonight’s Arrows game. Do\n(a) you want to go?” Mike was so excited that he ran to grab\nhis Arrows hat. In the car, his dad handed him a new baseball\nglove and added, “Just in case a fly ball comes our way.”\nSeveral hours later, Mike’s favorite team hit a home run\nand won the game. Fireworks filled the sky, and the team\nsong played throughout the stadium. When they got home,\nMike told his mom all about his favorite plays and showed\nher the ball he caught. (b) He knew this was a day he would\nnever forget. It wasn’t just the game ― it was the cheering,\nthe excitement, and best of all, spending time with his dad.\nHe couldn’t wait for the next time they would get to go to a\ngame.\nThe stadium was full of people wearing Arrows shirts.\nMike couldn’t believe how big the stadium looked in person.\nAs the players ran onto the field, Mike and his dad cheered\nfor their team’s players. His dad pointed at the player running\nout to third base, saying “Look, it’s Chavez, (c) your favorite\nplayer!” Mike saw him warming up on the field and waved\nhoping to get (d) his attention. After the players warmed up,\nMike and his dad went to get some snacks. As soon as they\nsat back down, the pitcher threw the first pitch.\nBefore long, it was Chavez’s turn to hit. He hit a high fly\nball into the stands. The whole crowd stood up, but Mike\nreached up with his glove and grabbed the ball. Everyone\nclapped and smiled at Mike. (e) He tightly held the ball and\nfelt a little surprised, but very proud. Both teams kept scoring\nand the game stayed close. Mike and his dad cheered for\nevery hit and held their breath during every big play. They\nhigh-fived each other every time the Arrows scored."
@@ -8038,7 +8038,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_11_q20",
-    "title": "문학 연구는 현대 음악 작사가들의 영향과 그들이 언어의 발전에 기여한…",
+    "title": "The study of literature has repeatedly failed to recognize t",
     "description": "문학 연구는 현대 음악 작사가들의 영향과 그들이 언어의 발전에 기여한 바를 반복적 으로 인식하지 못해 왔다.",
     "content": [
       "The study of literature has repeatedly failed to recognize the\ninfluence of modern musical lyricists and their contributions\nto the evolution of language. Unlike Shakespeare, who has\nbeen studied and celebrated for his development of the English\nlanguage, particularly in vocabulary and grammatical structure,\nmodern songwriters have experienced restraints on the\nacknowledgement of their contributions and largely been\nignored. Over the past century, we have witnessed an explosion\nof incredible literary works by these artists, who, through their\nmusic, have used linguistic manipulation and storytelling to\nenrich our language and literature. Producing lyrics of distinct\nand complex imagery, songwriters have had an incredible\nliterary impact on our language. Their remarkable works,\nincluding influences on modern language development, must\nbe recognized in the field of modern literature."
@@ -8057,7 +8057,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_11_q21",
-    "title": "디지털 플랫폼은 많은 일을 덜 끈끈하게 만들었다.",
+    "title": "Digital platforms have made a lot of work less sticky",
     "description": "디지털 플랫폼은 많은 일을 덜 끈끈하게 만들었다. 일이 점점 더 모듈화되고, 상품화 되고, 표준화되면서, 그리고 디지털 노동을 위한 시장이 …",
     "content": [
       "Digital platforms have made a lot of work less sticky. As work\nbecomes ever more modularised, commoditised and standardised,\nand as markets for digital work are created, ties between\nservice work and particular places can be disconnected. While\nthe business process of outsourcing that emerged in the 1990s\nallowed large companies to take advantage of a ‘global reserve\narmy’ by moving their call centres to cheap and distant labour\nmarkets, cloudwork changes the volume and granularity at\nwhich geographically non-proximate work can take place. A\nsmall business in New York can hire a freelance transcriber in\nNairobi one day and New Delhi the next. No offices or\nfactories need to be built, no local regulations are observed,\nand ― in most cases ― no local taxes are paid. The switch in\nthe production network of work happens by simply sending\nsome emails or clicking some buttons on a digital work\nplatform. And, in this way, the employer leaves behind no\nmaterial traces in the places where it was once an employer."
@@ -8075,7 +8075,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_11_q22",
-    "title": "스포츠 생태계는 존재하는 협조적 경쟁의 유형과 정도에 기반하여 존재한다.",
+    "title": "A sport ecosystem exists based on the type and rate of coope",
     "description": "스포츠 생태계는 존재하는 협조적 경쟁의 유형과 정도에 기반하여 존재한다. 협조적 경쟁은 “우월한 가치 창출을 목적으로 전략적으로 중요한 자원…",
     "content": [
       "A sport ecosystem exists based on the type and rate of\ncoopetition existing. Coopetition is defined as “the simultaneous\npursuit of cooperation and competition among firms to\nleverage strategically important resources for superior value\ncreation purposes”. It is a useful way to understand the\ndynamic nature of sport businesses which need to collaborate\nfor resource efficiency purposes but potentially compete with\neach other. This special relationship should be managed\nproperly due to trust and confidence issues being paramount.\nIt can be challenging to be collaborative and competitive in\nsport as they involve different forms of behaviour. This means\na careful balancing act may be required in terms of the amount\nof emphasis placed on each activity. Often sport managers will\ntry to be more competitive due to performance reasons and\nless collaborative. By necessity they may need to share\ninformation but do so in a cautious manner. This means it\nmight be better to have plans in place about how to pursue\nboth simultaneously. This will ensure one is not neglected at\nthe expense of the other."
@@ -8092,7 +8092,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_11_q23",
-    "title": "‘빈도보다 속도’를 강조하는 것은, 출퇴근 시간대에만 운행하는 통근 …",
+    "title": "Emphasizing speed over frequency can make sense in contexts ",
     "description": "‘빈도보다 속도’를 강조하는 것은, 출퇴근 시간대에만 운행하는 통근 서비스와 수요가 적은 아주 긴 거리의 운행을 포함하여, 모든 사람이 시간…",
     "content": [
       "Emphasizing speed over frequency can make sense in\ncontexts where everyone is expected to plan around the\ntimetable, including peak-only commute services and very\nlong trips with low demand. In all other contexts, though, it\nseems to be a common motorist’s error. Roads are there all the\ntime, so their speed is the most important fact that distinguishes\nthem. But transit is only there if it’s coming soon. If you have\na car, you can use a road whenever you want and experience\nits speed. But transit has to exist when you need it (span), and\nit needs to be coming soon (frequency). Otherwise, waiting\ntime will wipe out any time savings from a faster service.\nUnless you’re comfortable planning your life around a particular\nscheduled trip, speed is worthless without frequency, so a transit\nmap that screams about speed and whispers about frequency\nmay simply be planting confusion."
@@ -8109,7 +8109,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_11_q24",
-    "title": "컬처테인먼트의 경제적 이점은 정치인과 정책 입안자에게 동등하게 매력적…",
+    "title": "The economic benefit of culturtainment makes it attractive t",
     "description": "컬처테인먼트의 경제적 이점은 정치인과 정책 입안자에게 동등하게 매력적이다. 관련 상품과 서비스(여행, 숙박, 소매 등)에 대한 수요와 더불어…",
     "content": [
       "The economic benefit of culturtainment makes it attractive to\npoliticians and policy makers alike. A potential increase in\ninbound visitor numbers coupled with their demand for related\ngoods and services (travel, accommodation, retail) is an\nincentive for those within governments and authorities to work\nwith cultural groups in order to develop celebrations and\ncommemorations into larger and more high-profile events.\nHowever, such commercialization risks culturtainment becoming\nhomogeneous and losing its original ‘message’ that could lead\nto a dilution of audiences. This could also lead to smaller\nnon-commercial independent events being set up that would\nonly serve to divide audiences further. This is something that\nplanners and stakeholders will need to balance against potential\nfinancial gain. Changing political, social and religious landscapes\nwill lead to the emergence of new cultures, and with them new\nculturtainment experiences. Overall this is a healthy growth\nsector of the entertainment industry, but one that by its very\nnature is delicate in the face of exploitation."
@@ -8129,7 +8129,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_11_q29",
-    "title": "우리는 대단히 똑똑하며, 이것은 우리가 다양한 환경에 적응하는 데 도…",
+    "title": "We are exceptionally smart, and this helps us adapt to a wid",
     "description": "우리는 대단히 똑똑하며, 이것은 우리가 다양한 환경에 적응하는 데 도움을 준다. 하 지만 현대 인류가 지구 전역으로 퍼져나가면서 현대 인류가…",
     "content": [
       "We are exceptionally smart, and this helps us adapt to a\nwide range of environments. But we are not nearly smart\nenough as individuals to solve the adaptive problems that\nconfronted modern humans as they spread across the globe.\nThe package of tools, foraging techniques, ecological\nknowledge, and social arrangements used by any group of\nforagers being far too complex for any individual to create.\nWe are able to learn all the things we need to know in each of\nthe many different environments in which we live only\nbecause we acquire information from others. We are much\nbetter at learning from others than other species are, and we\nare motivated to learn from others even when we do not\nunderstand why our models are doing what they are doing.\nThis psychology allows human populations to accumulate pools\nof adaptive information that greatly exceed the inventive\ncapacities of individuals."
@@ -8149,7 +8149,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_11_q30",
-    "title": "‘상황 윤리’는 어떤 상황이나 행위가 윤리적인지를 판단할 때 그것의 …",
+    "title": "Situational ethics is an ethical theory that takes into acco",
     "description": "‘상황 윤리’는 어떤 상황이나 행위가 윤리적인지를 판단할 때 그것의 맥락을 고려하는 윤리 이론이다. 보편적인 기준이나 법이 부재할 때 중요한…",
     "content": [
       "Situational ethics is an ethical theory that takes into account\nthe context of a situation or an act when judging whether it is\nethical. Supporters of this theory willingly permit casting aside\nabsolute moral standards. In the absence of a universal\nstandard or law, what matters is the outcome or consequences;\nso, the end justifies the means. Possibly the following\ncontrasting realities can help illustrate the application of\nsituational ethics. In a pickup game of basketball played\namong friends, everyone is expected to call his or her own\nfouls or acknowledge knocking the ball out-of-bounds. Caring\nabout one’s friends and maybe getting to keep playing with\nthe group leads to these actions. But, once an organized game\nis played with officials, most athletes will not admit to the\nsame fouls or violations as the end goal of winning is more\nimportant than expressing concern for competitors. Situational\nethics has been extended by many athletes and coaches to\nmean trying to get away with as many actions on the field or\ncourt as possible to abandon competitive advantages."
@@ -8167,7 +8167,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_11_q31",
-    "title": "초기 곡물 무역 회사들은 잉여 생산 지역과 식량 부족 지역 모두에서 …",
+    "title": "The early grain trade firms were active in both surplus-prod",
     "description": "초기 곡물 무역 회사들은 잉여 생산 지역과 식량 부족 지역 모두에서 활발히 활동했 으며, 이들 회사는 두 지역의 공급과 수요 상태를 아는 것…",
     "content": [
       "The early grain trade firms were active in both\nsurplus-producing and food deficit regions, and these firms\nmade it their business to know the state of supply and demand\nin both. Because this information was the key to their\n, these firms worked in relative secrecy,\nfrequently built on family ties, trust, and loyalty. In addition,\nthese firms were able to benefit from the rise of commodity\nexchanges and commodities futures markets that emerged in\nthe mid-1800s. Agricultural markets are naturally unstable,\ndue to changes in harvest size that result from variable weather\npatterns and other factors. Locking-in prices by buying and\nselling grain for future delivery helped these firms to minimize\nsuch risks. It made sense for the grain trading companies to\nmanage their risks within a single firm that was operating in\nmore than one country, rather than operating as independent\nnational companies trading with each other. Their access to\ninformation in multiple markets enabled them to easily cover\nthe risks associated with agricultural commodity trade."
@@ -8185,7 +8185,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_11_q32",
-    "title": "좋은 문체를 위한 기본 지침들은 신비로운 것이 아니다.",
+    "title": "The basic guidelines for good style are not mysterious; in f",
     "description": "좋은 문체를 위한 기본 지침들은 신비로운 것이 아니다. 사실, 여러분은 대화에서 그 것들을 매일 사용한다. 대화에서나 글쓰기에서나, 우리는 …",
     "content": [
       "The basic guidelines for good style are not mysterious; in fact,\nyou use them every day in conversation. In conversation and in\nwriting, we all rely heavily on cooperation to make sense of\nexchanges, and a polished practical style makes cooperation\neasier. Writers develop such a style by acknowledging that\nreaders expect the same things that listeners expect in\nconversation: clarity, relevance, and proportion. If you listen to\nsomeone who is not clear, who cannot stay on the topic, or who\noffers too much or too little information, you will quickly lose\ninterest in the conversation. Writers, too, need to be clear, stay\non the topic, and give information appropriately. In fact, this\nattention to audience and appropriateness may be even more\nimportant in writing than in conversation because writing does\nnot permit the nonverbal communication and immediate\nfeedback that are part of conversation. As writers, we have to\n; in effect,\nwe have to imagine both halves of a virtual conversation. [3점]\nrecognize the limitations of writing and conversation\nenvision the reader’s preference for stylistic writing\npicture the reader’s desire for more knowledge\ndevelop collaborative writing with readers\nanticipate the absent reader’s response\n-- 5 of 8 --"
@@ -8203,7 +8203,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_11_q33",
-    "title": "진행 중인 여러분의 설계 작업에 대해 고객들이 반응할 충분한 기회를 …",
+    "title": "Giving clients sufficient opportunity to react to your desig",
     "description": "진행 중인 여러분의 설계 작업에 대해 고객들이 반응할 충분한 기회를 주는 것은 전 문적 성공의 핵심이다. 마찬가지로, 고객뿐 아니라 예상되는…",
     "content": [
       "Giving clients sufficient opportunity to react to your designs\nwhile in progress is a key to professional success. Similarly,\ninvolving prospective building users as well as clients is even\nmore valuable in the long run. Say your client is a large\ncorporation, such as a health care provider. While the hospital\nadministration may serve as your client, no doubt the perspectives\nof administration personnel will differ significantly from those\nof doctors, interns, residents, nurses, and other medical staff\nwho use the building regularly. In addition, the experiences of\npatients and visitors who use the building irregularly, often as\na result of life-threatening emergencies, are altogether different\nas well. Understanding how each type of user experiences the\ncurrent medical environment as well as how each reacts to\nyour prospective designs inevitably produces a better building.\nPeople are likely to be more satisfied with a new building or\naddition if they .\nFor a large institution, this can translate into increased productivity\non the job, reduced absenteeism, less turnover, and lower costs.\nhave been engaged in multiple design training sessions\nare given the opportunity to draft a new design\nhave established trust with the building designers\nhave been consulted in the design process\nshare their perspectives on the building with each other"
@@ -8220,7 +8220,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_11_q34",
-    "title": "칸트는 안전과 평화뿐 아니라 자유에 대한 궁극적인 보장 수단으로서의 …",
+    "title": "Kant was a strong defender of the rule of law as the ultimat",
     "description": "칸트는 안전과 평화뿐 아니라 자유에 대한 궁극적인 보장 수단으로서의 법의 지배에 대한 강력한 옹호자였다. 그는 인간 사회가 효과적이고 법적 …",
     "content": [
       "Kant was a strong defender of the rule of law as the\nultimate guarantee, not only of security and peace, but also of\nfreedom. He believed that human societies were moving\ntowards more rational forms regulated by effective and binding\nlegal frameworks because only such frameworks enabled\npeople to live in harmony, to prosper and to co-operate. However,\nhis belief in inevitable progress was not based on an optimistic\nor high-minded view of human nature. On the contrary, it comes\nclose to Hobbes’s outlook: man’s violent and conflict-prone\nnature makes it necessary to establish and maintain an effective\nlegal framework in order to secure peace. We cannot count on\npeople’s benevolence or goodwill, but even ‘a nation of\ndevils’ can live in harmony in a legal system that binds every\ncitizen equally. Ideally, the law is the embodiment of those\npolitical principles that all rational beings would freely\nchoose. If such laws forbid them to do something that they\nwould not rationally choose to do anyway, then the law cannot\nbe . [3점]"
@@ -8238,7 +8238,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_11_q35",
-    "title": "우리 중에 운동, 취미, 혹은 휴식과 같은 자기관리 활동을 위한 시간…",
+    "title": "There are few of us who don’t at least want to make time for",
     "description": "우리 중에 운동, 취미, 혹은 휴식과 같은 자기관리 활동을 위한 시간을 적어도 만들 고자 하지 않는 사람은 거의 없다.",
     "content": [
       "There are few of us who don’t at least want to make time for\nself-care activities such as exercise, hobbies, or relaxation. We\nstart each day with the best of intentions but then get stuck by\nthe flood of email messages or pulled into an unexpected\nmeeting. As we struggle to reprioritize so we can get\neverything done before our deadlines, often our self-care\nactivities are the first thing to be given up. No matter how\nmuch we plan, we all occasionally have days when that\nhappens. In the short term, the impact of missing that grant\ndeadline may be greater than the impact of missing a\nwoodworking class. Needless to say, we should try to enroll\nin the woodworking class before the design class because it is\nmore competitive to get into and more beneficial to us. But\nit’s important to recognize the cumulative impact of not\nprioritizing self-care and to make sure that in the long term,\nthis is the exception rather than the norm."
@@ -8255,7 +8255,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_11_q36",
-    "title": "우리는 보통 시계를 알람 시계나 손목시계 같은 물리적인 것으로 생각한다.",
+    "title": "We usually think of a clock as a physical thing, like an ala",
     "description": "우리는 보통 시계를 알람 시계나 손목시계 같은 물리적인 것으로 생각한다. 그러나 시계는 실제로는 어떤 기계 속에 구현된 하나의 과정이며, 그…",
     "content": [
       "We usually think of a clock as a physical thing, like an\nalarm clock or a wristwatch. But a clock is really a process\nembodied in a machine, and the nature of that process is\nrepetitive.\n(A) Indeed, it is almost impossible to think of a clock that\ndoes not depend on a repetitive cycle of events. The only\nexample that comes to mind readily is a candle marked in\nhours. But here too there is iteration ― the repeated\nburning of molecules of wax ― so this too is an iterative\nprocess, although at first masked.\n(B) The use of radiocarbon dating is another, much longer\nscale clock that also appears to be like this. It seems to\nyield a smooth time scale but in fact does not: the decay\nof atoms of carbon-14 is repetitive, although on a large\nscale it gives the appearance of being continuous.\n(C) A clock can be almost any process that repeats itself over\nand over again for an indefinite period. Water clocks drip\nat a steady pace; quartz crystals vibrate regularly."
@@ -8273,7 +8273,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_11_q37",
-    "title": "철학은 다른 많은 과학 학문 분야보다 훨씬 더 폭넓은 질문을 던질 수…",
+    "title": "Philosophy allows us to ask much broader questions than many",
     "description": "철학은 다른 많은 과학 학문 분야보다 훨씬 더 폭넓은 질문을 던질 수 있게 한다. 그 것은 더 큰 그림을 바라보고, 서로 다른 지식 영역 사…",
     "content": [
       "Philosophy allows us to ask much broader questions than\nmany other scientific disciplines. It is capable of looking at\nthe bigger picture and providing important insights into the\nrelationships between different areas of knowledge.\n(A) This means that while philosophy can provide valuable\ninsights into theoretical concepts and broader ethical\nquestions, it needs to be supplemented by empirical\nfindings and experiments to reach a more comprehensive\nunderstanding.\n(B) Philosophers tend to ask questions rather than provide\ndefinitive answers, and their contributions often consist of\nchallenging established assumptions and proposing new\nresearch approaches. However, for a more comprehensive\nunderstanding of the nature of consciousness, close\ncollaboration between philosophy and neuroscience is\nrequired.\n(C) Philosophy is particularly important for the interdisciplinary\nefforts of cognitive science, where it helps to bridge gaps\nbetween different disciplines and pioneer new ways for\nresearch. Unlike scientific methods, philosophizing is a\nnon-empirical approach that attempts to validate concepts\nthrough logical thinking and argumentation. [3점]"
@@ -8293,7 +8293,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_11_q38",
-    "title": "이야기가 기억할 만함과 설득력의 관점 모두에서 통계보다 분명 우세하지…",
+    "title": "Sometimes these internal narratives we form not only shape o",
     "description": "이야기가 기억할 만함과 설득력의 관점 모두에서 통계보다 분명 우세하지만, 사실과 일화, 심지어 사실과 다른 사실 간의 싸움으로 보는 경우는 …",
     "content": [
       "Sometimes these internal narratives we form not only\nshape our beliefs and opinions but also become deeply\nrooted in our identity.\nWhile stories clearly dominate statistics from both memorability\nand persuasiveness perspectives, it’s rarely a battle between\nfacts and anecdotes ― or even facts and other facts. The real\nclash is actually between stories: the predominant incumbent\nand a new challenger. ( ) As storytelling creatures, we\nroutinely form narratives to help us understand the world\naround us. ( ) When we experience different events or\nencounter various facts, our minds seek to make sense of them\nby forming stories around them. ( ) For example, if you\nhave had some bad experiences with graduates from a particular\nuniversity, you may create a negative narrative in your mind\nabout people who went to that school. ( ) Suddenly, you\njudge everyone from the university by what you’ve\nexperienced on just a few unfortunate occasions. ( ) For\nexample, the narratives you have formed around gun control\nor climate change are most likely related with your political\nideology ― who you are as an individual."
@@ -8311,7 +8311,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_11_q39",
-    "title": "비디오 게임은 자체 내부에 있으며, 게임을 하는 사람의 외부 현실, …",
+    "title": "The difference is that the action in the game world can only",
     "description": "비디오 게임은 자체 내부에 있으며, 게임을 하는 사람의 외부 현실, 게임을 하는 사 람의 신체적 공간과 아바타의 신체적 공간과 분리된 독자적…",
     "content": [
       "The difference is that the action in the game world can only\nbe explored through the virtual bodily space of the avatar.\nA video game has its own model of reality, internal to itself\nand separate from the player’s external reality, the player’s\nbodily space and the avatar’s bodily space. ( ) The avatar’s\nbodily space, the potential actions of the avatar in the game\nworld, is the only way in which the reality of the external\nreality of the game world can be perceived. ( ) As in the\nreal world, perception requires action. ( ) Players extend\ntheir perceptual field into the game, encompassing the available\nactions of the avatar. ( ) The feedback loop of perception\nand action that enables you to navigate the world around you is\nnow one step removed: instead of perceiving primarily through\ninteraction of your own body with the external world, you’re\nperceiving the game world through interaction of the avatar.\n( ) The entire perceptual system has been extended into\nthe game world. [3점]"
@@ -8329,7 +8329,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_11_q40",
-    "title": "복식사에는 그것의 모든 전시에서 분명한 문제가 있는데, 그것은, 비록…",
+    "title": "In modern societies, the performing arts form a distinct cat",
     "description": "복식사에는 그것의 모든 전시에서 분명한 문제가 있는데, 그것은, 비록 직물이 기록된 역사 초기의 시대와 문화로부터 남아 있기는 하지만, 실제…",
     "content": [
       "In modern societies, the performing arts form a distinct\ncategory of public entertainment in opposition to the mass\ndistribution through the media of expertly staged\nperformances which have been recorded and edited. By\ncontrast, theater, ballet, circus, concert, rodeo, storytelling,\netc., unfold their signs in real space and time, and engage\naudiences who respond cognitively and emotionally on the\nspot. Performers and audiences are involved in shared\nenjoyment. But sometimes frustration occurs within the\nboundaries of such ritualistic events. In industrialized and\ncomputerized cultures, the performing arts become\neconomically unstable because the institutions which\nsustain them increasingly depend on public and corporate\nfunding. However, they retain their power of fascination\nfor large, if not massive audiences, who prize the experiential,\nrisk-loaded and one-time event quality they afford. In\ntraditional and local cultures, performances still survive\nand provide their audiences with a unique fulfillment in\nsmaller scale, economically sustainable institutional settings."
@@ -8350,7 +8350,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2025_11_q42",
-    "title": "“Mia, 우리 강아지 산책시키러 가자!” Julia가 외쳤지만, 대…",
+    "title": "“Mia, let’s go walk our dog!” Julia called out, but there wa",
     "description": "“Mia, 우리 강아지 산책시키러 가자!” Julia가 외쳤지만, 대답이 없었다. 그녀는 딸의 방을 확인했고, Mia가 이어폰을 꽂은 채 스…",
     "content": [
       "“Mia, let’s go walk our dog!” Julia called out, but there\nwas no answer. She checked her daughter’s room and found\nthat Mia was absorbed in her smartphone, wearing her\nearbuds. Julia was concerned about her daughter. She turned\nto her husband, Sam. “Mia seems to live inside her phone,\nnot with us.” Sam nodded, “I know. I feel like (a) she is\ngrowing distant from us. Why don’t we set up a family\nreading club?” Julia brightened at the suggestion, and Sam\npromised to talk with Mia about it.\nMia’s family held their first book club meeting on Saturday\nafternoon. Everyone enjoyed the book Mia had chosen. Julia\nwas the first to speak: “Dr. Duvall nearly invented a drug for\neternal life, yet disappeared one day and ended up running\nCafé Paris. That’s such a mystery.” Mia responded, her eyes\nsparkling, “Mom, I understand him. He always dreamed\nof being a barista, and his dream came true.” Sam supported\n(b) his daughter, and their conversation grew lively. During\nthe discussion, Mia felt reconnected with her parents and\nalready looked forward to their next book club meeting.\nAt the library, Mia scanned the shelves for nearly an hour,\nfeeling lost among the endless titles. Then, a librarian\napproached and asked, “Looking for something in particular?”\n“I need a book for my family’s reading club,” Mia admitted.\n“What genre do you enjoy?” she asked kindly. “Hmm, I like\nmysteries,” Mia replied. The librarian handed her a book\ntitled Café Paris and said with a smile, “You’ll love this one.”\nMia thanked (c) her and checked it out.\nWhen Sam suggested starting a family reading club, Mia\nimmediately shook her head and said, “No, Dad. I don’t have\ntime to read books. You know how busy (d) I am with exams\nall semester.” He didn’t give up. “But wouldn’t it be fun if\nwe all read the same story and shared our thoughts? You\ncould simply read for 20 minutes, maybe during your lunch\nbreak.” After some persuasion, Mia reluctantly agreed. Deep\ndown, (e) she knew she was spending too much time on her\nphone. So she asked, “Dad, can I choose the first book?” Sam\ngladly said, “Yes.”"
@@ -8367,8 +8367,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2025년 11월"
   },
   {
-    "id": "high3_2025_11_q20",
-    "title": "문학 연구는 현대 음악 작사가들의 영향과 그들이 언어의 발전에 기여한…",
+    "id": "high3_2025_11_q20_2",
+    "title": "The study of literature has repeatedly failed to recognize t",
     "description": "문학 연구는 현대 음악 작사가들의 영향과 그들이 언어의 발전에 기여한 바를 반복적 으로 인식하지 못해 왔다.",
     "content": [
       "The study of literature has repeatedly failed to recognize the\ninfluence of modern musical lyricists and their contributions\nto the evolution of language. Unlike Shakespeare, who has\nbeen studied and celebrated for his development of the English\nlanguage, particularly in vocabulary and grammatical structure,\nmodern songwriters have experienced restraints on the\nacknowledgement of their contributions and largely been\nignored. Over the past century, we have witnessed an explosion\nof incredible literary works by these artists, who, through their\nmusic, have used linguistic manipulation and storytelling to\nenrich our language and literature. Producing lyrics of distinct\nand complex imagery, songwriters have had an incredible\nliterary impact on our language. Their remarkable works,\nincluding influences on modern language development, must\nbe recognized in the field of modern literature."
@@ -8386,8 +8386,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2025년 11월"
   },
   {
-    "id": "high3_2025_11_q21",
-    "title": "디지털 플랫폼은 많은 일을 덜 끈끈하게 만들었다.",
+    "id": "high3_2025_11_q21_2",
+    "title": "Digital platforms have made a lot of work less sticky",
     "description": "디지털 플랫폼은 많은 일을 덜 끈끈하게 만들었다. 일이 점점 더 모듈화되고, 상품화 되고, 표준화되면서, 그리고 디지털 노동을 위한 시장이 …",
     "content": [
       "Digital platforms have made a lot of work less sticky. As work\nbecomes ever more modularised, commoditised and standardised,\nand as markets for digital work are created, ties between\nservice work and particular places can be disconnected. While\nthe business process of outsourcing that emerged in the 1990s\nallowed large companies to take advantage of a ‘global reserve\narmy’ by moving their call centres to cheap and distant labour\nmarkets, cloudwork changes the volume and granularity at\nwhich geographically non-proximate work can take place. A\nsmall business in New York can hire a freelance transcriber in\nNairobi one day and New Delhi the next. No offices or\nfactories need to be built, no local regulations are observed,\nand ― in most cases ― no local taxes are paid. The switch in\nthe production network of work happens by simply sending\nsome emails or clicking some buttons on a digital work\nplatform. And, in this way, the employer leaves behind no\nmaterial traces in the places where it was once an employer."
@@ -8404,8 +8404,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2025년 11월"
   },
   {
-    "id": "high3_2025_11_q22",
-    "title": "스포츠 생태계는 존재하는 협조적 경쟁의 유형과 정도에 기반하여 존재한다.",
+    "id": "high3_2025_11_q22_2",
+    "title": "A sport ecosystem exists based on the type and rate of coope",
     "description": "스포츠 생태계는 존재하는 협조적 경쟁의 유형과 정도에 기반하여 존재한다. 협조적 경쟁은 “우월한 가치 창출을 목적으로 전략적으로 중요한 자원…",
     "content": [
       "A sport ecosystem exists based on the type and rate of\ncoopetition existing. Coopetition is defined as “the simultaneous\npursuit of cooperation and competition among firms to\nleverage strategically important resources for superior value\ncreation purposes”. It is a useful way to understand the\ndynamic nature of sport businesses which need to collaborate\nfor resource efficiency purposes but potentially compete with\neach other. This special relationship should be managed\nproperly due to trust and confidence issues being paramount.\nIt can be challenging to be collaborative and competitive in\nsport as they involve different forms of behaviour. This means\na careful balancing act may be required in terms of the amount\nof emphasis placed on each activity. Often sport managers will\ntry to be more competitive due to performance reasons and\nless collaborative. By necessity they may need to share\ninformation but do so in a cautious manner. This means it\nmight be better to have plans in place about how to pursue\nboth simultaneously. This will ensure one is not neglected at\nthe expense of the other."
@@ -8421,8 +8421,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2025년 11월"
   },
   {
-    "id": "high3_2025_11_q23",
-    "title": "‘빈도보다 속도’를 강조하는 것은, 출퇴근 시간대에만 운행하는 통근 …",
+    "id": "high3_2025_11_q23_2",
+    "title": "Emphasizing speed over frequency can make sense in contexts ",
     "description": "‘빈도보다 속도’를 강조하는 것은, 출퇴근 시간대에만 운행하는 통근 서비스와 수요가 적은 아주 긴 거리의 운행을 포함하여, 모든 사람이 시간…",
     "content": [
       "Emphasizing speed over frequency can make sense in\ncontexts where everyone is expected to plan around the\ntimetable, including peak-only commute services and very\nlong trips with low demand. In all other contexts, though, it\nseems to be a common motorist’s error. Roads are there all the\ntime, so their speed is the most important fact that distinguishes\nthem. But transit is only there if it’s coming soon. If you have\na car, you can use a road whenever you want and experience\nits speed. But transit has to exist when you need it (span), and\nit needs to be coming soon (frequency). Otherwise, waiting\ntime will wipe out any time savings from a faster service.\nUnless you’re comfortable planning your life around a particular\nscheduled trip, speed is worthless without frequency, so a transit\nmap that screams about speed and whispers about frequency\nmay simply be planting confusion."
@@ -8438,8 +8438,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2025년 11월"
   },
   {
-    "id": "high3_2025_11_q24",
-    "title": "컬처테인먼트의 경제적 이점은 정치인과 정책 입안자에게 동등하게 매력적…",
+    "id": "high3_2025_11_q24_2",
+    "title": "The economic benefit of culturtainment makes it attractive t",
     "description": "컬처테인먼트의 경제적 이점은 정치인과 정책 입안자에게 동등하게 매력적이다. 관련 상품과 서비스(여행, 숙박, 소매 등)에 대한 수요와 더불어…",
     "content": [
       "The economic benefit of culturtainment makes it attractive to\npoliticians and policy makers alike. A potential increase in\ninbound visitor numbers coupled with their demand for related\ngoods and services (travel, accommodation, retail) is an\nincentive for those within governments and authorities to work\nwith cultural groups in order to develop celebrations and\ncommemorations into larger and more high-profile events.\nHowever, such commercialization risks culturtainment becoming\nhomogeneous and losing its original ‘message’ that could lead\nto a dilution of audiences. This could also lead to smaller\nnon-commercial independent events being set up that would\nonly serve to divide audiences further. This is something that\nplanners and stakeholders will need to balance against potential\nfinancial gain. Changing political, social and religious landscapes\nwill lead to the emergence of new cultures, and with them new\nculturtainment experiences. Overall this is a healthy growth\nsector of the entertainment industry, but one that by its very\nnature is delicate in the face of exploitation."
@@ -8458,8 +8458,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2025년 11월"
   },
   {
-    "id": "high3_2025_11_q29",
-    "title": "우리는 대단히 똑똑하며, 이것은 우리가 다양한 환경에 적응하는 데 도…",
+    "id": "high3_2025_11_q29_2",
+    "title": "We are exceptionally smart, and this helps us adapt to a wid",
     "description": "우리는 대단히 똑똑하며, 이것은 우리가 다양한 환경에 적응하는 데 도움을 준다. 하 지만 현대 인류가 지구 전역으로 퍼져나가면서 현대 인류가…",
     "content": [
       "We are exceptionally smart, and this helps us adapt to a\nwide range of environments. But we are not nearly smart\nenough as individuals to solve the adaptive problems that\nconfronted modern humans as they spread across the globe.\nThe package of tools, foraging techniques, ecological\nknowledge, and social arrangements used by any group of\nforagers being far too complex for any individual to create.\nWe are able to learn all the things we need to know in each of\nthe many different environments in which we live only\nbecause we acquire information from others. We are much\nbetter at learning from others than other species are, and we\nare motivated to learn from others even when we do not\nunderstand why our models are doing what they are doing.\nThis psychology allows human populations to accumulate pools\nof adaptive information that greatly exceed the inventive\ncapacities of individuals."
@@ -8478,8 +8478,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2025년 11월"
   },
   {
-    "id": "high3_2025_11_q30",
-    "title": "‘상황 윤리’는 어떤 상황이나 행위가 윤리적인지를 판단할 때 그것의 …",
+    "id": "high3_2025_11_q30_2",
+    "title": "Situational ethics is an ethical theory that takes into acco",
     "description": "‘상황 윤리’는 어떤 상황이나 행위가 윤리적인지를 판단할 때 그것의 맥락을 고려하는 윤리 이론이다. 보편적인 기준이나 법이 부재할 때 중요한…",
     "content": [
       "Situational ethics is an ethical theory that takes into account\nthe context of a situation or an act when judging whether it is\nethical. Supporters of this theory willingly permit casting aside\nabsolute moral standards. In the absence of a universal\nstandard or law, what matters is the outcome or consequences;\nso, the end justifies the means. Possibly the following\ncontrasting realities can help illustrate the application of\nsituational ethics. In a pickup game of basketball played\namong friends, everyone is expected to call his or her own\nfouls or acknowledge knocking the ball out-of-bounds. Caring\nabout one’s friends and maybe getting to keep playing with\nthe group leads to these actions. But, once an organized game\nis played with officials, most athletes will not admit to the\nsame fouls or violations as the end goal of winning is more\nimportant than expressing concern for competitors. Situational\nethics has been extended by many athletes and coaches to\nmean trying to get away with as many actions on the field or\ncourt as possible to abandon competitive advantages."
@@ -8496,8 +8496,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2025년 11월"
   },
   {
-    "id": "high3_2025_11_q31",
-    "title": "초기 곡물 무역 회사들은 잉여 생산 지역과 식량 부족 지역 모두에서 …",
+    "id": "high3_2025_11_q31_2",
+    "title": "The early grain trade firms were active in both surplus-prod",
     "description": "초기 곡물 무역 회사들은 잉여 생산 지역과 식량 부족 지역 모두에서 활발히 활동했 으며, 이들 회사는 두 지역의 공급과 수요 상태를 아는 것…",
     "content": [
       "The early grain trade firms were active in both\nsurplus-producing and food deficit regions, and these firms\nmade it their business to know the state of supply and demand\nin both. Because this information was the key to their\n, these firms worked in relative secrecy,\nfrequently built on family ties, trust, and loyalty. In addition,\nthese firms were able to benefit from the rise of commodity\nexchanges and commodities futures markets that emerged in\nthe mid-1800s. Agricultural markets are naturally unstable,\ndue to changes in harvest size that result from variable weather\npatterns and other factors. Locking-in prices by buying and\nselling grain for future delivery helped these firms to minimize\nsuch risks. It made sense for the grain trading companies to\nmanage their risks within a single firm that was operating in\nmore than one country, rather than operating as independent\nnational companies trading with each other. Their access to\ninformation in multiple markets enabled them to easily cover\nthe risks associated with agricultural commodity trade."
@@ -8514,8 +8514,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2025년 11월"
   },
   {
-    "id": "high3_2025_11_q32",
-    "title": "좋은 문체를 위한 기본 지침들은 신비로운 것이 아니다.",
+    "id": "high3_2025_11_q32_2",
+    "title": "The basic guidelines for good style are not mysterious; in f",
     "description": "좋은 문체를 위한 기본 지침들은 신비로운 것이 아니다. 사실, 여러분은 대화에서 그 것들을 매일 사용한다. 대화에서나 글쓰기에서나, 우리는 …",
     "content": [
       "The basic guidelines for good style are not mysterious; in fact,\nyou use them every day in conversation. In conversation and in\nwriting, we all rely heavily on cooperation to make sense of\nexchanges, and a polished practical style makes cooperation\neasier. Writers develop such a style by acknowledging that\nreaders expect the same things that listeners expect in\nconversation: clarity, relevance, and proportion. If you listen to\nsomeone who is not clear, who cannot stay on the topic, or who\noffers too much or too little information, you will quickly lose\ninterest in the conversation. Writers, too, need to be clear, stay\non the topic, and give information appropriately. In fact, this\nattention to audience and appropriateness may be even more\nimportant in writing than in conversation because writing does\nnot permit the nonverbal communication and immediate\nfeedback that are part of conversation. As writers, we have to\n; in effect,\nwe have to imagine both halves of a virtual conversation. [3점]\nrecognize the limitations of writing and conversation\nenvision the reader’s preference for stylistic writing\npicture the reader’s desire for more knowledge\ndevelop collaborative writing with readers\nanticipate the absent reader’s response\n-- 5 of 8 --"
@@ -8532,8 +8532,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2025년 11월"
   },
   {
-    "id": "high3_2025_11_q33",
-    "title": "진행 중인 여러분의 설계 작업에 대해 고객들이 반응할 충분한 기회를 …",
+    "id": "high3_2025_11_q33_2",
+    "title": "Giving clients sufficient opportunity to react to your desig",
     "description": "진행 중인 여러분의 설계 작업에 대해 고객들이 반응할 충분한 기회를 주는 것은 전 문적 성공의 핵심이다. 마찬가지로, 고객뿐 아니라 예상되는…",
     "content": [
       "Giving clients sufficient opportunity to react to your designs\nwhile in progress is a key to professional success. Similarly,\ninvolving prospective building users as well as clients is even\nmore valuable in the long run. Say your client is a large\ncorporation, such as a health care provider. While the hospital\nadministration may serve as your client, no doubt the perspectives\nof administration personnel will differ significantly from those\nof doctors, interns, residents, nurses, and other medical staff\nwho use the building regularly. In addition, the experiences of\npatients and visitors who use the building irregularly, often as\na result of life-threatening emergencies, are altogether different\nas well. Understanding how each type of user experiences the\ncurrent medical environment as well as how each reacts to\nyour prospective designs inevitably produces a better building.\nPeople are likely to be more satisfied with a new building or\naddition if they .\nFor a large institution, this can translate into increased productivity\non the job, reduced absenteeism, less turnover, and lower costs.\nshare their perspectives on the building with each other\nhave been consulted in the design process\nhave established trust with the building designers\nare given the opportunity to draft a new design\nhave been engaged in multiple design training sessions"
@@ -8549,8 +8549,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2025년 11월"
   },
   {
-    "id": "high3_2025_11_q34",
-    "title": "칸트는 안전과 평화뿐 아니라 자유에 대한 궁극적인 보장 수단으로서의 …",
+    "id": "high3_2025_11_q34_2",
+    "title": "Kant was a strong defender of the rule of law as the ultimat",
     "description": "칸트는 안전과 평화뿐 아니라 자유에 대한 궁극적인 보장 수단으로서의 법의 지배에 대한 강력한 옹호자였다. 그는 인간 사회가 효과적이고 법적 …",
     "content": [
       "Kant was a strong defender of the rule of law as the\nultimate guarantee, not only of security and peace, but also of\nfreedom. He believed that human societies were moving\ntowards more rational forms regulated by effective and binding\nlegal frameworks because only such frameworks enabled\npeople to live in harmony, to prosper and to co-operate. However,\nhis belief in inevitable progress was not based on an optimistic\nor high-minded view of human nature. On the contrary, it comes\nclose to Hobbes’s outlook: man’s violent and conflict-prone\nnature makes it necessary to establish and maintain an effective\nlegal framework in order to secure peace. We cannot count on\npeople’s benevolence or goodwill, but even ‘a nation of\ndevils’ can live in harmony in a legal system that binds every\ncitizen equally. Ideally, the law is the embodiment of those\npolitical principles that all rational beings would freely\nchoose. If such laws forbid them to do something that they\nwould not rationally choose to do anyway, then the law cannot\nbe . [3점]"
@@ -8567,8 +8567,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2025년 11월"
   },
   {
-    "id": "high3_2025_11_q35",
-    "title": "우리 중에 운동, 취미, 혹은 휴식과 같은 자기관리 활동을 위한 시간…",
+    "id": "high3_2025_11_q35_2",
+    "title": "There are few of us who don’t at least want to make time for",
     "description": "우리 중에 운동, 취미, 혹은 휴식과 같은 자기관리 활동을 위한 시간을 적어도 만들 고자 하지 않는 사람은 거의 없다.",
     "content": [
       "There are few of us who don’t at least want to make time for\nself-care activities such as exercise, hobbies, or relaxation. We\nstart each day with the best of intentions but then get stuck by\nthe flood of email messages or pulled into an unexpected\nmeeting. As we struggle to reprioritize so we can get\neverything done before our deadlines, often our self-care\nactivities are the first thing to be given up. No matter how\nmuch we plan, we all occasionally have days when that\nhappens. In the short term, the impact of missing that grant\ndeadline may be greater than the impact of missing a\nwoodworking class. Needless to say, we should try to enroll\nin the woodworking class before the design class because it is\nmore competitive to get into and more beneficial to us. But\nit’s important to recognize the cumulative impact of not\nprioritizing self-care and to make sure that in the long term,\nthis is the exception rather than the norm."
@@ -8584,8 +8584,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2025년 11월"
   },
   {
-    "id": "high3_2025_11_q36",
-    "title": "우리는 보통 시계를 알람 시계나 손목시계 같은 물리적인 것으로 생각한다.",
+    "id": "high3_2025_11_q36_2",
+    "title": "We usually think of a clock as a physical thing, like an ala",
     "description": "우리는 보통 시계를 알람 시계나 손목시계 같은 물리적인 것으로 생각한다. 그러나 시계는 실제로는 어떤 기계 속에 구현된 하나의 과정이며, 그…",
     "content": [
       "We usually think of a clock as a physical thing, like an\nalarm clock or a wristwatch. But a clock is really a process\nembodied in a machine, and the nature of that process is\nrepetitive.\n(A) Indeed, it is almost impossible to think of a clock that\ndoes not depend on a repetitive cycle of events. The only\nexample that comes to mind readily is a candle marked in\nhours. But here too there is iteration ― the repeated\nburning of molecules of wax ― so this too is an iterative\nprocess, although at first masked.\n(B) The use of radiocarbon dating is another, much longer\nscale clock that also appears to be like this. It seems to\nyield a smooth time scale but in fact does not: the decay\nof atoms of carbon-14 is repetitive, although on a large\nscale it gives the appearance of being continuous.\n(C) A clock can be almost any process that repeats itself over\nand over again for an indefinite period. Water clocks drip\nat a steady pace; quartz crystals vibrate regularly."
@@ -8602,8 +8602,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2025년 11월"
   },
   {
-    "id": "high3_2025_11_q37",
-    "title": "철학은 다른 많은 과학 학문 분야보다 훨씬 더 폭넓은 질문을 던질 수…",
+    "id": "high3_2025_11_q37_2",
+    "title": "Philosophy allows us to ask much broader questions than many",
     "description": "철학은 다른 많은 과학 학문 분야보다 훨씬 더 폭넓은 질문을 던질 수 있게 한다. 그 것은 더 큰 그림을 바라보고, 서로 다른 지식 영역 사…",
     "content": [
       "Philosophy allows us to ask much broader questions than\nmany other scientific disciplines. It is capable of looking at\nthe bigger picture and providing important insights into the\nrelationships between different areas of knowledge.\n(A) This means that while philosophy can provide valuable\ninsights into theoretical concepts and broader ethical\nquestions, it needs to be supplemented by empirical\nfindings and experiments to reach a more comprehensive\nunderstanding.\n(B) Philosophers tend to ask questions rather than provide\ndefinitive answers, and their contributions often consist of\nchallenging established assumptions and proposing new\nresearch approaches. However, for a more comprehensive\nunderstanding of the nature of consciousness, close\ncollaboration between philosophy and neuroscience is\nrequired.\n(C) Philosophy is particularly important for the interdisciplinary\nefforts of cognitive science, where it helps to bridge gaps\nbetween different disciplines and pioneer new ways for\nresearch. Unlike scientific methods, philosophizing is a\nnon-empirical approach that attempts to validate concepts\nthrough logical thinking and argumentation. [3점]"
@@ -8622,8 +8622,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2025년 11월"
   },
   {
-    "id": "high3_2025_11_q38",
-    "title": "이야기가 기억할 만함과 설득력의 관점 모두에서 통계보다 분명 우세하지…",
+    "id": "high3_2025_11_q38_2",
+    "title": "Sometimes these internal narratives we form not only shape o",
     "description": "이야기가 기억할 만함과 설득력의 관점 모두에서 통계보다 분명 우세하지만, 사실과 일화, 심지어 사실과 다른 사실 간의 싸움으로 보는 경우는 …",
     "content": [
       "Sometimes these internal narratives we form not only\nshape our beliefs and opinions but also become deeply\nrooted in our identity.\nWhile stories clearly dominate statistics from both memorability\nand persuasiveness perspectives, it’s rarely a battle between\nfacts and anecdotes ― or even facts and other facts. The real\nclash is actually between stories: the predominant incumbent\nand a new challenger. ( ) As storytelling creatures, we\nroutinely form narratives to help us understand the world\naround us. ( ) When we experience different events or\nencounter various facts, our minds seek to make sense of them\nby forming stories around them. ( ) For example, if you\nhave had some bad experiences with graduates from a particular\nuniversity, you may create a negative narrative in your mind\nabout people who went to that school. ( ) Suddenly, you\njudge everyone from the university by what you’ve\nexperienced on just a few unfortunate occasions. ( ) For\nexample, the narratives you have formed around gun control\nor climate change are most likely related with your political\nideology ― who you are as an individual."
@@ -8640,8 +8640,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2025년 11월"
   },
   {
-    "id": "high3_2025_11_q39",
-    "title": "비디오 게임은 자체 내부에 있으며, 게임을 하는 사람의 외부 현실, …",
+    "id": "high3_2025_11_q39_2",
+    "title": "The difference is that the action in the game world can only",
     "description": "비디오 게임은 자체 내부에 있으며, 게임을 하는 사람의 외부 현실, 게임을 하는 사 람의 신체적 공간과 아바타의 신체적 공간과 분리된 독자적…",
     "content": [
       "The difference is that the action in the game world can only\nbe explored through the virtual bodily space of the avatar.\nA video game has its own model of reality, internal to itself\nand separate from the player’s external reality, the player’s\nbodily space and the avatar’s bodily space. ( ) The avatar’s\nbodily space, the potential actions of the avatar in the game\nworld, is the only way in which the reality of the external\nreality of the game world can be perceived. ( ) As in the\nreal world, perception requires action. ( ) Players extend\ntheir perceptual field into the game, encompassing the available\nactions of the avatar. ( ) The feedback loop of perception\nand action that enables you to navigate the world around you is\nnow one step removed: instead of perceiving primarily through\ninteraction of your own body with the external world, you’re\nperceiving the game world through interaction of the avatar.\n( ) The entire perceptual system has been extended into\nthe game world. [3점]"
@@ -8658,8 +8658,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2025년 11월"
   },
   {
-    "id": "high3_2025_11_q40",
-    "title": "복식사에는 그것의 모든 전시에서 분명한 문제가 있는데, 그것은, 비록…",
+    "id": "high3_2025_11_q40_2",
+    "title": "In modern societies, the performing arts form a distinct cat",
     "description": "복식사에는 그것의 모든 전시에서 분명한 문제가 있는데, 그것은, 비록 직물이 기록된 역사 초기의 시대와 문화로부터 남아 있기는 하지만, 실제…",
     "content": [
       "In modern societies, the performing arts form a distinct\ncategory of public entertainment in opposition to the mass\ndistribution through the media of expertly staged\nperformances which have been recorded and edited. By\ncontrast, theater, ballet, circus, concert, rodeo, storytelling,\netc., unfold their signs in real space and time, and engage\naudiences who respond cognitively and emotionally on the\nspot. Performers and audiences are involved in shared\nenjoyment. But sometimes frustration occurs within the\nboundaries of such ritualistic events. In industrialized and\ncomputerized cultures, the performing arts become\neconomically unstable because the institutions which\nsustain them increasingly depend on public and corporate\nfunding. However, they retain their power of fascination\nfor large, if not massive audiences, who prize the experiential,\nrisk-loaded and one-time event quality they afford. In\ntraditional and local cultures, performances still survive\nand provide their audiences with a unique fulfillment in\nsmaller scale, economically sustainable institutional settings."
@@ -8679,8 +8679,8 @@ export const generatedPosts: Post[] = [
     "examInfo": "고3 · 2025년 11월"
   },
   {
-    "id": "high3_2025_11_q42",
-    "title": "“Mia, 우리 강아지 산책시키러 가자!” Julia가 외쳤지만, 대…",
+    "id": "high3_2025_11_q42_2",
+    "title": "“Mia, let’s go walk our dog!” Julia called out, but there wa",
     "description": "“Mia, 우리 강아지 산책시키러 가자!” Julia가 외쳤지만, 대답이 없었다. 그녀는 딸의 방을 확인했고, Mia가 이어폰을 꽂은 채 스…",
     "content": [
       "“Mia, let’s go walk our dog!” Julia called out, but there\nwas no answer. She checked her daughter’s room and found\nthat Mia was absorbed in her smartphone, wearing her\nearbuds. Julia was concerned about her daughter. She turned\nto her husband, Sam. “Mia seems to live inside her phone,\nnot with us.” Sam nodded, “I know. I feel like (a) she is\ngrowing distant from us. Why don’t we set up a family\nreading club?” Julia brightened at the suggestion, and Sam\npromised to talk with Mia about it.\nMia’s family held their first book club meeting on Saturday\nafternoon. Everyone enjoyed the book Mia had chosen. Julia\nwas the first to speak: “Dr. Duvall nearly invented a drug for\neternal life, yet disappeared one day and ended up running\nCafé Paris. That’s such a mystery.” Mia responded, her eyes\nsparkling, “Mom, I understand him. He always dreamed\nof being a barista, and his dream came true.” Sam supported\n(b) his daughter, and their conversation grew lively. During\nthe discussion, Mia felt reconnected with her parents and\nalready looked forward to their next book club meeting.\nAt the library, Mia scanned the shelves for nearly an hour,\nfeeling lost among the endless titles. Then, a librarian\napproached and asked, “Looking for something in particular?”\n“I need a book for my family’s reading club,” Mia admitted.\n“What genre do you enjoy?” she asked kindly. “Hmm, I like\nmysteries,” Mia replied. The librarian handed her a book\ntitled Café Paris and said with a smile, “You’ll love this one.”\nMia thanked (c) her and checked it out.\nWhen Sam suggested starting a family reading club, Mia\nimmediately shook her head and said, “No, Dad. I don’t have\ntime to read books. You know how busy (d) I am with exams\nall semester.” He didn’t give up. “But wouldn’t it be fun if\nwe all read the same story and shared our thoughts? You\ncould simply read for 20 minutes, maybe during your lunch\nbreak.” After some persuasion, Mia reluctantly agreed. Deep\ndown, (e) she knew she was spending too much time on her\nphone. So she asked, “Dad, can I choose the first book?” Sam\ngladly said, “Yes.”"
@@ -8698,7 +8698,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2026_06_q20",
-    "title": "신체 활동 지도자들은 흔히 활동을 수행하는 참여자들보다 활동 자체에 …",
+    "title": "Instructors of physical activities often focus more on the a",
     "description": "신체 활동 지도자들은 흔히 활동을 수행하는 참여자들보다 활동 자체에 더 집중한다. 사람들은 신체 훈련이 마음 훈련과 무관하고 생각할지도 모른다.",
     "content": [
       "Instructors of physical activities often focus more on the\nactivities themselves than on the participants who perform\nthem. People may believe that training our bodies is unrelated\nto training our minds. However, participants’ minds determine\ntheir attitudes and level of effort toward physical development.\nIn usual practice, instructors may just tell their participants to\nexercise regularly, warm up before exercising, or use a particular\nstrategy. However, it is not sufficient for instructors to expect\nparticipants to blindly follow their directions in physical activities.\nInstructors must raise participants’ awareness of how these\nactivities enhance their physical performance. For example, an\ninstructor could explicitly explain how warming up before\nexercising improves their performances. If participants understand\nthe principles of these activities, it enables them to gradually\ntake fuller ownership of their own development."
@@ -8715,7 +8715,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2026_06_q21",
-    "title": "사실 과학자들이 어떤 동물이든 의식이 있다고 생각한 일이 너무 최근이…",
+    "title": "In fact, scientists attributing consciousness to any animal ",
     "description": "사실 과학자들이 어떤 동물이든 의식이 있다고 생각한 일이 너무 최근이어서 인터넷 이 더 오래되었다. 1976년에 Donald Griffin이…",
     "content": [
       "In fact, scientists attributing consciousness to any animal is\nso recent that the internet is older. In 1976 a zoologist named\nDonald Griffin published The Question of Animal Awareness,\na book arguing that animal cognition ought to be taken\nseriously. He and a colleague had been responsible in 1944 for\ndiscovering that bats navigate by echolocation. Now, after a\nlifetime spent watching those creatures, he became convinced\nthey had inner worlds. They had flexible behavior, he said, or\nthe ability to change their behavior as external circumstances\nchanged, a hallmark of true intelligence. He’d watched bats\ndevelop clever techniques for finding food; they could clearly\nmake decisions on the fly, and exhibited many of the same\nproblem-solving abilities as humans did. Animal thought and\nreason ought to be seriously studied, he argued. After all, despite\nthe flourishing of neuroscience, no one had yet found any part\nof the brain unique to humans that might be responsible for this\nhallowed “consciousness.” Wasn’t it time to give up the ghost?"
@@ -8735,7 +8735,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2026_06_q22",
-    "title": "자동차 제조사들은 사람들이 자동차의 ‘얼굴’에 정서적 애착을 형성한다…",
+    "title": "Car manufacturers know people form emotional attachments to ",
     "description": "자동차 제조사들은 사람들이 자동차의 ‘얼굴’에 정서적 애착을 형성한다는 것을 알고 있으며, 그 사실을 디자인과 마케팅 노력을 이끄는 데 사용…",
     "content": [
       "Car manufacturers know people form emotional attachments\nto automobile ‘faces’ and use the fact to guide their design and\nmarketing efforts. “In today’s hyper-competitive car market,\ndesigners are focusing on faces as part of a broader effort to\ndesign cars that appeal to buyers ― tapping psychologists,\nanthropologists and other experts in human behavior, and even\nmonitoring the brain waves of focus-group participants,” the\nWall Street Journal reported in a 2006 article entitled ‘Why\nCars Got Angry.’ Automotive research shows “70% of drivers\nidentify and judge vehicles by the headlights and grille,” the\narticle reported. In the first years of the twenty-first century,\nthe trend was toward angrier, scarier vehicles’ faces. The\narticle hypothesized that these faces help drivers feel safer in\nheavier traffic amidst more oversize SUVs. Reflecting our\ntumultuous times, the ‘scary look’ shows no sign of slowing in\nthe new millennium. “Buoyant sales of cars with styling which\nsuggests power or bad temper seem to confirm that customers\nare happy with this look,” an international automotive site\nreported in 2017."
@@ -8755,7 +8755,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2026_06_q23",
-    "title": "시간의 압축은 크기와 상관관계가 있다.",
+    "title": "A telescoping of time correlates with size",
     "description": "시간의 압축은 크기와 상관관계가 있다. 몸집이 작은 동물의 반사 작용은 훨씬 더 작 은 수족을 조절하고 빠른 운동 기관의 피드백에 반응하기 …",
     "content": [
       "A telescoping of time correlates with size. Small animals’\nreflexes must be quicker in order to control much smaller limbs\nand respond to rapid locomotor feedback. Further, decision\nmaking must be streamlined in small species because their high\nmetabolic rates and minimal energy reserves offer few choices\nin food-searching activities, defending against predators, or\nmating behaviors. And, perhaps most important, a short lifetime\noffers little time for learning from experience. As a result, being\nshort-lived puts a premium on the effectiveness of preprogrammed\nbehavior patterns that require little in the way of environmental\nfine-tuning. Large animals, in comparison, can get by with rather\nslower reflexes, can afford to vary their mating and food-searching\nbehaviors in an effort to better optimize their behaviors, and\nmay have a considerable opportunity to learn by observation\nand trial and error. Being longer-lived puts a greater premium\non learning and memory, and less on automatic preprogrammed\nbehaviors. In addition, living a long time or having the capacity\nto travel for long distances is more likely to expose an animal to\nsignificant changes in the environment."
@@ -8774,7 +8774,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2026_06_q24",
-    "title": "1950년대 이전에 관광업은 파편화된 산업이었고, 호텔, 운송업체, …",
+    "title": "Before the 1950s, tourism was very much an industry which wa",
     "description": "1950년대 이전에 관광업은 파편화된 산업이었고, 호텔, 운송업체, 여행사, 여행 상품 운영업체 모두 서로 독립적으로 일하는 경향이 있었다.",
     "content": [
       "Before the 1950s, tourism was very much an industry which\nwas fragmented; hotels, transport operators, travel agents, and\ntour operators all tended to work independently of each other.\nHotels were largely in the business of selling bed nights. Airlines\nand railways were in the business of selling seats. Travel agents,\nof course, were selling travel and holidays, but in each case they\ntended to operate very much as individual businesses. From the\nmid-1950s onwards, particularly in the UK, the growth of tour\noperators began to change the nature of the industry from\nessentially individual business activities to more integrated\nactivities. Hotels, for example, were beginning to see customers\nas wanting a range of services rather than simply buying\naccommodation. So hotels began to develop shopping arcades\nand later to offer secretarial centres to try to increase the spend\nof guests within the hotel complex. Transport operators,\nparticularly in the airline business, saw the sale of transport\nservices as being integral to a much wider need. Airlines offered\ninsurance and accommodation booking for travellers."
@@ -8792,7 +8792,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2026_06_q29",
-    "title": "패션은 언제나 문화와 깊이 관련되어 있으며, 이것의 훌륭한 예는 유럽…",
+    "title": "Fashion is always deeply cultural, and an excellent example ",
     "description": "패션은 언제나 문화와 깊이 관련되어 있으며, 이것의 훌륭한 예는 유럽 의복의 발전 에서 볼 수 있다. 중세 초기에는 의복이 단순한 경향이 있…",
     "content": [
       "Fashion is always deeply cultural, and an excellent example\nof this can be seen in the evolution of European clothing.\nAt the beginning of the Middle Ages, clothing tended to be\nsimple and was frequently made of rough wool or animal\nfurs. With advances in cloth making, however, fashion began\nmoving toward styles what were more elaborate and\nform-fitting. In the Renaissance and Elizabethan eras, styles\nbecame even more refined. The clothes that wealthy people\nwere wearing became increasingly fancier, with a particular\nemphasis being placed on smaller waists. The connection\nbetween clothing and social status was so pronounced that\nlaws were enacted to limit the wearing of certain luxury\nitems. Allowed only for higher social classes, luxurious\nstyles and decorations such as feathers, silk, or velvet were\nused as a means of demonstrating one’s standing in society.\nThis was further reinforced as upperclass styles came to be\nexplicitly incorporated into cultural ceremonies so that their\nwearers’ roles could be identified clearly."
@@ -8812,7 +8812,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2026_06_q30",
-    "title": "Shakespeare나 Euripides와 같은 극작가들의 고전 작품…",
+    "title": "Classical works by playwrights such as Shakespeare or Euripi",
     "description": "Shakespeare나 Euripides와 같은 극작가들의 고전 작품이나 심지어 미국 뮤지컬 노 래 가사에는 등장인물의 생각과 감정을 전달하…",
     "content": [
       "Classical works by playwrights such as Shakespeare or\nEuripides or even American musical song lyrics contain\nunconventional and unrealistic methods of communicating\ncharacters’ thoughts and feelings, and take a bit more skill and\npatience to understand. The reader must be mindful not to let\nthe poetic form or archaic word usage get in the way of getting\nmeaningful information about the story, but instead see the\nform itself as a revealing stylistic technique. Scripts with\ncomplex language or unfamiliar styles may require several\nadditional readings in order for the nuance to become clear.\nMusical theater pieces are particularly difficult to visualize\nwhen reading because of the diminished emphasis on dialogue\nand a significant emphasis on song and dance. For example,\nwhen the music and lyrics are removed from a musical theater\nscript, what is left is the dialogue, known as the book or\nlibretto, and it can be very thick. There is an emphasis\non dance, movement, or action in musical theater that can be\ntime-consuming when actually performed on stage, but can\ntake very little space when typed into a play script."
@@ -8831,7 +8831,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2026_06_q31",
-    "title": "초기 계몽주의 이후로 줄곧, 보존과 보전은 밀접하게 관련되어 왔다.",
+    "title": "Ever since the early Enlightenment, preservation and conserv",
     "description": "초기 계몽주의 이후로 줄곧, 보존과 보전은 밀접하게 관련되어 왔다. 거의 동의어로 받아들여질 때, 그것들의 의미는 보통 주시, 연구, 전시,…",
     "content": [
       "Ever since the early Enlightenment, preservation and\nconservation have been closely related. Taken as near\nsynonyms, their meaning is to maintain an object or system\ninsofar as possible in its present state, to protect it from\nchange, usually for contemplation, research, display, and\nperhaps for use. Conservationists who distinguish their\nactivities from preservation emphasize conservation’s restorative\naspects ― restoring a historical musical instrument, for example,\nor a painting, or a dinosaur, or an ecosystem. Conservationists\nacknowledge change but try to manage it in order to prolong\na(n) state. Preservationists (who may nonetheless\ncall themselves conservationists) think of themselves more as\nprotectors. They sometimes criticize conservationists for\nsetting an additional priority on yield or harvest or use, rather\nthan interfering as minimally as possible in order to preserve\nthe original object or system, as they would do. Preservationists\nwould, for example, prefer to keep a historical musical\ninstrument “as found” in a deteriorated state, for study, rather\nthan to restore or repair it for display or use."
@@ -8849,7 +8849,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2026_06_q32",
-    "title": "화자가 항상 자신에게 중요한 모든 것을 말로 표현하는 것은 아니다.",
+    "title": "Speakers don’t always put everything that’s important to the",
     "description": "화자가 항상 자신에게 중요한 모든 것을 말로 표현하는 것은 아니다. 매우 흔하게, 목소리 어조나 크기의 변화, 시선 교환, 얼굴 표정, 몸짓…",
     "content": [
       "Speakers don’t always put everything that’s important to\nthem into words. Very often you can understand a speaker’s\nmeaning by observing their nonverbal behaviors such as a\nchange in a vocal tone or volume, eye contact, facial expressions\nand gestures. As it is easy to misinterpret nonverbal behavior,\neffective listeners verbally confirm their interpretations of\nsomeone’s nonverbal communication. A question as simple as\n“Do your nods indicate a yes vote?” can make sure that\neveryone is on the same wavelength. If, as nonverbal research\nindicates, more than half of a speaker’s meaning is conveyed\nnonverbally, we are missing a lot of important information if\nwe fail to “listen” to nonverbal behavior. Even Freud suggested\nthat “he that has eyes to see and ears to hear may convince\nhimself that no mortal can keep a secret. If his lips are silent,\nhe chatters with his fingertips; betrayal oozes out of him at\nevery pore.” No wonder it is difficult for most people to\nin a face-to-face group\ndiscussion."
@@ -8866,7 +8866,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2026_06_q33",
-    "title": "감정, 질병, 수면의 경우처럼 지각이 대상을 적극적으로 분별하지 않을…",
+    "title": "Imagination continues to function when perception is not act",
     "description": "감정, 질병, 수면의 경우처럼 지각이 대상을 적극적으로 분별하지 않을 때에도 상상력 은 계속 기능한다. 감정은 사람이 세상을 왜곡된 방식으로…",
     "content": [
       "Imagination continues to function when perception is not\nactively discerning objects, in cases of emotion, disease, and\nsleep. Emotions dispose one to see the world in a distorted\nway. A coward’s perceptual disposition is affected by his\ndisposition to experience fear. A lover’s expectations are\naffected by desire. In such cases, a small similarity between a\nperceived object and the thing one expects to see can lead\nto the misidentification of the perceived object as that\nthing. The coward sees the enemy, while the lover sees the\nobject of desire everywhere. The more affected one is,\n. While\nthe central organ of sense normally functions by comparing\nsimilarities and differences, emotions dispose one to discern\nobjects inaccurately. The greater the emotional investment, the\nmore biased one’s perception. [3점]"
@@ -8883,7 +8883,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2026_06_q34",
-    "title": "미술 작품의 가치가 단지 시장에서뿐만 아니라 본질적으로 의존적이며 가…",
+    "title": "The dependent and shifting nature of art values, not only on",
     "description": "미술 작품의 가치가 단지 시장에서뿐만 아니라 본질적으로 의존적이며 가변적이라는 속성은, 오늘날의 미술 수집가가 자신을 위해 구매하든 한 기관…",
     "content": [
       "The dependent and shifting nature of art values, not only on\nthe market but inherently, is uppermost in the mind of today’s art\ncollector, whether he buys for himself or as the representative\nof an institution. Acquiring a work is acquiring a piece of art\nhistory, or it is acquiring nothing (beyond, that is, an object of\npersonal enjoyment in the same class as a cat or a souvenir). In\nsigning his check the collector asserts his belief in the future\npresence of the work as a significant point attained by art as a\nwhole. History, however, is open to anything and the merit of the\nchosen painting or sculpture has ― at best ― only the validation of\na present-day consensus. This consensus is all but certain to be\ndisplaced, as others have been in the past. In the last analysis,\ncommitting himself to a painting is the collector’s own act.\nThrough it he courageously affirms not only his aesthetic\njudgment, from whatever source it be derived, but the conviction\nthat . [3점]"
@@ -8903,7 +8903,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2026_06_q35",
-    "title": "누군가의 몸집이 더 클수록, 심지어 비교적 무해한 사고를 통해서도 스…",
+    "title": "The bigger someone is, the more damage they can do to themse",
     "description": "누군가의 몸집이 더 클수록, 심지어 비교적 무해한 사고를 통해서도 스스로에게 더 많은 해를 가할 수 있다. 아장아장 걷는 아기들이 자주 넘어…",
     "content": [
       "The bigger someone is, the more damage they can do to\nthemselves through even a relatively innocuous accident.\nDespite toddlers falling over and bumping themselves regularly,\nthe injuries they sustain are rarely serious. Their relatively\nthick bones in comparison to their mass mean they rarely build\nup enough energy, even at top speed, to do themselves much\ndamage. Because of their increased mass (compounded by\nthe fact that they are falling from a greater height and that their\nreactions may be slower), adults falling over will impact the\nground with a much larger force. The nonlinear relationship\nbetween mass and bone strength means that although their\nbones are thicker than a toddler’s in absolute terms, they may\nnot be relatively thick enough to compensate for the larger\nimpact caused by their increased mass. The body mass\nindex (BMI) can serve as a convenient way for non-experts to\nexamine their health conditions in daily lives. For the same\nreasons, taller people have been found to suffer more fall-related\ninjuries ― like hip breaks ― than shorter people."
@@ -8920,7 +8920,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2026_06_q36",
-    "title": "식물들은 거의 그 속의 수만큼이나 다양한 방어 기제를 진화시켜 왔다.",
+    "title": "Plants have evolved defenses almost as diverse as the number",
     "description": "식물들은 거의 그 속의 수만큼이나 다양한 방어 기제를 진화시켜 왔다. 어떤 식물은 자신의 조직을 곤충에게 불쾌감을 주거나 곤충을 취하게 만드…",
     "content": [
       "Plants have evolved defenses almost as diverse as the\nnumber of genera. Some load their tissues with harsh\ncompounds that either are unpleasant to insects or intoxicate\nthem, encouraging the insects to go bother another plant or\nat least slowing down their eating.\n(A) The back-and-forth is not a matter of natural balance, but\nmore like a drawn-out evolutionary conversation. New\nplant defenses unintentionally select for insects with ways\nto get around them, which in turn help bring about more\nresilient and resistant plant species. New variations,\nshading into entire new forms and adaptations, maintain\nthe stalemate.\n(B) Plants can release chemical compounds that let their\nsame-species neighbors know that an attack is likely\ncoming, pushing those nearby plants to start building up\ndefensive compounds in their tissues. Some of these cues\neven attract insect predators, a call for an assist that\nbenefits both the plant and its bug-eating collaborators.\n(C) Structural defenses like thick coats of wax on leaves may\nprevent some insect species from damaging the plant\ntissues altogether. Nor are individual plants entirely on\ntheir own while under attack."
@@ -8939,7 +8939,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2026_06_q37",
-    "title": "비록 본능적인 반응을 유발하는 요소들이 있을 수 있지만, 구경거리는 …",
+    "title": "Although there may be elements that trigger instinctive resp",
     "description": "비록 본능적인 반응을 유발하는 요소들이 있을 수 있지만, 구경거리는 주로 문화적인 틀 안에서 작용하며 관찰자들이 적용하는 주요한 지각 방식에…",
     "content": [
       "Although there may be elements that trigger instinctive\nresponse, spectacle works primarily within a cultural frame\nand is subject to prevailing modes of perception that observers\nbring to bear.\n(A) By extension, spectacle is produced by working with the\ngrain of a particular culture, blending the innovative with\nthe established. Thus anyone deploying spectacle may draw\non a repertoire of techniques and conventions developed\nfrom previous festivals or related activities, but imitation\nis not enough.\n(B) Spectacle must also be spectacular. A spectacle has to amaze\nspectators, outdoing previous efforts if it is to become part\nof the collective memory of those who witnessed and\nparticipated in it.\n(C) In saying that, we stress that creation of spectacle is neither\na universal nor even an inevitable expression of culture,\nbut is a strategy commonly used by people from many\ndifferent cultures to address specific needs. The task of\ncreating spectacle has been likened to creating new works\nof literature, where writers normally feel bound by the\nrules and traditions of their genre yet need to show sufficient\noriginality to impress their audiences. [3점]"
@@ -8959,7 +8959,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2026_06_q38",
-    "title": "건축 비용을 최소화하고 수익을 극대화하기 위해, 초고층 빌딩은 일반적…",
+    "title": "To minimize vortex shedding, skyscraper designers do everyth",
     "description": "건축 비용을 최소화하고 수익을 극대화하기 위해, 초고층 빌딩은 일반적으로 정사각 형이나 직사각형 형태를 취한다.",
     "content": [
       "To minimize vortex shedding, skyscraper designers do\neverything in their powers to confuse the wind.\nTo minimize building costs and maximize revenues, skyscrapers\ngenerally take the shape of squares or rectangles. These are not\nparticularly aerodynamic shapes, and this results in a wind\nphenomenon called “vortex shedding.” As wind meets a\nrectangular skyscraper it pushes on the flat face of the building\nbefore flowing around its sides, where eventually it separates\nfrom the face of the structure. ( ) The difference in\npressures on the front and back faces of the building gives rise\nto vortices, or spinning currents of wind, that flow downstream\nfrom the building. ( ) The vortices pull and push the\nbuilding in a direction perpendicular to the wind at frequencies\nthat can become dangerously self-sustaining. ( ) Orienting\nthe building so that the longer face of the structure is parallel\nwith prevailing winds can help. ( ) Chopping or rounding off\ncorners of a building can likewise make it more aerodynamic.\n( ) Roughing up the corners of the building through the\ncareful placement of balconies or stepped corners can help by\ndisturbing or delaying the formation of strong vortices."
@@ -8978,7 +8978,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2026_06_q39",
-    "title": "위계상으로나 역사적으로나 그것은 다른 모든 색을 뛰어넘었다.",
+    "title": "It was also within the range of reds that they learned early",
     "description": "한 색이었다. 위계상으로나 역사적으로나 그것은 다른 모든 색을 뛰어넘었다. 다른 색 들이 존재하지 않았던 것은 아니고, 다만 그것들이 색으로…",
     "content": [
       "It was also within the range of reds that they learned early\non to diversify the palette and to produce varied tones and\nshades, as the oldest known color terms demonstrate.\nFor thousands of years in the West, red was the only color\nworthy of that name, the only true color. As much on the historical\nas hierarchical level, it exceeded all others. ( ) Not that\nthey did not exist, but they had to wait a long time before they\nwere considered colors and then played a comparable role in\nmaterial culture, social codes, and systems of thought. ( ) It\nwas with red that humans did their first color experiments,\nachieved their first successes, and then constructed a chromatic\nuniverse. ( ) Here the lexicon seems in keeping with pictorial\npractices and coloring techniques. ( ) In certain languages,\nthe same word can mean “red” or simply “colored,” depending\non the context, such as coloratus in classical Latin or colorado\nin modern Castilian. ( ) In other languages, the words\nmeaning “red” and “beautiful” share a common root; for example,\nthat is the case in Russian, in which the terms krasnyy (red)\nand krasivy (beautiful) belong to the same lexical family. [3점]"
@@ -8996,7 +8996,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2026_06_q40",
-    "title": "유리의 구조는, 솔직히 말해서, 다소 엉망진창이다.",
+    "title": "In the pharmaceutical industry, algorithms are being employe",
     "description": "유리의 구조는, 솔직히 말해서, 다소 엉망진창이다. 우리 눈에는 투명하고 완벽해 보 일지 몰라도, 분자 수준으로 내려가 보면, 유리는 원자들…",
     "content": [
       "In the pharmaceutical industry, algorithms are being\nemployed to find treatments and drugs for rare diseases\nthat to date haven’t received much attention. The hard truth\nhas always been that pharma devotes more research and\ndevelopment resources to diseases that affect the rich.\nThe definition of rare has too often been associated with\npoor ― that is, even if a disease is quite prevalent in a\npopulation that cannot afford to pay for it (for example,\npeople living in the developing world), the disease has been\nneglected compared to First World illnesses. By lowering\nthe cost of data collection, mining, and analysis in drug\ndevelopment and clinical trials, AI can help offset imbalances\nin the pharmaceutical industry that direct attention to diseases\nthat “pay,” whether because the disease is more common\nor because it is prevalent among demographics that can\npay more. We see the democratizing power of AI to broaden\nthe attention of the medical and research communities to\nfind cures to traditionally neglected health issues and among\ntraditionally neglected populations."
@@ -9013,7 +9013,7 @@ export const generatedPosts: Post[] = [
   },
   {
     "id": "high3_2026_06_q42",
-    "title": "방과 후 매일, Sally는 공원을 가로질러 집으로 걸어갔다.",
+    "title": "Every day after school, Sally walked home through the park",
     "description": "방과 후 매일, Sally는 공원을 가로질러 집으로 걸어갔다. 그녀는 집으로 가는 길 에 헤드폰으로 음악을 듣고 나무를 보는 것을 좋아했다.",
     "content": [
       "Every day after school, Sally walked home through the\npark. She liked listening to music in her headphones and\nlooking at the trees on her way home. One day, while she was\nchanging songs, she heard strange, unpolished music. She\ntook off her headphones and followed the music through the\npark. She saw a kind-looking old woman sitting on a small\nbench and playing the violin. While (a) her music wasn’t\nperfect, there was something warm and welcoming about it.\nSo, Sally walked closer.\nThe following day, they met at the same bench. Sally was\nhappy to hear the old woman’s music again, but when she\nsat, the woman stopped playing. “Today is your first full\nlesson,” she said as she handed the violin to Sally. (b) She\nshowed the young woman how to place her fingers on the\nstrings. After an hour, she had learned some basics. Then, the\nold woman played the same music from the day before. Sally\npromised to meet her every day and started walking home.\nAs she walked, simple, unpolished music was playing in her\nmind.\nThe old woman asked Sally if she played any instruments.\nSuddenly, Sally remembered learning the recorder from her\nolder sister Beatrice when she was a girl. Beatrice had said,\n“You just have no musical talent.” Sally looked back to the old\nwoman sadly and told (c) her the story. The old woman winked,\nhanded the violin to Sally, and said, “You don’t need talent to\nenjoy playing.” Feeling brave, Sally accepted the instrument and\ntried playing. The sound was rough, and she felt embarrassed.\nBut the old woman just smiled and said, “That’s how it begins.\n(d) I hope to see you again tomorrow.”\n“Hello! Are you going to listen to my performance?” the old\nwoman looked up and asked. Sally laughed and replied, “Oh\nsorry, I was just passing by.” (e) She turned to continue\nwalking home, but decided to stop for a bit and listen. After\nthe woman’s music finished, Sally asked her when she had\nstarted playing the violin. “I just started last year, but I always\nwanted to learn,” the woman answered. Sally was impressed\nby her response. Even though she loved listening to music, she\ncould not play any instruments well."
