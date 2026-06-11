@@ -35,28 +35,31 @@ function detectTags(english: string): string[] {
 // ─── Translation cleaning ──────────────────────────────────
 
 function cleanTranslation(raw: string): string {
-  let text = raw.replace(/\t+/g, " ").replace(/\s+/g, " ").trim();
+  let text = raw.replace(/\t+/g, " ").trim();
 
   // Strip meta sections: [해설], [어휘 및 어구], etc.
-  text = text.replace(/\s*\[해설\].*/, "");
-  text = text.replace(/\s*\[어휘\s*및\s*어구\].*/, "");
-  text = text.replace(/\s*\[어휘\].*/, "");
-  text = text.replace(/\s*\[Words\s*and\s*Phrases\].*/i, "");
-  text = text.replace(/\s*\[Words\].*/i, "");
-  text = text.replace(/\s*\[풀이\].*/, "");
-  text = text.replace(/\s*\[정답\].*/, "");
-  text = text.replace(/\s*\*\s*agenda.*/i, "");
-  text = text.replace(/\s*\*\s*tense.*/i, "");
+  text = text.replace(/\s*\[해설\].*/s, "");
+  text = text.replace(/\s*\[어휘\s*및\s*어구\].*/s, "");
+  text = text.replace(/\s*\[어휘\].*/s, "");
+  text = text.replace(/\s*\[Words\s*and\s*Phrases\].*/si, "");
+  text = text.replace(/\s*\[Words\].*/si, "");
+  text = text.replace(/\s*\[풀이\].*/s, "");
+  text = text.replace(/\s*\[정답\].*/s, "");
+  text = text.replace(/\s*\*\s*agenda.*/si, "");
+  text = text.replace(/\s*\*\s*tense.*/si, "");
 
   // Strip PDF page artifacts: "-- N of M --", exam headers
   text = text.replace(/\s*--\s*\d+\s*of\s*\d+\s*--\s*/g, "");
-  text = text.replace(/\d{4}학년도\s+\d+월\s+전국연합학력평가\s+정답\s*및\s*해설/g, "");
+  text = text.replace(/\d{4}학년도\s+\d+월\s+전국연합학력평가\s+정답\s*및\s*해설[^\n]*/g, "");
   text = text.replace(/고\s*\d+\s*\d+\s*\d+\s*/g, "");
 
   // Strip blank markers: (A), (B), (C) at start of text
   text = text.replace(/^\([A-Ea-e]\)\s*/, "");
   text = text.replace(/\s+\([A-Ea-e]\)\s+/g, " ");
 
+  text = text.replace(/([가-힣])\n+([가-힣])/g, "$1$2");
+  text = text.replace(/\n+/g, " ");
+  
   return text.replace(/\s+/g, " ").trim();
 }
 

@@ -4,9 +4,45 @@
   --font-sans: var(--font-geist-sans);
   --font-serif: var(--font-noto-serif);
   --font-mono: var(--font-geist-mono);
+  --color-primary: #3182f6;
+  --color-primary-light: #e8f3ff;
+  --color-primary-dark: #1a6fd6;
+  --color-surface: #ffffff;
+  --color-surface-raised: #f8f9fa;
+  --color-background: #f2f4f6;
+  --color-text-primary: #191f28;
+  --color-text-secondary: #4e5968;
+  --color-text-tertiary: #8b95a1;
+  --color-border: rgba(0, 27, 55, 0.1);
+  --color-border-light: rgba(0, 27, 55, 0.05);
 }
 
 body {
-  background: #fafafa;
-  color: #171717;
+  background: var(--color-background);
+  color: var(--color-text-primary);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background: var(--color-primary-light);
+  color: var(--color-primary-dark);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-text-tertiary);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-text-secondary);
 }
