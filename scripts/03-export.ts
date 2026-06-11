@@ -93,21 +93,25 @@ function koreanDescription(korean: string): string {
 // ─── Content cleaning ──────────────────────────────────────
 
 function stripAnswerChoices(paragraph: string): string {
-  const lines = paragraph.split("\n");
+  let lines = paragraph.split("\n");
   if (lines.length < 4) return paragraph;
+
+  const isPageMarker = (line: string) => /^\s*--\s*\d+\s*of\s*\d+\s*--\s*$/.test(line.trim());
+  lines = lines.filter((line) => !isPageMarker(line));
+
+  lines = lines.map((line) => line.replace(/\s*\(\s*[A-Za-z]?\s*\)\s*/g, " "));
 
   let tailStart = lines.length;
   for (let i = lines.length - 1; i >= 0; i--) {
     const trimmed = lines[i].trim();
     if (!trimmed) { tailStart = i; continue; }
     const words = trimmed.split(/\s+/).filter(Boolean);
-    // Answer choices: 2-7 words, no punctuation at end, starts lowercase
-    const isChoiceLine =
+    const isShortCapitalizedPhrase =
       words.length >= 2 &&
-      words.length <= 7 &&
+      words.length <= 10 &&
       !/[.!?]$/.test(trimmed) &&
-      /^[a-z]/.test(trimmed.charAt(0));
-    if (isChoiceLine) {
+      /^[A-Z]/.test(trimmed.charAt(0));
+    if (isShortCapitalizedPhrase) {
       tailStart = i;
     } else {
       break;
@@ -115,9 +119,15 @@ function stripAnswerChoices(paragraph: string): string {
   }
 
   if (tailStart < lines.length - 3) {
-    return lines.slice(0, tailStart).join("\n").trim();
+    lines = lines.slice(0, tailStart);
   }
-  return paragraph;
+
+  let result = lines.join("\n").trim();
+  result = result.replace(/\s*\[\d+\s*점\]\s*/g, " ");
+  result = result.replace(/\s*-\s*\([A-E]\)\s*-\s*\([A-E]\)(?:\s*\([A-E]\)\s*-\s*\([A-E]\))*\s*/g, " ");
+  result = result.replace(/\s{2,}/g, " ");
+
+  return result.trim();
 }
 
 function isGarbageParagraph(text: string): boolean {
