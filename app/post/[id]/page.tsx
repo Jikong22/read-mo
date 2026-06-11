@@ -1,4 +1,6 @@
 import { notFound } from "next/navigation";
+import type { Metadata } from "next";
+import Script from "next/script";
 import { posts } from "@/data/posts";
 import { generatedPosts } from "@/data/generated-posts";
 import TranslationToggle from "@/components/translation-toggle";
@@ -11,6 +13,27 @@ interface Props {
   params: Promise<{ id: string }>;
 }
 
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { id } = await params;
+  const post = allPosts.find((p) => p.id === id);
+  if (!post) return {};
+  return {
+    title: `${post.title} | Read:Mo`,
+    description: post.description,
+    openGraph: {
+      title: post.title,
+      description: post.description,
+      type: "article",
+      tags: post.tags,
+    },
+    twitter: {
+      card: "summary",
+      title: post.title,
+      description: post.description,
+    },
+  };
+}
+
 export default async function PostPage({ params }: Props) {
   const { id } = await params;
   const post = allPosts.find((p) => p.id === id);
@@ -19,6 +42,20 @@ export default async function PostPage({ params }: Props) {
 
   return (
     <main className="mx-auto w-full max-w-[42rem] px-4 py-8 md:px-6 md:py-12 lg:max-w-[48rem] xl:max-w-[56rem] xl:py-16">
+      <Script
+        id="json-ld-article"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Article",
+            headline: post.title,
+            description: post.description,
+            tags: post.tags,
+            articleBody: post.content.join("\n"),
+          }),
+        }}
+      />
       <BackButton />
 
       <article>

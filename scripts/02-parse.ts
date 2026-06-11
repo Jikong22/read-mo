@@ -139,6 +139,31 @@ function isInstructionLine(text: string): boolean {
   return INSTRUCTION_PATTERNS.some((pat) => pat.test(text));
 }
 
+function isScoreMarker(text: string): boolean {
+  return /\[\d+점\]/.test(text);
+}
+
+function isPageMarker(text: string): boolean {
+  if (/\d+\s+영어\s+영역/.test(text)) return true;
+  if (/^\d+\s+\d+$/.test(text)) return true;
+  if (/^━+$/.test(text)) return true;
+  return false;
+}
+
+function isOrderMarker(text: string): boolean {
+  return /\([A-C]\)\s*-\s*\([A-C]\)/.test(text);
+}
+
+function isOptionList(text: string): boolean {
+  const lines = text.split('\n').filter(l => l.trim());
+  if (lines.length < 2) return false;
+  const allShort = lines.every(line => {
+    const wordCount = line.trim().split(/\s+/).length;
+    return wordCount >= 1 && wordCount <= 3;
+  });
+  return allShort;
+}
+
 function extractEnglishPassage(text: string): string | null {
   const lines = text.split("\n");
   const englishLines: string[] = [];
@@ -157,7 +182,7 @@ function extractEnglishPassage(text: string): string | null {
     blankCount = 0;
     const cleaned = trimmed.replace(/[①②③④⑤]/g, "").trim();
     if (!cleaned) continue;
-    if (isInstructionLine(cleaned) || isBlankMarker(cleaned)) continue;
+    if (isInstructionLine(cleaned) || isBlankMarker(cleaned) || isScoreMarker(cleaned) || isPageMarker(cleaned) || isOrderMarker(cleaned)) continue;
     const firstReal = cleaned.replace(/\s/g, "").charAt(0);
     if (/[가-힣]/.test(firstReal)) {
       if (!started) continue;
@@ -179,7 +204,12 @@ function extractEnglishPassage(text: string): string | null {
   }
 
   if (englishLines.length === 0) return null;
-  return englishLines.map((s) => s.replace(/\s+/g, " ").trim()).join("\n").trim();
+  
+  const result = englishLines.map((s) => s.replace(/\s+/g, " ").trim()).join("\n").trim();
+  
+  if (isOptionList(result)) return null;
+  
+  return result;
 }
 
 interface ParsedResult {

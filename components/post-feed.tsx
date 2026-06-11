@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useCallback } from "react";
+import { useMemo, useCallback, useState } from "react";
 import { useSearchParams, useRouter, usePathname } from "next/navigation";
 import Link from "next/link";
 import type { Post } from "@/data/posts";
@@ -72,6 +72,7 @@ export default function PostFeed({ posts }: PostFeedProps) {
   const router = useRouter();
   const pathname = usePathname();
   const searchParams = useSearchParams();
+  const [searchQuery, setSearchQuery] = useState("");
 
   const activeTags = useMemo(() => {
     const tags = searchParams.get("tags");
@@ -103,15 +104,41 @@ export default function PostFeed({ posts }: PostFeedProps) {
   );
 
   const filteredPosts = useMemo(() => {
-    if (activeTags.size === 0) return posts;
-    return posts.filter((p) => activeTags.size === 0 || activeTags.size === 1
-      ? p.tags.some((t) => activeTags.has(t))
-      : Array.from(activeTags).every((tag) => p.tags.includes(tag))
-    );
-  }, [posts, activeTags]);
+    let result = posts;
+    if (activeTags.size > 0) {
+      result = result.filter((p) => activeTags.size === 1
+        ? p.tags.some((t) => activeTags.has(t))
+        : Array.from(activeTags).every((tag) => p.tags.includes(tag))
+      );
+    }
+    if (searchQuery.trim()) {
+      const query = searchQuery.toLowerCase().trim();
+      result = result.filter((p) =>
+        p.title.toLowerCase().includes(query) ||
+        p.description.toLowerCase().includes(query) ||
+        p.tags.some((t) => t.toLowerCase().includes(query))
+      );
+    }
+    return result;
+  }, [posts, activeTags, searchQuery]);
 
   return (
     <>
+      <div className="mb-4 md:mb-6">
+        <div className="relative">
+          <svg className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-[#8b95a1]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <circle cx="11" cy="11" r="8" strokeWidth="2"></circle>
+            <path d="M21 21l-4.35-4.35" strokeWidth="2" strokeLinecap="round"></path>
+          </svg>
+          <input
+            type="text"
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+            placeholder="지문 검색..."
+            className="w-full rounded-xl bg-white py-2.5 pl-10 pr-4 text-sm text-[#191f28] placeholder-[#8b95a1] shadow-[0_2px_8px_rgba(0,27,55,0.06)] ring-1 ring-[rgba(0,27,55,0.08)] transition-all focus:outline-none focus:ring-2 focus:ring-[#3182f6]/30 md:py-3 md:text-base"
+          />
+        </div>
+      </div>
       <TagFilter posts={posts} activeTags={activeTags} onTagClick={handleTagClick} />
 
       <div className="space-y-3 md:space-y-4">

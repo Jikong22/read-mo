@@ -1,5 +1,11 @@
+import type { Metadata } from "next";
 import ScrapList from "@/components/scrap-list";
 import BackButton from "@/components/back-button";
+
+export const metadata: Metadata = {
+  title: "내 서재 | Read:Mo",
+  description: "스크랩한 수능 영어 지문을 모아볼 수 있어요",
+};
 
 export default function ScrapPage() {
   return (
