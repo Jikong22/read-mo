@@ -14,10 +14,10 @@ export default function ScrapList() {
   if (scrapIds.length === 0) {
     return (
       <div className="py-16 text-center md:py-20" role="status">
-        <p className="text-base text-zinc-400 md:text-lg">아직 스크랩한 지문이 없어요</p>
+        <p className="text-base text-text-tertiary md:text-lg">아직 스크랩한 지문이 없어요</p>
         <Link
           href="/"
-          className="mt-4 inline-block text-sm text-zinc-500 underline underline-offset-4 hover:text-zinc-900"
+          className="mt-4 inline-block text-sm text-text-secondary underline underline-offset-4 hover:text-text-primary"
         >
           지문 둘러보기 →
         </Link>
@@ -30,7 +30,7 @@ export default function ScrapList() {
       {scrappedPosts.map((post) => (
         <div
           key={post.id}
-          className="group flex items-start gap-4 rounded-xl bg-white p-4 shadow-sm ring-1 ring-zinc-100 md:gap-6 md:rounded-2xl md:p-6"
+          className="group flex items-start gap-4 rounded-xl bg-surface p-4 shadow-sm ring-1 ring-border-light md:gap-6 md:rounded-2xl md:p-6"
           role="listitem"
         >
           <div className="flex-1 min-w-0">
@@ -40,23 +40,23 @@ export default function ScrapList() {
             >
               <div className="flex flex-wrap items-center gap-2 mb-2">
                 {post.examInfo && (
-                  <span className="inline-flex items-center rounded-md bg-zinc-100 px-2 py-0.5 text-xs font-medium text-zinc-500">
+                  <span className="inline-flex items-center rounded-md bg-surface-raised px-2 py-0.5 text-xs font-medium text-text-secondary">
                     {post.examInfo}
                   </span>
                 )}
                 {post.tags.slice(0, 2).map((tag) => (
                   <span
                     key={tag}
-                    className="text-xs font-medium text-zinc-400"
+                    className="text-xs font-medium text-text-tertiary"
                   >
                     {tag}
                   </span>
                 ))}
               </div>
-              <h3 className="font-semibold text-zinc-900 transition-colors group-hover:text-zinc-600 md:text-[17px]">
+              <h3 className="font-semibold text-text-primary transition-colors group-hover:text-text-secondary md:text-[17px]">
                 {post.title}
               </h3>
-              <p className="mt-1 text-[13px] leading-relaxed text-zinc-500 line-clamp-2 md:text-sm">
+              <p className="mt-1 text-[13px] leading-relaxed text-text-secondary line-clamp-2 md:text-sm">
                 {post.description}
               </p>
             </Link>
@@ -64,7 +64,7 @@ export default function ScrapList() {
           <button
             onClick={() => toggleScrap(post.id)}
             aria-label={`'${post.title}' 스크랩 취소`}
-            className="shrink-0 rounded-full p-1 text-zinc-300 transition-colors hover:text-red-400 cursor-pointer md:p-1.5"
+            className="shrink-0 rounded-full p-1 text-text-tertiary transition-colors hover:text-red-400 cursor-pointer md:p-1.5"
           >
             <svg
               width="16"

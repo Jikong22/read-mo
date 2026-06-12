@@ -16,7 +16,7 @@ export default function TranslationToggle({
 
   return (
     <div className="mb-8 md:mb-10">
-      <p className="leading-[1.75] text-[#191f28] md:leading-[1.8]">{english}</p>
+      <p className="leading-[1.75] text-text-primary md:leading-[1.8]">{english}</p>
       {hasTranslation && (
         <>
           <button
@@ -24,7 +24,7 @@ export default function TranslationToggle({
             aria-expanded={open}
             aria-controls={panelId}
             aria-labelledby={headingId}
-            className="mt-3 inline-flex items-center gap-1.5 rounded-lg bg-[#f8f9fa] px-2.5 py-1 text-xs font-medium text-[#4e5968] transition-all hover:bg-[#e8f3ff] hover:text-[#3182f6] md:px-3 md:py-1.5 md:text-sm"
+            className="mt-3 inline-flex items-center gap-1.5 rounded-lg bg-surface-raised px-2.5 py-1 text-xs font-medium text-text-secondary transition-all hover:bg-primary-light hover:text-primary md:px-3 md:py-1.5 md:text-sm"
           >
             <svg
               width="12"
@@ -50,8 +50,8 @@ export default function TranslationToggle({
               open ? "max-h-[1000px] opacity-100 mt-4" : "max-h-0 opacity-0"
             }`}
           >
-            <div className="rounded-xl bg-[#f8f9fa] p-4 border border-[rgba(0,27,55,0.06)] md:p-5">
-              <p className="text-[14px] leading-[1.75] text-[#4e5968] md:text-[15px] md:leading-[1.8]">{korean}</p>
+            <div className="rounded-xl bg-surface-raised p-4 border border-border-light md:p-5">
+              <p className="text-[14px] leading-[1.75] text-text-secondary md:text-[15px] md:leading-[1.8]">{korean}</p>
             </div>
           </div>
         </>
