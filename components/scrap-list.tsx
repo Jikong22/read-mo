@@ -13,7 +13,7 @@ export default function ScrapList() {
 
   if (scrapIds.length === 0) {
     return (
-      <div className="py-16 text-center md:py-20">
+      <div className="py-16 text-center md:py-20" role="status">
         <p className="text-base text-zinc-400 md:text-lg">아직 스크랩한 지문이 없어요</p>
         <Link
           href="/"
@@ -26,11 +26,12 @@ export default function ScrapList() {
   }
 
   return (
-    <div className="space-y-4 md:space-y-6">
+    <div className="space-y-4 md:space-y-6" role="list" aria-label="스크랩한 지문 목록">
       {scrappedPosts.map((post) => (
         <div
           key={post.id}
           className="group flex items-start gap-4 rounded-xl bg-white p-4 shadow-sm ring-1 ring-zinc-100 md:gap-6 md:rounded-2xl md:p-6"
+          role="listitem"
         >
           <div className="flex-1 min-w-0">
             <Link
@@ -62,8 +63,8 @@ export default function ScrapList() {
           </div>
           <button
             onClick={() => toggleScrap(post.id)}
+            aria-label={`'${post.title}' 스크랩 취소`}
             className="shrink-0 rounded-full p-1 text-zinc-300 transition-colors hover:text-red-400 cursor-pointer md:p-1.5"
-            title="스크랩 취소"
           >
             <svg
               width="16"
@@ -73,6 +74,7 @@ export default function ScrapList() {
               fill={isScrapped(post.id) ? "currentColor" : "none"}
               stroke="currentColor"
               strokeWidth="2"
+              aria-hidden="true"
             >
               <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" />
             </svg>

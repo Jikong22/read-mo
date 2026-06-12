@@ -10,7 +10,7 @@ export default function Home() {
     <main className="mx-auto w-full max-w-4xl px-4 py-8 md:px-6 md:py-10 lg:max-w-5xl xl:max-w-6xl xl:px-8 xl:py-12">
       <header className="mb-8 md:mb-10">
         <div className="flex items-center gap-2 mb-3">
-          <span className="inline-flex items-center rounded-full bg-[#e8f3ff] px-3 py-1 text-xs font-semibold text-[#3182f6] md:text-sm">
+          <span className="inline-flex items-center rounded-full bg-[#e8f3ff] px-3 py-1 text-xs font-semibold text-[#1565c0] md:text-sm">
             수능/모의고사
           </span>
           <span className="inline-flex items-center rounded-full bg-[#f2f4f6] px-3 py-1 text-xs font-semibold text-[#4e5968] md:text-sm">
