@@ -44,8 +44,6 @@ export const metadata: Metadata = {
 export const viewport: Viewport = {
   width: "device-width",
   initialScale: 1,
-  maximumScale: 1,
-  userScalable: false,
 };
 
 export default function RootLayout({
@@ -73,8 +71,11 @@ export default function RootLayout({
             }),
           }}
         />
+        <a href="#main-content" className="skip-to-content">
+          본문으로 바로가기
+        </a>
         <Nav />
-        {children}
+        <div id="main-content">{children}</div>
       </body>
     </html>
   );

@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function NotFound() {
   return (
     <main className="mx-auto flex min-h-[60vh] w-full max-w-4xl flex-col items-center justify-center px-4 py-20 text-center md:px-6">
-      <div className="mx-auto mb-6 flex h-20 w-20 items-center justify-center rounded-2xl bg-[#f8f9fa]">
+      <div className="mx-auto mb-6 flex h-20 w-20 items-center justify-center rounded-2xl bg-[#f8f9fa]" aria-hidden="true">
         <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#8b95a1" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
           <circle cx="11" cy="11" r="8"></circle>
           <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
@@ -19,7 +19,7 @@ export default function NotFound() {
         href="/"
         className="mt-8 inline-flex items-center gap-2 rounded-full bg-[#3182f6] px-5 py-2.5 text-sm font-semibold text-white shadow-sm shadow-[#3182f6]/20 transition-all hover:bg-[#1a6fd6]"
       >
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
           <line x1="19" y1="12" x2="5" y2="12"></line>
           <polyline points="12 19 5 12 12 5"></polyline>
         </svg>
