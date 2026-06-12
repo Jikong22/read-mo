@@ -46,3 +46,13 @@ search-result.png
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# project tooling
+.omo/
+.playwright-mcp/
+
+# temporary files
+lighthouse-*.json
+tmp-*.txt
+scripts/debug-*.ts
+scripts/test-*.ts
