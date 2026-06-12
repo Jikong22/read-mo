@@ -156,13 +156,16 @@ function estimateReadTime(paragraphs: string[]): string {
   return `${Math.max(1, Math.round(wordCount / 200))} min read`;
 }
 
-function parseExamInfo(exam: string): { grade: string; examInfo: string; questionNo?: number } {
+function parseExamInfo(exam: string, questionNo?: number): { grade: string; examInfo: string } {
   const parts = exam.split("/");
   const rawGrade = parts[0] || "";
   const rawDate = parts[1] || "";
   const grade = GRADE_MAP[rawGrade] || rawGrade;
   const [year, month] = rawDate.split("_");
-  const examInfo = `${grade} · ${year}년 ${month}월`;
+  let examInfo = `${grade} · ${year}년 ${month}월`;
+  if (questionNo) {
+    examInfo += ` · Q${questionNo}`;
+  }
   return { grade, examInfo };
 }
 
@@ -216,7 +219,7 @@ function main() {
     const translation = cleanedKorean ? [cleanedKorean] : [""];
 
     const baseId = p.exam.replace(/[/\\]/g, "_") + "_q" + p.questionNo;
-    const { grade, examInfo } = parseExamInfo(p.exam);
+    const { grade, examInfo } = parseExamInfo(p.exam, p.questionNo);
 
     return {
       id: baseId,
