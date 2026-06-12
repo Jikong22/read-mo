@@ -39,9 +39,9 @@ export default function TagFilter({ posts }: TagFilterProps) {
         <button
           onClick={() => router.push(createTagUrl(null), { scroll: false })}
           className={`rounded-full px-3.5 py-1.5 text-sm font-medium transition-colors cursor-pointer ${
-            !activeTag
-              ? "bg-zinc-900 text-white"
-              : "bg-zinc-100 text-zinc-600 hover:bg-zinc-200"
+!activeTag
+               ? "bg-primary-dark text-white"
+               : "bg-surface-raised text-text-secondary hover:bg-primary-light"
           }`}
         >
           전체
@@ -57,8 +57,8 @@ export default function TagFilter({ posts }: TagFilterProps) {
             }
             className={`rounded-full px-3.5 py-1.5 text-sm font-medium transition-colors cursor-pointer ${
               activeTag === tag
-                ? "bg-zinc-900 text-white"
-                : "bg-zinc-100 text-zinc-600 hover:bg-zinc-200"
+                ? "bg-primary-dark text-white"
+                : "bg-surface-raised text-text-secondary hover:bg-primary-light"
             }`}
           >
             {tag}
