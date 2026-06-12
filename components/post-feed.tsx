@@ -23,9 +23,9 @@ function TagButton({
       onClick={onClick}
       aria-pressed={active}
       className={`inline-flex items-center rounded-full px-3 py-1 text-xs font-medium transition-all md:px-3.5 md:py-1.5 md:text-sm ${
-        active
-          ? "bg-[#1565c0] text-white shadow-sm shadow-[#1565c0]/20"
-          : "bg-white text-[#4e5968] hover:bg-[#f8f9fa] ring-1 ring-[rgba(0,27,55,0.08)]"
+active
+           ? "bg-primary-dark text-white shadow-sm shadow-primary-dark/20"
+           : "bg-surface text-text-secondary hover:bg-surface-raised ring-1 ring-border-light"
       }`}
     >
       {tag ?? "전체"}
@@ -127,7 +127,7 @@ export default function PostFeed({ posts }: PostFeedProps) {
     <>
       <div className="mb-4 md:mb-6">
         <div className="relative">
-          <svg className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-[#8b95a1]" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+          <svg className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-text-tertiary" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
             <circle cx="11" cy="11" r="8" strokeWidth="2"></circle>
             <path d="M21 21l-4.35-4.35" strokeWidth="2" strokeLinecap="round"></path>
           </svg>
@@ -137,7 +137,7 @@ export default function PostFeed({ posts }: PostFeedProps) {
             onChange={(e) => setSearchQuery(e.target.value)}
             placeholder="지문 검색..."
             aria-label="지문 검색"
-            className="w-full rounded-xl bg-white py-2.5 pl-10 pr-4 text-sm text-[#191f28] placeholder-[#8b95a1] shadow-[0_2px_8px_rgba(0,27,55,0.06)] ring-1 ring-[rgba(0,27,55,0.08)] transition-all focus:outline-none focus:ring-2 focus:ring-[#3182f6]/30 md:py-3 md:text-base"
+            className="w-full rounded-xl bg-surface py-2.5 pl-10 pr-4 text-sm text-text-primary placeholder-text-tertiary shadow-[0_2px_8px_var(--shadow-color)] ring-1 ring-border-light transition-all focus:outline-none focus:ring-2 focus:ring-primary/30 md:py-3 md:text-base"
           />
         </div>
       </div>
@@ -148,13 +148,13 @@ export default function PostFeed({ posts }: PostFeedProps) {
           <Link
             key={post.id}
             href={`/post/${post.id}`}
-            className="group block rounded-xl bg-white p-4 shadow-[0_2px_8px_rgba(0,27,55,0.06)] ring-1 ring-[rgba(0,27,55,0.08)] transition-all duration-300 hover:shadow-[0_8px_24px_rgba(0,27,55,0.12)] hover:ring-[rgba(0,27,55,0.12)] hover:-translate-y-0.5 md:rounded-2xl md:p-6"
+            className="group block rounded-xl bg-surface p-4 shadow-[0_2px_8px_var(--shadow-color)] ring-1 ring-border-light transition-all duration-300 hover:shadow-[0_8px_24px_var(--shadow-color-hover)] hover:ring-border hover:-translate-y-0.5 md:rounded-2xl md:p-6"
             role="listitem"
           >
             <article>
               <div className="flex flex-wrap items-center gap-2 mb-3">
                 {post.examInfo && (
-                  <span className="inline-flex items-center rounded-lg bg-[#f2f4f6] px-2.5 py-1 text-xs font-semibold text-[#4e5968] md:px-3">
+                  <span className="inline-flex items-center rounded-lg bg-background px-2.5 py-1 text-xs font-semibold text-text-secondary md:px-3">
                     {post.examInfo}
                   </span>
                 )}
@@ -162,27 +162,27 @@ export default function PostFeed({ posts }: PostFeedProps) {
                   <span
                     key={tag}
                     className={`inline-flex items-center rounded-full px-2 py-0.5 text-xs font-medium ${
-                      activeTags.has(tag)
-                        ? "bg-[#e8f3ff] text-[#3182f6]"
-                        : "bg-[#f8f9fa] text-[#5f6b7a]"
+activeTags.has(tag)
+                         ? "bg-primary-light text-primary"
+                         : "bg-surface-raised text-text-secondary"
                     }`}
                   >
                     {tag}
                   </span>
                 ))}
                 {post.tags.length > 3 && (
-                  <span className="text-xs text-[#5f6b7a]">
+                  <span className="text-xs text-text-secondary">
                     +{post.tags.length - 3}
                   </span>
                 )}
               </div>
-              <h2 className="text-base font-bold tracking-tight text-[#191f28] transition-colors group-hover:text-[#3182f6] md:text-lg lg:text-xl">
+              <h2 className="text-base font-bold tracking-tight text-text-primary transition-colors group-hover:text-primary md:text-lg lg:text-xl">
                 {post.title}
               </h2>
-              <p className="mt-2 leading-relaxed text-[#4e5968] text-[14px] line-clamp-2 md:text-[15px]">
+              <p className="mt-2 leading-relaxed text-text-secondary text-[14px] line-clamp-2 md:text-[15px]">
                 {post.description}
               </p>
-              <div className="mt-4 flex items-center gap-3 text-xs text-[#5f6b7a] md:text-sm">
+              <div className="mt-4 flex items-center gap-3 text-xs text-text-secondary md:text-sm">
                 <span className="inline-flex items-center gap-1">
                   <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
                     <circle cx="12" cy="12" r="10"></circle>
@@ -190,8 +190,8 @@ export default function PostFeed({ posts }: PostFeedProps) {
                   </svg>
                   {post.readTime}
                 </span>
-                <span className="text-[#d1d6db]">·</span>
-                <span className="inline-flex items-center gap-1 font-medium text-[#3182f6] opacity-0 transition-opacity group-hover:opacity-100">
+                <span className="text-border-light">·</span>
+                <span className="inline-flex items-center gap-1 font-medium text-primary opacity-0 transition-opacity group-hover:opacity-100">
                   읽기
                   <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
                     <line x1="5" y1="12" x2="19" y2="12"></line>
@@ -206,19 +206,19 @@ export default function PostFeed({ posts }: PostFeedProps) {
 
       {filteredPosts.length === 0 && (
         <div className="py-16 text-center md:py-20">
-          <div className="mx-auto mb-4 flex h-14 w-14 items-center justify-center rounded-2xl bg-[#f8f9fa] md:h-16 md:w-16">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#8b95a1" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="md:w-7 md:h-7" aria-hidden="true">
+          <div className="mx-auto mb-4 flex h-14 w-14 items-center justify-center rounded-2xl bg-surface-raised md:h-16 md:w-16">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-text-tertiary md:w-7 md:h-7" aria-hidden="true">
               <circle cx="11" cy="11" r="8"></circle>
               <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
             </svg>
           </div>
-          <p className="text-base font-medium text-[#4e5968] md:text-lg">
+          <p className="text-base font-medium text-text-secondary md:text-lg">
             선택한 태그의 지문이 없어요
           </p>
           <button
             onClick={() => handleTagClick(null)}
             aria-label="태그 필터 초기화"
-            className="mt-4 inline-flex items-center gap-1 text-sm font-medium text-[#3182f6] hover:underline md:text-base"
+            className="mt-4 inline-flex items-center gap-1 text-sm font-medium text-primary hover:underline md:text-base"
           >
             전체 보기
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
