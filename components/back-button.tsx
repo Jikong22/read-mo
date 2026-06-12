@@ -9,7 +9,7 @@ export default function BackButton() {
     <button
       onClick={() => router.back()}
       aria-label="이전 페이지로 돌아가기"
-      className="mb-6 inline-flex items-center gap-1.5 rounded-full bg-[#f8f9fa] px-3 py-1.5 text-xs font-medium text-[#4e5968] transition-all hover:bg-[#e8f3ff] hover:text-[#3182f6] md:mb-8 md:gap-2 md:px-3.5 md:py-2 md:text-sm"
+      className="mb-6 inline-flex items-center gap-1.5 rounded-full bg-surface-raised px-3 py-1.5 text-xs font-medium text-text-secondary transition-all hover:bg-primary-light hover:text-primary md:mb-8 md:gap-2 md:px-3.5 md:py-2 md:text-sm"
     >
       <svg
         width="14"

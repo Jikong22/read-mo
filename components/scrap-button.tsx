@@ -13,8 +13,8 @@ export default function ScrapButton({ postId }: { postId: string }) {
       aria-label={scrapped ? "스크랩 취소" : "스크랩"}
       className={`inline-flex items-center gap-1.5 rounded-full px-3 py-1.5 text-xs font-semibold transition-all md:px-4 md:py-2 md:text-sm ${
         scrapped
-          ? "bg-[#3182f6] text-white shadow-sm shadow-[#3182f6]/20 hover:bg-[#1a6fd6]"
-          : "bg-[#f8f9fa] text-[#4e5968] hover:bg-[#e8f3ff] hover:text-[#3182f6]"
+          ? "bg-primary text-white shadow-sm shadow-primary/20 hover:bg-primary-dark"
+          : "bg-surface-raised text-text-secondary hover:bg-primary-light hover:text-primary"
       }`}
     >
       <svg
